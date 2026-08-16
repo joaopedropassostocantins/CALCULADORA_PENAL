@@ -15,6 +15,10 @@ A interface oferece uma simulação aritmética por fases, busca no catálogo de
 | Confirmação de pagamento via webhook verificador | Implementada; persistência de créditos ainda pendente |
 | Liberação de créditos persistentes | Próxima etapa recomendada |
 
+## Documentação de pesquisa
+
+O diretório `docs/` reúne os estudos, dados e o prompt técnico produzidos na investigação sobre a hiperinflação legislativa penal e o encarceramento no Brasil. Inclui a nota técnica do cenário contrafactual do auxílio-reclusão ("e se as regras de 2019 não tivessem mudado?"), os estudos correlacionais completos, os gráficos em alta resolução e o prompt para catalogação nacional de tipos penais vigentes em um projeto do Claude. Ver `docs/README.md`.
+
 ## Verificação realizada
 
 Em 15/08/2026, a interface local foi revisada com êxito. A página exibiu a simulação paramétrica, **88 normas catalogadas**, 15 súmulas vinculantes, 25 súmulas STF/STJ e 12 precedentes vinculantes importados da planilha fornecida. O endpoint de checkout permanece propositalmente indisponível até a inclusão de uma credencial privada válida do Mercado Pago.
