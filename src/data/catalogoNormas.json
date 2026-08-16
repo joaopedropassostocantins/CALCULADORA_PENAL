@@ -1,0 +1,887 @@
+{
+  "norms": [
+    {
+      "block": "1 Codificações e diplomas estruturantes",
+      "norm": "Decreto-Lei nº 1.001/1969",
+      "subject": "Código Penal Militar",
+      "nature": "M",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del1001compilado.htm"
+    },
+    {
+      "block": "1 Codificações e diplomas estruturantes",
+      "norm": "Decreto-Lei nº 1.002/1969",
+      "subject": "Código de Processo Penal Militar",
+      "nature": "P",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del1002compilado.htm"
+    },
+    {
+      "block": "1 Codificações e diplomas estruturantes",
+      "norm": "Decreto-Lei nº 2.848/1940",
+      "subject": "Código Penal",
+      "nature": "M",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    },
+    {
+      "block": "1 Codificações e diplomas estruturantes",
+      "norm": "Decreto-Lei nº 3.688/1941",
+      "subject": "Lei das Contravenções Penais",
+      "nature": "M",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm"
+    },
+    {
+      "block": "1 Codificações e diplomas estruturantes",
+      "norm": "Decreto-Lei nº 3.689/1941",
+      "subject": "Código de Processo Penal",
+      "nature": "P",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+    },
+    {
+      "block": "1 Codificações e diplomas estruturantes",
+      "norm": "Decreto-Lei nº 3.914/1941",
+      "subject": "Lei de Introdução ao Código Penal e à Lei das Contravenções Penais; conceito legal de crime e de contravenção",
+      "nature": "M",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3914.htm"
+    },
+    {
+      "block": "1 Codificações e diplomas estruturantes",
+      "norm": "Decreto-Lei nº 3.931/1941",
+      "subject": "Lei de Introdução ao Código de Processo Penal; direito intertemporal processual",
+      "nature": "P",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3931.htm"
+    },
+    {
+      "block": "1 Codificações e diplomas estruturantes",
+      "norm": "Lei nº 7.210/1984",
+      "subject": "Lei de Execução Penal",
+      "nature": "MP",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7210.htm"
+    },
+    {
+      "block": "2 Núcleo da legislação penal especial",
+      "norm": "Lei nº 10.826/2003",
+      "subject": "Estatuto do Desarmamento; posse, porte, comércio e tráfico de armas de fogo",
+      "nature": "MP",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826.htm"
+    },
+    {
+      "block": "2 Núcleo da legislação penal especial",
+      "norm": "Lei nº 11.340/2006",
+      "subject": "Lei Maria da Penha; violência doméstica e familiar contra a mulher",
+      "nature": "MP",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm"
+    },
+    {
+      "block": "2 Núcleo da legislação penal especial",
+      "norm": "Lei nº 11.343/2006",
+      "subject": "Sistema Nacional de Políticas Públicas sobre Drogas; crimes e procedimento",
+      "nature": "MP",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm"
+    },
+    {
+      "block": "2 Núcleo da legislação penal especial",
+      "norm": "Lei nº 12.850/2013",
+      "subject": "Organizações criminosas; meios de obtenção de prova; colaboração premiada",
+      "nature": "MP",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm"
+    },
+    {
+      "block": "2 Núcleo da legislação penal especial",
+      "norm": "Lei nº 13.260/2016",
+      "subject": "Terrorismo; disposições investigatórias e processuais",
+      "nature": "MP",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13260.htm"
+    },
+    {
+      "block": "2 Núcleo da legislação penal especial",
+      "norm": "Lei nº 13.869/2019",
+      "subject": "Crimes de abuso de autoridade",
+      "nature": "MP",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/L13869.htm"
+    },
+    {
+      "block": "2 Núcleo da legislação penal especial",
+      "norm": "Lei nº 15.358/2026",
+      "subject": "Marco Legal do Combate ao Crime Organizado; domínio social estruturado; ação civil de perdimento",
+      "nature": "MP",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15358.htm"
+    },
+    {
+      "block": "2 Núcleo da legislação penal especial",
+      "norm": "Lei nº 2.889/1956",
+      "subject": "Crime de genocídio",
+      "nature": "M",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l2889.htm"
+    },
+    {
+      "block": "2 Núcleo da legislação penal especial",
+      "norm": "Lei nº 7.716/1989",
+      "subject": "Crimes de preconceito de raça, cor, etnia, religião ou procedência nacional; injúria racial equiparada (Lei nº 14.532/2023)",
+      "nature": "M",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7716.htm"
+    },
+    {
+      "block": "2 Núcleo da legislação penal especial",
+      "norm": "Lei nº 8.069/1990",
+      "subject": "Estatuto da Criança e do Adolescente; crimes e ato infracional",
+      "nature": "MP",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8069compilado.htm"
+    },
+    {
+      "block": "2 Núcleo da legislação penal especial",
+      "norm": "Lei nº 8.072/1990",
+      "subject": "Crimes hediondos",
+      "nature": "MP",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8072compilada.htm"
+    },
+    {
+      "block": "2 Núcleo da legislação penal especial",
+      "norm": "Lei nº 9.455/1997",
+      "subject": "Crimes de tortura",
+      "nature": "MP",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9455.htm"
+    },
+    {
+      "block": "2 Núcleo da legislação penal especial",
+      "norm": "Lei nº 9.503/1997",
+      "subject": "Código de Trânsito Brasileiro; crimes de trânsito",
+      "nature": "MP",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+    },
+    {
+      "block": "2 Núcleo da legislação penal especial",
+      "norm": "Lei nº 9.605/1998",
+      "subject": "Crimes ambientais",
+      "nature": "MP",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm"
+    },
+    {
+      "block": "2 Núcleo da legislação penal especial",
+      "norm": "Lei nº 9.613/1998",
+      "subject": "Lavagem ou ocultação de bens, direitos e valores; Coaf",
+      "nature": "MP",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9613compilado.htm"
+    },
+    {
+      "block": "3 Penal econômico, tributário e empresarial",
+      "norm": "Lei nº 1.521/1951",
+      "subject": "Crimes contra a economia popular",
+      "nature": "MP",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l1521.htm"
+    },
+    {
+      "block": "3 Penal econômico, tributário e empresarial",
+      "norm": "Lei nº 11.101/2005",
+      "subject": "Recuperação judicial e falência; crimes falimentares e respectivo procedimento",
+      "nature": "MP",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm"
+    },
+    {
+      "block": "3 Penal econômico, tributário e empresarial",
+      "norm": "Lei nº 12.846/2013",
+      "subject": "Responsabilização administrativa e civil de pessoas jurídicas; acordo de leniência com reflexos penais",
+      "nature": "P",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm"
+    },
+    {
+      "block": "3 Penal econômico, tributário e empresarial",
+      "norm": "Lei nº 13.810/2019",
+      "subject": "Indisponibilidade de ativos por resoluções do Conselho de Segurança da ONU; financiamento do terrorismo",
+      "nature": "P",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/L13810.htm"
+    },
+    {
+      "block": "3 Penal econômico, tributário e empresarial",
+      "norm": "Lei nº 14.478/2022",
+      "subject": "Prestadoras de serviços de ativos virtuais; crime de fraude com criptoativos (art. 171-A do CP)",
+      "nature": "M",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2022-2026/2022/lei/L14478.htm"
+    },
+    {
+      "block": "3 Penal econômico, tributário e empresarial",
+      "norm": "Lei nº 4.729/1965",
+      "subject": "Sonegação fiscal; dispositivos remanescentes",
+      "nature": "M",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/1950-1969/l4729.htm"
+    },
+    {
+      "block": "3 Penal econômico, tributário e empresarial",
+      "norm": "Lei nº 7.492/1986",
+      "subject": "Crimes contra o sistema financeiro nacional",
+      "nature": "MP",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7492.htm"
+    },
+    {
+      "block": "3 Penal econômico, tributário e empresarial",
+      "norm": "Lei nº 8.078/1990",
+      "subject": "Código de Defesa do Consumidor; infrações penais (arts. 61 a 80)",
+      "nature": "MP",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+    },
+    {
+      "block": "3 Penal econômico, tributário e empresarial",
+      "norm": "Lei nº 8.137/1990",
+      "subject": "Crimes contra a ordem tributária, econômica e as relações de consumo",
+      "nature": "M",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8137.htm"
+    },
+    {
+      "block": "3 Penal econômico, tributário e empresarial",
+      "norm": "Lei nº 8.176/1991",
+      "subject": "Crimes contra a ordem econômica; combustíveis e recursos minerais",
+      "nature": "M",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8176.htm"
+    },
+    {
+      "block": "3 Penal econômico, tributário e empresarial",
+      "norm": "Lei nº 9.279/1996",
+      "subject": "Propriedade industrial; crimes e ação penal privada",
+      "nature": "MP",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9279.htm"
+    },
+    {
+      "block": "4 Estatutos protetivos e legislação setorial",
+      "norm": "Lei nº 10.671/2003",
+      "subject": "Estatuto de Defesa do Torcedor; crimes (arts. 41-B a 41-G)",
+      "nature": "MP",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671.htm"
+    },
+    {
+      "block": "4 Estatutos protetivos e legislação setorial",
+      "norm": "Lei nº 10.741/2003",
+      "subject": "Estatuto da Pessoa Idosa; crimes (arts. 93 a 108) e procedimento",
+      "nature": "MP",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm"
+    },
+    {
+      "block": "4 Estatutos protetivos e legislação setorial",
+      "norm": "Lei nº 11.105/2005",
+      "subject": "Biossegurança; crimes (arts. 24 a 29)",
+      "nature": "M",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11105.htm"
+    },
+    {
+      "block": "4 Estatutos protetivos e legislação setorial",
+      "norm": "Lei nº 12.984/2014",
+      "subject": "Discriminação contra portadores de HIV e doentes de aids",
+      "nature": "M",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12984.htm"
+    },
+    {
+      "block": "4 Estatutos protetivos e legislação setorial",
+      "norm": "Lei nº 13.146/2015",
+      "subject": "Estatuto da Pessoa com Deficiência; crimes (arts. 88 a 91)",
+      "nature": "M",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm"
+    },
+    {
+      "block": "4 Estatutos protetivos e legislação setorial",
+      "norm": "Lei nº 13.445/2017",
+      "subject": "Lei de Migraçao; extradição, expulsão, transferência de pessoas condenadas e cooperaçao penal",
+      "nature": "MP",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm"
+    },
+    {
+      "block": "4 Estatutos protetivos e legislação setorial",
+      "norm": "Lei nº 14.344/2022",
+      "subject": "Lei Henry Borel; violência doméstica e familiar contra crianca e adolescente; medidas protetivas",
+      "nature": "MP",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2022-2026/2022/lei/L14344.htm"
+    },
+    {
+      "block": "4 Estatutos protetivos e legislação setorial",
+      "norm": "Lei nº 6.001/1973",
+      "subject": "Estatuto do Índio; crimes contra indígenas (arts. 58 e 59)",
+      "nature": "M",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm"
+    },
+    {
+      "block": "4 Estatutos protetivos e legislação setorial",
+      "norm": "Lei nº 6.453/1977",
+      "subject": "Responsabilidade por danos nucleares; crimes (arts. 20 a 27)",
+      "nature": "M",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l6453.htm"
+    },
+    {
+      "block": "4 Estatutos protetivos e legislação setorial",
+      "norm": "Lei nº 6.766/1979",
+      "subject": "Parcelamento do solo urbano; crimes (arts. 50 a 52)",
+      "nature": "M",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l6766.htm"
+    },
+    {
+      "block": "4 Estatutos protetivos e legislação setorial",
+      "norm": "Lei nº 7.802/1989",
+      "subject": "Agrotóxicos; crimes (arts. 15 e 16)",
+      "nature": "M",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7802.htm"
+    },
+    {
+      "block": "4 Estatutos protetivos e legislação setorial",
+      "norm": "Lei nº 7.853/1989",
+      "subject": "Apoio a pessoas com deficiência; crime do art. 8.",
+      "nature": "M",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7853.htm"
+    },
+    {
+      "block": "4 Estatutos protetivos e legislação setorial",
+      "norm": "Lei nº 9.029/1995",
+      "subject": "Práticas discriminatórias no acesso e na manutenção da relação de emprego; crime do art. 2.",
+      "nature": "M",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9029.htm"
+    },
+    {
+      "block": "4 Estatutos protetivos e legislação setorial",
+      "norm": "Lei nº 9.263/1996",
+      "subject": "Planejamento familiar; crimes de esterilização irregular",
+      "nature": "M",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9263.htm"
+    },
+    {
+      "block": "4 Estatutos protetivos e legislação setorial",
+      "norm": "Lei nº 9.434/1997",
+      "subject": "Remoção de órgãos, tecidos e partes do corpo humano; crimes (arts. 14 a 20)",
+      "nature": "M",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9434.htm"
+    },
+    {
+      "block": "4 Estatutos protetivos e legislação setorial",
+      "norm": "Lei nº 9.472/1997",
+      "subject": "Servicos de telecomunicações; crime de desenvolvimento clandestino (art. 183)",
+      "nature": "M",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9472.htm"
+    },
+    {
+      "block": "5 Penal eleitoral e crimes de responsabilidade",
+      "norm": "Decreto-Lei nº 201/1967",
+      "subject": "Crimes de responsabilidade de prefeitos e vereadores; crimes próprios de natureza penal (art. 1.)",
+      "nature": "MP",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm"
+    },
+    {
+      "block": "5 Penal eleitoral e crimes de responsabilidade",
+      "norm": "Lei nº 1.079/1950",
+      "subject": "Crimes de responsabilidade; processo e julgamento",
+      "nature": "P",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l1079.htm"
+    },
+    {
+      "block": "5 Penal eleitoral e crimes de responsabilidade",
+      "norm": "Lei nº 4.737/1965",
+      "subject": "Código Eleitoral; crimes eleitorais e processo penal eleitoral (arts. 283 a 364)",
+      "nature": "MP",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm"
+    },
+    {
+      "block": "5 Penal eleitoral e crimes de responsabilidade",
+      "norm": "Lei nº 6.091/1974",
+      "subject": "Transporte e alimentação de eleitores; crimes eleitorais",
+      "nature": "M",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm"
+    },
+    {
+      "block": "5 Penal eleitoral e crimes de responsabilidade",
+      "norm": "Lei nº 8.429/1992",
+      "subject": "Improbidade administrativa; interface com a persecução penal",
+      "nature": "P",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8429.htm"
+    },
+    {
+      "block": "5 Penal eleitoral e crimes de responsabilidade",
+      "norm": "Lei nº 9.504/1997",
+      "subject": "Normas para as eleições; tipos penais eleitorais esparsos",
+      "nature": "M",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9504.htm"
+    },
+    {
+      "block": "6 Processo penal, investigação e execução",
+      "norm": "Lei Complementar nº 75/1993",
+      "subject": "Estatuto do Ministério Público da União; poder investigatório criminal",
+      "nature": "P",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp75.htm"
+    },
+    {
+      "block": "6 Processo penal, investigação e execução",
+      "norm": "Lei nº 10.259/2001",
+      "subject": "Juizados Especiais Federais; competência criminal e infrações de menor potencial ofensivo",
+      "nature": "P",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm"
+    },
+    {
+      "block": "6 Processo penal, investigação e execução",
+      "norm": "Lei nº 10.446/2002",
+      "subject": "Atribuição investigativa da Polícia Federal em infrações de repercussão interestadual",
+      "nature": "P",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10446.htm"
+    },
+    {
+      "block": "6 Processo penal, investigação e execução",
+      "norm": "Lei nº 11.671/2008",
+      "subject": "Transferência e inclusao de presos em estabelecimentos penais federais de segurança máxima",
+      "nature": "P",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11671.htm"
+    },
+    {
+      "block": "6 Processo penal, investigação e execução",
+      "norm": "Lei nº 12.037/2009",
+      "subject": "Identificação criminal do civilmente identificado; identificação pelo perfil genético",
+      "nature": "P",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12037.htm"
+    },
+    {
+      "block": "6 Processo penal, investigação e execução",
+      "norm": "Lei nº 12.654/2012",
+      "subject": "Coleta de perfil genético como forma de identificação criminal",
+      "nature": "P",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12654.htm"
+    },
+    {
+      "block": "6 Processo penal, investigação e execução",
+      "norm": "Lei nº 12.694/2012",
+      "subject": "Julgamento colegiado em primeiro grau nos crimes de organização criminosa",
+      "nature": "P",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12694.htm"
+    },
+    {
+      "block": "6 Processo penal, investigação e execução",
+      "norm": "Lei nº 12.830/2013",
+      "subject": "Investigação criminal conduzida pelo delegado de polícia",
+      "nature": "P",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12830.htm"
+    },
+    {
+      "block": "6 Processo penal, investigação e execução",
+      "norm": "Lei nº 13.431/2017",
+      "subject": "Escuta especializada e depoimento especial de criancas e adolescentes vítimas ou testemunhas",
+      "nature": "P",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13431.htm"
+    },
+    {
+      "block": "6 Processo penal, investigação e execução",
+      "norm": "Lei nº 13.964/2019",
+      "subject": "Pacote Anticrime; juiz das garantias, acordo de nao persecução penal, cadeia de custódia",
+      "nature": "MP",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/L13964.htm"
+    },
+    {
+      "block": "6 Processo penal, investigação e execução",
+      "norm": "Lei nº 15.407/2026",
+      "subject": "Presídios federais de segurança máxima e regime disciplinar diferenciado",
+      "nature": "P",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15407.htm"
+    },
+    {
+      "block": "6 Processo penal, investigação e execução",
+      "norm": "Lei nº 7.960/1989",
+      "subject": "Prisão temporária",
+      "nature": "P",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7960.htm"
+    },
+    {
+      "block": "6 Processo penal, investigação e execução",
+      "norm": "Lei nº 8.038/1990",
+      "subject": "Procedimentos nas ações penais originárias do STF e do STJ",
+      "nature": "P",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm"
+    },
+    {
+      "block": "6 Processo penal, investigação e execução",
+      "norm": "Lei nº 8.625/1993",
+      "subject": "Lei Orgânica Nacional do Ministério Público; atribuições criminais",
+      "nature": "P",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8625.htm"
+    },
+    {
+      "block": "6 Processo penal, investigação e execução",
+      "norm": "Lei nº 8.658/1993",
+      "subject": "Extensão do rito da Lei nº 8.038/1990 aos tribunais de segundo grau",
+      "nature": "P",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8658.htm"
+    },
+    {
+      "block": "6 Processo penal, investigação e execução",
+      "norm": "Lei nº 8.906/1994",
+      "subject": "Estatuto da Advocacia; prerrogativas do defensor no inquérito (art. 7., XIV e XXI)",
+      "nature": "P",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm"
+    },
+    {
+      "block": "6 Processo penal, investigação e execução",
+      "norm": "Lei nº 9.296/1996",
+      "subject": "Interceptação de comunicações telefônicas e de sistemas de informática; crime do art. 10",
+      "nature": "MP",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9296.htm"
+    },
+    {
+      "block": "6 Processo penal, investigação e execução",
+      "norm": "Lei nº 9.807/1999",
+      "subject": "Proteção a vítimas e testemunhas ameaçadas; delação premiada",
+      "nature": "P",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9807.htm"
+    },
+    {
+      "block": "7 Penal e processual penal militar",
+      "norm": "Lei nº 13.491/2017",
+      "subject": "Ampliação do conceito de crime militar por extensão",
+      "nature": "MP",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13491.htm"
+    },
+    {
+      "block": "7 Penal e processual penal militar",
+      "norm": "Lei nº 14.688/2023",
+      "subject": "Alterações no Código Penal Militar e no Código de Processo Penal Militar",
+      "nature": "MP",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14688.htm"
+    },
+    {
+      "block": "7 Penal e processual penal militar",
+      "norm": "Lei nº 6.880/1980",
+      "subject": "Estatuto dos Militares; interface disciplinar e penal militar",
+      "nature": "P",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l6880.htm"
+    },
+    {
+      "block": "7 Penal e processual penal militar",
+      "norm": "Lei nº 8.457/1992",
+      "subject": "Organização da Justiça Militar da União; conselhos de justiça",
+      "nature": "P",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8457.htm"
+    },
+    {
+      "block": "8 Normas convencionais internalizadas",
+      "norm": "Decreto nº 4.388/2002",
+      "subject": "Estatuto de Roma do Tribunal Penal Internacional",
+      "nature": "MP",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/decreto/2002/d4388.htm"
+    },
+    {
+      "block": "8 Normas convencionais internalizadas",
+      "norm": "Decreto nº 40/1991",
+      "subject": "Convenção contra a Tortura e outros Tratamentos ou Penas Cruéis, Desumanos ou Degradantes",
+      "nature": "M",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/decreto/1990-1994/d0040.htm"
+    },
+    {
+      "block": "8 Normas convencionais internalizadas",
+      "norm": "Decreto nº 5.015/2004",
+      "subject": "Convenção de Palermo contra o crime organizado transnacional",
+      "nature": "MP",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/decreto/d5015.htm"
+    },
+    {
+      "block": "8 Normas convencionais internalizadas",
+      "norm": "Decreto nº 5.687/2006",
+      "subject": "Convenção de Mérida contra a corrupção",
+      "nature": "MP",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/decreto/d5687.htm"
+    },
+    {
+      "block": "8 Normas convencionais internalizadas",
+      "norm": "Decreto nº 678/1992",
+      "subject": "Convenção Americana sobre Direitos Humanos; garantias judiciais penais",
+      "nature": "P",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/decreto/d0678.htm"
+    },
+    {
+      "block": "8 Normas convencionais internalizadas",
+      "norm": "Decreto nº 9.199/2017",
+      "subject": "Regulamento da Lei de Migraçao; procedimento de extradição",
+      "nature": "P",
+      "officialUrl": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/d9199.htm"
+    },
+    {
+      "block": "9 Atos infralegais do CNJ",
+      "norm": "Resolução CNJ nº 213/2015",
+      "subject": "Audiência de custódia; apresentação do preso em ate 24 horas",
+      "nature": "P",
+      "officialUrl": "https://atos.cnj.jus.br/atos/detalhar/2234"
+    },
+    {
+      "block": "9 Atos infralegais do CNJ",
+      "norm": "Resolução CNJ nº 329/2020",
+      "subject": "Videoconferência no processo penal e de execução penal",
+      "nature": "P",
+      "officialUrl": "https://atos.cnj.jus.br/atos/detalhar/3400"
+    },
+    {
+      "block": "9 Atos infralegais do CNJ",
+      "norm": "Resolução CNJ nº 484/2023",
+      "subject": "Cadeia de custódia da prova penal",
+      "nature": "P",
+      "officialUrl": "https://atos.cnj.jus.br/atos/detalhar/4574"
+    },
+    {
+      "block": "9 Atos infralegais do CNJ",
+      "norm": "Resolução CNJ nº 487/2023",
+      "subject": "Política antimanicomial do Poder Judiciário; medidas de segurança",
+      "nature": "P",
+      "officialUrl": "https://atos.cnj.jus.br/atos/detalhar/4589"
+    }
+  ],
+  "bindingStatements": [
+    {
+      "enunciado": "SV 5",
+      "teor": "A falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição.",
+      "incidencia": "Apuração de faltas disciplinares na execução penal."
+    },
+    {
+      "enunciado": "SV 9",
+      "teor": "O art. 127 da Lei nº 7.210/1984 foi recebido pela ordem constitucional vigente, não se lhe aplicando o limite temporal do art. 58.",
+      "incidencia": "Perda de dias remidos por falta grave."
+    },
+    {
+      "enunciado": "SV 11",
+      "teor": "Só é lícito o uso de algemas em caso de resistência, fundado receio de fuga ou perigo à integridade física, com justificação escrita, sob pena de nulidade e responsabilização.",
+      "incidencia": "Prisão em flagrante, condução e audiências."
+    },
+    {
+      "enunciado": "SV 14",
+      "teor": "É direito do defensor acessar amplamente os elementos de prova já documentados em procedimento investigatório que digam respeito ao exercício do direito de defesa.",
+      "incidencia": "Acesso aos autos do inquérito policial."
+    },
+    {
+      "enunciado": "SV 24",
+      "teor": "Não se tipifica crime material contra a ordem tributária, previsto no art. 1º, I a IV, da Lei nº 8.137/1990, antes do lançamento definitivo do tributo.",
+      "incidencia": "Condição de punibilidade nos crimes tributários."
+    },
+    {
+      "enunciado": "SV 25",
+      "teor": "É ilícita a prisão civil de depositário infiel, qualquer que seja a modalidade do depósito.",
+      "incidencia": "Controle de convencionalidade e privação de liberdade."
+    },
+    {
+      "enunciado": "SV 26",
+      "teor": "Para efeito de progressão de regime em crime hediondo ou equiparado, o juiz observará a inconstitucionalidade do art. 2º da Lei nº 8.072/1990, podendo determinar exame criminológico fundamentado.",
+      "incidencia": "Execução penal e progressão de regime."
+    },
+    {
+      "enunciado": "SV 35",
+      "teor": "A homologação da transação penal do art. 76 da Lei nº 9.099/1995 não faz coisa julgada material; descumpridas as cláusulas, retoma-se a situação anterior.",
+      "incidencia": "Juizados Especiais Criminais."
+    },
+    {
+      "enunciado": "SV 36",
+      "teor": "Compete à Justiça Federal processar e julgar civil denunciado por falsificação e uso de documento falso quanto à Caderneta de Inscrição e Registro ou à Carteira de Habilitação de Amador.",
+      "incidencia": "Competência criminal."
+    },
+    {
+      "enunciado": "SV 45",
+      "teor": "A competência constitucional do Tribunal do Júri prevalece sobre o foro por prerrogativa de função estabelecido exclusivamente pela Constituição estadual.",
+      "incidencia": "Competência do Tribunal do Júri."
+    },
+    {
+      "enunciado": "SV 46",
+      "teor": "A definição dos crimes de responsabilidade e o estabelecimento das respectivas normas de processo e julgamento são de competência legislativa privativa da União.",
+      "incidencia": "Crimes de responsabilidade."
+    },
+    {
+      "enunciado": "SV 56",
+      "teor": "A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, observados os parâmetros do RE 641.320/RS.",
+      "incidencia": "Execução penal e déficit de vagas."
+    },
+    {
+      "enunciado": "SV 59",
+      "teor": "É impositiva a fixação do regime aberto e a substituição da pena privativa de liberdade por restritiva de direitos no tráfico privilegiado, ausentes vetores negativos na primeira fase da dosimetria e salvo vedação legal expressa.",
+      "incidencia": "Dosimetria no tráfico privilegiado."
+    },
+    {
+      "enunciado": "SV 63",
+      "teor": "O tráfico privilegiado, previsto no art. 33, § 4º, da Lei nº 11.343/2006, não é crime hediondo.",
+      "incidencia": "Progressão, livramento condicional e benefícios."
+    },
+    {
+      "enunciado": "SV 64",
+      "teor": "A majorante do tráfico interestadual de drogas independe da efetiva transposição da fronteira entre os estados da federação.",
+      "incidencia": "Causa de aumento do art. 40, V, da Lei nº 11.343/2006."
+    }
+  ],
+  "courtStatements": [
+    {
+      "enunciado": "STF 145",
+      "teor": "Não há crime quando a preparação do flagrante pela polícia torna impossível a consumação.",
+      "incidencia": "Flagrante preparado."
+    },
+    {
+      "enunciado": "STF 711",
+      "teor": "A lei penal mais grave aplica-se ao crime continuado ou permanente se sua vigência é anterior à cessação da continuidade ou da permanência.",
+      "incidencia": "Lei penal no tempo."
+    },
+    {
+      "enunciado": "STF 714",
+      "teor": "É concorrente a legitimidade do ofendido e do Ministério Público na ação penal por crime contra a honra de servidor público em razão do exercício de suas funções.",
+      "incidencia": "Legitimidade ativa."
+    },
+    {
+      "enunciado": "STF 718",
+      "teor": "A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo.",
+      "incidencia": "Dosimetria."
+    },
+    {
+      "enunciado": "STF 719",
+      "teor": "A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.",
+      "incidencia": "Dosimetria."
+    },
+    {
+      "enunciado": "STF 723",
+      "teor": "Não se admite a suspensão condicional do processo por crime continuado se a soma da pena mínima com o aumento mínimo ultrapassar um ano.",
+      "incidencia": "Suspensão condicional do processo."
+    },
+    {
+      "enunciado": "STJ 231",
+      "teor": "A incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal.",
+      "incidencia": "Dosimetria, segunda fase."
+    },
+    {
+      "enunciado": "STJ 241",
+      "teor": "A reincidência penal não pode ser considerada como circunstância agravante e, simultaneamente, como circunstância judicial.",
+      "incidencia": "Vedação ao bis in idem."
+    },
+    {
+      "enunciado": "STJ 438",
+      "teor": "É inadmissível a extinção da punibilidade pela prescrição da pretensão punitiva com fundamento em pena hipotética.",
+      "incidencia": "Prescrição virtual."
+    },
+    {
+      "enunciado": "STJ 440",
+      "teor": "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta.",
+      "incidencia": "Regime inicial."
+    },
+    {
+      "enunciado": "STJ 443",
+      "teor": "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente a mera indicação do número de majorantes.",
+      "incidencia": "Dosimetria do roubo."
+    },
+    {
+      "enunciado": "STJ 444",
+      "teor": "É vedada a utilização de inquéritos policiais e ações penais em curso para agravar a pena-base.",
+      "incidencia": "Presunção de inocência."
+    },
+    {
+      "enunciado": "STJ 500",
+      "teor": "A configuração do crime do art. 244-B do ECA independe da prova da efetiva corrupção do menor, por se tratar de delito formal.",
+      "incidencia": "Corrupção de menores."
+    },
+    {
+      "enunciado": "STJ 522",
+      "teor": "A conduta de atribuir-se falsa identidade perante autoridade policial é típica, ainda que em situação de alegada autodefesa.",
+      "incidencia": "Falsa identidade."
+    },
+    {
+      "enunciado": "STJ 542",
+      "teor": "A ação penal relativa ao crime de lesão corporal resultante de violência doméstica contra a mulher é pública incondicionada.",
+      "incidencia": "Lei Maria da Penha."
+    },
+    {
+      "enunciado": "STJ 545",
+      "teor": "Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante do art. 65, III, d, do Código Penal.",
+      "incidencia": "Atenuante da confissão."
+    },
+    {
+      "enunciado": "STJ 588",
+      "teor": "A prática de crime ou contravenção penal contra a mulher com violência ou grave ameaça no ambiente doméstico impossibilita a substituição da pena privativa de liberdade por restritiva de direitos.",
+      "incidencia": "Lei Maria da Penha."
+    },
+    {
+      "enunciado": "STJ 589",
+      "teor": "É inaplicável o princípio da insignificância nos crimes ou contravenções penais praticados contra a mulher no âmbito das relações domésticas.",
+      "incidencia": "Lei Maria da Penha."
+    },
+    {
+      "enunciado": "STJ 593",
+      "teor": "O crime de estupro de vulnerável configura-se com a conjunção carnal ou ato libidinoso com menor de catorze anos, sendo irrelevantes o consentimento da vítima, sua experiência sexual anterior ou a existência de relacionamento amoroso com o agente.",
+      "incidencia": "Estupro de vulnerável."
+    },
+    {
+      "enunciado": "STJ 599",
+      "teor": "O princípio da insignificância é inaplicável aos crimes contra a administração pública.",
+      "incidencia": "Crimes funcionais."
+    },
+    {
+      "enunciado": "STJ 606",
+      "teor": "Não se aplica o princípio da insignificância a casos de transmissão clandestina de sinal de internet via radiofrequência que caracterizem o fato típico do art. 183 da Lei nº 9.472/1997.",
+      "incidencia": "Telecomunicações clandestinas."
+    },
+    {
+      "enunciado": "STJ 636",
+      "teor": "A folha de antecedentes criminais é documento suficiente a comprovar os maus antecedentes e a reincidência.",
+      "incidencia": "Prova da reincidência."
+    },
+    {
+      "enunciado": "STJ 667",
+      "teor": "A eventual aceitação de proposta de suspensão condicional do processo não prejudica a análise do pedido de trancamento da ação penal.",
+      "incidencia": "Habeas corpus."
+    },
+    {
+      "enunciado": "STJ 668",
+      "teor": "Não é hediondo o delito de porte ou posse de arma de fogo de uso permitido com numeração suprimida ou adulterada.",
+      "incidencia": "Estatuto do Desarmamento."
+    },
+    {
+      "enunciado": "STJ 676",
+      "teor": "Em razão da Lei nº 13.964/2019, não é mais possível ao juiz, de ofício, decretar ou converter prisão em flagrante em prisão preventiva.",
+      "incidencia": "Sistema acusatório."
+    }
+  ],
+  "precedents": [
+    {
+      "enunciado": "ADC 43, 44 e 54 (2019)",
+      "teor": "A execução da pena privativa de liberdade pressupõe o trânsito em julgado da condenação, nos termos do art. 283 do Código de Processo Penal.",
+      "incidencia": "Execução provisória da pena."
+    },
+    {
+      "enunciado": "ADI 6.298, 6.299, 6.300 e 6.305 (2023)",
+      "teor": "Constitucionalidade do juiz das garantias, com interpretação conforme, e obrigatoriedade de sua implementação pelos tribunais.",
+      "incidencia": "Estrutura judiciária e sistema acusatório."
+    },
+    {
+      "enunciado": "RE 635.659, Tema 506 (2024)",
+      "teor": "O porte de cannabis sativa para consumo pessoal não configura ilícito penal, mas ilícito administrativo, fixado parâmetro de presunção relativa de quarenta gramas ou seis plantas fêmeas.",
+      "incidencia": "Art. 28 da Lei nº 11.343/2006."
+    },
+    {
+      "enunciado": "RE 1.235.340, Tema 1.068 (2024)",
+      "teor": "A soberania dos veredictos do Tribunal do Júri autoriza a execução imediata da condenação, observados os parâmetros fixados pelo Supremo Tribunal Federal.",
+      "incidencia": "Execução da pena no Júri."
+    },
+    {
+      "enunciado": "Tema 1.400 (2025)",
+      "teor": "Reconhecimento da não hediondez do tráfico privilegiado, precedente que fundamentou a Súmula Vinculante 63.",
+      "incidencia": "Benefícios de execução penal."
+    },
+    {
+      "enunciado": "RE 603.616, Tema 280 (2015)",
+      "teor": "O ingresso forçado em domicílio sem mandado judicial é lícito apenas quando amparado em fundadas razões, justificadas a posteriori, sob pena de nulidade das provas e responsabilização do agente.",
+      "incidencia": "Inviolabilidade domiciliar e prova ilícita."
+    },
+    {
+      "enunciado": "RE 1.055.941, Tema 990 (2019)",
+      "teor": "É constitucional o compartilhamento com o Ministério Público e as autoridades policiais dos relatórios de inteligência financeira e dos procedimentos fiscalizatórios da Receita Federal, sem prévia autorização judicial.",
+      "incidencia": "Prova financeira e sigilo."
+    },
+    {
+      "enunciado": "ADPF 347 (2015 e 2023)",
+      "teor": "Reconhecimento do estado de coisas inconstitucional do sistema penitenciário e imposição de plano estrutural de superação.",
+      "incidencia": "Execução penal e litígio estrutural."
+    },
+    {
+      "enunciado": "ADPF 779 (2023)",
+      "teor": "Inconstitucionalidade da tese da legítima defesa da honra, vedada sua invocação direta ou indireta em qualquer fase da persecução penal e no plenário do Júri.",
+      "incidencia": "Feminicídio."
+    },
+    {
+      "enunciado": "ADC 19 e ADI 4.424 (2012)",
+      "teor": "Constitucionalidade da Lei Maria da Penha e natureza pública incondicionada da ação penal por lesão corporal em contexto de violência doméstica.",
+      "incidencia": "Violência doméstica."
+    },
+    {
+      "enunciado": "HC 143.641 (2018)",
+      "teor": "Concessão de habeas corpus coletivo para substituição da prisão preventiva por domiciliar em favor de gestantes e mães de crianças de até doze anos.",
+      "incidencia": "Cautelares e maternidade."
+    },
+    {
+      "enunciado": "HC 598.886, STJ (2020)",
+      "teor": "As disposições do art. 226 do Código de Processo Penal constituem exigência legal, e não mera recomendação; o reconhecimento pessoal realizado em desacordo é inválido.",
+      "incidencia": "Prova de reconhecimento."
+    }
+  ],
+  "importedAt": "2026-08-15T17:06:41.662306+00:00"
+}
