@@ -1,0 +1,14 @@
+                                        0           1
+0                               Indicador       Valor
+1          Normas na matriz de referencia          88
+2              Normas presentes no acervo          12
+3                         Normas ausentes          76
+4                 Cobertura do acervo (%)        13.6
+5         Ausencias de prioridade critica          20
+6            Ausencias de prioridade alta          24
+7           Ausencias de prioridade media          27
+8           Ausencias de prioridade baixa           5
+9          Arquivos atualmente no projeto          18
+10  Arquivos com texto normativo integral          13
+11             Inconsistencias detectadas           1
+12                 Data-base da auditoria  15/08/2026

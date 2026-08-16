@@ -4,6 +4,12 @@ Este diretório reúne os estudos, notas de pesquisa, gráficos e o prompt técn
 
 ## Estrutura
 
+O inventário completo de fontes, URLs, dados brutos, classificações e ressalvas metodológicas está em [`fontes/MANIFESTO_FONTES_E_DADOS.md`](fontes/MANIFESTO_FONTES_E_DADOS.md). A lista bruta deduplicada de URLs está em [`fontes/fontes_urls.txt`](fontes/fontes_urls.txt).
+
+**Importante:** os diretórios `fontes/raw-upload/` e `fontes/extratos-web/` preservam os arquivos recebidos e os extratos textuais coletados; os arquivos em `dados-brutos/` preservam transcrições e dados derivados para auditoria.
+
+## Estrutura
+
 | Caminho | Conteúdo |
 |---|---|
 | `estudos/estudo_hiperinflacao_penal_brasil.md` | Estudo principal: tipos penais em vigor, evolução carcerária 1988–2025, populismo punitivo e direito penal simbólico (22 referências, 6 gráficos). |
