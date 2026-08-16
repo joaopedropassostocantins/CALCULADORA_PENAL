@@ -62,8 +62,17 @@ O Access Token produtivo foi recebido em mensagem do usuário e não será repro
 
 - [ ] Solicitar ao usuário a rotação do token produtivo e a confirmação de onde o segredo será hospedado.
 - [ ] Informar claramente que o checkout real permanece bloqueado até o segredo estar configurado no ambiente de execução.
-- [ ] Criar uma versão/checkpoint depois dos testes finais.
+- [x] Criar uma versão Git depois dos testes finais.
 
 ### Nota
 
 Os arquivos gerados anteriormente já cobrem a interface em português, o catálogo importado e o endpoint inicial de Checkout Pro. A próxima implementação deve priorizar webhook, idempotência e persistência dos créditos antes de declarar o pagamento operacional.
+
+## Pacote local HTML/JavaScript para teste
+
+- [x] Criar uma página HTML independente com interface da Calculadora Penal.
+- [x] Criar CSS responsivo com formulário, resultado, catálogo resumido e opções de consulta.
+- [x] Criar JavaScript do navegador para cálculo, busca, validação e interação com o checkout.
+- [x] Criar proxy/servidor local que mantenha o Access Token apenas no backend.
+- [x] Testar criação de preferência Mercado Pago sem concluir cobrança.
+- [x] Documentar execução local e cuidados com credenciais.

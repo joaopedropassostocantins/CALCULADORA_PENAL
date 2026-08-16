@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Demo local da Calculadora Penal com checkout Mercado Pago">
+  <title>Calculadora Penal — Demo local</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="container nav">
+      <a class="brand" href="#inicio"><span class="brand-mark">§</span><span>Calculadora<span>Penal</span></span></a>
+      <nav aria-label="Navegação principal">
+        <a href="#simulador">Simulador</a>
+        <a href="#consultas">Consultas</a>
+        <a href="#teste">Status</a>
+      </nav>
+      <span class="demo-chip">DEMO LOCAL</span>
+    </div>
+  </header>
+
+  <main>
+    <section id="inicio" class="hero">
+      <div class="container hero-grid">
+        <div>
+          <p class="eyebrow">SIMULADOR INFORMATIVO</p>
+          <h1>Estruture a memória de cálculo com <em>clareza.</em></h1>
+          <p class="hero-copy">Interface local para testar a calculadora, os pacotes de consulta e a abertura segura do Checkout Pro do Mercado Pago.</p>
+          <div class="hero-actions"><a class="button primary" href="#simulador">Iniciar simulação <span>→</span></a><a class="button ghost" href="#consultas">Ver consultas</a></div>
+        </div>
+        <aside class="notice"><strong>Ambiente de teste</strong><p>Nenhum Access Token é enviado ao navegador. O botão de pagamento chama o servidor local, que cria a preferência no Mercado Pago.</p></aside>
+      </div>
+    </section>
+
+    <section id="simulador" class="section">
+      <div class="container">
+        <div class="section-heading"><p class="eyebrow">01 · SIMULAÇÃO PARAMÉTRICA</p><h2>Construa o cenário</h2><p>Esta demo calcula somente a aritmética dos percentuais informados. Ela não escolhe teses, frações ou regras jurídicas.</p></div>
+        <div class="simulator-grid">
+          <form id="calculator-form" class="card form-card" autocomplete="off">
+            <div class="field-grid">
+              <label>Pena mínima (meses)<input id="minimum" type="number" min="0" value="12"></label>
+              <label>Pena máxima (meses)<input id="maximum" type="number" min="0" value="60"></label>
+              <label>Pena-base (meses)<input id="base" type="number" min="0" value="24"></label>
+              <label>Agravantes (%)<input id="aggravating" type="number" min="0" step="0.01" value="0"></label>
+              <label>Atenuantes (%)<input id="mitigating" type="number" min="0" step="0.01" value="0"></label>
+              <label>Causas de aumento (%)<input id="increase" type="number" min="0" step="0.01" value="0"></label>
+              <label>Causas de diminuição (%)<input id="decrease" type="number" min="0" step="0.01" value="0"></label>
+            </div>
+            <p class="form-note">Revise a aplicação jurídica das circunstâncias no caso concreto. A ferramenta apenas processa os valores digitados.</p>
+          </form>
+          <aside id="result-card" class="result-card" aria-live="polite">
+            <p class="eyebrow">RESULTADO ESTIMADO</p><h3>Memória de cálculo</h3>
+            <div class="result-number"><span>Meses</span><strong id="final-months">24</strong><b id="duration">2 anos</b></div>
+            <dl class="steps"><div><dt>1ª fase</dt><dd id="first-phase">24 meses</dd></div><div><dt>2ª fase</dt><dd id="second-phase">24 meses</dd></div><div><dt>3ª fase</dt><dd id="third-phase">24 meses</dd></div></dl>
+            <p id="warning" class="warning hidden"></p><a class="button dark" href="#consultas">Desbloquear relatório <span>→</span></a>
+          </aside>
+        </div>
+      </div>
+    </section>
+
+    <section id="consultas" class="section alt">
+      <div class="container">
+        <div class="section-heading"><p class="eyebrow">02 · ACESSO POR QUANTIDADE</p><h2>Escolha o pacote de consultas</h2><p>Valores abaixo são sugestões hipotéticas para teste. Não há assinatura recorrente nesta demo.</p></div>
+        <div class="pricing-grid">
+          <article class="price-card"><span class="tag">1 uso</span><h3>Consulta avulsa</h3><p>Para uma simulação pontual.</p><strong>R$ 3,99</strong><button class="button price-button" data-pack="avulsa">Pagar consulta avulsa <span>→</span></button></article>
+          <article class="price-card featured"><span class="tag gold">5 usos</span><h3>Pacote 5 consultas</h3><p>Para comparar cenários.</p><strong>R$ 17,95</strong><button class="button price-button" data-pack="cinco">Comprar 5 consultas <span>→</span></button></article>
+          <article class="price-card"><span class="tag">10 usos</span><h3>Pacote 10 consultas</h3><p>Para estudos recorrentes.</p><strong>R$ 31,90</strong><button class="button price-button" data-pack="dez">Comprar 10 consultas <span>→</span></button></article>
+        </div>
+        <div id="checkout-message" class="checkout-message hidden" role="status"></div>
+        <p class="payment-note">Checkout Pro Mercado Pago · PIX e cartão dependem da configuração da conta vendedora · nenhum pagamento é concluído automaticamente nesta página.</p>
+      </div>
+    </section>
+
+    <section id="teste" class="section status-section"><div class="container status-panel"><div><p class="eyebrow">03 · DIAGNÓSTICO LOCAL</p><h2>Verifique a conexão antes do teste</h2><p>Use este painel para confirmar que o servidor local está executando e que a preferência pode ser criada sem expor segredos.</p></div><button id="health-button" class="button primary">Testar servidor</button><div id="health-result" class="health-result">Aguardando teste.</div></div></section>
+  </main>
+
+  <footer><div class="container footer-row"><span>Calculadora Penal · Demo local</span><span>Não substitui análise jurídica profissional.</span></div></footer>
+  <script src="./app.js" defer></script>
+</body>
+</html>
