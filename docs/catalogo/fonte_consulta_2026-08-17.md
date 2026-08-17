@@ -145,3 +145,15 @@ O texto vigente também registra alterações de 2025 na Lei nº 7.853/1989 e al
 ## Cobertura nacional — propriedade industrial
 
 A fonte oficial da Lei nº 9.279/1996 foi consultada em <https://www.planalto.gov.br/ccivil_03/leis/l9279.htm>. O diploma contém capítulos penais sobre crimes contra patentes, desenhos industriais, marcas, indicações geográficas e concorrência desleal, especialmente nos arts. 183 a 195. A nova previsão de jogos eletrônicos no art. 2º, VI, não será tratada como tipo penal. O capítulo penal deve ser extraído por artigos e alíneas, excluindo disposições civis, processuais e administrativas.
+
+## Cobertura nacional — esporte e agrotóxicos
+
+Foram consultadas a Lei Geral do Esporte, Lei nº 14.597/2023 (<https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14597.htm>), e a Lei nº 14.785/2023 (<https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14785.htm>), que revogou a Lei nº 7.802/1989.
+
+A Lei Geral do Esporte deve substituir a referência ao Estatuto de Defesa do Torcedor revogado, mas seu capítulo penal ainda precisa ser localizado no texto completo. A Lei nº 14.785/2023 é a fonte vigente para crimes de agrotóxicos e produtos de controle ambiental; a antiga Lei nº 7.802/1989 não deve gerar registros ativos.
+
+## Cobertura nacional — responsabilidade municipal, transporte eleitoral e migração
+
+Foram consultados o Decreto-Lei nº 201/1967 (<https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm>), a Lei nº 6.091/1974 (<https://www.planalto.gov.br/ccivil_03/leis/l6091.htm>), a Lei nº 9.504/1997 (<https://www.planalto.gov.br/ccivil_03/leis/l9504.htm>) e a Lei nº 13.445/2017 (<https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm>).
+
+O Decreto-Lei nº 201/1967 contém 23 crimes judiciais de responsabilidade de prefeitos no art. 1º, com penas diferenciadas nos incisos I-II e nos demais. A Lei nº 6.091/1974 contém crimes eleitorais no art. 11, incluindo transporte irregular e obstrução dos serviços eleitorais. A Lei nº 9.504/1997 contém regras eleitorais e tipos esparsos que devem ser reconciliados com o Código Eleitoral para evitar duplicidade. A Lei nº 13.445/2017 declara como princípio a não criminalização da migração; suas sanções são predominantemente administrativas e não serão cadastradas como tipos penais autônomos sem dispositivo penal expresso.

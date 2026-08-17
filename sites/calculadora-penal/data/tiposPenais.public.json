@@ -1,5 +1,5 @@
 {
-  "versaoCatalogo": "cntp-br-2026-08-17-5212dc76adf4cf67",
+  "versaoCatalogo": "cntp-br-2026-08-17-93c34d2c9c842b01",
   "dataCorte": "2026-08-17",
   "estadoGeral": "incompleto",
   "registros": [
@@ -89,6 +89,24 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "prefeito-201-1-xvii",
+      "name": "Abertura irregular de crédito público",
+      "article": "art. 1º, XVII",
+      "law": "Decreto-Lei nº 201/1967",
+      "category": "Crimes de responsabilidade municipal",
+      "minimum": 0.25,
+      "maximum": 3,
+      "penalty": "Detenção, de 3 meses a 3 anos.",
+      "keywords": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "estado-democratico-359l",
@@ -195,6 +213,24 @@
       "canCalculate": false
     },
     {
+      "id": "eleicoes-9504-72-i",
+      "name": "Acesso indevido a sistema eleitoral para alterar votos",
+      "article": "art. 72, I",
+      "law": "Lei nº 9.504/1997",
+      "category": "Normas para eleições",
+      "minimum": 5,
+      "maximum": 10,
+      "penalty": "Reclusão, de 5 a 10 anos.",
+      "keywords": [
+        "sistema eleitoral",
+        "votos",
+        "acesso indevido"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9504.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "licitacao-14133-337-k",
       "name": "Afastamento de licitante",
       "article": "art. 337-K",
@@ -284,6 +320,24 @@
       "canCalculate": true
     },
     {
+      "id": "prefeito-201-1-x",
+      "name": "Alienação ou oneração irregular de bens municipais",
+      "article": "art. 1º, X",
+      "law": "Decreto-Lei nº 201/1967",
+      "category": "Crimes de responsabilidade municipal",
+      "minimum": 0.25,
+      "maximum": 3,
+      "penalty": "Detenção, de 3 meses a 3 anos.",
+      "keywords": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "ambiental-63",
       "name": "Alteração não autorizada de patrimônio cultural protegido",
       "article": "art. 63",
@@ -351,6 +405,24 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "prefeito-201-1-xxi",
+      "name": "Antecipação de receita tributária futura",
+      "article": "art. 1º, XXI",
+      "law": "Decreto-Lei nº 201/1967",
+      "category": "Crimes de responsabilidade municipal",
+      "minimum": 0.25,
+      "maximum": 3,
+      "penalty": "Detenção, de 3 meses a 3 anos.",
+      "keywords": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "contravencao-3688-20",
@@ -457,6 +529,24 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7492.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "prefeito-201-1-i",
+      "name": "Apropriação ou desvio de bens e rendas públicas",
+      "article": "art. 1º, I",
+      "law": "Decreto-Lei nº 201/1967",
+      "category": "Crimes de responsabilidade municipal",
+      "minimum": 2,
+      "maximum": 12,
+      "penalty": "Reclusão, de 2 a 12 anos.",
+      "keywords": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "falimentar-11101-174",
@@ -700,6 +790,23 @@
         "celebração de contrato com inidôneo"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "biosseguranca-11105-26",
+      "name": "Clonagem humana",
+      "article": "art. 26",
+      "law": "Lei nº 11.105/2005",
+      "category": "Biossegurança",
+      "minimum": 2,
+      "maximum": 5,
+      "penalty": "Reclusão, de 2 a 5 anos, e multa.",
+      "keywords": [
+        "biossegurança",
+        "clonagem humana"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11105.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -975,6 +1082,24 @@
       "canCalculate": false
     },
     {
+      "id": "prefeito-201-1-ix",
+      "name": "Concessão irregular de empréstimo ou subvenção",
+      "article": "art. 1º, IX",
+      "law": "Decreto-Lei nº 201/1967",
+      "category": "Crimes de responsabilidade municipal",
+      "minimum": 0.25,
+      "maximum": 3,
+      "penalty": "Detenção, de 3 meses a 3 anos.",
+      "keywords": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "propriedade-industrial-9279-195",
       "name": "Concorrência desleal",
       "article": "art. 195",
@@ -1203,6 +1328,24 @@
         "contratação direta ilegal"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "prefeito-201-1-xi",
+      "name": "Contratação pública sem concorrência exigida",
+      "article": "art. 1º, XI",
+      "law": "Decreto-Lei nº 201/1967",
+      "category": "Crimes de responsabilidade municipal",
+      "minimum": 0.25,
+      "maximum": 3,
+      "penalty": "Detenção, de 3 meses a 3 anos.",
+      "keywords": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -1579,6 +1722,24 @@
       "canCalculate": true
     },
     {
+      "id": "eleicoes-9504-72-iii",
+      "name": "Dano físico a equipamento de votação ou totalização",
+      "article": "art. 72, III",
+      "law": "Lei nº 9.504/1997",
+      "category": "Normas para eleições",
+      "minimum": 5,
+      "maximum": 10,
+      "penalty": "Reclusão, de 5 a 10 anos.",
+      "keywords": [
+        "urna eletrônica",
+        "equipamento eleitoral",
+        "dano"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9504.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "tributario-8137-2",
       "name": "Declaração falsa ou omissão tributária",
       "article": "art. 2º, I",
@@ -1628,6 +1789,24 @@
         "construção"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "transporte-eleitoral-6091-11-ii",
+      "name": "Desatendimento de requisição de transporte eleitoral",
+      "article": "art. 11, II",
+      "law": "Lei nº 6.091/1974",
+      "category": "Transporte eleitoral",
+      "minimum": 0,
+      "maximum": 0,
+      "penalty": "Pagamento de 200 a 300 dias-multa e apreensão do veículo.",
+      "keywords": [
+        "transporte eleitoral",
+        "requisição",
+        "dias-multa"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -1702,6 +1881,24 @@
       "canCalculate": true
     },
     {
+      "id": "prefeito-201-1-xiv",
+      "name": "Descumprimento injustificado de lei ou ordem judicial",
+      "article": "art. 1º, XIV",
+      "law": "Decreto-Lei nº 201/1967",
+      "category": "Crimes de responsabilidade municipal",
+      "minimum": 0.25,
+      "maximum": 3,
+      "penalty": "Detenção, de 3 meses a 3 anos.",
+      "keywords": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "telecom-9472-183",
       "name": "Desenvolvimento clandestino de atividade de telecomunicação",
       "article": "art. 183",
@@ -1755,6 +1952,24 @@
       "canCalculate": false
     },
     {
+      "id": "prefeito-201-1-v",
+      "name": "Despesa pública não autorizada",
+      "article": "art. 1º, V",
+      "law": "Decreto-Lei nº 201/1967",
+      "category": "Crimes de responsabilidade municipal",
+      "minimum": 0.25,
+      "maximum": 3,
+      "penalty": "Detenção, de 3 meses a 3 anos.",
+      "keywords": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "eleitoral-4737-306",
       "name": "Desrespeito à ordem de votação",
       "article": "art. 306",
@@ -1768,6 +1983,24 @@
         "mesa receptora"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "agrotoxicos-14785-57",
+      "name": "Destinação irregular de resíduos de agrotóxicos",
+      "article": "art. 57",
+      "law": "Lei nº 14.785/2023",
+      "category": "Agrotóxicos e produtos de controle ambiental",
+      "minimum": 2,
+      "maximum": 4,
+      "penalty": "Reclusão, de 2 a 4 anos, e multa.",
+      "keywords": [
+        "agrotóxicos",
+        "resíduos",
+        "embalagens"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14785.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -1786,6 +2019,42 @@
         "eleição"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "prefeito-201-1-xxii",
+      "name": "Desvio de recursos de emissão de títulos",
+      "article": "art. 1º, XXII",
+      "law": "Decreto-Lei nº 201/1967",
+      "category": "Crimes de responsabilidade municipal",
+      "minimum": 0.25,
+      "maximum": 3,
+      "penalty": "Detenção, de 3 meses a 3 anos.",
+      "keywords": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "prefeito-201-1-iii",
+      "name": "Desvio ou aplicação indevida de verbas públicas",
+      "article": "art. 1º, III",
+      "law": "Decreto-Lei nº 201/1967",
+      "category": "Crimes de responsabilidade municipal",
+      "minimum": 0.25,
+      "maximum": 3,
+      "penalty": "Detenção, de 3 meses a 3 anos.",
+      "keywords": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -2394,6 +2663,24 @@
       "canCalculate": true
     },
     {
+      "id": "eleicoes-9504-33-4",
+      "name": "Divulgação de pesquisa eleitoral fraudulenta",
+      "article": "art. 33, § 4º",
+      "law": "Lei nº 9.504/1997",
+      "category": "Normas para eleições",
+      "minimum": 0.5,
+      "maximum": 1,
+      "penalty": "Detenção, de 6 meses a 1 ano, e multa de 50.000 a 100.000 UFIR.",
+      "keywords": [
+        "pesquisa eleitoral",
+        "fraude",
+        "divulgação"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9504.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "abuso-autoridade-28",
       "name": "Divulgação indevida de gravação",
       "article": "art. 28",
@@ -2462,6 +2749,60 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7492.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "prefeito-201-1-iv",
+      "name": "Emprego irregular de subvenções e recursos",
+      "article": "art. 1º, IV",
+      "law": "Decreto-Lei nº 201/1967",
+      "category": "Crimes de responsabilidade municipal",
+      "minimum": 0.25,
+      "maximum": 3,
+      "penalty": "Detenção, de 3 meses a 3 anos.",
+      "keywords": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "prefeito-201-1-viii",
+      "name": "Empréstimo ou título municipal sem autorização",
+      "article": "art. 1º, VIII",
+      "law": "Decreto-Lei nº 201/1967",
+      "category": "Crimes de responsabilidade municipal",
+      "minimum": 0.25,
+      "maximum": 3,
+      "penalty": "Detenção, de 3 meses a 3 anos.",
+      "keywords": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "biosseguranca-11105-25",
+      "name": "Engenharia genética em célula germinal humana",
+      "article": "art. 25",
+      "law": "Lei nº 11.105/2005",
+      "category": "Biossegurança",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão, de 1 a 4 anos, e multa.",
+      "keywords": [
+        "biossegurança",
+        "engenharia genética",
+        "célula germinal"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11105.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "ctb-310",
@@ -3626,6 +3967,24 @@
       "canCalculate": true
     },
     {
+      "id": "esporte-14597-200",
+      "name": "Fraude de resultado de competição esportiva",
+      "article": "art. 200",
+      "law": "Lei nº 14.597/2023",
+      "category": "Lei Geral do Esporte",
+      "minimum": 2,
+      "maximum": 6,
+      "penalty": "Reclusão, de 2 a 6 anos, e multa.",
+      "keywords": [
+        "fraude esportiva",
+        "resultado",
+        "competição"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14597.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "licitacao-14133-337-l",
       "name": "Fraude em licitação ou contrato",
       "article": "art. 337-L",
@@ -4675,6 +5034,24 @@
       "canCalculate": false
     },
     {
+      "id": "eleicoes-9504-72-ii",
+      "name": "Introdução de comando ou programa lesivo em sistema eleitoral",
+      "article": "art. 72, II",
+      "law": "Lei nº 9.504/1997",
+      "category": "Normas para eleições",
+      "minimum": 5,
+      "maximum": 10,
+      "penalty": "Reclusão, de 5 a 10 anos.",
+      "keywords": [
+        "sistema eleitoral",
+        "programa",
+        "dados"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9504.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "ambiental-31",
       "name": "Introdução ilegal de espécime animal no País",
       "article": "art. 31",
@@ -4745,6 +5122,24 @@
       "canCalculate": true
     },
     {
+      "id": "prefeito-201-1-xii",
+      "name": "Inversão indevida da ordem de pagamentos",
+      "article": "art. 1º, XII",
+      "law": "Decreto-Lei nº 201/1967",
+      "category": "Crimes de responsabilidade municipal",
+      "minimum": 0.25,
+      "maximum": 3,
+      "penalty": "Detenção, de 3 meses a 3 anos.",
+      "keywords": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "abuso-autoridade-27",
       "name": "Investigação sem indício",
       "article": "art. 27",
@@ -4760,6 +5155,23 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "eleicoes-9504-34-3",
+      "name": "Irregularidade em dados de pesquisa eleitoral",
+      "article": "art. 34, § 3º",
+      "law": "Lei nº 9.504/1997",
+      "category": "Normas para eleições",
+      "minimum": 0.5,
+      "maximum": 1,
+      "penalty": "Penas do art. 34, § 2º: detenção, de 6 meses a 1 ano, alternativa de prestação de serviços à comunidade pelo mesmo prazo, e multa de 10.000 a 20.000 UFIR.",
+      "keywords": [
+        "pesquisa eleitoral",
+        "dados irregulares"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9504.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "eleitoral-4737-310",
@@ -5043,6 +5455,24 @@
       "canCalculate": false
     },
     {
+      "id": "biosseguranca-11105-27",
+      "name": "Liberação ou descarte irregular de OGM",
+      "article": "art. 27",
+      "law": "Lei nº 11.105/2005",
+      "category": "Biossegurança",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão, de 1 a 4 anos, e multa.",
+      "keywords": [
+        "biossegurança",
+        "OGM",
+        "meio ambiente"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11105.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "contravencao-3688-53",
       "name": "Loteria estadual irregular",
       "article": "art. 53",
@@ -5270,6 +5700,24 @@
       "canCalculate": false
     },
     {
+      "id": "prefeito-201-1-xiii",
+      "name": "Nomeação irregular de servidor",
+      "article": "art. 1º, XIII",
+      "law": "Decreto-Lei nº 201/1967",
+      "category": "Crimes de responsabilidade municipal",
+      "minimum": 0.25,
+      "maximum": 3,
+      "penalty": "Detenção, de 3 meses a 3 anos.",
+      "keywords": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "eca-236",
       "name": "Obstrução da atuação de autoridade de proteção",
       "article": "art. 236",
@@ -5306,6 +5754,42 @@
       "canCalculate": true
     },
     {
+      "id": "eleicoes-9504-87-4",
+      "name": "Obstrução da fiscalização da apuração",
+      "article": "art. 87, § 4º",
+      "law": "Lei nº 9.504/1997",
+      "category": "Normas para eleições",
+      "minimum": 0.08333333333333333,
+      "maximum": 0.25,
+      "penalty": "Detenção, de 1 a 3 meses, alternativa de prestação de serviços à comunidade pelo mesmo período, e multa de 1.000 a 5.000 UFIR.",
+      "keywords": [
+        "apuração eleitoral",
+        "fiscalização",
+        "boletim"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9504.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "eleicoes-9504-34-2",
+      "name": "Obstrução da fiscalização de pesquisa eleitoral",
+      "article": "art. 34, § 2º",
+      "law": "Lei nº 9.504/1997",
+      "category": "Normas para eleições",
+      "minimum": 0.5,
+      "maximum": 1,
+      "penalty": "Detenção, de 6 meses a 1 ano, alternativa de prestação de serviços à comunidade pelo mesmo prazo, e multa de 10.000 a 20.000 UFIR.",
+      "keywords": [
+        "pesquisa eleitoral",
+        "fiscalização",
+        "obstrução"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9504.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "orgcrime-12850-21a",
       "name": "Obstrução de ações contra o crime organizado",
       "article": "art. 21-A",
@@ -5320,6 +5804,24 @@
         "crime organizado"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "transporte-eleitoral-6091-11-iv",
+      "name": "Obstrução de serviço eleitoral de transporte ou alimentação",
+      "article": "art. 11, IV",
+      "law": "Lei nº 6.091/1974",
+      "category": "Transporte eleitoral",
+      "minimum": 2,
+      "maximum": 4,
+      "penalty": "Reclusão, de 2 a 4 anos.",
+      "keywords": [
+        "transporte eleitoral",
+        "obstrução",
+        "Justiça Eleitoral"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -5355,6 +5857,24 @@
         "tradição"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "esporte-14597-199",
+      "name": "Oferta de vantagem para manipulação esportiva",
+      "article": "art. 199",
+      "law": "Lei nº 14.597/2023",
+      "category": "Lei Geral do Esporte",
+      "minimum": 2,
+      "maximum": 6,
+      "penalty": "Reclusão, de 2 a 6 anos, e multa.",
+      "keywords": [
+        "manipulação de resultado",
+        "vantagem",
+        "esporte"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14597.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -5430,6 +5950,24 @@
       "canCalculate": true
     },
     {
+      "id": "prefeito-201-1-xviii",
+      "name": "Omissão de cancelamento ou reserva de operação de crédito",
+      "article": "art. 1º, XVIII",
+      "law": "Decreto-Lei nº 201/1967",
+      "category": "Crimes de responsabilidade municipal",
+      "minimum": 0.25,
+      "maximum": 3,
+      "penalty": "Detenção, de 3 meses a 3 anos.",
+      "keywords": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "armas-13",
       "name": "Omissão de cautela",
       "article": "art. 13",
@@ -5461,6 +5999,24 @@
         "cautela"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "prefeito-201-1-xv",
+      "name": "Omissão de certidão de ato ou contrato municipal",
+      "article": "art. 1º, XV",
+      "law": "Decreto-Lei nº 201/1967",
+      "category": "Crimes de responsabilidade municipal",
+      "minimum": 0.25,
+      "maximum": 3,
+      "penalty": "Detenção, de 3 meses a 3 anos.",
+      "keywords": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -5534,6 +6090,42 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14344.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "prefeito-201-1-vi",
+      "name": "Omissão de contas anuais municipais",
+      "article": "art. 1º, VI",
+      "law": "Decreto-Lei nº 201/1967",
+      "category": "Crimes de responsabilidade municipal",
+      "minimum": 0.25,
+      "maximum": 3,
+      "penalty": "Detenção, de 3 meses a 3 anos.",
+      "keywords": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "prefeito-201-1-vii",
+      "name": "Omissão de contas de recursos recebidos",
+      "article": "art. 1º, VII",
+      "law": "Decreto-Lei nº 201/1967",
+      "category": "Crimes de responsabilidade municipal",
+      "minimum": 0.25,
+      "maximum": 3,
+      "penalty": "Detenção, de 3 meses a 3 anos.",
+      "keywords": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "consumo-8078-73",
@@ -5802,6 +6394,42 @@
       "canCalculate": false
     },
     {
+      "id": "prefeito-201-1-xix",
+      "name": "Omissão na liquidação de antecipação de receita",
+      "article": "art. 1º, XIX",
+      "law": "Decreto-Lei nº 201/1967",
+      "category": "Crimes de responsabilidade municipal",
+      "minimum": 0.25,
+      "maximum": 3,
+      "penalty": "Detenção, de 3 meses a 3 anos.",
+      "keywords": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "prefeito-201-1-xvi",
+      "name": "Omissão na redução da dívida consolidada",
+      "article": "art. 1º, XVI",
+      "law": "Decreto-Lei nº 201/1967",
+      "category": "Crimes de responsabilidade municipal",
+      "minimum": 0.25,
+      "maximum": 3,
+      "penalty": "Detenção, de 3 meses a 3 anos.",
+      "keywords": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "eleitoral-4737-304",
       "name": "Omissão ou exclusividade de utilidades eleitorais",
       "article": "art. 304",
@@ -5816,6 +6444,24 @@
         "eleição"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "transporte-eleitoral-6091-11-i",
+      "name": "Omissão ou informação inexata sobre veículos eleitorais",
+      "article": "art. 11, I",
+      "law": "Lei nº 6.091/1974",
+      "category": "Transporte eleitoral",
+      "minimum": 0.041666666666666664,
+      "maximum": 0.5,
+      "penalty": "Detenção, de 15 dias a 6 meses, e 60 a 100 dias-multa.",
+      "keywords": [
+        "transporte eleitoral",
+        "informação",
+        "veículos"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -5853,6 +6499,24 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "prefeito-201-1-xx",
+      "name": "Operação de crédito irregular entre entes federativos",
+      "article": "art. 1º, XX",
+      "law": "Decreto-Lei nº 201/1967",
+      "category": "Crimes de responsabilidade municipal",
+      "minimum": 0.25,
+      "maximum": 3,
+      "penalty": "Detenção, de 3 meses a 3 anos.",
+      "keywords": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "nuclear-6453-21",
@@ -6453,6 +7117,44 @@
       "canCalculate": true
     },
     {
+      "id": "biosseguranca-11105-29",
+      "name": "Produção ou comércio irregular de OGM",
+      "article": "art. 29",
+      "law": "Lei nº 11.105/2005",
+      "category": "Biossegurança",
+      "minimum": 1,
+      "maximum": 2,
+      "penalty": "Reclusão, de 1 a 2 anos, e multa.",
+      "keywords": [
+        "biossegurança",
+        "OGM",
+        "produção",
+        "importação",
+        "exportação"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11105.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "agrotoxicos-14785-56",
+      "name": "Produção ou comércio não autorizado de agrotóxicos",
+      "article": "art. 56",
+      "law": "Lei nº 14.785/2023",
+      "category": "Agrotóxicos e produtos de controle ambiental",
+      "minimum": 3,
+      "maximum": 9,
+      "penalty": "Reclusão, de 3 a 9 anos, e multa, com majorantes por dano patrimonial ou ambiental.",
+      "keywords": [
+        "agrotóxicos",
+        "registro",
+        "produto de controle ambiental"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14785.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "eleitoral-4737-335",
       "name": "Propaganda em língua estrangeira",
       "article": "art. 335",
@@ -6647,6 +7349,23 @@
       "canCalculate": false
     },
     {
+      "id": "eleicoes-9504-68-2",
+      "name": "Recusa de entrega de cópia do boletim de urna",
+      "article": "art. 68, § 2º",
+      "law": "Lei nº 9.504/1997",
+      "category": "Normas para eleições",
+      "minimum": 0.08333333333333333,
+      "maximum": 0.25,
+      "penalty": "Detenção, de 1 a 3 meses, alternativa de prestação de serviço à comunidade pelo mesmo período, e multa de 1.000 a 5.000 UFIR.",
+      "keywords": [
+        "boletim de urna",
+        "fiscalização eleitoral"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9504.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "contravencao-3688-43",
       "name": "Recusa de moeda de curso legal",
       "article": "art. 43",
@@ -6807,6 +7526,23 @@
       "canCalculate": false
     },
     {
+      "id": "transporte-eleitoral-6091-11-pu",
+      "name": "Responsabilidade do guardião de veículo eleitoral",
+      "article": "art. 11, parágrafo único",
+      "law": "Lei nº 6.091/1974",
+      "category": "Transporte eleitoral",
+      "minimum": 0.041666666666666664,
+      "maximum": 0.5,
+      "penalty": "Detenção, de 15 dias a 6 meses, e 60 a 100 dias-multa.",
+      "keywords": [
+        "transporte eleitoral",
+        "guarda de veículo"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "lbi-91",
       "name": "Retenção de cartão ou documento de pessoa com deficiência",
       "article": "art. 91",
@@ -6841,6 +7577,24 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "eleicoes-9504-91-pu",
+      "name": "Retenção de título eleitoral",
+      "article": "art. 91, parágrafo único",
+      "law": "Lei nº 9.504/1997",
+      "category": "Normas para eleições",
+      "minimum": 0.08333333333333333,
+      "maximum": 0.25,
+      "penalty": "Detenção, de 1 a 3 meses, alternativa de prestação de serviços à comunidade pelo mesmo período, e multa de 5.000 a 10.000 UFIR.",
+      "keywords": [
+        "título eleitoral",
+        "alistamento",
+        "retenção"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9504.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "eleitoral-4737-295",
@@ -7104,6 +7858,24 @@
       "canCalculate": true
     },
     {
+      "id": "esporte-14597-198",
+      "name": "Solicitação ou aceitação de vantagem para manipulação esportiva",
+      "article": "art. 198",
+      "law": "Lei nº 14.597/2023",
+      "category": "Lei Geral do Esporte",
+      "minimum": 2,
+      "maximum": 6,
+      "penalty": "Reclusão, de 2 a 6 anos, e multa.",
+      "keywords": [
+        "manipulação de resultado",
+        "vantagem",
+        "competição esportiva"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14597.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "eca-232",
       "name": "Submissão a vexame ou constrangimento",
       "article": "art. 232",
@@ -7282,6 +8054,24 @@
       "canCalculate": false
     },
     {
+      "id": "prefeito-201-1-xxiii",
+      "name": "Transferência voluntária irregular",
+      "article": "art. 1º, XXIII",
+      "law": "Decreto-Lei nº 201/1967",
+      "category": "Crimes de responsabilidade municipal",
+      "minimum": 0.25,
+      "maximum": 3,
+      "penalty": "Detenção, de 3 meses a 3 anos.",
+      "keywords": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "nuclear-6453-23",
       "name": "Transmissão ilícita de informação nuclear sigilosa",
       "article": "art. 23",
@@ -7335,6 +8125,24 @@
       "canCalculate": true
     },
     {
+      "id": "transporte-eleitoral-6091-11-iii",
+      "name": "Transporte ou alimentação eleitoral proibidos",
+      "article": "art. 11, III",
+      "law": "Lei nº 6.091/1974",
+      "category": "Transporte eleitoral",
+      "minimum": 4,
+      "maximum": 6,
+      "penalty": "Reclusão, de 4 a 6 anos, e 200 a 300 dias-multa.",
+      "keywords": [
+        "transporte eleitoral",
+        "alimentação",
+        "eleição"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "transplante-17",
       "name": "Transporte ou distribuição de material ilícito",
       "article": "art. 17",
@@ -7351,6 +8159,24 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9434.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "esporte-14597-201",
+      "name": "Tumulto, violência ou invasão em evento esportivo",
+      "article": "art. 201",
+      "law": "Lei nº 14.597/2023",
+      "category": "Lei Geral do Esporte",
+      "minimum": 1,
+      "maximum": 2,
+      "penalty": "Reclusão, de 1 a 2 anos, e multa, com majorantes e sanções impeditivas específicas.",
+      "keywords": [
+        "violência esportiva",
+        "tumulto",
+        "torcedor"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14597.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "ambiental-56-3",
@@ -7423,6 +8249,41 @@
       "canCalculate": false
     },
     {
+      "id": "eleicoes-9504-40",
+      "name": "Uso de símbolos de órgãos públicos na propaganda",
+      "article": "art. 40",
+      "law": "Lei nº 9.504/1997",
+      "category": "Normas para eleições",
+      "minimum": 0.5,
+      "maximum": 1,
+      "penalty": "Detenção, de 6 meses a 1 ano, alternativa de prestação de serviços à comunidade pelo mesmo período, e multa de 10.000 a 20.000 UFIR.",
+      "keywords": [
+        "propaganda eleitoral",
+        "símbolos públicos"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9504.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "biosseguranca-11105-28",
+      "name": "Uso de tecnologia genética de restrição",
+      "article": "art. 28",
+      "law": "Lei nº 11.105/2005",
+      "category": "Biossegurança",
+      "minimum": 2,
+      "maximum": 5,
+      "penalty": "Reclusão, de 2 a 5 anos, e multa.",
+      "keywords": [
+        "biossegurança",
+        "tecnologia genética",
+        "restrição de uso"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11105.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "contravencao-3688-46",
       "name": "Uso ilegítimo de uniforme ou distintivo",
       "article": "art. 46",
@@ -7436,6 +8297,24 @@
         "distintivo"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "prefeito-201-1-ii",
+      "name": "Uso indevido de bens, rendas ou serviços públicos",
+      "article": "art. 1º, II",
+      "law": "Decreto-Lei nº 201/1967",
+      "category": "Crimes de responsabilidade municipal",
+      "minimum": 2,
+      "maximum": 12,
+      "penalty": "Reclusão, de 2 a 12 anos.",
+      "keywords": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -7454,6 +8333,24 @@
         "propaganda"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9279.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "biosseguranca-11105-24",
+      "name": "Uso irregular de embrião humano",
+      "article": "art. 24",
+      "law": "Lei nº 11.105/2005",
+      "category": "Biossegurança",
+      "minimum": 0.08333333333333333,
+      "maximum": 0.25,
+      "penalty": "Detenção, de 1 a 3 anos, e multa.",
+      "keywords": [
+        "biossegurança",
+        "embrião humano",
+        "células-tronco"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11105.htm",
       "validationState": "pendente",
       "canCalculate": false
     },

@@ -1,9 +1,9 @@
 {
   "versaoEsquema": "1.0.0",
   "dataCorte": "2026-08-17",
-  "fontesPrevistas": 97,
+  "fontesPrevistas": 99,
   "fontesAuditadas": 4,
-  "fontesPendentes": 93,
+  "fontesPendentes": 95,
   "fontes": [
     {
       "id": "fonte-7a0138fba168",
@@ -526,6 +526,16 @@
       "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
     },
     {
+      "id": "fonte-491bdb097c48",
+      "norma": "Lei nº 14.597/2023",
+      "assunto": "Lei Geral do Esporte",
+      "bloco": "Fonte de registro penal",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14597.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Fonte associada a registro pendente de conferência."
+    },
+    {
       "id": "fonte-9fc4a7cded56",
       "norma": "Lei nº 14.688/2023",
       "assunto": "Alterações no Código Penal Militar e no Código de Processo Penal Militar",
@@ -534,6 +544,16 @@
       "dataConsulta": "2026-08-17",
       "estadoConferencia": "pendente",
       "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-9b7aeb6d79e3",
+      "norma": "Lei nº 14.785/2023",
+      "assunto": "Agrotóxicos e produtos de controle ambiental",
+      "bloco": "Fonte de registro penal",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14785.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Fonte associada a registro pendente de conferência."
     },
     {
       "id": "fonte-805acce5afe4",

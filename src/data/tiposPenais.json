@@ -3,15 +3,17 @@
   "versaoCatalogo": "0.1.0-incremental",
   "dataCorte": "2026-08-17",
   "estadoGeral": "incompleto",
-  "identificadorVersao": "cntp-br-2026-08-17-5212dc76adf4cf67",
-  "quantidadeTotalAtiva": 450,
+  "identificadorVersao": "cntp-br-2026-08-17-93c34d2c9c842b01",
+  "quantidadeTotalAtiva": 500,
   "quantidadePorModulo": {
     "Código Penal": 55,
     "Pessoa com deficiência": 5,
     "Estatuto da Pessoa Idosa": 15,
+    "Crimes de responsabilidade municipal": 23,
     "Estado Democrático de Direito": 9,
     "Crimes contra a ordem econômica": 1,
     "Contravenções": 47,
+    "Normas para eleições": 10,
     "Crimes em licitações e contratos administrativos": 12,
     "Trânsito": 15,
     "Crimes contra relações de consumo": 12,
@@ -27,6 +29,7 @@
     "Drogas": 8,
     "Terrorismo": 4,
     "Interceptação de comunicações": 2,
+    "Biossegurança": 6,
     "Propriedade industrial": 12,
     "Armas": 7,
     "Ordem econômica": 2,
@@ -35,8 +38,10 @@
     "Crimes tributários": 4,
     "Crimes contra o consumo": 1,
     "Economia popular": 3,
+    "Transporte eleitoral": 5,
     "Lei Henry Borel": 2,
     "Telecomunicações": 1,
+    "Agrotóxicos e produtos de controle ambiental": 2,
     "Crimes raciais": 18,
     "Crimes contra pessoas com deficiência": 1,
     "Discriminação por HIV": 1,
@@ -44,6 +49,7 @@
     "Planejamento familiar": 4,
     "Crimes contra indígenas": 3,
     "Crimes nucleares": 8,
+    "Lei Geral do Esporte": 4,
     "Lavagem de dinheiro": 1,
     "Crimes de tortura": 4
   },
@@ -51,7 +57,7 @@
   "fontesAuditadas": 4,
   "registrosInventariados": 212,
   "registrosEnriquecidos": 0,
-  "registrosPendentes": 238,
+  "registrosPendentes": 288,
   "modulosPendentes": [
     "1 Codificações e diplomas estruturantes",
     "2 Núcleo da legislação penal especial",
@@ -26936,6 +26942,3003 @@
         "concorrência desleal",
         "segredo empresarial",
         "clientela"
+      ]
+    },
+    {
+      "id": "esporte-14597-198",
+      "nomeJuridico": "Solicitação ou aceitação de vantagem para manipulação esportiva",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Lei Geral do Esporte",
+      "norma": "Lei nº 14.597/2023",
+      "dispositivo": "art. 198",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Solicitar ou aceitar vantagem ou promessa para ato ou omissão destinado a alterar ou falsear resultado de competição esportiva ou evento associado.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 72,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 6 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime localizado na Lei Geral do Esporte vigente; cálculo bloqueado até auditoria de majorantes, competência, ação penal e sanção impeditiva de comparecimento."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14597.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 14.597/2023"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "manipulação de resultado",
+        "vantagem",
+        "competição esportiva"
+      ]
+    },
+    {
+      "id": "esporte-14597-199",
+      "nomeJuridico": "Oferta de vantagem para manipulação esportiva",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Lei Geral do Esporte",
+      "norma": "Lei nº 14.597/2023",
+      "dispositivo": "art. 199",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Dar ou prometer vantagem patrimonial ou não patrimonial para alterar ou falsear resultado de competição esportiva ou evento associado.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 72,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 6 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime localizado na Lei Geral do Esporte vigente; cálculo bloqueado até auditoria de majorantes, competência, ação penal e sanção impeditiva de comparecimento."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14597.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 14.597/2023"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "manipulação de resultado",
+        "vantagem",
+        "esporte"
+      ]
+    },
+    {
+      "id": "esporte-14597-200",
+      "nomeJuridico": "Fraude de resultado de competição esportiva",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Lei Geral do Esporte",
+      "norma": "Lei nº 14.597/2023",
+      "dispositivo": "art. 200",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Fraudar ou contribuir para fraudar de qualquer forma o resultado de competição esportiva ou evento associado.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 72,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 6 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime localizado na Lei Geral do Esporte vigente; cálculo bloqueado até auditoria de majorantes, competência, ação penal e sanção impeditiva de comparecimento."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14597.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 14.597/2023"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "fraude esportiva",
+        "resultado",
+        "competição"
+      ]
+    },
+    {
+      "id": "esporte-14597-201",
+      "nomeJuridico": "Tumulto, violência ou invasão em evento esportivo",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Lei Geral do Esporte",
+      "norma": "Lei nº 14.597/2023",
+      "dispositivo": "art. 201",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Promover tumulto, praticar ou incitar violência ou invadir local restrito a competidores ou árbitros em evento esportivo, incluindo condutas de torcedores nas hipóteses legais.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 24,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 2 anos, e multa, com majorantes e sanções impeditivas específicas.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime localizado na Lei Geral do Esporte vigente; cálculo bloqueado até auditoria de majorantes, competência, ação penal e sanção impeditiva de comparecimento."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14597.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 14.597/2023"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "violência esportiva",
+        "tumulto",
+        "torcedor"
+      ]
+    },
+    {
+      "id": "agrotoxicos-14785-56",
+      "nomeJuridico": "Produção ou comércio não autorizado de agrotóxicos",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Agrotóxicos e produtos de controle ambiental",
+      "norma": "Lei nº 14.785/2023",
+      "dispositivo": "art. 56",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Produzir, armazenar, transportar, importar, utilizar ou comercializar agrotóxicos, produtos de controle ambiental ou afins não registrados ou não autorizados.",
+      "pena": {
+        "minimoMeses": 36,
+        "maximoMeses": 108,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 3 a 9 anos, e multa, com majorantes por dano patrimonial ou ambiental.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime localizado na lei vigente de agrotóxicos; cálculo bloqueado até auditoria das majorantes, regulamentação e enriquecimento jurídico."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14785.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 14.785/2023"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "agrotóxicos",
+        "registro",
+        "produto de controle ambiental"
+      ]
+    },
+    {
+      "id": "agrotoxicos-14785-57",
+      "nomeJuridico": "Destinação irregular de resíduos de agrotóxicos",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Agrotóxicos e produtos de controle ambiental",
+      "norma": "Lei nº 14.785/2023",
+      "dispositivo": "art. 57",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Produzir, importar, comercializar ou dar destinação a resíduos e embalagens vazias de agrotóxicos, produtos de controle ambiental ou afins em desacordo com a lei.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 4 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime localizado na lei vigente de agrotóxicos; cálculo bloqueado até auditoria das majorantes, regulamentação e enriquecimento jurídico."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14785.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 14.785/2023"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "agrotóxicos",
+        "resíduos",
+        "embalagens"
+      ]
+    },
+    {
+      "id": "prefeito-201-1-i",
+      "nomeJuridico": "Apropriação ou desvio de bens e rendas públicas",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes de responsabilidade municipal",
+      "norma": "Decreto-Lei nº 201/1967",
+      "dispositivo": "art. 1º, I",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Apropriar-se de bens ou rendas públicas ou desviá-los em proveito próprio ou alheio.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 144,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 12 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime judicial de responsabilidade municipal localizado em fonte oficial; cálculo bloqueado até auditoria de leis modificadoras, sujeito ativo, competência e sanções acessórias."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 201/1967"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "Prefeito municipal",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": "pública",
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ]
+    },
+    {
+      "id": "prefeito-201-1-ii",
+      "nomeJuridico": "Uso indevido de bens, rendas ou serviços públicos",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes de responsabilidade municipal",
+      "norma": "Decreto-Lei nº 201/1967",
+      "dispositivo": "art. 1º, II",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Utilizar-se indevidamente, em proveito próprio ou alheio, de bens, rendas ou serviços públicos.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 144,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 12 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime judicial de responsabilidade municipal localizado em fonte oficial; cálculo bloqueado até auditoria de leis modificadoras, sujeito ativo, competência e sanções acessórias."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 201/1967"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "Prefeito municipal",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": "pública",
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ]
+    },
+    {
+      "id": "prefeito-201-1-iii",
+      "nomeJuridico": "Desvio ou aplicação indevida de verbas públicas",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes de responsabilidade municipal",
+      "norma": "Decreto-Lei nº 201/1967",
+      "dispositivo": "art. 1º, III",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Desviar ou aplicar indevidamente rendas ou verbas públicas.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 3 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime judicial de responsabilidade municipal localizado em fonte oficial; cálculo bloqueado até auditoria de leis modificadoras, sujeito ativo, competência e sanções acessórias."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 201/1967"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "Prefeito municipal",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": "pública",
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ]
+    },
+    {
+      "id": "prefeito-201-1-iv",
+      "nomeJuridico": "Emprego irregular de subvenções e recursos",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes de responsabilidade municipal",
+      "norma": "Decreto-Lei nº 201/1967",
+      "dispositivo": "art. 1º, IV",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Empregar subvenções, auxílios, empréstimos ou recursos em desacordo com planos ou programas.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 3 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime judicial de responsabilidade municipal localizado em fonte oficial; cálculo bloqueado até auditoria de leis modificadoras, sujeito ativo, competência e sanções acessórias."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 201/1967"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "Prefeito municipal",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": "pública",
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ]
+    },
+    {
+      "id": "prefeito-201-1-v",
+      "nomeJuridico": "Despesa pública não autorizada",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes de responsabilidade municipal",
+      "norma": "Decreto-Lei nº 201/1967",
+      "dispositivo": "art. 1º, V",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Ordenar ou efetuar despesas não autorizadas por lei ou em desacordo com normas financeiras.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 3 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime judicial de responsabilidade municipal localizado em fonte oficial; cálculo bloqueado até auditoria de leis modificadoras, sujeito ativo, competência e sanções acessórias."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 201/1967"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "Prefeito municipal",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": "pública",
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ]
+    },
+    {
+      "id": "prefeito-201-1-vi",
+      "nomeJuridico": "Omissão de contas anuais municipais",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes de responsabilidade municipal",
+      "norma": "Decreto-Lei nº 201/1967",
+      "dispositivo": "art. 1º, VI",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Deixar de prestar contas anuais da administração financeira do Município à Câmara ou órgão competente.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 3 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime judicial de responsabilidade municipal localizado em fonte oficial; cálculo bloqueado até auditoria de leis modificadoras, sujeito ativo, competência e sanções acessórias."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 201/1967"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "Prefeito municipal",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": "pública",
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ]
+    },
+    {
+      "id": "prefeito-201-1-vii",
+      "nomeJuridico": "Omissão de contas de recursos recebidos",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes de responsabilidade municipal",
+      "norma": "Decreto-Lei nº 201/1967",
+      "dispositivo": "art. 1º, VII",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Deixar de prestar contas no tempo devido da aplicação de recursos, empréstimos, subvenções ou auxílios recebidos.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 3 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime judicial de responsabilidade municipal localizado em fonte oficial; cálculo bloqueado até auditoria de leis modificadoras, sujeito ativo, competência e sanções acessórias."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 201/1967"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "Prefeito municipal",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": "pública",
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ]
+    },
+    {
+      "id": "prefeito-201-1-viii",
+      "nomeJuridico": "Empréstimo ou título municipal sem autorização",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes de responsabilidade municipal",
+      "norma": "Decreto-Lei nº 201/1967",
+      "dispositivo": "art. 1º, VIII",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Contrair empréstimo, emitir apólices ou obrigar o Município por títulos sem autorização da Câmara ou em desacordo com a lei.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 3 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime judicial de responsabilidade municipal localizado em fonte oficial; cálculo bloqueado até auditoria de leis modificadoras, sujeito ativo, competência e sanções acessórias."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 201/1967"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "Prefeito municipal",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": "pública",
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ]
+    },
+    {
+      "id": "prefeito-201-1-ix",
+      "nomeJuridico": "Concessão irregular de empréstimo ou subvenção",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes de responsabilidade municipal",
+      "norma": "Decreto-Lei nº 201/1967",
+      "dispositivo": "art. 1º, IX",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Conceder empréstimos, auxílios ou subvenções sem autorização da Câmara ou em desacordo com a lei.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 3 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime judicial de responsabilidade municipal localizado em fonte oficial; cálculo bloqueado até auditoria de leis modificadoras, sujeito ativo, competência e sanções acessórias."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 201/1967"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "Prefeito municipal",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": "pública",
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ]
+    },
+    {
+      "id": "prefeito-201-1-x",
+      "nomeJuridico": "Alienação ou oneração irregular de bens municipais",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes de responsabilidade municipal",
+      "norma": "Decreto-Lei nº 201/1967",
+      "dispositivo": "art. 1º, X",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Alienar ou onerar bens imóveis ou rendas municipais sem autorização da Câmara ou em desacordo com a lei.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 3 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime judicial de responsabilidade municipal localizado em fonte oficial; cálculo bloqueado até auditoria de leis modificadoras, sujeito ativo, competência e sanções acessórias."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 201/1967"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "Prefeito municipal",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": "pública",
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ]
+    },
+    {
+      "id": "prefeito-201-1-xi",
+      "nomeJuridico": "Contratação pública sem concorrência exigida",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes de responsabilidade municipal",
+      "norma": "Decreto-Lei nº 201/1967",
+      "dispositivo": "art. 1º, XI",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Adquirir bens ou realizar serviços e obras sem concorrência ou coleta de preços nos casos exigidos.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 3 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime judicial de responsabilidade municipal localizado em fonte oficial; cálculo bloqueado até auditoria de leis modificadoras, sujeito ativo, competência e sanções acessórias."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 201/1967"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "Prefeito municipal",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": "pública",
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ]
+    },
+    {
+      "id": "prefeito-201-1-xii",
+      "nomeJuridico": "Inversão indevida da ordem de pagamentos",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes de responsabilidade municipal",
+      "norma": "Decreto-Lei nº 201/1967",
+      "dispositivo": "art. 1º, XII",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Antecipar ou inverter a ordem de pagamento a credores do Município sem vantagem para o erário.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 3 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime judicial de responsabilidade municipal localizado em fonte oficial; cálculo bloqueado até auditoria de leis modificadoras, sujeito ativo, competência e sanções acessórias."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 201/1967"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "Prefeito municipal",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": "pública",
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ]
+    },
+    {
+      "id": "prefeito-201-1-xiii",
+      "nomeJuridico": "Nomeação irregular de servidor",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes de responsabilidade municipal",
+      "norma": "Decreto-Lei nº 201/1967",
+      "dispositivo": "art. 1º, XIII",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Nomear, admitir ou designar servidor contra expressa disposição de lei.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 3 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime judicial de responsabilidade municipal localizado em fonte oficial; cálculo bloqueado até auditoria de leis modificadoras, sujeito ativo, competência e sanções acessórias."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 201/1967"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "Prefeito municipal",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": "pública",
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ]
+    },
+    {
+      "id": "prefeito-201-1-xiv",
+      "nomeJuridico": "Descumprimento injustificado de lei ou ordem judicial",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes de responsabilidade municipal",
+      "norma": "Decreto-Lei nº 201/1967",
+      "dispositivo": "art. 1º, XIV",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Negar execução a lei federal, estadual ou municipal ou deixar de cumprir ordem judicial sem justificar a recusa ou impossibilidade por escrito.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 3 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime judicial de responsabilidade municipal localizado em fonte oficial; cálculo bloqueado até auditoria de leis modificadoras, sujeito ativo, competência e sanções acessórias."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 201/1967"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "Prefeito municipal",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": "pública",
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ]
+    },
+    {
+      "id": "prefeito-201-1-xv",
+      "nomeJuridico": "Omissão de certidão de ato ou contrato municipal",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes de responsabilidade municipal",
+      "norma": "Decreto-Lei nº 201/1967",
+      "dispositivo": "art. 1º, XV",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Deixar de fornecer certidões de atos ou contratos municipais dentro do prazo legal.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 3 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime judicial de responsabilidade municipal localizado em fonte oficial; cálculo bloqueado até auditoria de leis modificadoras, sujeito ativo, competência e sanções acessórias."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 201/1967"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "Prefeito municipal",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": "pública",
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ]
+    },
+    {
+      "id": "prefeito-201-1-xvi",
+      "nomeJuridico": "Omissão na redução da dívida consolidada",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes de responsabilidade municipal",
+      "norma": "Decreto-Lei nº 201/1967",
+      "dispositivo": "art. 1º, XVI",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Deixar de ordenar redução da dívida consolidada quando ultrapassado o limite máximo fixado pelo Senado.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 3 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime judicial de responsabilidade municipal localizado em fonte oficial; cálculo bloqueado até auditoria de leis modificadoras, sujeito ativo, competência e sanções acessórias."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 201/1967"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "Prefeito municipal",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": "pública",
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ]
+    },
+    {
+      "id": "prefeito-201-1-xvii",
+      "nomeJuridico": "Abertura irregular de crédito público",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes de responsabilidade municipal",
+      "norma": "Decreto-Lei nº 201/1967",
+      "dispositivo": "art. 1º, XVII",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Ordenar ou autorizar abertura de crédito em desacordo com limites do Senado, sem fundamento orçamentário ou com inobservância legal.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 3 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime judicial de responsabilidade municipal localizado em fonte oficial; cálculo bloqueado até auditoria de leis modificadoras, sujeito ativo, competência e sanções acessórias."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 201/1967"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "Prefeito municipal",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": "pública",
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ]
+    },
+    {
+      "id": "prefeito-201-1-xviii",
+      "nomeJuridico": "Omissão de cancelamento ou reserva de operação de crédito",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes de responsabilidade municipal",
+      "norma": "Decreto-Lei nº 201/1967",
+      "dispositivo": "art. 1º, XVIII",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Deixar de promover cancelamento, amortização ou reserva para anular efeitos de operação de crédito irregular.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 3 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime judicial de responsabilidade municipal localizado em fonte oficial; cálculo bloqueado até auditoria de leis modificadoras, sujeito ativo, competência e sanções acessórias."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 201/1967"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "Prefeito municipal",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": "pública",
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ]
+    },
+    {
+      "id": "prefeito-201-1-xix",
+      "nomeJuridico": "Omissão na liquidação de antecipação de receita",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes de responsabilidade municipal",
+      "norma": "Decreto-Lei nº 201/1967",
+      "dispositivo": "art. 1º, XIX",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Deixar de promover liquidação integral de operação de crédito por antecipação de receita até o encerramento do exercício.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 3 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime judicial de responsabilidade municipal localizado em fonte oficial; cálculo bloqueado até auditoria de leis modificadoras, sujeito ativo, competência e sanções acessórias."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 201/1967"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "Prefeito municipal",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": "pública",
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ]
+    },
+    {
+      "id": "prefeito-201-1-xx",
+      "nomeJuridico": "Operação de crédito irregular entre entes federativos",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes de responsabilidade municipal",
+      "norma": "Decreto-Lei nº 201/1967",
+      "dispositivo": "art. 1º, XX",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Ordenar ou autorizar operação de crédito ilegal com outro ente da Federação ou entidade da administração indireta.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 3 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime judicial de responsabilidade municipal localizado em fonte oficial; cálculo bloqueado até auditoria de leis modificadoras, sujeito ativo, competência e sanções acessórias."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 201/1967"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "Prefeito municipal",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": "pública",
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ]
+    },
+    {
+      "id": "prefeito-201-1-xxi",
+      "nomeJuridico": "Antecipação de receita tributária futura",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes de responsabilidade municipal",
+      "norma": "Decreto-Lei nº 201/1967",
+      "dispositivo": "art. 1º, XXI",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Captar recursos a título de antecipação de receita de tributo ou contribuição cujo fato gerador ainda não ocorreu.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 3 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime judicial de responsabilidade municipal localizado em fonte oficial; cálculo bloqueado até auditoria de leis modificadoras, sujeito ativo, competência e sanções acessórias."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 201/1967"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "Prefeito municipal",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": "pública",
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ]
+    },
+    {
+      "id": "prefeito-201-1-xxii",
+      "nomeJuridico": "Desvio de recursos de emissão de títulos",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes de responsabilidade municipal",
+      "norma": "Decreto-Lei nº 201/1967",
+      "dispositivo": "art. 1º, XXII",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Ordenar ou autorizar destinação de recursos provenientes de títulos para finalidade diversa da prevista na lei autorizadora.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 3 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime judicial de responsabilidade municipal localizado em fonte oficial; cálculo bloqueado até auditoria de leis modificadoras, sujeito ativo, competência e sanções acessórias."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 201/1967"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "Prefeito municipal",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": "pública",
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ]
+    },
+    {
+      "id": "prefeito-201-1-xxiii",
+      "nomeJuridico": "Transferência voluntária irregular",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes de responsabilidade municipal",
+      "norma": "Decreto-Lei nº 201/1967",
+      "dispositivo": "art. 1º, XXIII",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Realizar ou receber transferência voluntária em desacordo com limite ou condição legal.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 3 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime judicial de responsabilidade municipal localizado em fonte oficial; cálculo bloqueado até auditoria de leis modificadoras, sujeito ativo, competência e sanções acessórias."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 201/1967"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "Prefeito municipal",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": "pública",
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "prefeito",
+        "crime de responsabilidade",
+        "município"
+      ]
+    },
+    {
+      "id": "transporte-eleitoral-6091-11-i",
+      "nomeJuridico": "Omissão ou informação inexata sobre veículos eleitorais",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "eleitoral",
+      "modulo": "Transporte eleitoral",
+      "norma": "Lei nº 6.091/1974",
+      "dispositivo": "art. 11, I",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Descumprir dever de informar veículos ou prestar informação inexata para elidir a contribuição legal ao transporte eleitoral.",
+      "pena": {
+        "minimoMeses": 0.5,
+        "maximoMeses": 6,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 15 dias a 6 meses, e 60 a 100 dias-multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime eleitoral localizado em fonte oficial; cálculo bloqueado até suporte a dias-multa, reconciliação com o Código Eleitoral e análise da sanção de cancelamento de registro."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 6.091/1974"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "eleitoral",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "transporte eleitoral",
+        "informação",
+        "veículos"
+      ]
+    },
+    {
+      "id": "transporte-eleitoral-6091-11-ii",
+      "nomeJuridico": "Desatendimento de requisição de transporte eleitoral",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "eleitoral",
+      "modulo": "Transporte eleitoral",
+      "norma": "Lei nº 6.091/1974",
+      "dispositivo": "art. 11, II",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Desatender requisição judicial eleitoral de veículos ou embarcações para transporte de eleitores.",
+      "pena": {
+        "minimoMeses": null,
+        "maximoMeses": null,
+        "unidadePrincipal": "meses",
+        "descricao": "Pagamento de 200 a 300 dias-multa e apreensão do veículo.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime eleitoral localizado em fonte oficial; cálculo bloqueado até suporte a dias-multa, reconciliação com o Código Eleitoral e análise da sanção de cancelamento de registro."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 6.091/1974"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "eleitoral",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "transporte eleitoral",
+        "requisição",
+        "dias-multa"
+      ]
+    },
+    {
+      "id": "transporte-eleitoral-6091-11-iii",
+      "nomeJuridico": "Transporte ou alimentação eleitoral proibidos",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "eleitoral",
+      "modulo": "Transporte eleitoral",
+      "norma": "Lei nº 6.091/1974",
+      "dispositivo": "art. 11, III",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Descumprir proibições legais de transporte ou alimentação de eleitores em período eleitoral.",
+      "pena": {
+        "minimoMeses": 48,
+        "maximoMeses": 72,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 4 a 6 anos, e 200 a 300 dias-multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime eleitoral localizado em fonte oficial; cálculo bloqueado até suporte a dias-multa, reconciliação com o Código Eleitoral e análise da sanção de cancelamento de registro."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 6.091/1974"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "eleitoral",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "transporte eleitoral",
+        "alimentação",
+        "eleição"
+      ]
+    },
+    {
+      "id": "transporte-eleitoral-6091-11-iv",
+      "nomeJuridico": "Obstrução de serviço eleitoral de transporte ou alimentação",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "eleitoral",
+      "modulo": "Transporte eleitoral",
+      "norma": "Lei nº 6.091/1974",
+      "dispositivo": "art. 11, IV",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Obstar a prestação dos serviços de transporte ou alimentação de eleitores atribuídos à Justiça Eleitoral.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 4 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime eleitoral localizado em fonte oficial; cálculo bloqueado até suporte a dias-multa, reconciliação com o Código Eleitoral e análise da sanção de cancelamento de registro."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 6.091/1974"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "eleitoral",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "transporte eleitoral",
+        "obstrução",
+        "Justiça Eleitoral"
+      ]
+    },
+    {
+      "id": "transporte-eleitoral-6091-11-pu",
+      "nomeJuridico": "Responsabilidade do guardião de veículo eleitoral",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "eleitoral",
+      "modulo": "Transporte eleitoral",
+      "norma": "Lei nº 6.091/1974",
+      "dispositivo": "art. 11, parágrafo único",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Responsável pela guarda de veículo ou embarcação utilizado em infração do art. 11.",
+      "pena": {
+        "minimoMeses": 0.5,
+        "maximoMeses": 6,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 15 dias a 6 meses, e 60 a 100 dias-multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime eleitoral localizado em fonte oficial; cálculo bloqueado até suporte a dias-multa, reconciliação com o Código Eleitoral e análise da sanção de cancelamento de registro."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 6.091/1974"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "eleitoral",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "transporte eleitoral",
+        "guarda de veículo"
+      ]
+    },
+    {
+      "id": "eleicoes-9504-33-4",
+      "nomeJuridico": "Divulgação de pesquisa eleitoral fraudulenta",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "eleitoral",
+      "modulo": "Normas para eleições",
+      "norma": "Lei nº 9.504/1997",
+      "dispositivo": "art. 33, § 4º",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Divulgar pesquisa eleitoral fraudulenta.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 1 ano, e multa de 50.000 a 100.000 UFIR.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo penal localizado no texto oficial da Lei nº 9.504/1997; penas pecuniárias em UFIR ou disposições tecnológicas exigem reconciliação normativa e validação temporal antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9504.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.504/1997"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "eleitoral",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "pesquisa eleitoral",
+        "fraude",
+        "divulgação"
+      ]
+    },
+    {
+      "id": "eleicoes-9504-34-2",
+      "nomeJuridico": "Obstrução da fiscalização de pesquisa eleitoral",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "eleitoral",
+      "modulo": "Normas para eleições",
+      "norma": "Lei nº 9.504/1997",
+      "dispositivo": "art. 34, § 2º",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Descumprir o dever de franquear acesso ao sistema de controle de pesquisa ou retardar, impedir ou dificultar a fiscalização dos partidos.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 1 ano, alternativa de prestação de serviços à comunidade pelo mesmo prazo, e multa de 10.000 a 20.000 UFIR.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo penal localizado no texto oficial da Lei nº 9.504/1997; penas pecuniárias em UFIR ou disposições tecnológicas exigem reconciliação normativa e validação temporal antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9504.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.504/1997"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "eleitoral",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "pesquisa eleitoral",
+        "fiscalização",
+        "obstrução"
+      ]
+    },
+    {
+      "id": "eleicoes-9504-34-3",
+      "nomeJuridico": "Irregularidade em dados de pesquisa eleitoral",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "eleitoral",
+      "modulo": "Normas para eleições",
+      "norma": "Lei nº 9.504/1997",
+      "dispositivo": "art. 34, § 3º",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Comprovar irregularidade nos dados publicados em pesquisa eleitoral.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Penas do art. 34, § 2º: detenção, de 6 meses a 1 ano, alternativa de prestação de serviços à comunidade pelo mesmo prazo, e multa de 10.000 a 20.000 UFIR.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo penal localizado no texto oficial da Lei nº 9.504/1997; penas pecuniárias em UFIR ou disposições tecnológicas exigem reconciliação normativa e validação temporal antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9504.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.504/1997"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "eleitoral",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "pesquisa eleitoral",
+        "dados irregulares"
+      ]
+    },
+    {
+      "id": "eleicoes-9504-40",
+      "nomeJuridico": "Uso de símbolos de órgãos públicos na propaganda",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "eleitoral",
+      "modulo": "Normas para eleições",
+      "norma": "Lei nº 9.504/1997",
+      "dispositivo": "art. 40",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Usar, em propaganda eleitoral, símbolos, frases ou imagens associados ou semelhantes aos empregados por órgão de governo, empresa pública ou sociedade de economia mista.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 1 ano, alternativa de prestação de serviços à comunidade pelo mesmo período, e multa de 10.000 a 20.000 UFIR.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo penal localizado no texto oficial da Lei nº 9.504/1997; penas pecuniárias em UFIR ou disposições tecnológicas exigem reconciliação normativa e validação temporal antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9504.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.504/1997"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "eleitoral",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "propaganda eleitoral",
+        "símbolos públicos"
+      ]
+    },
+    {
+      "id": "eleicoes-9504-68-2",
+      "nomeJuridico": "Recusa de entrega de cópia do boletim de urna",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "eleitoral",
+      "modulo": "Normas para eleições",
+      "norma": "Lei nº 9.504/1997",
+      "dispositivo": "art. 68, § 2º",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Deixar de entregar ao partido ou coligação concorrente cópia do boletim de urna requerida no prazo legal.",
+      "pena": {
+        "minimoMeses": 1,
+        "maximoMeses": 3,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 3 meses, alternativa de prestação de serviço à comunidade pelo mesmo período, e multa de 1.000 a 5.000 UFIR.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo penal localizado no texto oficial da Lei nº 9.504/1997; penas pecuniárias em UFIR ou disposições tecnológicas exigem reconciliação normativa e validação temporal antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9504.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.504/1997"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "eleitoral",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "boletim de urna",
+        "fiscalização eleitoral"
+      ]
+    },
+    {
+      "id": "eleicoes-9504-72-i",
+      "nomeJuridico": "Acesso indevido a sistema eleitoral para alterar votos",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "eleitoral",
+      "modulo": "Normas para eleições",
+      "norma": "Lei nº 9.504/1997",
+      "dispositivo": "art. 72, I",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Obter acesso a sistema de tratamento automático de dados usado pelo serviço eleitoral para alterar a apuração ou a contagem de votos.",
+      "pena": {
+        "minimoMeses": 60,
+        "maximoMeses": 120,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 5 a 10 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo penal localizado no texto oficial da Lei nº 9.504/1997; penas pecuniárias em UFIR ou disposições tecnológicas exigem reconciliação normativa e validação temporal antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9504.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.504/1997"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "eleitoral",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "sistema eleitoral",
+        "votos",
+        "acesso indevido"
+      ]
+    },
+    {
+      "id": "eleicoes-9504-72-ii",
+      "nomeJuridico": "Introdução de comando ou programa lesivo em sistema eleitoral",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "eleitoral",
+      "modulo": "Normas para eleições",
+      "norma": "Lei nº 9.504/1997",
+      "dispositivo": "art. 72, II",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Desenvolver ou introduzir comando, instrução ou programa capaz de alterar dados, instruções ou programas, ou provocar resultado diverso do esperado em sistema eleitoral.",
+      "pena": {
+        "minimoMeses": 60,
+        "maximoMeses": 120,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 5 a 10 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo penal localizado no texto oficial da Lei nº 9.504/1997; penas pecuniárias em UFIR ou disposições tecnológicas exigem reconciliação normativa e validação temporal antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9504.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.504/1997"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "eleitoral",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "sistema eleitoral",
+        "programa",
+        "dados"
+      ]
+    },
+    {
+      "id": "eleicoes-9504-72-iii",
+      "nomeJuridico": "Dano físico a equipamento de votação ou totalização",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "eleitoral",
+      "modulo": "Normas para eleições",
+      "norma": "Lei nº 9.504/1997",
+      "dispositivo": "art. 72, III",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Causar propositalmente dano físico a equipamento usado na votação ou na totalização de votos ou a suas partes.",
+      "pena": {
+        "minimoMeses": 60,
+        "maximoMeses": 120,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 5 a 10 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo penal localizado no texto oficial da Lei nº 9.504/1997; penas pecuniárias em UFIR ou disposições tecnológicas exigem reconciliação normativa e validação temporal antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9504.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.504/1997"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "eleitoral",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "urna eletrônica",
+        "equipamento eleitoral",
+        "dano"
+      ]
+    },
+    {
+      "id": "eleicoes-9504-87-4",
+      "nomeJuridico": "Obstrução da fiscalização da apuração",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "eleitoral",
+      "modulo": "Normas para eleições",
+      "norma": "Lei nº 9.504/1997",
+      "dispositivo": "art. 87, § 4º",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Descumprir disposição do art. 87 sobre a observação pelos fiscais e delegados dos partidos ou coligações durante a apuração.",
+      "pena": {
+        "minimoMeses": 1,
+        "maximoMeses": 3,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 3 meses, alternativa de prestação de serviços à comunidade pelo mesmo período, e multa de 1.000 a 5.000 UFIR.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo penal localizado no texto oficial da Lei nº 9.504/1997; penas pecuniárias em UFIR ou disposições tecnológicas exigem reconciliação normativa e validação temporal antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9504.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.504/1997"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "eleitoral",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "apuração eleitoral",
+        "fiscalização",
+        "boletim"
+      ]
+    },
+    {
+      "id": "eleicoes-9504-91-pu",
+      "nomeJuridico": "Retenção de título eleitoral",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "eleitoral",
+      "modulo": "Normas para eleições",
+      "norma": "Lei nº 9.504/1997",
+      "dispositivo": "art. 91, parágrafo único",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Reter título eleitoral ou comprovante de alistamento eleitoral.",
+      "pena": {
+        "minimoMeses": 1,
+        "maximoMeses": 3,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 3 meses, alternativa de prestação de serviços à comunidade pelo mesmo período, e multa de 5.000 a 10.000 UFIR.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo penal localizado no texto oficial da Lei nº 9.504/1997; penas pecuniárias em UFIR ou disposições tecnológicas exigem reconciliação normativa e validação temporal antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9504.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.504/1997"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "eleitoral",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "título eleitoral",
+        "alistamento",
+        "retenção"
+      ]
+    },
+    {
+      "id": "biosseguranca-11105-24",
+      "nomeJuridico": "Uso irregular de embrião humano",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Biossegurança",
+      "norma": "Lei nº 11.105/2005",
+      "dispositivo": "art. 24",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Utilizar embrião humano em desacordo com o disposto no art. 5º da Lei nº 11.105/2005.",
+      "pena": {
+        "minimoMeses": 1,
+        "maximoMeses": 3,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 3 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "2005-03-24",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo penal da Lei de Biossegurança localizado em fonte oficial; inventário e enriquecimento ainda serão auditados antes de liberar o cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11105.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 11.105/2005"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "biossegurança",
+        "embrião humano",
+        "células-tronco"
+      ]
+    },
+    {
+      "id": "biosseguranca-11105-25",
+      "nomeJuridico": "Engenharia genética em célula germinal humana",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Biossegurança",
+      "norma": "Lei nº 11.105/2005",
+      "dispositivo": "art. 25",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Praticar engenharia genética em célula germinal humana, zigoto humano ou embrião humano.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 4 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "2005-03-24",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo penal da Lei de Biossegurança localizado em fonte oficial; inventário e enriquecimento ainda serão auditados antes de liberar o cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11105.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 11.105/2005"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "biossegurança",
+        "engenharia genética",
+        "célula germinal"
+      ]
+    },
+    {
+      "id": "biosseguranca-11105-26",
+      "nomeJuridico": "Clonagem humana",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Biossegurança",
+      "norma": "Lei nº 11.105/2005",
+      "dispositivo": "art. 26",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Realizar clonagem humana.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 60,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 5 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "2005-03-24",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo penal da Lei de Biossegurança localizado em fonte oficial; inventário e enriquecimento ainda serão auditados antes de liberar o cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11105.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 11.105/2005"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "biossegurança",
+        "clonagem humana"
+      ]
+    },
+    {
+      "id": "biosseguranca-11105-27",
+      "nomeJuridico": "Liberação ou descarte irregular de OGM",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Biossegurança",
+      "norma": "Lei nº 11.105/2005",
+      "dispositivo": "art. 27",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Liberar ou descartar organismo geneticamente modificado ou seus derivados no meio ambiente em desacordo com as normas legais e regulamentares.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 4 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "2005-03-24",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "O art. 27, § 2º prevê majorantes por resultado, que devem permanecer no campo de enriquecimento e não como tipos autônomos."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11105.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 11.105/2005"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "biossegurança",
+        "OGM",
+        "meio ambiente"
+      ]
+    },
+    {
+      "id": "biosseguranca-11105-28",
+      "nomeJuridico": "Uso de tecnologia genética de restrição",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Biossegurança",
+      "norma": "Lei nº 11.105/2005",
+      "dispositivo": "art. 28",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Utilizar, comercializar, registrar, patentear ou licenciar tecnologias genéticas de restrição do uso.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 60,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 5 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "2005-03-24",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo penal da Lei de Biossegurança localizado em fonte oficial; inventário e enriquecimento ainda serão auditados antes de liberar o cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11105.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 11.105/2005"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "biossegurança",
+        "tecnologia genética",
+        "restrição de uso"
+      ]
+    },
+    {
+      "id": "biosseguranca-11105-29",
+      "nomeJuridico": "Produção ou comércio irregular de OGM",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Biossegurança",
+      "norma": "Lei nº 11.105/2005",
+      "dispositivo": "art. 29",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Produzir, armazenar, transportar, comercializar, importar ou exportar organismo geneticamente modificado ou seus derivados sem autorização ou em desacordo com as normas legais e regulamentares.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 24,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 2 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "2005-03-24",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo penal da Lei de Biossegurança localizado em fonte oficial; inventário e enriquecimento ainda serão auditados antes de liberar o cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11105.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 11.105/2005"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "biossegurança",
+        "OGM",
+        "produção",
+        "importação",
+        "exportação"
       ]
     }
   ]

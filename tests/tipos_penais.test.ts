@@ -82,6 +82,12 @@ describe("catálogo canônico de tipos penais", () => {
     expect(catalog.registros.filter((record) => record.modulo === "Crimes contra pessoas com deficiência")).toHaveLength(1);
     expect(catalog.registros.filter((record) => record.modulo === "Planejamento familiar")).toHaveLength(4);
     expect(catalog.registros.filter((record) => record.modulo === "Propriedade industrial")).toHaveLength(12);
+    expect(catalog.registros.filter((record) => record.modulo === "Lei Geral do Esporte")).toHaveLength(4);
+    expect(catalog.registros.filter((record) => record.modulo === "Agrotóxicos e produtos de controle ambiental")).toHaveLength(2);
+    expect(catalog.registros.filter((record) => record.modulo === "Crimes de responsabilidade municipal")).toHaveLength(23);
+    expect(catalog.registros.filter((record) => record.modulo === "Transporte eleitoral")).toHaveLength(5);
+    expect(catalog.registros.filter((record) => record.modulo === "Normas para eleições")).toHaveLength(10);
+    expect(catalog.registros.filter((record) => record.modulo === "Biossegurança")).toHaveLength(6);
     for (const record of catalog.registros) {
       expect(record.pena.minimoMeses == null || record.pena.maximoMeses == null || record.pena.minimoMeses <= record.pena.maximoMeses).toBe(true);
       expect(record.tipoPaiId === null || ids.has(record.tipoPaiId)).toBe(true);
@@ -234,6 +240,36 @@ describe("catálogo canônico de tipos penais", () => {
       "propriedade-industrial-9279-193": [1, 3],
       "propriedade-industrial-9279-194": [1, 3],
       "propriedade-industrial-9279-195": [3, 12],
+      "esporte-14597-198": [24, 72],
+      "esporte-14597-199": [24, 72],
+      "esporte-14597-200": [24, 72],
+      "esporte-14597-201": [12, 24],
+      "agrotoxicos-14785-56": [36, 108],
+      "agrotoxicos-14785-57": [24, 48],
+      "prefeito-201-1-i": [24, 144],
+      "prefeito-201-1-ii": [24, 144],
+      "prefeito-201-1-xxiii": [3, 36],
+      "transporte-eleitoral-6091-11-i": [0.5, 6],
+      "transporte-eleitoral-6091-11-ii": [null, null],
+      "transporte-eleitoral-6091-11-iii": [48, 72],
+      "transporte-eleitoral-6091-11-iv": [24, 48],
+      "transporte-eleitoral-6091-11-pu": [0.5, 6],
+      "eleicoes-9504-33-4": [6, 12],
+      "eleicoes-9504-34-2": [6, 12],
+      "eleicoes-9504-34-3": [6, 12],
+      "eleicoes-9504-40": [6, 12],
+      "eleicoes-9504-68-2": [1, 3],
+      "eleicoes-9504-72-i": [60, 120],
+      "eleicoes-9504-72-ii": [60, 120],
+      "eleicoes-9504-72-iii": [60, 120],
+      "eleicoes-9504-87-4": [1, 3],
+      "eleicoes-9504-91-pu": [1, 3],
+      "biosseguranca-11105-24": [1, 3],
+      "biosseguranca-11105-25": [12, 48],
+      "biosseguranca-11105-26": [24, 60],
+      "biosseguranca-11105-27": [12, 48],
+      "biosseguranca-11105-28": [24, 60],
+      "biosseguranca-11105-29": [12, 24],
     };
     for (const [id, [minimum, maximum]] of Object.entries(expected)) {
       const record = byId.get(id);

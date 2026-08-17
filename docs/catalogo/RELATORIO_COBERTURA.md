@@ -1,6 +1,6 @@
 # Relatório de cobertura do catálogo penal
 
-Data de corte: **2026-08-17**. Identificador: **cntp-br-2026-08-17-5212dc76adf4cf67**.
+Data de corte: **2026-08-17**. Identificador: **cntp-br-2026-08-17-93c34d2c9c842b01**.
 
 > O estado global permanece **incompleto**. A carga abaixo é um checkpoint auditável; ela não declara conter todos os tipos penais vigentes.
 
@@ -8,22 +8,24 @@ Data de corte: **2026-08-17**. Identificador: **cntp-br-2026-08-17-5212dc76adf4c
 
 | Indicador | Quantidade |
 | --- | ---: |
-| Registros ativos na fonte canônica | 450 |
-| Crimes | 403 |
+| Registros ativos na fonte canônica | 500 |
+| Crimes | 453 |
 | Contravenções | 47 |
 | Inventário validado | 212 |
 | Enriquecimento jurídico validado | 0 |
-| Registros pendentes | 238 |
+| Registros pendentes | 288 |
 | Diplomas no inventário de normas | 88 |
 | Fontes auditadas | 4 |
-| Fontes pendentes | 93 |
+| Fontes pendentes | 95 |
 
 ## Registros por módulo
 
 | Módulo | Registros |
 | --- | ---: |
 | Abuso de autoridade | 25 |
+| Agrotóxicos e produtos de controle ambiental | 2 |
 | Armas | 7 |
+| Biossegurança | 6 |
 | Código Penal | 55 |
 | Código Penal Militar | 8 |
 | Contravenções | 47 |
@@ -34,6 +36,7 @@ Data de corte: **2026-08-17**. Identificador: **cntp-br-2026-08-17-5212dc76adf4c
 | Crimes contra o sistema financeiro | 16 |
 | Crimes contra pessoas com deficiência | 1 |
 | Crimes contra relações de consumo | 12 |
+| Crimes de responsabilidade municipal | 23 |
 | Crimes de tortura | 4 |
 | Crimes eleitorais | 39 |
 | Crimes em licitações e contratos administrativos | 12 |
@@ -51,7 +54,9 @@ Data de corte: **2026-08-17**. Identificador: **cntp-br-2026-08-17-5212dc76adf4c
 | Genocídio | 7 |
 | Interceptação de comunicações | 2 |
 | Lavagem de dinheiro | 1 |
+| Lei Geral do Esporte | 4 |
 | Lei Henry Borel | 2 |
+| Normas para eleições | 10 |
 | Ordem econômica | 2 |
 | Organização criminosa | 7 |
 | Parcelamento do solo urbano | 3 |
@@ -62,6 +67,7 @@ Data de corte: **2026-08-17**. Identificador: **cntp-br-2026-08-17-5212dc76adf4c
 | Terrorismo | 4 |
 | Trânsito | 15 |
 | Transplantes | 11 |
+| Transporte eleitoral | 5 |
 
 ## Critério de publicação
 
