@@ -1,9 +1,9 @@
 {
   "versaoEsquema": "1.0.0",
   "dataCorte": "2026-08-17",
-  "fontesPrevistas": 90,
+  "fontesPrevistas": 97,
   "fontesAuditadas": 4,
-  "fontesPendentes": 86,
+  "fontesPendentes": 93,
   "fontes": [
     {
       "id": "fonte-7a0138fba168",
@@ -64,6 +64,16 @@
       "dataConsulta": "2026-08-17",
       "estadoConferencia": "pendente",
       "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-0583b0cbf29d",
+      "norma": "Decreto-Lei nº 1.001/1969",
+      "assunto": "Código Penal Militar",
+      "bloco": "Fonte de registro penal",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del1001.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Fonte associada a registro pendente de conferência."
     },
     {
       "id": "fonte-88a212aa1dcd",
@@ -224,6 +234,16 @@
       "dataConsulta": "2026-08-17",
       "estadoConferencia": "pendente",
       "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-69204cb03d4b",
+      "norma": "Lei nº 10.741/2003",
+      "assunto": "Estatuto da Pessoa Idosa",
+      "bloco": "Fonte de registro penal",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Fonte associada a registro pendente de conferência."
     },
     {
       "id": "fonte-cf3a1e398a1e",
@@ -426,6 +446,16 @@
       "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
     },
     {
+      "id": "fonte-80404d3ef085",
+      "norma": "Lei nº 13.869/2019",
+      "assunto": "Abuso de autoridade",
+      "bloco": "Fonte de registro penal",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Fonte associada a registro pendente de conferência."
+    },
+    {
       "id": "fonte-e9a613ff8b60",
       "norma": "Lei nº 13.869/2019",
       "assunto": "Crimes de abuso de autoridade",
@@ -444,6 +474,36 @@
       "dataConsulta": "2026-08-17",
       "estadoConferencia": "pendente",
       "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-e8e6656272c4",
+      "norma": "Lei nº 14.133/2021",
+      "assunto": "Crimes em licitações e contratos administrativos",
+      "bloco": "Fonte de registro penal",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Fonte associada a registro pendente de conferência."
+    },
+    {
+      "id": "fonte-28a8de0a0e9b",
+      "norma": "Lei nº 14.197/2021",
+      "assunto": "Estado Democrático de Direito",
+      "bloco": "Fonte de registro penal",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14197.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Fonte associada a registro pendente de conferência."
+    },
+    {
+      "id": "fonte-cf6c47173e03",
+      "norma": "Lei nº 14.344/2022",
+      "assunto": "Lei Henry Borel",
+      "bloco": "Fonte de registro penal",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14344.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Fonte associada a registro pendente de conferência."
     },
     {
       "id": "fonte-ef07edd97cf9",
@@ -644,6 +704,16 @@
       "dataConsulta": "2026-08-17",
       "estadoConferencia": "pendente",
       "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-1728d7f796d2",
+      "norma": "Lei nº 8.069/1990",
+      "assunto": "ECA",
+      "bloco": "Fonte de registro penal",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Fonte associada a registro pendente de conferência."
     },
     {
       "id": "fonte-c0c929411428",

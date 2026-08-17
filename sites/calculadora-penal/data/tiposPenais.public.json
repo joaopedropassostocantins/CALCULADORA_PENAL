@@ -1,5 +1,5 @@
 {
-  "versaoCatalogo": "cntp-br-2026-08-17-8a1b307b7f4603df",
+  "versaoCatalogo": "cntp-br-2026-08-17-ddfedf7a8ab1b62e",
   "dataCorte": "2026-08-17",
   "estadoGeral": "incompleto",
   "registros": [
@@ -55,6 +55,60 @@
       "canCalculate": true
     },
     {
+      "id": "lbi-90",
+      "name": "Abandono de pessoa com deficiência",
+      "article": "art. 90",
+      "law": "Lei nº 13.146/2015",
+      "category": "Pessoa com deficiência",
+      "minimum": 2,
+      "maximum": 5,
+      "penalty": "Reclusão, de 2 a 5 anos, e multa.",
+      "keywords": [
+        "deficiência",
+        "abandono",
+        "necessidades básicas"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "idosa-10741-98",
+      "name": "Abandono de pessoa idosa",
+      "article": "art. 98",
+      "law": "Lei nº 10.741/2003",
+      "category": "Estatuto da Pessoa Idosa",
+      "minimum": 0.5,
+      "maximum": 3,
+      "penalty": "Detenção, de 6 meses a 3 anos, e multa.",
+      "keywords": [
+        "pessoa idosa",
+        "abandono",
+        "necessidades básicas"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "estado-democratico-359l",
+      "name": "Abolição violenta do Estado Democrático de Direito",
+      "article": "art. 359-L",
+      "law": "Lei nº 14.197/2021",
+      "category": "Estado Democrático de Direito",
+      "minimum": 4,
+      "maximum": 8,
+      "penalty": "Reclusão, de 4 a 8 anos, além da pena da violência.",
+      "keywords": [
+        "Estado Democrático",
+        "violência",
+        "poderes constitucionais"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14197.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "cp-126",
       "name": "Aborto provocado com consentimento",
       "article": "art. 126",
@@ -106,6 +160,59 @@
       "canCalculate": true
     },
     {
+      "id": "tributario-8137-4-i",
+      "name": "Abuso de poder econômico por ajuste ou acordo",
+      "article": "art. 4º, I",
+      "law": "Lei nº 8.137/1990",
+      "category": "Crimes contra a ordem econômica",
+      "minimum": 2,
+      "maximum": 5,
+      "penalty": "Reclusão, de 2 a 5 anos, e multa.",
+      "keywords": [
+        "abuso de poder econômico",
+        "concorrência",
+        "cartel"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8137.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "contravencao-3688-35",
+      "name": "Abuso na prática da aviação",
+      "article": "art. 35",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0.041666666666666664,
+      "maximum": 0.25,
+      "penalty": "Prisão simples, de 15 dias a 3 meses, ou multa.",
+      "keywords": [
+        "aviação",
+        "voo baixo"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "licitacao-14133-337-k",
+      "name": "Afastamento de licitante",
+      "article": "art. 337-K",
+      "law": "Lei nº 14.133/2021",
+      "category": "Crimes em licitações e contratos administrativos",
+      "minimum": 3,
+      "maximum": 5,
+      "penalty": "Reclusão, de 3 a 5 anos, e multa, além da pena da violência.",
+      "keywords": [
+        "licitação",
+        "contrato administrativo",
+        "afastamento de licitante"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "ctb-305",
       "name": "Afastamento do local do sinistro",
       "article": "art. 305",
@@ -121,6 +228,60 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
       "validationState": "pendente",
       "canCalculate": false
+    },
+    {
+      "id": "consumo-8078-66",
+      "name": "Afirmação falsa ou enganosa sobre produto ou serviço",
+      "article": "art. 66",
+      "law": "Lei nº 8.078/1990",
+      "category": "Crimes contra relações de consumo",
+      "minimum": 0.25,
+      "maximum": 1,
+      "penalty": "Detenção, de 3 meses a 1 ano, e multa.",
+      "keywords": [
+        "consumidor",
+        "relações de consumo",
+        "afirmação falsa ou enganosa sobre produto ou serviço"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "orgcrime-12850-21b",
+      "name": "Ajuste para violência contra agente ou colaborador",
+      "article": "art. 21-B",
+      "law": "Lei nº 12.850/2013",
+      "category": "Organização criminosa",
+      "minimum": 4,
+      "maximum": 12,
+      "penalty": "Reclusão, de 4 a 12 anos, e multa.",
+      "keywords": [
+        "ajuste",
+        "violência",
+        "crime organizado"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "eca-241d",
+      "name": "Aliciamento de menor de 14 anos para ato libidinoso",
+      "article": "art. 241-D",
+      "law": "Lei nº 8.069/1990",
+      "category": "ECA",
+      "minimum": 3,
+      "maximum": 5,
+      "penalty": "Reclusão, de 3 a 5 anos, e multa, se o fato não constituir crime mais grave.",
+      "keywords": [
+        "aliciamento",
+        "menor de 14 anos",
+        "ato libidinoso"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
     },
     {
       "id": "ambiental-63",
@@ -175,6 +336,94 @@
       "canCalculate": false
     },
     {
+      "id": "abuso-autoridade-38",
+      "name": "Antecipação de culpa em investigação",
+      "article": "art. 38",
+      "law": "Lei nº 13.869/2019",
+      "category": "Abuso de autoridade",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, e multa.",
+      "keywords": [
+        "presunção de inocência",
+        "antecipação de culpa"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "contravencao-3688-20",
+      "name": "Anúncio de meio abortivo",
+      "article": "art. 20",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0,
+      "maximum": 0,
+      "penalty": "Multa.",
+      "keywords": [
+        "aborto",
+        "anúncio"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "transplante-20",
+      "name": "Anúncio ou apelo público irregular sobre transplante",
+      "article": "art. 20",
+      "law": "Lei nº 9.434/1997",
+      "category": "Transplantes",
+      "minimum": 0,
+      "maximum": 0,
+      "penalty": "Multa de 100 a 200 dias-multa.",
+      "keywords": [
+        "órgãos",
+        "anúncio",
+        "apelo público"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9434.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "idosa-10741-102",
+      "name": "Apropriação de bens ou rendimentos de pessoa idosa",
+      "article": "art. 102",
+      "law": "Lei nº 10.741/2003",
+      "category": "Estatuto da Pessoa Idosa",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão, de 1 a 4 anos, e multa.",
+      "keywords": [
+        "pessoa idosa",
+        "apropriação",
+        "pensão"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "lbi-89",
+      "name": "Apropriação de rendimentos de pessoa com deficiência",
+      "article": "art. 89",
+      "law": "Lei nº 13.146/2015",
+      "category": "Pessoa com deficiência",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão, de 1 a 4 anos, e multa.",
+      "keywords": [
+        "deficiência",
+        "apropriação",
+        "benefício"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
       "id": "cp-168",
       "name": "Apropriação indébita",
       "article": "art. 168, caput",
@@ -190,6 +439,94 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "sfn-7492-5",
+      "name": "Apropriação ou desvio de bem por administrador financeiro",
+      "article": "art. 5",
+      "law": "Lei nº 7.492/1986",
+      "category": "Crimes contra o sistema financeiro",
+      "minimum": 2,
+      "maximum": 6,
+      "penalty": "Reclusão, de 2 a 6 anos, e multa.",
+      "keywords": [
+        "apropriação",
+        "desvio",
+        "instituição financeira"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7492.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "falimentar-11101-174",
+      "name": "Aquisição ou uso ilegal de bens da massa",
+      "article": "art. 174",
+      "law": "Lei nº 11.101/2005",
+      "category": "Crimes falimentares",
+      "minimum": 2,
+      "maximum": 4,
+      "penalty": "Reclusão, de 2 a 4 anos, e multa.",
+      "keywords": [
+        "falência",
+        "recuperação judicial",
+        "aquisição ou uso ilegal de bens da massa"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "eca-241b",
+      "name": "Aquisição, posse ou armazenamento de conteúdo de violência sexual",
+      "article": "art. 241-B",
+      "law": "Lei nº 8.069/1990",
+      "category": "ECA",
+      "minimum": 3,
+      "maximum": 6,
+      "penalty": "Reclusão, de 3 a 6 anos, e multa.",
+      "keywords": [
+        "violência sexual",
+        "posse",
+        "armazenamento"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "contravencao-3688-37",
+      "name": "Arremesso ou colocação perigosa",
+      "article": "art. 37",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0,
+      "maximum": 0,
+      "penalty": "Multa.",
+      "keywords": [
+        "via pública",
+        "perigo"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "eleitoral-4737-321",
+      "name": "Assinatura em múltiplas fichas partidárias",
+      "article": "art. 321",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 0,
+      "maximum": 0.16666666666666666,
+      "penalty": "Detenção até 2 meses ou pagamento de 20 a 40 dias-multa.",
+      "keywords": [
+        "partido",
+        "assinatura"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "cp-288",
@@ -225,6 +562,219 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "estado-democratico-359j",
+      "name": "Atentado à integridade nacional",
+      "article": "art. 359-J",
+      "law": "Lei nº 14.197/2021",
+      "category": "Estado Democrático de Direito",
+      "minimum": 2,
+      "maximum": 6,
+      "penalty": "Reclusão, de 2 a 6 anos, além da pena da violência.",
+      "keywords": [
+        "integridade nacional",
+        "território"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14197.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "estado-democratico-359i",
+      "name": "Atentado à soberania",
+      "article": "art. 359-I",
+      "law": "Lei nº 14.197/2021",
+      "category": "Estado Democrático de Direito",
+      "minimum": 3,
+      "maximum": 8,
+      "penalty": "Reclusão, de 3 a 8 anos.",
+      "keywords": [
+        "soberania",
+        "guerra"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14197.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "idosa-10741-108",
+      "name": "Ato notarial sem representação legal de pessoa idosa",
+      "article": "art. 108",
+      "law": "Lei nº 10.741/2003",
+      "category": "Estatuto da Pessoa Idosa",
+      "minimum": 2,
+      "maximum": 4,
+      "penalty": "Reclusão, de 2 a 4 anos.",
+      "keywords": [
+        "pessoa idosa",
+        "ato notarial",
+        "representação legal"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "terrorismo-5",
+      "name": "Atos preparatórios de terrorismo",
+      "article": "art. 5º",
+      "law": "Lei nº 13.260/2016",
+      "category": "Terrorismo",
+      "minimum": 0,
+      "maximum": 30,
+      "penalty": "Pena correspondente ao delito consumado, diminuída de fração legal.",
+      "keywords": [
+        "terrorismo",
+        "atos preparatórios",
+        "treinamento"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13260.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "eleitoral-4737-324",
+      "name": "Calúnia eleitoral",
+      "article": "art. 324",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção de 6 meses a 2 anos e pagamento de 10 a 40 dias-multa.",
+      "keywords": [
+        "calúnia",
+        "propaganda"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "licitacao-14133-337-m-1",
+      "name": "Celebração de contrato com inidôneo",
+      "article": "art. 337-M-1",
+      "law": "Lei nº 14.133/2021",
+      "category": "Crimes em licitações e contratos administrativos",
+      "minimum": 3,
+      "maximum": 6,
+      "penalty": "Reclusão, de 3 a 6 anos, e multa.",
+      "keywords": [
+        "licitação",
+        "contrato administrativo",
+        "celebração de contrato com inidôneo"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "idosa-10741-107",
+      "name": "Coação de pessoa idosa para ato patrimonial",
+      "article": "art. 107",
+      "law": "Lei nº 10.741/2003",
+      "category": "Estatuto da Pessoa Idosa",
+      "minimum": 2,
+      "maximum": 5,
+      "penalty": "Reclusão, de 2 a 5 anos.",
+      "keywords": [
+        "pessoa idosa",
+        "coação",
+        "doação",
+        "testamento"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "eleitoral-4737-301",
+      "name": "Coação eleitoral com violência ou grave ameaça",
+      "article": "art. 301",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 0,
+      "maximum": 4,
+      "penalty": "Reclusão até 4 anos e pagamento de 5 a 15 dias-multa.",
+      "keywords": [
+        "violência",
+        "grave ameaça",
+        "voto"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "eleitoral-4737-300",
+      "name": "Coação eleitoral por servidor público",
+      "article": "art. 300",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 0,
+      "maximum": 0.5,
+      "penalty": "Detenção até 6 meses e pagamento de 60 a 100 dias-multa.",
+      "keywords": [
+        "coação",
+        "servidor público",
+        "voto"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "consumo-8078-71",
+      "name": "Cobrança abusiva de dívida",
+      "article": "art. 71",
+      "law": "Lei nº 8.078/1990",
+      "category": "Crimes contra relações de consumo",
+      "minimum": 0.25,
+      "maximum": 1,
+      "penalty": "Detenção, de 3 meses a 1 ano, e multa.",
+      "keywords": [
+        "consumidor",
+        "relações de consumo",
+        "cobrança abusiva de dívida"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "sfn-7492-8",
+      "name": "Cobrança irregular de juros ou remuneração financeira",
+      "article": "art. 8",
+      "law": "Lei nº 7.492/1986",
+      "category": "Crimes contra o sistema financeiro",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão, de 1 a 4 anos, e multa.",
+      "keywords": [
+        "juros ilegais",
+        "operação de crédito"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7492.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "drogas-37",
+      "name": "Colaboração como informante",
+      "article": "art. 37",
+      "law": "Lei nº 11.343/2006",
+      "category": "Drogas",
+      "minimum": 2,
+      "maximum": 6,
+      "penalty": "Reclusão, de 2 a 6 anos, e pagamento de 300 a 700 dias-multa.",
+      "keywords": [
+        "informante",
+        "tráfico",
+        "associação"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "armas-17",
@@ -264,6 +814,42 @@
       "canCalculate": true
     },
     {
+      "id": "transplante-15",
+      "name": "Compra ou venda de tecidos ou órgãos",
+      "article": "art. 15",
+      "law": "Lei nº 9.434/1997",
+      "category": "Transplantes",
+      "minimum": 3,
+      "maximum": 8,
+      "penalty": "Reclusão, de 3 a 8 anos, e multa de 200 a 360 dias-multa.",
+      "keywords": [
+        "órgãos",
+        "compra e venda",
+        "tráfico"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9434.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "eleitoral-4737-302",
+      "name": "Concentração fraudulenta de eleitores",
+      "article": "art. 302",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 4,
+      "maximum": 6,
+      "penalty": "Reclusão de 4 a 6 anos e pagamento de 200 a 300 dias-multa.",
+      "keywords": [
+        "transporte de eleitores",
+        "concentração",
+        "fraude"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "ambiental-67",
       "name": "Concessão dolosa de licença ambiental irregular",
       "article": "art. 67",
@@ -300,6 +886,41 @@
       "canCalculate": true
     },
     {
+      "id": "abuso-autoridade-10",
+      "name": "Condução coercitiva manifestamente descabida",
+      "article": "art. 10",
+      "law": "Lei nº 13.869/2019",
+      "category": "Abuso de autoridade",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Detenção, de 1 a 4 anos, e multa",
+      "keywords": [
+        "condução coercitiva",
+        "testemunha"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "drogas-39",
+      "name": "Condução de embarcação ou aeronave sob efeito de drogas",
+      "article": "art. 39",
+      "law": "Lei nº 11.343/2006",
+      "category": "Drogas",
+      "minimum": 0.5,
+      "maximum": 3,
+      "penalty": "Detenção, de 6 meses a 3 anos, além da apreensão do veículo, cassação da habilitação e pagamento de 200 a 400 dias-multa.",
+      "keywords": [
+        "embarcação",
+        "aeronave",
+        "droga"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "ctb-306",
       "name": "Condução de veículo automotor com capacidade psicomotora alterada",
       "article": "art. 306",
@@ -316,6 +937,59 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
       "validationState": "pendente",
       "canCalculate": false
+    },
+    {
+      "id": "abuso-autoridade-24",
+      "name": "Constrangimento de instituição hospitalar",
+      "article": "art. 24",
+      "law": "Lei nº 13.869/2019",
+      "category": "Abuso de autoridade",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Detenção, de 1 a 4 anos, e multa, além da pena da violência.",
+      "keywords": [
+        "hospital",
+        "alteração de local de crime"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "abuso-autoridade-15",
+      "name": "Constrangimento de pessoa obrigada a guardar sigilo",
+      "article": "art. 15",
+      "law": "Lei nº 13.869/2019",
+      "category": "Abuso de autoridade",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Detenção, de 1 a 4 anos, e multa.",
+      "keywords": [
+        "sigilo",
+        "interrogatório",
+        "direito ao silêncio"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "abuso-autoridade-13",
+      "name": "Constrangimento de preso ou detento",
+      "article": "art. 13",
+      "law": "Lei nº 13.869/2019",
+      "category": "Abuso de autoridade",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Detenção, de 1 a 4 anos, e multa, sem prejuízo da pena da violência.",
+      "keywords": [
+        "preso",
+        "prova contra si",
+        "constrangimento"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
     },
     {
       "id": "ambiental-64",
@@ -336,6 +1010,60 @@
       "canCalculate": true
     },
     {
+      "id": "sfn-7492-11",
+      "name": "Contabilidade paralela de instituição financeira",
+      "article": "art. 11",
+      "law": "Lei nº 7.492/1986",
+      "category": "Crimes contra o sistema financeiro",
+      "minimum": 1,
+      "maximum": 5,
+      "penalty": "Reclusão, de 1 a 5 anos, e multa.",
+      "keywords": [
+        "contabilidade paralela",
+        "caixa dois",
+        "instituição financeira"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7492.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "licitacao-14133-337-m",
+      "name": "Contratação de empresa inidônea",
+      "article": "art. 337-M",
+      "law": "Lei nº 14.133/2021",
+      "category": "Crimes em licitações e contratos administrativos",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Reclusão, de 1 a 3 anos, e multa.",
+      "keywords": [
+        "licitação",
+        "contrato administrativo",
+        "contratação de empresa inidônea"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "licitacao-14133-337-e",
+      "name": "Contratação direta ilegal",
+      "article": "art. 337-E",
+      "law": "Lei nº 14.133/2021",
+      "category": "Crimes em licitações e contratos administrativos",
+      "minimum": 4,
+      "maximum": 8,
+      "penalty": "Reclusão, de 4 a 8 anos, e multa.",
+      "keywords": [
+        "licitação",
+        "contrato administrativo",
+        "contratação direta ilegal"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "cp-333",
       "name": "Corrupção ativa",
       "article": "art. 333, caput",
@@ -354,6 +1082,40 @@
       "canCalculate": true
     },
     {
+      "id": "eca-244b",
+      "name": "Corrupção de menor",
+      "article": "art. 244-B",
+      "law": "Lei nº 8.069/1990",
+      "category": "ECA",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão, de 1 a 4 anos.",
+      "keywords": [
+        "corrupção de menor",
+        "adolescente"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "eleitoral-4737-299",
+      "name": "Corrupção eleitoral",
+      "article": "art. 299",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 0,
+      "maximum": 4,
+      "penalty": "Reclusão até 4 anos e pagamento de 5 a 15 dias-multa.",
+      "keywords": [
+        "corrupção eleitoral",
+        "voto"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "cp-317",
       "name": "Corrupção passiva",
       "article": "art. 317, caput",
@@ -370,6 +1132,24 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "cpm-308",
+      "name": "Corrupção passiva militar",
+      "article": "art. 308",
+      "law": "Decreto-Lei nº 1.001/1969",
+      "category": "Código Penal Militar",
+      "minimum": 2,
+      "maximum": 12,
+      "penalty": "Reclusão, de 2 a 12 anos.",
+      "keywords": [
+        "corrupção passiva",
+        "vantagem indevida",
+        "função militar"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del1001.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "ambiental-39",
@@ -424,6 +1204,94 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "tributario-8137-1",
+      "name": "Crime contra a ordem tributária por supressão ou redução de tributo",
+      "article": "art. 1º",
+      "law": "Lei nº 8.137/1990",
+      "category": "Crimes tributários",
+      "minimum": 2,
+      "maximum": 5,
+      "penalty": "Reclusão, de 2 a 5 anos, e multa.",
+      "keywords": [
+        "sonegação fiscal",
+        "tributo",
+        "nota fiscal"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8137.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "tributario-8137-7",
+      "name": "Crime contra as relações de consumo",
+      "article": "art. 7º",
+      "law": "Lei nº 8.137/1990",
+      "category": "Crimes contra o consumo",
+      "minimum": 2,
+      "maximum": 5,
+      "penalty": "Detenção, de 2 a 5 anos, ou multa.",
+      "keywords": [
+        "relações de consumo",
+        "mercadoria imprópria",
+        "publicidade enganosa"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8137.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "idosa-10741-100",
+      "name": "Crimes funcionais contra direitos da pessoa idosa",
+      "article": "art. 100",
+      "law": "Lei nº 10.741/2003",
+      "category": "Estatuto da Pessoa Idosa",
+      "minimum": 0.5,
+      "maximum": 1,
+      "penalty": "Reclusão, de 6 meses a 1 ano, e multa.",
+      "keywords": [
+        "pessoa idosa",
+        "cargo público",
+        "assistência"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "contravencao-3688-64",
+      "name": "Crueldade contra animais",
+      "article": "art. 64",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0.027777777777777776,
+      "maximum": 0.08333333333333333,
+      "penalty": "Prisão simples, de 10 dias a 1 mês, ou multa.",
+      "keywords": [
+        "animal",
+        "crueldade"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "contravencao-3688-23",
+      "name": "Custódia indevida de doente mental",
+      "article": "art. 23",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0.041666666666666664,
+      "maximum": 0.25,
+      "penalty": "Prisão simples, de 15 dias a 3 meses, ou multa.",
+      "keywords": [
+        "doente mental",
+        "custódia"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "ambiental-62",
@@ -532,6 +1400,77 @@
       "canCalculate": true
     },
     {
+      "id": "tributario-8137-2",
+      "name": "Declaração falsa ou omissão tributária",
+      "article": "art. 2º, I",
+      "law": "Lei nº 8.137/1990",
+      "category": "Crimes tributários",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, e multa.",
+      "keywords": [
+        "declaração falsa",
+        "tributo",
+        "fraude fiscal"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8137.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "eleitoral-4737-326-a",
+      "name": "Denunciação caluniosa eleitoral",
+      "article": "art. 326-A",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 2,
+      "maximum": 8,
+      "penalty": "Reclusão de 2 a 8 anos e multa.",
+      "keywords": [
+        "denunciação caluniosa",
+        "investigação",
+        "eleição"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "contravencao-3688-29",
+      "name": "Desabamento de construção",
+      "article": "art. 29",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0,
+      "maximum": 0,
+      "penalty": "Multa.",
+      "keywords": [
+        "desabamento",
+        "construção"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "henry-borel-25",
+      "name": "Descumprimento de medida protetiva de urgência contra criança ou adolescente",
+      "article": "art. 25",
+      "law": "Lei nº 14.344/2022",
+      "category": "Lei Henry Borel",
+      "minimum": 0.25,
+      "maximum": 2,
+      "penalty": "Detenção, de 3 meses a 2 anos.",
+      "keywords": [
+        "medida protetiva",
+        "violência doméstica",
+        "criança"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14344.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
       "id": "ambiental-68",
       "name": "Descumprimento de obrigação de relevante interesse ambiental",
       "article": "art. 68",
@@ -545,6 +1484,41 @@
         "omissão ambiental"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "idosa-10741-101",
+      "name": "Descumprimento de ordem judicial em favor de pessoa idosa",
+      "article": "art. 101",
+      "law": "Lei nº 10.741/2003",
+      "category": "Estatuto da Pessoa Idosa",
+      "minimum": 0.5,
+      "maximum": 1,
+      "penalty": "Detenção, de 6 meses a 1 ano, e multa.",
+      "keywords": [
+        "pessoa idosa",
+        "ordem judicial"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "eca-235",
+      "name": "Descumprimento de prazo em favor de adolescente privado de liberdade",
+      "article": "art. 235",
+      "law": "Lei nº 8.069/1990",
+      "category": "ECA",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos.",
+      "keywords": [
+        "adolescente",
+        "privação de liberdade",
+        "prazo"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
       "validationState": "confirmada",
       "canCalculate": true
     },
@@ -567,6 +1541,127 @@
       "canCalculate": true
     },
     {
+      "id": "eleitoral-4737-296",
+      "name": "Desordem nos trabalhos eleitorais",
+      "article": "art. 296",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 0,
+      "maximum": 0.16666666666666666,
+      "penalty": "Detenção até 2 meses e pagamento de 60 a 90 dias-multa.",
+      "keywords": [
+        "desordem",
+        "eleição"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "eleitoral-4737-306",
+      "name": "Desrespeito à ordem de votação",
+      "article": "art. 306",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 0,
+      "maximum": 0,
+      "penalty": "Pagamento de 15 a 30 dias-multa.",
+      "keywords": [
+        "votação",
+        "mesa receptora"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "eleitoral-4737-339",
+      "name": "Destruição ou ocultação de urna ou documentos eleitorais",
+      "article": "art. 339",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 2,
+      "maximum": 6,
+      "penalty": "Reclusão de 2 a 6 anos e pagamento de 5 a 15 dias-multa.",
+      "keywords": [
+        "urna",
+        "documentos",
+        "eleição"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "falimentar-11101-173",
+      "name": "Desvio, ocultação ou apropriação de bens",
+      "article": "art. 173",
+      "law": "Lei nº 11.101/2005",
+      "category": "Crimes falimentares",
+      "minimum": 2,
+      "maximum": 4,
+      "penalty": "Reclusão, de 2 a 4 anos, e multa.",
+      "keywords": [
+        "falência",
+        "recuperação judicial",
+        "desvio, ocultação ou apropriação de bens"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "eleitoral-4737-325",
+      "name": "Difamação eleitoral",
+      "article": "art. 325",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 0.25,
+      "maximum": 1,
+      "penalty": "Detenção de 3 meses a 1 ano e pagamento de 5 a 30 dias-multa.",
+      "keywords": [
+        "difamação",
+        "propaganda"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "contravencao-3688-33",
+      "name": "Direção não licenciada de aeronave",
+      "article": "art. 33",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0.041666666666666664,
+      "maximum": 0.25,
+      "penalty": "Prisão simples, de 15 dias a 3 meses, e multa.",
+      "keywords": [
+        "aeronave",
+        "licença"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "contravencao-3688-34",
+      "name": "Direção perigosa",
+      "article": "art. 34",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0.041666666666666664,
+      "maximum": 0.25,
+      "penalty": "Prisão simples, de 15 dias a 3 meses, ou multa.",
+      "keywords": [
+        "direção perigosa",
+        "segurança"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "ctb-309",
       "name": "Direção sem habilitação com perigo de dano",
       "article": "art. 309",
@@ -580,6 +1675,329 @@
         "perigo de dano"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "raciais-7716-14",
+      "name": "Discriminação contra casamento ou convivência",
+      "article": "art. 14",
+      "law": "Lei nº 7.716/1989",
+      "category": "Crimes raciais",
+      "minimum": 2,
+      "maximum": 4,
+      "penalty": "Reclusão, de 2 a 4 anos.",
+      "keywords": [
+        "racismo",
+        "discriminação",
+        "preconceito"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7716.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "lbi-88",
+      "name": "Discriminação contra pessoa com deficiência",
+      "article": "art. 88",
+      "law": "Lei nº 13.146/2015",
+      "category": "Pessoa com deficiência",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Reclusão, de 1 a 3 anos, e multa.",
+      "keywords": [
+        "deficiência",
+        "discriminação"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "lbi-88-2",
+      "name": "Discriminação contra pessoa com deficiência por meio de comunicação",
+      "article": "art. 88, § 2º",
+      "law": "Lei nº 13.146/2015",
+      "category": "Pessoa com deficiência",
+      "minimum": 2,
+      "maximum": 5,
+      "penalty": "Reclusão, de 2 a 5 anos, e multa.",
+      "keywords": [
+        "deficiência",
+        "discriminação",
+        "comunicação"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "idosa-10741-96",
+      "name": "Discriminação contra pessoa idosa",
+      "article": "art. 96",
+      "law": "Lei nº 10.741/2003",
+      "category": "Estatuto da Pessoa Idosa",
+      "minimum": 0.5,
+      "maximum": 1,
+      "penalty": "Reclusão, de 6 meses a 1 ano, e multa.",
+      "keywords": [
+        "pessoa idosa",
+        "discriminação",
+        "idade"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "raciais-7716-20-2a",
+      "name": "Discriminação em atividades públicas específicas",
+      "article": "art. 20, § 2º-A",
+      "law": "Lei nº 7.716/1989",
+      "category": "Crimes raciais",
+      "minimum": 2,
+      "maximum": 5,
+      "penalty": "Reclusão, de 2 a 5 anos e proibição de frequência a locais públicos específicos.",
+      "keywords": [
+        "racismo",
+        "discriminação",
+        "preconceito"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7716.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "raciais-7716-11",
+      "name": "Discriminação em edifício ou elevador",
+      "article": "art. 11",
+      "law": "Lei nº 7.716/1989",
+      "category": "Crimes raciais",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Reclusão, de 1 a 3 anos.",
+      "keywords": [
+        "racismo",
+        "discriminação",
+        "preconceito"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7716.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "raciais-7716-5",
+      "name": "Discriminação em estabelecimento comercial",
+      "article": "art. 5º",
+      "law": "Lei nº 7.716/1989",
+      "category": "Crimes raciais",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Reclusão, de 1 a 3 anos.",
+      "keywords": [
+        "racismo",
+        "discriminação",
+        "preconceito"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7716.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "raciais-7716-6",
+      "name": "Discriminação em estabelecimento de ensino",
+      "article": "art. 6º",
+      "law": "Lei nº 7.716/1989",
+      "category": "Crimes raciais",
+      "minimum": 3,
+      "maximum": 5,
+      "penalty": "Reclusão, de 3 a 5 anos.",
+      "keywords": [
+        "racismo",
+        "discriminação",
+        "preconceito"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7716.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "raciais-7716-9",
+      "name": "Discriminação em estabelecimento esportivo ou de diversão",
+      "article": "art. 9º",
+      "law": "Lei nº 7.716/1989",
+      "category": "Crimes raciais",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Reclusão, de 1 a 3 anos.",
+      "keywords": [
+        "racismo",
+        "discriminação",
+        "preconceito"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7716.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "raciais-7716-7",
+      "name": "Discriminação em hospedagem",
+      "article": "art. 7º",
+      "law": "Lei nº 7.716/1989",
+      "category": "Crimes raciais",
+      "minimum": 3,
+      "maximum": 5,
+      "penalty": "Reclusão, de 3 a 5 anos.",
+      "keywords": [
+        "racismo",
+        "discriminação",
+        "preconceito"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7716.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "raciais-7716-8",
+      "name": "Discriminação em restaurante ou bar",
+      "article": "art. 8º",
+      "law": "Lei nº 7.716/1989",
+      "category": "Crimes raciais",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Reclusão, de 1 a 3 anos.",
+      "keywords": [
+        "racismo",
+        "discriminação",
+        "preconceito"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7716.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "raciais-7716-10",
+      "name": "Discriminação em salão ou estabelecimento similar",
+      "article": "art. 10",
+      "law": "Lei nº 7.716/1989",
+      "category": "Crimes raciais",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Reclusão, de 1 a 3 anos.",
+      "keywords": [
+        "racismo",
+        "discriminação",
+        "preconceito"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7716.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "raciais-7716-12",
+      "name": "Discriminação em transporte público",
+      "article": "art. 12",
+      "law": "Lei nº 7.716/1989",
+      "category": "Crimes raciais",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Reclusão, de 1 a 3 anos.",
+      "keywords": [
+        "racismo",
+        "discriminação",
+        "preconceito"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7716.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "raciais-7716-3",
+      "name": "Discriminação no acesso a cargo público",
+      "article": "art. 3º",
+      "law": "Lei nº 7.716/1989",
+      "category": "Crimes raciais",
+      "minimum": 2,
+      "maximum": 5,
+      "penalty": "Reclusão, de 2 a 5 anos.",
+      "keywords": [
+        "racismo",
+        "discriminação",
+        "preconceito"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7716.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "raciais-7716-13",
+      "name": "Discriminação no acesso às Forças Armadas",
+      "article": "art. 13",
+      "law": "Lei nº 7.716/1989",
+      "category": "Crimes raciais",
+      "minimum": 2,
+      "maximum": 4,
+      "penalty": "Reclusão, de 2 a 4 anos.",
+      "keywords": [
+        "racismo",
+        "discriminação",
+        "preconceito"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7716.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "raciais-7716-4",
+      "name": "Discriminação no emprego privado",
+      "article": "art. 4º",
+      "law": "Lei nº 7.716/1989",
+      "category": "Crimes raciais",
+      "minimum": 2,
+      "maximum": 5,
+      "penalty": "Reclusão, de 2 a 5 anos.",
+      "keywords": [
+        "racismo",
+        "discriminação",
+        "preconceito"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7716.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "raciais-7716-20",
+      "name": "Discriminação ou preconceito",
+      "article": "art. 20",
+      "law": "Lei nº 7.716/1989",
+      "category": "Crimes raciais",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Reclusão, de 1 a 3 anos e multa.",
+      "keywords": [
+        "racismo",
+        "discriminação",
+        "preconceito"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7716.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "raciais-7716-20-2",
+      "name": "Discriminação por meio de comunicação",
+      "article": "art. 20, § 2º",
+      "law": "Lei nº 7.716/1989",
+      "category": "Crimes raciais",
+      "minimum": 2,
+      "maximum": 5,
+      "penalty": "Reclusão, de 2 a 5 anos e multa.",
+      "keywords": [
+        "racismo",
+        "discriminação",
+        "preconceito"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7716.htm",
       "validationState": "confirmada",
       "canCalculate": true
     },
@@ -602,6 +2020,23 @@
       "canCalculate": true
     },
     {
+      "id": "contravencao-3688-28",
+      "name": "Disparo de arma de fogo",
+      "article": "art. 28",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0.08333333333333333,
+      "maximum": 0.5,
+      "penalty": "Prisão simples, de 1 a 6 meses, ou multa.",
+      "keywords": [
+        "disparo",
+        "arma de fogo"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "ambiental-61",
       "name": "Disseminação de doença ou praga ambiental",
       "article": "art. 61",
@@ -616,6 +2051,163 @@
         "ecossistema"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "eca-241a",
+      "name": "Distribuição ou divulgação de conteúdo de violência sexual",
+      "article": "art. 241-A",
+      "law": "Lei nº 8.069/1990",
+      "category": "ECA",
+      "minimum": 4,
+      "maximum": 10,
+      "penalty": "Reclusão, de 4 a 10 anos, e multa.",
+      "keywords": [
+        "violência sexual",
+        "internet",
+        "divulgação"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "contravencao-3688-56",
+      "name": "Distribuição ou transporte de listas de loteria",
+      "article": "art. 56",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0.027777777777777776,
+      "maximum": 0.25,
+      "penalty": "Prisão simples, de 1 a 3 meses, e multa.",
+      "keywords": [
+        "loteria",
+        "transporte"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "eleitoral-4737-323",
+      "name": "Divulgação de fato inverídico em propaganda",
+      "article": "art. 323",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 0.16666666666666666,
+      "maximum": 1,
+      "penalty": "Detenção de 2 meses a 1 ano ou pagamento de 120 a 150 dias-multa.",
+      "keywords": [
+        "propaganda",
+        "fato inverídico"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "falimentar-11101-170",
+      "name": "Divulgação de informação falsa sobre devedor",
+      "article": "art. 170",
+      "law": "Lei nº 11.101/2005",
+      "category": "Crimes falimentares",
+      "minimum": 2,
+      "maximum": 4,
+      "penalty": "Reclusão, de 2 a 4 anos, e multa.",
+      "keywords": [
+        "falência",
+        "recuperação judicial",
+        "divulgação de informação falsa sobre devedor"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "sfn-7492-3",
+      "name": "Divulgação de informação falsa sobre instituição financeira",
+      "article": "art. 3",
+      "law": "Lei nº 7.492/1986",
+      "category": "Crimes contra o sistema financeiro",
+      "minimum": 2,
+      "maximum": 6,
+      "penalty": "Reclusão, de 2 a 6 anos, e multa.",
+      "keywords": [
+        "instituição financeira",
+        "informação falsa"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7492.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "abuso-autoridade-28",
+      "name": "Divulgação indevida de gravação",
+      "article": "art. 28",
+      "law": "Lei nº 13.869/2019",
+      "category": "Abuso de autoridade",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Detenção, de 1 a 4 anos, e multa.",
+      "keywords": [
+        "gravação",
+        "intimidade",
+        "vida privada"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "contravencao-3688-62",
+      "name": "Embriaguez pública perigosa",
+      "article": "art. 62",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0.041666666666666664,
+      "maximum": 0.25,
+      "penalty": "Prisão simples, de 15 dias a 3 meses, ou multa.",
+      "keywords": [
+        "embriaguez"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "contravencao-3688-38",
+      "name": "Emissão abusiva de fumaça, vapor ou gás",
+      "article": "art. 38",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0,
+      "maximum": 0,
+      "penalty": "Multa.",
+      "keywords": [
+        "fumaça",
+        "gás",
+        "emissão"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "sfn-7492-7",
+      "name": "Emissão ou negociação irregular de títulos e valores mobiliários",
+      "article": "art. 7",
+      "law": "Lei nº 7.492/1986",
+      "category": "Crimes contra o sistema financeiro",
+      "minimum": 2,
+      "maximum": 8,
+      "penalty": "Reclusão, de 2 a 8 anos, e multa.",
+      "keywords": [
+        "títulos falsos",
+        "valores mobiliários",
+        "investimento"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7492.htm",
       "validationState": "confirmada",
       "canCalculate": true
     },
@@ -637,6 +2229,95 @@
       "canCalculate": true
     },
     {
+      "id": "eca-238",
+      "name": "Entrega mediante paga ou recompensa",
+      "article": "art. 238",
+      "law": "Lei nº 8.069/1990",
+      "category": "ECA",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão, de 1 a 4 anos, e multa.",
+      "keywords": [
+        "adoção ilegal",
+        "paga",
+        "recompensa"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "eca-239-violencia",
+      "name": "Envio ao exterior com violência, grave ameaça ou fraude",
+      "article": "art. 239, parágrafo único",
+      "law": "Lei nº 8.069/1990",
+      "category": "ECA",
+      "minimum": 6,
+      "maximum": 8,
+      "penalty": "Reclusão, de 6 a 8 anos, além da pena correspondente à violência.",
+      "keywords": [
+        "envio ao exterior",
+        "violência",
+        "fraude"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "eca-239",
+      "name": "Envio irregular de criança ou adolescente ao exterior",
+      "article": "art. 239",
+      "law": "Lei nº 8.069/1990",
+      "category": "ECA",
+      "minimum": 4,
+      "maximum": 6,
+      "penalty": "Reclusão, de 4 a 6 anos, e multa.",
+      "keywords": [
+        "envio ao exterior",
+        "criança",
+        "lucro"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "estado-democratico-359k",
+      "name": "Espionagem",
+      "article": "art. 359-K, caput",
+      "law": "Lei nº 14.197/2021",
+      "category": "Estado Democrático de Direito",
+      "minimum": 3,
+      "maximum": 12,
+      "penalty": "Reclusão, de 3 a 12 anos.",
+      "keywords": [
+        "espionagem",
+        "segredo",
+        "soberania"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14197.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "estado-democratico-359k-2",
+      "name": "Espionagem com violação de sigilo",
+      "article": "art. 359-K, § 2º",
+      "law": "Lei nº 14.197/2021",
+      "category": "Estado Democrático de Direito",
+      "minimum": 6,
+      "maximum": 15,
+      "penalty": "Reclusão, de 6 a 15 anos.",
+      "keywords": [
+        "espionagem",
+        "sigilo"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14197.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "cp-171",
       "name": "Estelionato",
       "article": "art. 171, caput",
@@ -652,6 +2333,24 @@
         "vantagem ilícita"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cpm-251",
+      "name": "Estelionato militar",
+      "article": "art. 251",
+      "law": "Decreto-Lei nº 1.001/1969",
+      "category": "Código Penal Militar",
+      "minimum": 2,
+      "maximum": 7,
+      "penalty": "Reclusão, de 2 a 7 anos.",
+      "keywords": [
+        "estelionato",
+        "fraude",
+        "patrimônio"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del1001.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -761,6 +2460,182 @@
       "canCalculate": false
     },
     {
+      "id": "sfn-7492-22",
+      "name": "Evasão de divisas",
+      "article": "art. 22",
+      "law": "Lei nº 7.492/1986",
+      "category": "Crimes contra o sistema financeiro",
+      "minimum": 2,
+      "maximum": 6,
+      "penalty": "Reclusão, de 2 a 6 anos, e multa.",
+      "keywords": [
+        "evasão de divisas",
+        "câmbio",
+        "moeda estrangeira"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7492.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "consumo-8078-65",
+      "name": "Execução de serviço de alta periculosidade contra determinação",
+      "article": "art. 65",
+      "law": "Lei nº 8.078/1990",
+      "category": "Crimes contra relações de consumo",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, e multa.",
+      "keywords": [
+        "consumidor",
+        "relações de consumo",
+        "execução de serviço de alta periculosidade contra determinação"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "falimentar-11101-176",
+      "name": "Exercício ilegal de atividade após inabilitação",
+      "article": "art. 176",
+      "law": "Lei nº 11.101/2005",
+      "category": "Crimes falimentares",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão, de 1 a 4 anos, e multa.",
+      "keywords": [
+        "falência",
+        "recuperação judicial",
+        "exercício ilegal de atividade após inabilitação"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "contravencao-3688-48",
+      "name": "Exercício ilegal de comércio de antiguidades",
+      "article": "art. 48",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0.08333333333333333,
+      "maximum": 0.5,
+      "penalty": "Prisão simples, de 1 a 6 meses, ou multa.",
+      "keywords": [
+        "antiguidades",
+        "obras de arte"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "contravencao-3688-47",
+      "name": "Exercício ilegal de profissão ou atividade",
+      "article": "art. 47",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0.041666666666666664,
+      "maximum": 0.25,
+      "penalty": "Prisão simples, de 15 dias a 3 meses, ou multa.",
+      "keywords": [
+        "profissão",
+        "atividade econômica"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "idosa-10741-105",
+      "name": "Exibição de informação depreciativa sobre pessoa idosa",
+      "article": "art. 105",
+      "law": "Lei nº 10.741/2003",
+      "category": "Estatuto da Pessoa Idosa",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Detenção, de 1 a 3 anos, e multa.",
+      "keywords": [
+        "pessoa idosa",
+        "imagem depreciativa",
+        "injúria"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "contravencao-3688-54",
+      "name": "Exibição ou guarda de lista de sorteio",
+      "article": "art. 54",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0.027777777777777776,
+      "maximum": 0.25,
+      "penalty": "Prisão simples, de 1 a 3 meses, e multa.",
+      "keywords": [
+        "lista de sorteio",
+        "loteria"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "tributario-8137-3-ii",
+      "name": "Exigência ou recebimento de vantagem para não lançar tributo",
+      "article": "art. 3º, II",
+      "law": "Lei nº 8.137/1990",
+      "category": "Crimes tributários",
+      "minimum": 3,
+      "maximum": 8,
+      "penalty": "Reclusão, de 3 a 8 anos, e multa.",
+      "keywords": [
+        "vantagem indevida",
+        "tributo",
+        "funcionário público"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8137.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "abuso-autoridade-33",
+      "name": "Exigência sem amparo legal",
+      "article": "art. 33",
+      "law": "Lei nº 13.869/2019",
+      "category": "Abuso de autoridade",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, e multa.",
+      "keywords": [
+        "exigência ilegal",
+        "vantagem indevida"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "eca-244a",
+      "name": "Exploração sexual de criança ou adolescente",
+      "article": "art. 244-A",
+      "law": "Lei nº 8.069/1990",
+      "category": "ECA",
+      "minimum": 4,
+      "maximum": 10,
+      "penalty": "Reclusão, de 4 a 10 anos e multa.",
+      "keywords": [
+        "exploração sexual",
+        "criança",
+        "adolescente"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
       "id": "ambiental-30",
       "name": "Exportação ilegal de peles e couros de anfíbios e répteis",
       "article": "art. 30",
@@ -775,6 +2650,60 @@
         "fauna"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "idosa-10741-99",
+      "name": "Exposição da pessoa idosa a perigo",
+      "article": "art. 99",
+      "law": "Lei nº 10.741/2003",
+      "category": "Estatuto da Pessoa Idosa",
+      "minimum": 2,
+      "maximum": 5,
+      "penalty": "Reclusão, de 2 a 5 anos.",
+      "keywords": [
+        "pessoa idosa",
+        "maus-tratos",
+        "condições degradantes"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "idosa-10741-99-1",
+      "name": "Exposição da pessoa idosa a perigo com lesão grave",
+      "article": "art. 99, § 1",
+      "law": "Lei nº 10.741/2003",
+      "category": "Estatuto da Pessoa Idosa",
+      "minimum": 3,
+      "maximum": 7,
+      "penalty": "Reclusão, de 3 a 7 anos.",
+      "keywords": [
+        "pessoa idosa",
+        "lesão grave",
+        "maus-tratos"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "idosa-10741-99-2",
+      "name": "Exposição da pessoa idosa a perigo com morte",
+      "article": "art. 99, § 2",
+      "law": "Lei nº 10.741/2003",
+      "category": "Estatuto da Pessoa Idosa",
+      "minimum": 8,
+      "maximum": 14,
+      "penalty": "Reclusão, de 8 a 14 anos.",
+      "keywords": [
+        "pessoa idosa",
+        "morte",
+        "maus-tratos"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm",
       "validationState": "confirmada",
       "canCalculate": true
     },
@@ -850,6 +2779,59 @@
       "canCalculate": true
     },
     {
+      "id": "sfn-7492-2",
+      "name": "Fabricação ou circulação não autorizada de título ou valor mobiliário",
+      "article": "art. 2",
+      "law": "Lei nº 7.492/1986",
+      "category": "Crimes contra o sistema financeiro",
+      "minimum": 2,
+      "maximum": 8,
+      "penalty": "Reclusão, de 2 a 8 anos, e multa.",
+      "keywords": [
+        "título mobiliário",
+        "valor mobiliário",
+        "sistema financeiro"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7492.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "contravencao-3688-24",
+      "name": "Fabricação ou comércio de gazua",
+      "article": "art. 24",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Prisão simples, de 6 meses a 2 anos, e multa.",
+      "keywords": [
+        "gazua",
+        "furto"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "eleitoral-4737-340",
+      "name": "Fabricação ou guarda de material eleitoral exclusivo",
+      "article": "art. 340",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 0,
+      "maximum": 3,
+      "penalty": "Reclusão até 3 anos e pagamento de 3 a 15 dias-multa.",
+      "keywords": [
+        "urna",
+        "cédula",
+        "Justiça Eleitoral"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "ambiental-42",
       "name": "Fabricação, venda, transporte ou soltura de balões",
       "article": "art. 42",
@@ -864,6 +2846,92 @@
         "floresta"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "contravencao-3688-18",
+      "name": "Fabrico, comércio ou detenção irregular de arma ou munição",
+      "article": "art. 18",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0.25,
+      "maximum": 1,
+      "penalty": "Prisão simples, de 3 meses a 1 ano, ou multa, ou ambas.",
+      "keywords": [
+        "arma",
+        "munição"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "estado-democratico-359k-3",
+      "name": "Facilitação de espionagem por acesso",
+      "article": "art. 359-K, § 3º",
+      "law": "Lei nº 14.197/2021",
+      "category": "Estado Democrático de Direito",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Detenção, de 1 a 4 anos.",
+      "keywords": [
+        "espionagem",
+        "senha",
+        "sistema"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14197.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "sfn-7492-21",
+      "name": "Falsa identidade em operação de câmbio",
+      "article": "art. 21",
+      "law": "Lei nº 7.492/1986",
+      "category": "Crimes contra o sistema financeiro",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Detenção, de 1 a 4 anos, e multa.",
+      "keywords": [
+        "falsa identidade",
+        "câmbio"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7492.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "abuso-autoridade-16",
+      "name": "Falsa identificação ao preso",
+      "article": "art. 16",
+      "law": "Lei nº 13.869/2019",
+      "category": "Abuso de autoridade",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, e multa.",
+      "keywords": [
+        "falsa identidade",
+        "prisão"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "sfn-7492-10",
+      "name": "Falsidade em demonstrativo contábil de instituição financeira",
+      "article": "art. 10",
+      "law": "Lei nº 7.492/1986",
+      "category": "Crimes contra o sistema financeiro",
+      "minimum": 1,
+      "maximum": 5,
+      "penalty": "Reclusão, de 1 a 5 anos, e multa.",
+      "keywords": [
+        "demonstrativo contábil",
+        "instituição financeira"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7492.htm",
       "validationState": "confirmada",
       "canCalculate": true
     },
@@ -886,6 +2954,75 @@
       "canCalculate": true
     },
     {
+      "id": "contravencao-3688-41",
+      "name": "Falso alarme",
+      "article": "art. 41",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0.041666666666666664,
+      "maximum": 0.5,
+      "penalty": "Prisão simples, de 15 dias a 6 meses, ou multa.",
+      "keywords": [
+        "alarme falso",
+        "pânico"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "contravencao-3688-32",
+      "name": "Falta de habilitação para dirigir veículo",
+      "article": "art. 32",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0,
+      "maximum": 0,
+      "penalty": "Multa.",
+      "keywords": [
+        "habilitação",
+        "veículo"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "contravencao-3688-49",
+      "name": "Falta de matrícula ou escrituração de atividade",
+      "article": "art. 49",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0,
+      "maximum": 0,
+      "penalty": "Multa.",
+      "keywords": [
+        "escrituração",
+        "atividade"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "falimentar-11101-172",
+      "name": "Favorecimento de credores",
+      "article": "art. 172",
+      "law": "Lei nº 11.101/2005",
+      "category": "Crimes falimentares",
+      "minimum": 2,
+      "maximum": 5,
+      "penalty": "Reclusão, de 2 a 5 anos, e multa.",
+      "keywords": [
+        "falência",
+        "recuperação judicial",
+        "favorecimento de credores"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "cp-121a",
       "name": "Feminicídio",
       "article": "art. 121-A",
@@ -904,6 +3041,129 @@
       "canCalculate": false
     },
     {
+      "id": "drogas-36",
+      "name": "Financiamento de crimes de drogas",
+      "article": "art. 36",
+      "law": "Lei nº 11.343/2006",
+      "category": "Drogas",
+      "minimum": 3,
+      "maximum": 10,
+      "penalty": "Reclusão, de 3 a 10 anos, e pagamento de 700 a 1.200 dias-multa.",
+      "keywords": [
+        "financiamento",
+        "tráfico",
+        "droga"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "terrorismo-6",
+      "name": "Financiamento do terrorismo",
+      "article": "art. 6º",
+      "law": "Lei nº 13.260/2016",
+      "category": "Terrorismo",
+      "minimum": 15,
+      "maximum": 30,
+      "penalty": "Reclusão, de 15 a 30 anos.",
+      "keywords": [
+        "financiamento",
+        "terrorismo",
+        "recursos"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13260.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "sfn-7492-19",
+      "name": "Financiamento obtido mediante fraude",
+      "article": "art. 19",
+      "law": "Lei nº 7.492/1986",
+      "category": "Crimes contra o sistema financeiro",
+      "minimum": 2,
+      "maximum": 6,
+      "penalty": "Reclusão, de 2 a 6 anos, e multa.",
+      "keywords": [
+        "financiamento fraudulento",
+        "fraude bancária"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7492.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "eca-242",
+      "name": "Fornecimento de arma a criança ou adolescente",
+      "article": "art. 242",
+      "law": "Lei nº 8.069/1990",
+      "category": "ECA",
+      "minimum": 3,
+      "maximum": 6,
+      "penalty": "Reclusão, de 3 a 6 anos.",
+      "keywords": [
+        "arma",
+        "munição",
+        "adolescente"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "eca-243",
+      "name": "Fornecimento de bebida alcoólica ou produto capaz de causar dependência",
+      "article": "art. 243",
+      "law": "Lei nº 8.069/1990",
+      "category": "ECA",
+      "minimum": 2,
+      "maximum": 4,
+      "penalty": "Detenção, de 2 a 4 anos, e multa, se o fato não constitui crime mais grave.",
+      "keywords": [
+        "bebida alcoólica",
+        "dependência",
+        "adolescente"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "eleitoral-4737-307",
+      "name": "Fornecimento de cédula oficial marcada",
+      "article": "art. 307",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 0,
+      "maximum": 5,
+      "penalty": "Reclusão até 5 anos e pagamento de 5 a 15 dias-multa.",
+      "keywords": [
+        "cédula",
+        "voto"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "eca-244",
+      "name": "Fornecimento de fogos de estampido ou artifício",
+      "article": "art. 244",
+      "law": "Lei nº 8.069/1990",
+      "category": "ECA",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, e multa.",
+      "keywords": [
+        "fogos de artifício",
+        "criança"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
       "id": "cp-171a",
       "name": "Fraude com ativos virtuais",
       "article": "art. 171-A",
@@ -918,6 +3178,59 @@
         "fraude financeira"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "falimentar-11101-168",
+      "name": "Fraude contra credores em falência ou recuperação",
+      "article": "art. 168",
+      "law": "Lei nº 11.101/2005",
+      "category": "Crimes falimentares",
+      "minimum": 3,
+      "maximum": 6,
+      "penalty": "Reclusão, de 3 a 6 anos, e multa.",
+      "keywords": [
+        "falência",
+        "recuperação judicial",
+        "fraude contra credores em falência ou recuperação"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "sfn-7492-9",
+      "name": "Fraude contra fiscalização ou investidor",
+      "article": "art. 9",
+      "law": "Lei nº 7.492/1986",
+      "category": "Crimes contra o sistema financeiro",
+      "minimum": 1,
+      "maximum": 5,
+      "penalty": "Reclusão, de 1 a 5 anos, e multa.",
+      "keywords": [
+        "fraude contra investidor",
+        "fiscalização"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7492.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "licitacao-14133-337-l",
+      "name": "Fraude em licitação ou contrato",
+      "article": "art. 337-L",
+      "law": "Lei nº 14.133/2021",
+      "category": "Crimes em licitações e contratos administrativos",
+      "minimum": 4,
+      "maximum": 8,
+      "penalty": "Reclusão, de 4 a 8 anos, e multa.",
+      "keywords": [
+        "licitação",
+        "contrato administrativo",
+        "fraude em licitação ou contrato"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -940,6 +3253,24 @@
       "canCalculate": false
     },
     {
+      "id": "licitacao-14133-337-f",
+      "name": "Frustração do caráter competitivo de licitação",
+      "article": "art. 337-F",
+      "law": "Lei nº 14.133/2021",
+      "category": "Crimes em licitações e contratos administrativos",
+      "minimum": 4,
+      "maximum": 8,
+      "penalty": "Reclusão, de 4 a 8 anos, e multa.",
+      "keywords": [
+        "licitação",
+        "contrato administrativo",
+        "frustração do caráter competitivo de licitação"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "ambiental-60",
       "name": "Funcionamento de atividade potencialmente poluidora sem licença",
       "article": "art. 60",
@@ -956,6 +3287,23 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
       "validationState": "pendente",
       "canCalculate": false
+    },
+    {
+      "id": "sfn-7492-16",
+      "name": "Funcionamento não autorizado de instituição financeira",
+      "article": "art. 16",
+      "law": "Lei nº 7.492/1986",
+      "category": "Crimes contra o sistema financeiro",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão, de 1 a 4 anos, e multa.",
+      "keywords": [
+        "instituição financeira clandestina",
+        "câmbio"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7492.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
     },
     {
       "id": "cp-155",
@@ -1028,6 +3376,92 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "cpm-240",
+      "name": "Furto simples militar",
+      "article": "art. 240",
+      "law": "Decreto-Lei nº 1.001/1969",
+      "category": "Código Penal Militar",
+      "minimum": 0,
+      "maximum": 6,
+      "penalty": "Reclusão, até 6 anos.",
+      "keywords": [
+        "furto",
+        "patrimônio militar"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del1001.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "sfn-7492-4",
+      "name": "Gestão fraudulenta de instituição financeira",
+      "article": "art. 4",
+      "law": "Lei nº 7.492/1986",
+      "category": "Crimes contra o sistema financeiro",
+      "minimum": 3,
+      "maximum": 12,
+      "penalty": "Reclusão, de 3 a 12 anos, e multa.",
+      "keywords": [
+        "gestão fraudulenta",
+        "instituição financeira"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7492.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "sfn-7492-4-temeraria",
+      "name": "Gestão temerária de instituição financeira",
+      "article": "art. 4, parágrafo único",
+      "law": "Lei nº 7.492/1986",
+      "category": "Crimes contra o sistema financeiro",
+      "minimum": 2,
+      "maximum": 8,
+      "penalty": "Reclusão, de 2 a 8 anos, e multa.",
+      "keywords": [
+        "gestão temerária",
+        "instituição financeira"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7492.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "estado-democratico-359m",
+      "name": "Golpe de Estado",
+      "article": "art. 359-M",
+      "law": "Lei nº 14.197/2021",
+      "category": "Estado Democrático de Direito",
+      "minimum": 4,
+      "maximum": 12,
+      "penalty": "Reclusão, de 4 a 12 anos, além da pena da violência.",
+      "keywords": [
+        "golpe de Estado",
+        "governo"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14197.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "falimentar-11101-175",
+      "name": "Habilitação ilegal de crédito",
+      "article": "art. 175",
+      "law": "Lei nº 11.101/2005",
+      "category": "Crimes falimentares",
+      "minimum": 2,
+      "maximum": 4,
+      "penalty": "Reclusão, de 2 a 4 anos, e multa.",
+      "keywords": [
+        "falência",
+        "recuperação judicial",
+        "habilitação ilegal de crédito"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "cp-121-culposo",
@@ -1138,6 +3572,58 @@
       "canCalculate": true
     },
     {
+      "id": "cpm-205",
+      "name": "Homicídio simples militar",
+      "article": "art. 205",
+      "law": "Decreto-Lei nº 1.001/1969",
+      "category": "Código Penal Militar",
+      "minimum": 6,
+      "maximum": 20,
+      "penalty": "Reclusão, de 6 a 20 anos.",
+      "keywords": [
+        "homicídio",
+        "militar"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del1001.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cpm-136",
+      "name": "Hostilidade contra país estrangeiro",
+      "article": "art. 136",
+      "law": "Decreto-Lei nº 1.001/1969",
+      "category": "Código Penal Militar",
+      "minimum": 8,
+      "maximum": 15,
+      "penalty": "Reclusão, de 8 a 15 anos.",
+      "keywords": [
+        "país estrangeiro",
+        "hostilidade",
+        "guerra"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del1001.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "contravencao-3688-44",
+      "name": "Imitação de moeda para propaganda",
+      "article": "art. 44",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0,
+      "maximum": 0,
+      "penalty": "Multa.",
+      "keywords": [
+        "moeda",
+        "propaganda"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "ambiental-48",
       "name": "Impedimento da regeneração natural de florestas",
       "article": "art. 48",
@@ -1153,6 +3639,146 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "consumo-8078-72",
+      "name": "Impedimento de acesso a cadastro do consumidor",
+      "article": "art. 72",
+      "law": "Lei nº 8.078/1990",
+      "category": "Crimes contra relações de consumo",
+      "minimum": 0.5,
+      "maximum": 1,
+      "penalty": "Detenção, de 6 meses a 1 ano ou multa.",
+      "keywords": [
+        "consumidor",
+        "relações de consumo",
+        "impedimento de acesso a cadastro do consumidor"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "abuso-autoridade-20",
+      "name": "Impedimento de entrevista reservada com advogado",
+      "article": "art. 20",
+      "law": "Lei nº 13.869/2019",
+      "category": "Abuso de autoridade",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, e multa.",
+      "keywords": [
+        "advogado",
+        "entrevista reservada",
+        "defensor"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "abuso-autoridade-19",
+      "name": "Impedimento de pleito de preso",
+      "article": "art. 19",
+      "law": "Lei nº 13.869/2019",
+      "category": "Abuso de autoridade",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Detenção, de 1 a 4 anos, e multa.",
+      "keywords": [
+        "pleito de preso",
+        "custódia"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "eleitoral-4737-332",
+      "name": "Impedimento do exercício de propaganda",
+      "article": "art. 332",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 0,
+      "maximum": 0.5,
+      "penalty": "Detenção até 6 meses e pagamento de 30 a 60 dias-multa.",
+      "keywords": [
+        "propaganda",
+        "eleição"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "eleitoral-4737-297",
+      "name": "Impedimento do exercício do sufrágio",
+      "article": "art. 297",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 0,
+      "maximum": 0.5,
+      "penalty": "Detenção até 6 meses e pagamento de 60 a 100 dias-multa.",
+      "keywords": [
+        "sufrágio",
+        "eleição"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "licitacao-14133-337-n",
+      "name": "Impedimento indevido de inscrição cadastral",
+      "article": "art. 337-N",
+      "law": "Lei nº 14.133/2021",
+      "category": "Crimes em licitações e contratos administrativos",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Reclusão, de 6 meses a 2 anos, e multa.",
+      "keywords": [
+        "licitação",
+        "contrato administrativo",
+        "impedimento indevido de inscrição cadastral"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "contravencao-3688-55",
+      "name": "Impressão irregular de bilhetes ou anúncios",
+      "article": "art. 55",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0.08333333333333333,
+      "maximum": 0.5,
+      "penalty": "Prisão simples, de 1 a 6 meses, e multa.",
+      "keywords": [
+        "bilhete",
+        "loteria"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "orgcrime-12850-19",
+      "name": "Imputação falsa em colaboração com a Justiça",
+      "article": "art. 19",
+      "law": "Lei nº 12.850/2013",
+      "category": "Organização criminosa",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão, de 1 a 4 anos, e multa.",
+      "keywords": [
+        "colaboração",
+        "imputação falsa",
+        "organização criminosa"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "ambiental-41",
@@ -1172,6 +3798,94 @@
       "canCalculate": false
     },
     {
+      "id": "abuso-autoridade-36",
+      "name": "Indisponibilidade excessiva de ativos",
+      "article": "art. 36",
+      "law": "Lei nº 13.869/2019",
+      "category": "Abuso de autoridade",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Detenção, de 1 a 4 anos, e multa.",
+      "keywords": [
+        "indisponibilidade de ativos",
+        "excesso judicial"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "falimentar-11101-171",
+      "name": "Indução a erro no processo falimentar",
+      "article": "art. 171",
+      "law": "Lei nº 11.101/2005",
+      "category": "Crimes falimentares",
+      "minimum": 2,
+      "maximum": 4,
+      "penalty": "Reclusão, de 2 a 4 anos, e multa.",
+      "keywords": [
+        "falência",
+        "recuperação judicial",
+        "indução a erro no processo falimentar"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "eleitoral-4737-290",
+      "name": "Indução à inscrição eleitoral irregular",
+      "article": "art. 290",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 0,
+      "maximum": 2,
+      "penalty": "Reclusão até 2 anos e pagamento de 15 a 30 dias-multa.",
+      "keywords": [
+        "alistamento",
+        "indução"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "idosa-10741-106",
+      "name": "Indução de pessoa idosa sem discernimento a outorgar procuração",
+      "article": "art. 106",
+      "law": "Lei nº 10.741/2003",
+      "category": "Estatuto da Pessoa Idosa",
+      "minimum": 2,
+      "maximum": 4,
+      "penalty": "Reclusão, de 2 a 4 anos.",
+      "keywords": [
+        "pessoa idosa",
+        "procuração",
+        "discernimento"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "sfn-7492-6",
+      "name": "Indução em erro sobre operação ou situação financeira",
+      "article": "art. 6",
+      "law": "Lei nº 7.492/1986",
+      "category": "Crimes contra o sistema financeiro",
+      "minimum": 2,
+      "maximum": 6,
+      "penalty": "Reclusão, de 2 a 6 anos, e multa.",
+      "keywords": [
+        "investidor",
+        "informação falsa",
+        "operação financeira"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7492.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
       "id": "cp-123",
       "name": "Infanticídio",
       "article": "art. 123",
@@ -1187,6 +3901,194 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "abuso-autoridade-29",
+      "name": "Informação falsa sobre procedimento",
+      "article": "art. 29",
+      "law": "Lei nº 13.869/2019",
+      "category": "Abuso de autoridade",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, e multa.",
+      "keywords": [
+        "informação falsa",
+        "investigado"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "eleitoral-4737-326",
+      "name": "Injúria eleitoral",
+      "article": "art. 326",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 0,
+      "maximum": 0.5,
+      "penalty": "Detenção até 6 meses ou pagamento de 30 a 60 dias-multa.",
+      "keywords": [
+        "injúria",
+        "propaganda"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "raciais-7716-2a",
+      "name": "Injúria racial",
+      "article": "art. 2º-A",
+      "law": "Lei nº 7.716/1989",
+      "category": "Crimes raciais",
+      "minimum": 2,
+      "maximum": 5,
+      "penalty": "Reclusão, de 2 a 5 anos, e multa.",
+      "keywords": [
+        "racismo",
+        "discriminação",
+        "preconceito"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7716.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "abuso-autoridade-23",
+      "name": "Inovação artificiosa em diligência ou investigação",
+      "article": "art. 23",
+      "law": "Lei nº 13.869/2019",
+      "category": "Abuso de autoridade",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Detenção, de 1 a 4 anos, e multa.",
+      "keywords": [
+        "fraude processual",
+        "investigação"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "eleitoral-4737-289",
+      "name": "Inscrição fraudulenta de eleitor",
+      "article": "art. 289",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 0,
+      "maximum": 5,
+      "penalty": "Reclusão até 5 anos e pagamento de 5 a 15 dias-multa.",
+      "keywords": [
+        "alistamento",
+        "fraude"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "eleitoral-4737-291",
+      "name": "Inscrição fraudulenta por juiz",
+      "article": "art. 291",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 0,
+      "maximum": 5,
+      "penalty": "Reclusão até 5 anos e pagamento de 5 a 15 dias-multa.",
+      "keywords": [
+        "juiz eleitoral",
+        "alistamento"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "eleitoral-4737-320",
+      "name": "Inscrição simultânea em partidos",
+      "article": "art. 320",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 0,
+      "maximum": 0,
+      "penalty": "Pagamento de 10 a 20 dias-multa.",
+      "keywords": [
+        "partido",
+        "alistamento"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "contravencao-3688-22",
+      "name": "Internação irregular em estabelecimento psiquiátrico",
+      "article": "art. 22",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0,
+      "maximum": 0,
+      "penalty": "Multa; formas específicas podem ter prisão simples e multa.",
+      "keywords": [
+        "internação psiquiátrica"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "abuso-autoridade-18",
+      "name": "Interrogatório durante repouso noturno",
+      "article": "art. 18",
+      "law": "Lei nº 13.869/2019",
+      "category": "Abuso de autoridade",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, e multa.",
+      "keywords": [
+        "interrogatório noturno",
+        "preso"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "estado-democratico-359n",
+      "name": "Interrupção do processo eleitoral",
+      "article": "art. 359-N",
+      "law": "Lei nº 14.197/2021",
+      "category": "Estado Democrático de Direito",
+      "minimum": 3,
+      "maximum": 6,
+      "penalty": "Reclusão, de 3 a 6 anos, e multa.",
+      "keywords": [
+        "eleição",
+        "urna eletrônica",
+        "segurança"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14197.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "eleitoral-4737-305",
+      "name": "Intervenção estranha na mesa receptora",
+      "article": "art. 305",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 0,
+      "maximum": 0.5,
+      "penalty": "Detenção até 6 meses e pagamento de 60 a 90 dias-multa.",
+      "keywords": [
+        "mesa receptora",
+        "eleição"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "ambiental-31",
@@ -1206,6 +4108,23 @@
       "canCalculate": true
     },
     {
+      "id": "contravencao-3688-67",
+      "name": "Inumação ou exumação irregular",
+      "article": "art. 67",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0.08333333333333333,
+      "maximum": 1,
+      "penalty": "Prisão simples, de 1 mês a 1 ano, ou multa.",
+      "keywords": [
+        "cadáver",
+        "inumação"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "cp-154a",
       "name": "Invasão de dispositivo informático",
       "article": "art. 154-A",
@@ -1223,6 +4142,91 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "abuso-autoridade-22",
+      "name": "Invasão de imóvel por agente público",
+      "article": "art. 22",
+      "law": "Lei nº 13.869/2019",
+      "category": "Abuso de autoridade",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Detenção, de 1 a 4 anos, e multa.",
+      "keywords": [
+        "invasão de domicílio",
+        "busca e apreensão"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "abuso-autoridade-27",
+      "name": "Investigação sem indício",
+      "article": "art. 27",
+      "law": "Lei nº 13.869/2019",
+      "category": "Abuso de autoridade",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, e multa.",
+      "keywords": [
+        "investigação sem justa causa",
+        "procedimento investigatório"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "eleitoral-4737-310",
+      "name": "Irregularidade que anula votação",
+      "article": "art. 310",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 0,
+      "maximum": 0.5,
+      "penalty": "Detenção até 6 meses ou pagamento de 90 a 120 dias-multa.",
+      "keywords": [
+        "mesa receptora",
+        "anulação"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "contravencao-3688-50",
+      "name": "Jogo de azar",
+      "article": "art. 50",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0.25,
+      "maximum": 1,
+      "penalty": "Prisão simples, de 3 meses a 1 ano, e multa.",
+      "keywords": [
+        "jogo de azar",
+        "aposta"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "contravencao-3688-58",
+      "name": "Jogo do bicho",
+      "article": "art. 58",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0.1111111111111111,
+      "maximum": 1,
+      "penalty": "Prisão simples, de 4 meses a 1 ano, e multa.",
+      "keywords": [
+        "jogo do bicho",
+        "loteria"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "cp-157-3-ii",
@@ -1274,6 +4278,24 @@
         "relatório ambiental"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "lavagem-1",
+      "name": "Lavagem ou ocultação de bens, direitos e valores",
+      "article": "art. 1º, caput",
+      "law": "Lei nº 9.613/1998",
+      "category": "Lavagem de dinheiro",
+      "minimum": 3,
+      "maximum": 10,
+      "penalty": "Reclusão, de 3 a 10 anos, e multa.",
+      "keywords": [
+        "lavagem de dinheiro",
+        "ocultação de bens",
+        "dissimulação de valores"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9613compilado.htm",
       "validationState": "confirmada",
       "canCalculate": true
     },
@@ -1437,6 +4459,108 @@
       "canCalculate": false
     },
     {
+      "id": "contravencao-3688-53",
+      "name": "Loteria estadual irregular",
+      "article": "art. 53",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0.05555555555555555,
+      "maximum": 0.5,
+      "penalty": "Prisão simples, de 2 a 6 meses, e multa.",
+      "keywords": [
+        "loteria estadual"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "contravencao-3688-52",
+      "name": "Loteria estrangeira",
+      "article": "art. 52",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0.1111111111111111,
+      "maximum": 1,
+      "penalty": "Prisão simples, de 4 meses a 1 ano, e multa.",
+      "keywords": [
+        "loteria estrangeira"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "contravencao-3688-51",
+      "name": "Loteria não autorizada",
+      "article": "art. 51",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Prisão simples, de 6 meses a 2 anos, e multa.",
+      "keywords": [
+        "loteria",
+        "aposta"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "eleitoral-4737-303",
+      "name": "Majoração de preços eleitorais",
+      "article": "art. 303",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 0,
+      "maximum": 0,
+      "penalty": "Pagamento de 250 a 300 dias-multa.",
+      "keywords": [
+        "preços",
+        "eleição"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "abuso-autoridade-21",
+      "name": "Manutenção irregular de presos em cela",
+      "article": "art. 21",
+      "law": "Lei nº 13.869/2019",
+      "category": "Abuso de autoridade",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Detenção, de 1 a 4 anos, e multa.",
+      "keywords": [
+        "cela",
+        "preso",
+        "criança"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "drogas-34",
+      "name": "Maquinário ou instrumento para produção de drogas",
+      "article": "art. 34",
+      "law": "Lei nº 11.343/2006",
+      "category": "Drogas",
+      "minimum": 3,
+      "maximum": 10,
+      "penalty": "Reclusão, de 3 a 10 anos, e pagamento de 1.200 a 2.000 dias-multa.",
+      "keywords": [
+        "maquinário",
+        "produção",
+        "droga"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "ambiental-32",
       "name": "Maus-tratos a animais",
       "article": "art. 32, caput",
@@ -1473,6 +4597,113 @@
       "canCalculate": true
     },
     {
+      "id": "licitacao-14133-337-h",
+      "name": "Modificação ou pagamento irregular em contrato administrativo",
+      "article": "art. 337-H",
+      "law": "Lei nº 14.133/2021",
+      "category": "Crimes em licitações e contratos administrativos",
+      "minimum": 4,
+      "maximum": 8,
+      "penalty": "Reclusão, de 4 a 8 anos, e multa.",
+      "keywords": [
+        "licitação",
+        "contrato administrativo",
+        "modificação ou pagamento irregular em contrato administrativo"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "transplante-19",
+      "name": "Não recomposição de cadáver",
+      "article": "art. 19",
+      "law": "Lei nº 9.434/1997",
+      "category": "Transplantes",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos.",
+      "keywords": [
+        "cadáver",
+        "sepultamento",
+        "órgãos"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9434.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "abuso-autoridade-32",
+      "name": "Negativa de acesso aos autos",
+      "article": "art. 32",
+      "law": "Lei nº 13.869/2019",
+      "category": "Abuso de autoridade",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, e multa.",
+      "keywords": [
+        "acesso aos autos",
+        "cópias",
+        "defesa"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "idosa-10741-103",
+      "name": "Negativa de acolhimento por procuração",
+      "article": "art. 103",
+      "law": "Lei nº 10.741/2003",
+      "category": "Estatuto da Pessoa Idosa",
+      "minimum": 0.5,
+      "maximum": 1,
+      "penalty": "Detenção, de 6 meses a 1 ano, e multa.",
+      "keywords": [
+        "pessoa idosa",
+        "entidade de atendimento",
+        "procuração"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "eleitoral-4737-292",
+      "name": "Negativa ou retardamento ilegal de inscrição",
+      "article": "art. 292",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 0,
+      "maximum": 0,
+      "penalty": "Pagamento de 30 a 60 dias-multa.",
+      "keywords": [
+        "alistamento",
+        "autoridade judiciária"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "eca-236",
+      "name": "Obstrução da atuação de autoridade de proteção",
+      "article": "art. 236",
+      "law": "Lei nº 8.069/1990",
+      "category": "ECA",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos.",
+      "keywords": [
+        "Conselho Tutelar",
+        "Ministério Público",
+        "obstrução"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
       "id": "ambiental-69",
       "name": "Obstrução da fiscalização ambiental",
       "article": "art. 69",
@@ -1487,6 +4718,112 @@
         "ação fiscalizadora"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "orgcrime-12850-21a",
+      "name": "Obstrução de ações contra o crime organizado",
+      "article": "art. 21-A",
+      "law": "Lei nº 12.850/2013",
+      "category": "Organização criminosa",
+      "minimum": 4,
+      "maximum": 12,
+      "penalty": "Reclusão, de 4 a 12 anos, e multa.",
+      "keywords": [
+        "obstrução",
+        "violência",
+        "crime organizado"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "abuso-autoridade-25",
+      "name": "Obtenção ilícita de prova",
+      "article": "art. 25",
+      "law": "Lei nº 13.869/2019",
+      "category": "Abuso de autoridade",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Detenção, de 1 a 4 anos, e multa.",
+      "keywords": [
+        "prova ilícita",
+        "investigação"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "eca-229-culposa",
+      "name": "Omissão culposa de identificação ou exames",
+      "article": "art. 229, parágrafo único",
+      "law": "Lei nº 8.069/1990",
+      "category": "ECA",
+      "minimum": 0.16666666666666666,
+      "maximum": 0.5,
+      "penalty": "Detenção, de 2 a 6 meses, ou multa.",
+      "keywords": [
+        "neonato",
+        "culpa"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "eca-228-culposa",
+      "name": "Omissão culposa de registro ou declaração de nascimento",
+      "article": "art. 228, parágrafo único",
+      "law": "Lei nº 8.069/1990",
+      "category": "ECA",
+      "minimum": 0.16666666666666666,
+      "maximum": 0.5,
+      "penalty": "Detenção, de 2 a 6 meses, ou multa.",
+      "keywords": [
+        "criança",
+        "nascimento",
+        "culpa"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "consumo-8078-63",
+      "name": "Omissão de alerta sobre nocividade ou periculosidade",
+      "article": "art. 63",
+      "law": "Lei nº 8.078/1990",
+      "category": "Crimes contra relações de consumo",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, e multa.",
+      "keywords": [
+        "consumidor",
+        "relações de consumo",
+        "omissão de alerta sobre nocividade ou periculosidade"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "idosa-10741-97",
+      "name": "Omissão de assistência à pessoa idosa",
+      "article": "art. 97",
+      "law": "Lei nº 10.741/2003",
+      "category": "Estatuto da Pessoa Idosa",
+      "minimum": 0.5,
+      "maximum": 1,
+      "penalty": "Detenção, de 6 meses a 1 ano, e multa.",
+      "keywords": [
+        "pessoa idosa",
+        "omissão de socorro",
+        "assistência à saúde"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm",
       "validationState": "confirmada",
       "canCalculate": true
     },
@@ -1509,6 +4846,235 @@
       "canCalculate": true
     },
     {
+      "id": "contravencao-3688-31",
+      "name": "Omissão de cautela na guarda ou condução de animais",
+      "article": "art. 31",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0.027777777777777776,
+      "maximum": 0.16666666666666666,
+      "penalty": "Prisão simples, de 10 dias a 2 meses, ou multa.",
+      "keywords": [
+        "animal perigoso",
+        "cautela"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "eca-231",
+      "name": "Omissão de comunicação de apreensão",
+      "article": "art. 231",
+      "law": "Lei nº 8.069/1990",
+      "category": "ECA",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos.",
+      "keywords": [
+        "apreensão",
+        "comunicação",
+        "autoridade policial"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "contravencao-3688-66",
+      "name": "Omissão de comunicação de crime",
+      "article": "art. 66",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0,
+      "maximum": 0,
+      "penalty": "Multa.",
+      "keywords": [
+        "omissão",
+        "comunicação de crime"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "consumo-8078-64",
+      "name": "Omissão de comunicação de nocividade",
+      "article": "art. 64",
+      "law": "Lei nº 8.078/1990",
+      "category": "Crimes contra relações de consumo",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, e multa.",
+      "keywords": [
+        "consumidor",
+        "relações de consumo",
+        "omissão de comunicação de nocividade"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "henry-borel-26",
+      "name": "Omissão de comunicação de violência contra criança ou adolescente",
+      "article": "art. 26",
+      "law": "Lei nº 14.344/2022",
+      "category": "Lei Henry Borel",
+      "minimum": 0.5,
+      "maximum": 3,
+      "penalty": "Detenção, de 6 meses a 3 anos.",
+      "keywords": [
+        "omissão de comunicação",
+        "violência doméstica",
+        "abandono"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14344.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "consumo-8078-73",
+      "name": "Omissão de correção de cadastro inexato",
+      "article": "art. 73",
+      "law": "Lei nº 8.078/1990",
+      "category": "Crimes contra relações de consumo",
+      "minimum": 0.08333333333333333,
+      "maximum": 0.5,
+      "penalty": "Detenção, de 1 a 6 meses ou multa.",
+      "keywords": [
+        "consumidor",
+        "relações de consumo",
+        "omissão de correção de cadastro inexato"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "consumo-8078-69",
+      "name": "Omissão de dados da publicidade",
+      "article": "art. 69",
+      "law": "Lei nº 8.078/1990",
+      "category": "Crimes contra relações de consumo",
+      "minimum": 0.08333333333333333,
+      "maximum": 0.5,
+      "penalty": "Detenção, de 1 a 6 meses ou multa.",
+      "keywords": [
+        "consumidor",
+        "relações de consumo",
+        "omissão de dados da publicidade"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "falimentar-11101-178",
+      "name": "Omissão de documentos contábeis obrigatórios",
+      "article": "art. 178",
+      "law": "Lei nº 11.101/2005",
+      "category": "Crimes falimentares",
+      "minimum": 1,
+      "maximum": 2,
+      "penalty": "Detenção, de 1 a 2 anos, e multa, se o fato não constitui crime mais grave.",
+      "keywords": [
+        "falência",
+        "recuperação judicial",
+        "omissão de documentos contábeis obrigatórios"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "eca-229",
+      "name": "Omissão de identificação ou exames do neonato",
+      "article": "art. 229",
+      "law": "Lei nº 8.069/1990",
+      "category": "ECA",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos.",
+      "keywords": [
+        "neonato",
+        "parturiente",
+        "saúde"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "eca-234",
+      "name": "Omissão de liberação de criança ou adolescente",
+      "article": "art. 234",
+      "law": "Lei nº 8.069/1990",
+      "category": "ECA",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos.",
+      "keywords": [
+        "liberação",
+        "apreensão ilegal"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "eleitoral-4737-338",
+      "name": "Omissão de prioridade postal eleitoral",
+      "article": "art. 338",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 0,
+      "maximum": 0,
+      "penalty": "Pagamento de 30 a 60 dias-multa.",
+      "keywords": [
+        "serviço postal",
+        "eleição"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "eca-228",
+      "name": "Omissão de registro ou declaração de nascimento",
+      "article": "art. 228",
+      "law": "Lei nº 8.069/1990",
+      "category": "ECA",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos.",
+      "keywords": [
+        "criança",
+        "nascimento",
+        "registro"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "contravencao-3688-36",
+      "name": "Omissão de sinal de perigo",
+      "article": "art. 36",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0.027777777777777776,
+      "maximum": 0.16666666666666666,
+      "penalty": "Prisão simples, de 10 dias a 2 meses, ou multa.",
+      "keywords": [
+        "sinal de perigo",
+        "via pública"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "ctb-304",
       "name": "Omissão de socorro no trânsito",
       "article": "art. 304",
@@ -1527,6 +5093,149 @@
       "canCalculate": false
     },
     {
+      "id": "consumo-8078-74",
+      "name": "Omissão de termo de garantia",
+      "article": "art. 74",
+      "law": "Lei nº 8.078/1990",
+      "category": "Crimes contra relações de consumo",
+      "minimum": 0.08333333333333333,
+      "maximum": 0.5,
+      "penalty": "Detenção, de 1 a 6 meses ou multa.",
+      "keywords": [
+        "consumidor",
+        "relações de consumo",
+        "omissão de termo de garantia"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "tortura-1-2",
+      "name": "Omissão diante de tortura",
+      "article": "art. 1º, § 2º",
+      "law": "Lei nº 9.455/1997",
+      "category": "Crimes de tortura",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Detenção, de 1 a 4 anos.",
+      "keywords": [
+        "tortura",
+        "omissão",
+        "dever de apuração"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9455.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "eca-244c",
+      "name": "Omissão dolosa de comunicação de desaparecimento",
+      "article": "art. 244-C",
+      "law": "Lei nº 8.069/1990",
+      "category": "ECA",
+      "minimum": 2,
+      "maximum": 4,
+      "penalty": "Reclusão, de 2 a 4 anos, e multa.",
+      "keywords": [
+        "desaparecimento",
+        "criança",
+        "responsável legal"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "sfn-7492-23",
+      "name": "Omissão funcional contra o sistema financeiro",
+      "article": "art. 23",
+      "law": "Lei nº 7.492/1986",
+      "category": "Crimes contra o sistema financeiro",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão, de 1 a 4 anos, e multa.",
+      "keywords": [
+        "sistema financeiro",
+        "funcionário público",
+        "omissão"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7492.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "licitacao-14133-337-o",
+      "name": "Omissão grave de dado por projetista",
+      "article": "art. 337-O",
+      "law": "Lei nº 14.133/2021",
+      "category": "Crimes em licitações e contratos administrativos",
+      "minimum": 0.5,
+      "maximum": 3,
+      "penalty": "Reclusão, de 6 meses a 3 anos, e multa.",
+      "keywords": [
+        "licitação",
+        "contrato administrativo",
+        "omissão grave de dado por projetista"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "eleitoral-4737-304",
+      "name": "Omissão ou exclusividade de utilidades eleitorais",
+      "article": "art. 304",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 0,
+      "maximum": 0,
+      "penalty": "Pagamento de 250 a 300 dias-multa.",
+      "keywords": [
+        "transporte",
+        "alimentação",
+        "eleição"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "orgcrime-12850-21",
+      "name": "Omissão ou uso indevido de dados requisitados",
+      "article": "art. 21",
+      "law": "Lei nº 12.850/2013",
+      "category": "Organização criminosa",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Reclusão, de 6 meses a 2 anos, e multa.",
+      "keywords": [
+        "dados cadastrais",
+        "investigação",
+        "sigilo"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "abuso-autoridade-12",
+      "name": "Omissões na comunicação de prisão",
+      "article": "art. 12",
+      "law": "Lei nº 13.869/2019",
+      "category": "Abuso de autoridade",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, e multa",
+      "keywords": [
+        "comunicação de prisão",
+        "flagrante"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
       "id": "org-2",
       "name": "Organização criminosa",
       "article": "art. 2º, caput",
@@ -1541,6 +5250,59 @@
         "grupo estruturado"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "terrorismo-3",
+      "name": "Organização terrorista",
+      "article": "art. 3º",
+      "law": "Lei nº 13.260/2016",
+      "category": "Terrorismo",
+      "minimum": 5,
+      "maximum": 8,
+      "penalty": "Reclusão, de 5 a 8 anos, e multa.",
+      "keywords": [
+        "organização terrorista",
+        "terrorismo"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13260.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "licitacao-14133-337-g",
+      "name": "Patrocínio de contratação indevida",
+      "article": "art. 337-G",
+      "law": "Lei nº 14.133/2021",
+      "category": "Crimes em licitações e contratos administrativos",
+      "minimum": 0.5,
+      "maximum": 3,
+      "penalty": "Reclusão, de 6 meses a 3 anos, e multa.",
+      "keywords": [
+        "licitação",
+        "contrato administrativo",
+        "patrocínio de contratação indevida"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "tributario-8137-3-iii",
+      "name": "Patrocínio de interesse privado perante a administração fazendária",
+      "article": "art. 3º, III",
+      "law": "Lei nº 8.137/1990",
+      "category": "Crimes tributários",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão, de 1 a 4 anos, e multa.",
+      "keywords": [
+        "administração fazendária",
+        "funcionário público",
+        "patrocínio"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8137.htm",
       "validationState": "confirmada",
       "canCalculate": true
     },
@@ -1563,6 +5325,23 @@
       "canCalculate": true
     },
     {
+      "id": "cpm-303",
+      "name": "Peculato militar",
+      "article": "art. 303",
+      "law": "Decreto-Lei nº 1.001/1969",
+      "category": "Código Penal Militar",
+      "minimum": 3,
+      "maximum": 15,
+      "penalty": "Reclusão, de 3 a 15 anos.",
+      "keywords": [
+        "peculato",
+        "administração militar"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del1001.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "ambiental-33",
       "name": "Perecimento de fauna aquática por poluição",
       "article": "art. 33",
@@ -1579,6 +5358,110 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "contravencao-3688-30",
+      "name": "Perigo de desabamento",
+      "article": "art. 30",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0,
+      "maximum": 0,
+      "penalty": "Multa.",
+      "keywords": [
+        "desabamento",
+        "omissão"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "abuso-autoridade-30",
+      "name": "Persecução sem justa causa contra inocente",
+      "article": "art. 30",
+      "law": "Lei nº 13.869/2019",
+      "category": "Abuso de autoridade",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Detenção, de 1 a 4 anos, e multa.",
+      "keywords": [
+        "persecução sem justa causa",
+        "inocente"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "eleitoral-4737-331",
+      "name": "Perturbação de meio de propaganda",
+      "article": "art. 331",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 0,
+      "maximum": 0.5,
+      "penalty": "Detenção até 6 meses ou pagamento de 90 a 120 dias-multa.",
+      "keywords": [
+        "propaganda",
+        "eleição"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "licitacao-14133-337-i",
+      "name": "Perturbação de processo licitatório",
+      "article": "art. 337-I",
+      "law": "Lei nº 14.133/2021",
+      "category": "Crimes em licitações e contratos administrativos",
+      "minimum": 0.5,
+      "maximum": 3,
+      "penalty": "Detenção, de 6 meses a 3 anos, e multa.",
+      "keywords": [
+        "licitação",
+        "contrato administrativo",
+        "perturbação de processo licitatório"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "contravencao-3688-42",
+      "name": "Perturbação do trabalho ou sossego",
+      "article": "art. 42",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0.041666666666666664,
+      "maximum": 0.25,
+      "penalty": "Prisão simples, de 15 dias a 3 meses, ou multa.",
+      "keywords": [
+        "sossego",
+        "barulho",
+        "ruído"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "eleitoral-4737-293",
+      "name": "Perturbação ou impedimento do alistamento",
+      "article": "art. 293",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 0.041666666666666664,
+      "maximum": 0.5,
+      "penalty": "Detenção de 15 dias a 6 meses ou pagamento de 30 a 60 dias-multa.",
+      "keywords": [
+        "alistamento",
+        "perturbação"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "ambiental-35",
@@ -1686,6 +5569,40 @@
       "canCalculate": true
     },
     {
+      "id": "contravencao-3688-19",
+      "name": "Porte de arma",
+      "article": "art. 19",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0.041666666666666664,
+      "maximum": 0.5,
+      "penalty": "Prisão simples, de 15 dias a 6 meses, ou multa, ou ambas.",
+      "keywords": [
+        "porte de arma"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "drogas-28",
+      "name": "Porte de droga para consumo pessoal",
+      "article": "art. 28",
+      "law": "Lei nº 11.343/2006",
+      "category": "Drogas",
+      "minimum": 0,
+      "maximum": 0,
+      "penalty": "Advertência sobre os efeitos das drogas, prestação de serviços à comunidade e medida educativa de comparecimento a programa ou curso educativo.",
+      "keywords": [
+        "uso pessoal",
+        "droga",
+        "consumo"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "armas-14",
       "name": "Porte ilegal de arma de fogo de uso permitido",
       "article": "art. 14",
@@ -1723,6 +5640,23 @@
       "canCalculate": true
     },
     {
+      "id": "contravencao-3688-25",
+      "name": "Posse não justificada de instrumento de furto",
+      "article": "art. 25",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0.16666666666666666,
+      "maximum": 1,
+      "penalty": "Prisão simples, de 2 meses a 1 ano, e multa.",
+      "keywords": [
+        "chave falsa",
+        "furto"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "armas-16",
       "name": "Posse ou porte ilegal de arma de fogo de uso restrito",
       "article": "art. 16",
@@ -1740,6 +5674,216 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826compilado.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "drogas-38",
+      "name": "Prescrição ou ministração culposa de drogas",
+      "article": "art. 38",
+      "law": "Lei nº 11.343/2006",
+      "category": "Drogas",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, e pagamento de 50 a 200 dias-multa.",
+      "keywords": [
+        "prescrição",
+        "culpa",
+        "droga"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "eleitoral-4737-298",
+      "name": "Prisão ou detenção eleitoral ilegal",
+      "article": "art. 298",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 0,
+      "maximum": 4,
+      "penalty": "Reclusão até 4 anos.",
+      "keywords": [
+        "prisão",
+        "eleitor"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "abuso-autoridade-9",
+      "name": "Privação de liberdade em desconformidade legal",
+      "article": "art. 9",
+      "law": "Lei nº 13.869/2019",
+      "category": "Abuso de autoridade",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Detenção, de 1 a 4 anos, e multa",
+      "keywords": [
+        "prisão ilegal",
+        "privação de liberdade"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "eca-230",
+      "name": "Privação ilegal de liberdade de criança ou adolescente",
+      "article": "art. 230",
+      "law": "Lei nº 8.069/1990",
+      "category": "ECA",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos.",
+      "keywords": [
+        "apreensão ilegal",
+        "criança",
+        "adolescente"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "abuso-autoridade-31",
+      "name": "Procrastinação de investigação",
+      "article": "art. 31",
+      "law": "Lei nº 13.869/2019",
+      "category": "Abuso de autoridade",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, e multa.",
+      "keywords": [
+        "investigação prolongada",
+        "procrastinação"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "eca-240",
+      "name": "Produção de conteúdo de violência sexual contra criança ou adolescente",
+      "article": "art. 240",
+      "law": "Lei nº 8.069/1990",
+      "category": "ECA",
+      "minimum": 4,
+      "maximum": 10,
+      "penalty": "Reclusão, de 4 a 10 anos, e multa.",
+      "keywords": [
+        "violência sexual",
+        "conteúdo digital",
+        "criança"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "eleitoral-4737-335",
+      "name": "Propaganda em língua estrangeira",
+      "article": "art. 335",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 0.25,
+      "maximum": 0.5,
+      "penalty": "Detenção de 3 a 6 meses e pagamento de 30 a 60 dias-multa.",
+      "keywords": [
+        "propaganda",
+        "língua estrangeira"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "raciais-7716-20-1",
+      "name": "Propaganda nazista",
+      "article": "art. 20, § 1º",
+      "law": "Lei nº 7.716/1989",
+      "category": "Crimes raciais",
+      "minimum": 2,
+      "maximum": 5,
+      "penalty": "Reclusão, de 2 a 5 anos e multa.",
+      "keywords": [
+        "racismo",
+        "discriminação",
+        "preconceito"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7716.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "contravencao-3688-40",
+      "name": "Provocação de tumulto ou conduta inconveniente",
+      "article": "art. 40",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0.041666666666666664,
+      "maximum": 0.5,
+      "penalty": "Prisão simples, de 15 dias a 6 meses, ou multa.",
+      "keywords": [
+        "tumulto",
+        "conduta inconveniente"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "contravencao-3688-57",
+      "name": "Publicidade de sorteio irregular",
+      "article": "art. 57",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0,
+      "maximum": 0,
+      "penalty": "Multa.",
+      "keywords": [
+        "loteria",
+        "publicidade"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "consumo-8078-67",
+      "name": "Publicidade enganosa ou abusiva",
+      "article": "art. 67",
+      "law": "Lei nº 8.078/1990",
+      "category": "Crimes contra relações de consumo",
+      "minimum": 0.25,
+      "maximum": 1,
+      "penalty": "Detenção, de 3 meses a 1 ano, e multa.",
+      "keywords": [
+        "consumidor",
+        "relações de consumo",
+        "publicidade enganosa ou abusiva"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "consumo-8078-68",
+      "name": "Publicidade perigosa à saúde ou segurança",
+      "article": "art. 68",
+      "law": "Lei nº 8.078/1990",
+      "category": "Crimes contra relações de consumo",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, e multa.",
+      "keywords": [
+        "consumidor",
+        "relações de consumo",
+        "publicidade perigosa à saúde ou segurança"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "ctb-308-1",
@@ -1814,6 +5958,40 @@
       "canCalculate": true
     },
     {
+      "id": "contravencao-3688-68",
+      "name": "Recusa de dados sobre identidade",
+      "article": "art. 68",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0,
+      "maximum": 0,
+      "penalty": "Multa; forma de declaração inverídica pode ter prisão simples e multa.",
+      "keywords": [
+        "identidade",
+        "autoridade"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "contravencao-3688-43",
+      "name": "Recusa de moeda de curso legal",
+      "article": "art. 43",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0,
+      "maximum": 0,
+      "penalty": "Multa.",
+      "keywords": [
+        "moeda",
+        "curso legal"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "cp-149",
       "name": "Redução a condição análoga à de escravo",
       "article": "art. 149",
@@ -1829,6 +6007,184 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "transplante-14-1",
+      "name": "Remoção de tecidos ou órgãos mediante paga ou motivo torpe",
+      "article": "art. 14, § 1º",
+      "law": "Lei nº 9.434/1997",
+      "category": "Transplantes",
+      "minimum": 3,
+      "maximum": 8,
+      "penalty": "Reclusão, de 3 a 8 anos, e multa de 100 a 150 dias-multa.",
+      "keywords": [
+        "órgãos",
+        "paga",
+        "motivo torpe"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9434.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "transplante-14-2",
+      "name": "Remoção irregular com lesão grave",
+      "article": "art. 14, § 2º",
+      "law": "Lei nº 9.434/1997",
+      "category": "Transplantes",
+      "minimum": 3,
+      "maximum": 10,
+      "penalty": "Reclusão, de 3 a 10 anos, e multa de 100 a 200 dias-multa.",
+      "keywords": [
+        "órgãos",
+        "lesão grave",
+        "pessoa viva"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9434.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "transplante-14-3",
+      "name": "Remoção irregular com lesão gravíssima",
+      "article": "art. 14, § 3º",
+      "law": "Lei nº 9.434/1997",
+      "category": "Transplantes",
+      "minimum": 4,
+      "maximum": 12,
+      "penalty": "Reclusão, de 4 a 12 anos, e multa de 150 a 300 dias-multa.",
+      "keywords": [
+        "órgãos",
+        "lesão gravíssima",
+        "pessoa viva"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9434.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "transplante-14-4",
+      "name": "Remoção irregular com morte",
+      "article": "art. 14, § 4º",
+      "law": "Lei nº 9.434/1997",
+      "category": "Transplantes",
+      "minimum": 8,
+      "maximum": 20,
+      "penalty": "Reclusão, de 8 a 20 anos, e multa de 200 a 360 dias-multa.",
+      "keywords": [
+        "órgãos",
+        "morte",
+        "pessoa viva"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9434.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "transplante-14",
+      "name": "Remoção irregular de tecidos ou órgãos",
+      "article": "art. 14",
+      "law": "Lei nº 9.434/1997",
+      "category": "Transplantes",
+      "minimum": 2,
+      "maximum": 6,
+      "penalty": "Reclusão, de 2 a 6 anos, e multa de 100 a 360 dias-multa.",
+      "keywords": [
+        "órgãos",
+        "tecidos",
+        "remoção irregular"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9434.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "lbi-91",
+      "name": "Retenção de cartão ou documento de pessoa com deficiência",
+      "article": "art. 91",
+      "law": "Lei nº 13.146/2015",
+      "category": "Pessoa com deficiência",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, e multa.",
+      "keywords": [
+        "deficiência",
+        "cartão bancário",
+        "vantagem indevida"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "idosa-10741-104",
+      "name": "Retenção de cartão ou documento de pessoa idosa",
+      "article": "art. 104",
+      "law": "Lei nº 10.741/2003",
+      "category": "Estatuto da Pessoa Idosa",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, e multa.",
+      "keywords": [
+        "pessoa idosa",
+        "cartão bancário",
+        "dívida"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "eleitoral-4737-295",
+      "name": "Retenção de título eleitoral",
+      "article": "art. 295",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 0,
+      "maximum": 0.16666666666666666,
+      "penalty": "Detenção até 2 meses ou pagamento de 30 a 60 dias-multa.",
+      "keywords": [
+        "título eleitoral"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cpm-149",
+      "name": "Reunião de militares contra ordem ou disciplina",
+      "article": "art. 149",
+      "law": "Decreto-Lei nº 1.001/1969",
+      "category": "Código Penal Militar",
+      "minimum": 0,
+      "maximum": 0,
+      "penalty": "Pena conforme as hipóteses e parágrafos do art. 149.",
+      "keywords": [
+        "disciplina militar",
+        "ordem superior",
+        "reunião"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del1001.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "orgcrime-12850-18",
+      "name": "Revelação indevida da identidade de colaborador",
+      "article": "art. 18",
+      "law": "Lei nº 12.850/2013",
+      "category": "Organização criminosa",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Reclusão, de 1 a 3 anos, e multa.",
+      "keywords": [
+        "colaborador",
+        "identidade",
+        "sigilo"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "cp-157",
@@ -1880,6 +6236,40 @@
         "serviço público essencial"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "eleitoral-4737-308",
+      "name": "Rubrica ou entrega irregular de cédula",
+      "article": "art. 308",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 0,
+      "maximum": 5,
+      "penalty": "Reclusão até 5 anos e pagamento de 60 a 90 dias-multa.",
+      "keywords": [
+        "cédula",
+        "mesa receptora"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "estado-democratico-359r",
+      "name": "Sabotagem",
+      "article": "art. 359-R",
+      "law": "Lei nº 14.197/2021",
+      "category": "Estado Democrático de Direito",
+      "minimum": 2,
+      "maximum": 8,
+      "penalty": "Reclusão, de 2 a 8 anos.",
+      "keywords": [
+        "sabotagem",
+        "defesa nacional"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14197.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -1954,6 +6344,164 @@
       "canCalculate": true
     },
     {
+      "id": "contravencao-3688-63",
+      "name": "Servir bebida alcoólica em hipóteses proibidas",
+      "article": "art. 63",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0.16666666666666666,
+      "maximum": 1,
+      "penalty": "Prisão simples, de 2 meses a 1 ano, ou multa.",
+      "keywords": [
+        "bebida alcoólica",
+        "embriaguez"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "contravencao-3688-45",
+      "name": "Simulação da qualidade de funcionário",
+      "article": "art. 45",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0.08333333333333333,
+      "maximum": 0.25,
+      "penalty": "Prisão simples, de 1 a 3 meses, ou multa.",
+      "keywords": [
+        "funcionário público",
+        "falsa qualidade"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "eca-241c",
+      "name": "Simulação digital de violência sexual contra criança ou adolescente",
+      "article": "art. 241-C",
+      "law": "Lei nº 8.069/1990",
+      "category": "ECA",
+      "minimum": 3,
+      "maximum": 5,
+      "penalty": "Reclusão, de 3 a 5 anos, e multa.",
+      "keywords": [
+        "violência sexual",
+        "deepfake",
+        "inteligência artificial"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "eca-232",
+      "name": "Submissão a vexame ou constrangimento",
+      "article": "art. 232",
+      "law": "Lei nº 8.069/1990",
+      "category": "ECA",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos.",
+      "keywords": [
+        "vexame",
+        "constrangimento",
+        "criança"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "eca-237",
+      "name": "Subtração de criança ou adolescente para colocação em lar substituto",
+      "article": "art. 237",
+      "law": "Lei nº 8.069/1990",
+      "category": "ECA",
+      "minimum": 2,
+      "maximum": 6,
+      "penalty": "Reclusão, de 2 a 6 anos, e multa.",
+      "keywords": [
+        "guarda",
+        "lar substituto",
+        "subtração"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "terrorismo-2",
+      "name": "Terrorismo",
+      "article": "art. 2º, caput e § 1º",
+      "law": "Lei nº 13.260/2016",
+      "category": "Terrorismo",
+      "minimum": 12,
+      "maximum": 30,
+      "penalty": "Reclusão, de 12 a 30 anos, além das sanções correspondentes à ameaça ou violência.",
+      "keywords": [
+        "terrorismo",
+        "terror social",
+        "explosivo"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13260.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "tortura-1",
+      "name": "Tortura",
+      "article": "art. 1º, caput e incisos I a III",
+      "law": "Lei nº 9.455/1997",
+      "category": "Crimes de tortura",
+      "minimum": 2,
+      "maximum": 8,
+      "penalty": "Reclusão, de 2 a 8 anos.",
+      "keywords": [
+        "tortura",
+        "sofrimento físico",
+        "violência doméstica"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9455.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "tortura-1-3",
+      "name": "Tortura com lesão grave ou gravíssima",
+      "article": "art. 1º, § 3º, primeira parte",
+      "law": "Lei nº 9.455/1997",
+      "category": "Crimes de tortura",
+      "minimum": 4,
+      "maximum": 10,
+      "penalty": "Reclusão, de 4 a 10 anos.",
+      "keywords": [
+        "tortura",
+        "lesão grave"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9455.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "tortura-1-3-morte",
+      "name": "Tortura com resultado morte",
+      "article": "art. 1º, § 3º, segunda parte",
+      "law": "Lei nº 9.455/1997",
+      "category": "Crimes de tortura",
+      "minimum": 8,
+      "maximum": 16,
+      "penalty": "Reclusão, de 8 a 16 anos.",
+      "keywords": [
+        "tortura",
+        "morte"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9455.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "ctb-311",
       "name": "Tráfego em velocidade incompatível com segurança",
       "article": "art. 311",
@@ -2008,6 +6556,78 @@
       "canCalculate": true
     },
     {
+      "id": "cpm-290",
+      "name": "Tráfico, posse ou uso de entorpecente em lugar sujeito à administração militar",
+      "article": "art. 290",
+      "law": "Decreto-Lei nº 1.001/1969",
+      "category": "Código Penal Militar",
+      "minimum": 0,
+      "maximum": 5,
+      "penalty": "Reclusão, até 5 anos.",
+      "keywords": [
+        "entorpecente",
+        "droga",
+        "administração militar"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del1001.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "transplante-16",
+      "name": "Transplante com material obtido ilicitamente",
+      "article": "art. 16",
+      "law": "Lei nº 9.434/1997",
+      "category": "Transplantes",
+      "minimum": 1,
+      "maximum": 6,
+      "penalty": "Reclusão, de 1 a 6 anos, e multa de 150 a 300 dias-multa.",
+      "keywords": [
+        "órgãos",
+        "transplante",
+        "material ilícito"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9434.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "transplante-18",
+      "name": "Transplante em desacordo com consentimento",
+      "article": "art. 18",
+      "law": "Lei nº 9.434/1997",
+      "category": "Transplantes",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos.",
+      "keywords": [
+        "órgãos",
+        "consentimento",
+        "transplante"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9434.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "transplante-17",
+      "name": "Transporte ou distribuição de material ilícito",
+      "article": "art. 17",
+      "law": "Lei nº 9.434/1997",
+      "category": "Transplantes",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Reclusão, de 6 meses a 2 anos, e multa de 100 a 250 dias-multa.",
+      "keywords": [
+        "órgãos",
+        "transporte",
+        "distribuição"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9434.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
       "id": "ambiental-56-3",
       "name": "Uso culposo de produto ou substância perigosa",
       "article": "art. 56, § 3º",
@@ -2024,6 +6644,58 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "eleitoral-4737-334",
+      "name": "Uso de organização comercial para propaganda ou aliciamento",
+      "article": "art. 334",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 0.5,
+      "maximum": 1,
+      "penalty": "Detenção de 6 meses a 1 ano e cassação do registro se o responsável for candidato.",
+      "keywords": [
+        "propaganda",
+        "aliciamento"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "consumo-8078-70",
+      "name": "Uso de peça usada sem autorização",
+      "article": "art. 70",
+      "law": "Lei nº 8.078/1990",
+      "category": "Crimes contra relações de consumo",
+      "minimum": 0.25,
+      "maximum": 1,
+      "penalty": "Detenção, de 3 meses a 1 ano, e multa.",
+      "keywords": [
+        "consumidor",
+        "relações de consumo",
+        "uso de peça usada sem autorização"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "contravencao-3688-46",
+      "name": "Uso ilegítimo de uniforme ou distintivo",
+      "article": "art. 46",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0,
+      "maximum": 0,
+      "penalty": "Multa.",
+      "keywords": [
+        "uniforme",
+        "distintivo"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "ambiental-56",
@@ -2044,6 +6716,56 @@
       "canCalculate": true
     },
     {
+      "id": "contravencao-3688-59",
+      "name": "Vadiagem",
+      "article": "art. 59",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0.041666666666666664,
+      "maximum": 0.25,
+      "penalty": "Prisão simples, de 15 dias a 3 meses.",
+      "keywords": [
+        "vadiagem"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "eca-241",
+      "name": "Venda ou exposição à venda de conteúdo de violência sexual",
+      "article": "art. 241",
+      "law": "Lei nº 8.069/1990",
+      "category": "ECA",
+      "minimum": 4,
+      "maximum": 10,
+      "penalty": "Reclusão, de 4 a 10 anos, e multa.",
+      "keywords": [
+        "violência sexual",
+        "venda",
+        "criança"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "contravencao-3688-21",
+      "name": "Vias de fato",
+      "article": "art. 21",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0.041666666666666664,
+      "maximum": 0.25,
+      "penalty": "Prisão simples, de 15 dias a 3 meses, ou multa.",
+      "keywords": [
+        "vias de fato"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "cp-121b",
       "name": "Vicaricídio",
       "article": "art. 121-B",
@@ -2062,6 +6784,95 @@
       "canCalculate": false
     },
     {
+      "id": "falimentar-11101-177",
+      "name": "Violação de impedimento no processo falimentar",
+      "article": "art. 177",
+      "law": "Lei nº 11.101/2005",
+      "category": "Crimes falimentares",
+      "minimum": 2,
+      "maximum": 4,
+      "penalty": "Reclusão, de 2 a 4 anos, e multa.",
+      "keywords": [
+        "falência",
+        "recuperação judicial",
+        "violação de impedimento no processo falimentar"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "contravencao-3688-26",
+      "name": "Violação de lugar ou objeto por serralheiro",
+      "article": "art. 26",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0.041666666666666664,
+      "maximum": 0.25,
+      "penalty": "Prisão simples, de 15 dias a 3 meses, ou multa.",
+      "keywords": [
+        "serralheiro",
+        "fechadura"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "orgcrime-12850-20",
+      "name": "Violação de sigilo de investigação de organização criminosa",
+      "article": "art. 20",
+      "law": "Lei nº 12.850/2013",
+      "category": "Organização criminosa",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão, de 1 a 4 anos, e multa.",
+      "keywords": [
+        "sigilo",
+        "ação controlada",
+        "infiltração"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "licitacao-14133-337-j",
+      "name": "Violação de sigilo em licitação",
+      "article": "art. 337-J",
+      "law": "Lei nº 14.133/2021",
+      "category": "Crimes em licitações e contratos administrativos",
+      "minimum": 2,
+      "maximum": 3,
+      "penalty": "Detenção, de 2 a 3 anos, e multa.",
+      "keywords": [
+        "licitação",
+        "contrato administrativo",
+        "violação de sigilo em licitação"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "falimentar-11101-169",
+      "name": "Violação de sigilo empresarial em recuperação ou falência",
+      "article": "art. 169",
+      "law": "Lei nº 11.101/2005",
+      "category": "Crimes falimentares",
+      "minimum": 2,
+      "maximum": 4,
+      "penalty": "Reclusão, de 2 a 4 anos, e multa.",
+      "keywords": [
+        "falência",
+        "recuperação judicial",
+        "violação de sigilo empresarial em recuperação ou falência"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "ctb-307",
       "name": "Violação de suspensão ou proibição de dirigir",
       "article": "art. 307",
@@ -2075,6 +6886,92 @@
         "proibição de dirigir"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "contravencao-3688-70",
+      "name": "Violação do monopólio postal",
+      "article": "art. 70",
+      "law": "Decreto-Lei nº 3.688/1941",
+      "category": "Contravenções",
+      "minimum": 0.25,
+      "maximum": 1,
+      "penalty": "Prisão simples, de 3 meses a 1 ano, ou multa, ou ambas.",
+      "keywords": [
+        "serviço postal",
+        "monopólio postal"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "eleitoral-4737-317",
+      "name": "Violação do sigilo da urna",
+      "article": "art. 317",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 3,
+      "maximum": 5,
+      "penalty": "Reclusão de 3 a 5 anos.",
+      "keywords": [
+        "urna",
+        "sigilo"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "eleitoral-4737-312",
+      "name": "Violação do sigilo do voto",
+      "article": "art. 312",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 0,
+      "maximum": 2,
+      "penalty": "Detenção até 2 anos.",
+      "keywords": [
+        "sigilo",
+        "voto"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "abuso-autoridade-15a",
+      "name": "Violência institucional",
+      "article": "art. 15-A",
+      "law": "Lei nº 13.869/2019",
+      "category": "Abuso de autoridade",
+      "minimum": 0.25,
+      "maximum": 1,
+      "penalty": "Detenção, de 3 meses a 1 ano, e multa.",
+      "keywords": [
+        "violência institucional",
+        "revitimização"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "raciais-7716-20-2b",
+      "name": "Violência ou obstrução de manifestação religiosa",
+      "article": "art. 20, § 2º-B",
+      "law": "Lei nº 7.716/1989",
+      "category": "Crimes raciais",
+      "minimum": 2,
+      "maximum": 5,
+      "penalty": "Reclusão, de 2 a 5 anos e multa, sem prejuízo da pena da violência.",
+      "keywords": [
+        "racismo",
+        "discriminação",
+        "preconceito"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7716.htm",
       "validationState": "confirmada",
       "canCalculate": true
     },
@@ -2097,6 +6994,24 @@
       "canCalculate": false
     },
     {
+      "id": "eleitoral-4737-326-b",
+      "name": "Violência política contra a mulher",
+      "article": "art. 326-B",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão de 1 a 4 anos e multa.",
+      "keywords": [
+        "violência política",
+        "mulher",
+        "eleição"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "cp-147b",
       "name": "Violência psicológica contra a mulher",
       "article": "art. 147-B",
@@ -2111,6 +7026,57 @@
         "mulher"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "abuso-autoridade-37",
+      "name": "Vista procrastinatória em órgão colegiado",
+      "article": "art. 37",
+      "law": "Lei nº 13.869/2019",
+      "category": "Abuso de autoridade",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, e multa.",
+      "keywords": [
+        "vista",
+        "procrastinação processual"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "eleitoral-4737-311",
+      "name": "Voto fora da seção eleitoral",
+      "article": "art. 311",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 0,
+      "maximum": 0.08333333333333333,
+      "penalty": "Detenção até 1 mês ou pagamento de multa conforme a função.",
+      "keywords": [
+        "seção eleitoral",
+        "voto"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "eleitoral-4737-309",
+      "name": "Voto múltiplo ou em lugar de outrem",
+      "article": "art. 309",
+      "law": "Lei nº 4.737/1965",
+      "category": "Crimes eleitorais",
+      "minimum": 0,
+      "maximum": 3,
+      "penalty": "Reclusão até 3 anos.",
+      "keywords": [
+        "voto",
+        "fraude"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
       "validationState": "pendente",
       "canCalculate": false
     }

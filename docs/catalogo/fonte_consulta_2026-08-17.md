@@ -43,3 +43,75 @@ A página do Estatuto da Criança e do Adolescente em <https://www.planalto.gov.
 A página oficial da Lei nº 9.605/1998 foi aberta em <https://www.planalto.gov.br/ccivil_03/leis/l9605.htm>. O texto identifica a lei como fonte de sanções penais e administrativas ambientais e contém alterações recentes, inclusive dispositivos novos de 2025 e 2026. A extração deve usar apenas artigos com pena criminal, excluindo infrações administrativas e efeitos da condenação.
 
 A página oficial da Lei nº 7.716/1989 foi aberta em <https://www.planalto.gov.br/ccivil_03/leis/l7716.htm>. A consulta confirmou, entre outros, o art. 2º-A, com injúria racial e pena de reclusão de 2 a 5 anos e multa, e os arts. 3º a 14 e 20, com figuras discriminatórias autônomas e penas próprias. O texto retornou caracteres com problemas de codificação em alguns trechos; a carga deve preservar a URL oficial e registrar eventual necessidade de reconferência textual antes de marcar todos os artigos como validados.
+
+## Cobertura nacional — abuso de autoridade e tortura
+
+A Lei nº 13.869/2019 foi aberta em <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm>. A página oficial identifica o diploma como fonte dos crimes de abuso de autoridade e informa alterações pela Lei nº 14.321/2022. O art. 9º, em trecho acessível, prevê detenção de 1 a 4 anos e multa para decretar privação de liberdade em manifesta desconformidade legal; os demais artigos penais devem ser extraídos do texto completo salvo pelo navegador.
+
+A página da Lei nº 9.455/1997 em <https://www.planalto.gov.br/ccivil_03/leis/l9455.htm> respondeu com acesso negado, código `13376840595492431872`. A Lei de Tortura permanece pendente; não foram cadastrados registros novos a partir de snippet.
+
+## Cobertura nacional — econômico, tributário e financeiro
+
+A Lei nº 8.137/1990 foi extraída de <https://www.planalto.gov.br/ccivil_03/leis/l8137.htm>. A fonte oficial confirmou as penas dos arts. 1º, 2º, 3º, 4º e 7º; dispositivos revogados foram excluídos e alterações recentes com efeitos futuros devem permanecer temporalmente marcadas quando aplicável.
+
+A Lei nº 7.492/1986 foi extraída de <https://www.planalto.gov.br/ccivil_03/leis/l7492.htm>. A fonte oficial confirmou os tipos dos arts. 2º a 23, com alterações posteriores, inclusive a redação do art. 17 pela Lei nº 13.506/2017. O próximo lote prioriza tipos com conduta e pena expressas, sem converter regras de procedimento ou sujeitos responsáveis em novos crimes.
+
+A Lei nº 11.101/2005 foi localizada em <https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm>, mas o texto é extenso e contém alterações da Lei nº 14.112/2020. Os crimes falimentares serão extraídos em lote separado após conferência específica do capítulo penal e da vigência das alterações.
+
+## Cobertura nacional — pessoa idosa, pessoa com deficiência e transplantes
+
+A versão compilada do Estatuto da Pessoa Idosa foi extraída de <https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm>. A página confirma o diploma e alterações de nomenclatura pela Lei nº 14.423/2022; o capítulo penal deve ser extraído especificamente dos arts. 96 a 108, preservando as penas e distinguindo crimes de medidas administrativas.
+
+A Lei Brasileira de Inclusão foi extraída de <https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm>. O texto contém o capítulo de crimes dos arts. 88 a 91; esses dispositivos serão cadastrados somente após extração integral do trecho penal e conferência das penas.
+
+A Lei de Transplantes foi extraída de <https://www.planalto.gov.br/ccivil_03/leis/l9434.htm>. Os arts. 14 a 20 apresentam tipos penais e penas expressas: remoção irregular, compra ou venda, transplante com material ilícito, transporte/guarda/distribuição, transplante em desacordo com consentimento, não recomposição de cadáver e anúncio irregular. As sanções administrativas dos arts. 21 a 23 não serão cadastradas como tipos penais.
+
+## Cobertura nacional — infância, adolescência e igualdade racial
+
+O texto compilado do ECA foi extraído de <https://www.planalto.gov.br/ccivil_03/leis/l8069.htm>. A página identifica alterações recentes em 2024, 2025 e 2026; os tipos penais devem ser extraídos do Título VII, especialmente arts. 228 a 244-B, distinguindo crimes dos arts. 241 e seguintes, infrações administrativas e atos infracionais.
+
+A Lei Henry Borel foi extraída de <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14344.htm>. O art. 25 pune o descumprimento de decisão judicial que defere medida protetiva de urgência com detenção de 3 meses a 2 anos; o art. 26 pune a omissão de comunicação de violência, tratamento cruel ou degradante, formas violentas de educação ou abandono de incapaz com detenção de 6 meses a 3 anos, com majorantes de resultado e duplicação em hipóteses familiares.
+
+A Lei nº 7.716/1989 foi extraída de <https://www.planalto.gov.br/ccivil_03/leis/l7716.htm>. A fonte confirma o art. 2º-A, arts. 3º a 14 e art. 20, com alterações das Leis nº 9.459/1997, nº 12.288/2010 e nº 14.532/2023. Dispositivos revogados e efeitos da condenação não serão cadastrados como tipos autônomos; formas qualificadas do art. 20 serão separadas apenas quando a pena estiver expressamente diferenciada.
+
+## Cobertura nacional — militar, contravenções e eleitoral
+
+O Código Penal Militar foi extraído de <https://www.planalto.gov.br/ccivil_03/decreto-lei/del1001.htm>. O texto compilado incorpora alterações da Lei nº 13.491/2017 e da Lei nº 14.688/2023. O módulo militar deve ser extraído por títulos da Parte Especial, separando tipos propriamente militares, tipos com correspondência na legislação comum e dispositivos de competência ou aplicação.
+
+A Lei das Contravenções Penais foi extraída de <https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm>. A fonte confirma a sobrevivência de diversos tipos, revogações expressas — como mendicância do art. 60 e associação secreta do art. 39 — e alterações recentes, inclusive o art. 21. O lote precisa representar penas históricas em unidades monetárias com cautela; registros cuja multa não tenha conversão operacional segura devem permanecer pendentes ou não calculáveis.
+
+O Código Eleitoral foi extraído de <https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm>. O capítulo de crimes eleitorais deve ser extraído especificamente dos arts. 283 a 364, distinguindo crimes vigentes, dispositivos revogados e tipos que foram deslocados para leis eleitorais especiais.
+
+## Cobertura nacional — Código Penal Militar: primeiro mapa de extração
+
+O texto compilado do Código Penal Militar foi extraído de <https://www.planalto.gov.br/ccivil_03/decreto-lei/del1001.htm>. A Parte Especial organiza crimes contra a segurança externa do país, autoridade ou disciplina militar, serviço e dever militar, pessoa, patrimônio, incolumidade pública, saúde, administração militar, administração da Justiça Militar e crimes em tempo de guerra.
+
+Trechos prioritários confirmados: art. 136, hostilidade contra país estrangeiro, com reclusão de 8 a 15 anos; art. 149, reunião de militares contra ordem ou disciplina, com redação da Lei nº 14.688/2023; art. 205, homicídio simples, com reclusão de 6 a 20 anos; art. 240, furto simples, com reclusão até 6 anos; art. 251, estelionato, com reclusão de 2 a 7 anos; art. 290, tráfico, posse ou uso de entorpecente em lugar sujeito à administração militar, com reclusão até 5 anos; art. 303, peculato, com reclusão de 3 a 15 anos; e art. 308, corrupção passiva, com reclusão de 2 a 12 anos após a redação da Lei nº 14.688/2023.
+
+Esse conjunto é apenas um primeiro lote de extração; a cobertura militar integral exige percorrer todos os capítulos da Parte Especial, separar tipos de tempo de paz e de guerra e controlar a sobreposição com o Código Penal comum.
+
+## Cobertura nacional — Código Eleitoral: primeiro lote localizado
+
+No texto compilado do Código Eleitoral (<https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm>), o capítulo de crimes eleitorais começa no art. 289. Foram localizados como vigentes, entre outros, os arts. 289 a 312, 317, 320, 321, 323 a 326-B, 331, 332, 334, 335, 338, 339 e 340. O art. 322 e vários dispositivos do bloco de propaganda aparecem revogados pela Lei nº 9.504/1997 e não devem ser cadastrados.
+
+As penas eleitorais usam frequentemente limites máximos e dias-multa. Os registros serão publicados como pendentes e não calculáveis até o catálogo suportar dias-multa, penas “até” e a reconciliação com leis eleitorais especiais. As alterações recentes destacadas na fonte incluem os arts. 323, 326-A e 326-B.
+
+## Cobertura nacional — legislação especial de alta prioridade
+
+Foram extraídas as seguintes fontes oficiais: Lei de Tortura (<https://www.planalto.gov.br/ccivil_03/leis/l9455.htm>), Lei de Terrorismo (<https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13260.htm>), Lei nº 14.197/2021, que inseriu os crimes contra o Estado Democrático de Direito no Código Penal (<https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14197.htm>), e Lei de Abuso de Autoridade (<https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm>).
+
+A Lei de Tortura contém o art. 1º, caput e inciso III incluído pela Lei nº 15.410/2026, omissão do § 2º e resultados qualificadores dos §§ 3º e 4º. A Lei de Terrorismo confirma os arts. 2º, 3º, 5º e 6º como núcleos penais, enquanto os demais dispositivos são processuais ou vetados. A Lei nº 14.197/2021 confirma os arts. 359-I a 359-R, com os arts. 359-O, 359-Q, 359-T e 359-U vetados ou não incriminadores. A Lei de Abuso de Autoridade confirma o capítulo penal dos arts. 9 a 38, com dispositivos vetados explicitamente excluídos e art. 15-A incluído pela Lei nº 14.321/2022.
+
+## Cobertura nacional — consumidor, falência e licitações
+
+Foram consultadas as fontes oficiais do Código de Defesa do Consumidor (<https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm>), da Lei de Recuperação e Falências (<https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm>), da Lei de Licitações e Contratos (<https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm>) e da Lei nº 14.112/2020 (<https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14112.htm>).
+
+O CDC concentra os crimes contra as relações de consumo no capítulo próprio, especialmente arts. 61 a 80. A Lei nº 11.101/2005 concentra os crimes falimentares no capítulo penal, especialmente arts. 168 a 178, com alterações relevantes da Lei nº 14.112/2020. A Lei nº 14.133/2021 deslocou os crimes licitatórios para o Código Penal, arts. 337-E a 337-P, exigindo reconciliação com registros do Código Penal e com dispositivos revogados da Lei nº 8.666/1993.
+
+## Cobertura nacional — Lei de Drogas
+
+A Lei nº 11.343/2006 foi extraída de <https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm>. O catálogo já contém os arts. 33 e 35; o próximo lote deverá incluir, após conferência dos trechos penais, os arts. 28 e 34 a 39, distinguindo o art. 28 de crime com pena privativa de liberdade e mantendo o cálculo bloqueado até modelagem de prestação de serviços, medida educativa e multa.
+
+## Cobertura nacional — organização criminosa
+
+A fonte compilada da Lei nº 12.850/2013 foi consultada em <https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm>. O art. 2º já está no catálogo; a redação consultada registra alteração recente pela Lei nº 15.245/2025 no § 1º e pela Lei nº 15.487/2026 no § 4º, exigindo reconferência temporal. Os arts. 18 a 21 ainda serão extraídos como infrações penais correlatas, sem cadastrar dispositivos processuais ou de investigação como crimes.
