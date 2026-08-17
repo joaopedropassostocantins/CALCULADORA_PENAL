@@ -90,7 +90,7 @@ describe("catálogo canônico de tipos penais", () => {
     expect(catalog.registros.filter((record) => record.modulo === "Biossegurança")).toHaveLength(6);
     expect(catalog.registros.filter((record) => record.modulo === "Lei Maria da Penha")).toHaveLength(1);
     expect(catalog.registros.filter((record) => record.modulo === "Armas")).toHaveLength(8);
-    expect(catalog.registros.filter((record) => record.modulo === "Código Penal")).toHaveLength(153);
+    expect(catalog.registros.filter((record) => record.modulo === "Código Penal")).toHaveLength(187);
     for (const record of catalog.registros) {
       expect(record.pena.minimoMeses == null || record.pena.maximoMeses == null || record.pena.minimoMeses <= record.pena.maximoMeses).toBe(true);
       expect(record.tipoPaiId === null || ids.has(record.tipoPaiId)).toBe(true);
@@ -373,6 +373,40 @@ describe("catálogo canônico de tipos penais", () => {
       "cp-348-1": [0.5, 3],
       "cp-349": [1, 6],
       "cp-349a": [3, 12],
+      "cp-289": [36, 144],
+      "cp-289-3": [36, 180],
+      "cp-290": [24, 96],
+      "cp-291": [24, 72],
+      "cp-292": [1, 6],
+      "cp-292-pu": [0.5, 3],
+      "cp-293": [24, 96],
+      "cp-293-2": [12, 48],
+      "cp-293-4": [6, 24],
+      "cp-294": [12, 36],
+      "cp-296": [24, 72],
+      "cp-296-pu": [24, 72],
+      "cp-297": [24, 72],
+      "cp-298": [12, 60],
+      "cp-299-publico": [12, 60],
+      "cp-299-particular": [12, 36],
+      "cp-300-publico": [12, 60],
+      "cp-300-particular": [12, 36],
+      "cp-301": [2 / 12, 12],
+      "cp-301-1": [0.25, 24],
+      "cp-302": [1 / 12, 12],
+      "cp-303": [12, 36],
+      "cp-304": [null, null],
+      "cp-305-publico": [24, 72],
+      "cp-305-particular": [12, 60],
+      "cp-306": [24, 72],
+      "cp-306-pu": [12, 36],
+      "cp-307": [0.25, 12],
+      "cp-308": [1 / 3, 24],
+      "cp-309": [12, 36],
+      "cp-309-pu": [12, 48],
+      "cp-310": [6, 36],
+      "cp-311": [36, 72],
+      "cp-311-3": [48, 96],
     };
     for (const [id, [minimum, maximum]] of Object.entries(expected)) {
       const record = byId.get(id);

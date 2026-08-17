@@ -3,10 +3,10 @@
   "versaoCatalogo": "0.1.0-incremental",
   "dataCorte": "2026-08-17",
   "estadoGeral": "incompleto",
-  "identificadorVersao": "cntp-br-2026-08-17-1002c66b9bec8501",
-  "quantidadeTotalAtiva": 600,
+  "identificadorVersao": "cntp-br-2026-08-17-88576482f58c7a94",
+  "quantidadeTotalAtiva": 634,
   "quantidadePorModulo": {
-    "Código Penal": 153,
+    "Código Penal": 187,
     "Pessoa com deficiência": 5,
     "Estatuto da Pessoa Idosa": 15,
     "Crimes de responsabilidade municipal": 23,
@@ -58,7 +58,7 @@
   "fontesAuditadas": 4,
   "registrosInventariados": 212,
   "registrosEnriquecidos": 0,
-  "registrosPendentes": 388,
+  "registrosPendentes": 422,
   "modulosPendentes": [
     "1 Codificações e diplomas estruturantes",
     "2 Núcleo da legislação penal especial",
@@ -35901,6 +35901,2017 @@
       "palavrasChave": [
         "estabelecimento prisional",
         "aparelho telefônico"
+      ]
+    },
+    {
+      "id": "cp-289",
+      "nomeJuridico": "Moeda falsa",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 289, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Falsificar, fabricando ou alterando, moeda metálica ou papel-moeda de curso legal no país ou no estrangeiro.",
+      "pena": {
+        "minimoMeses": 36,
+        "maximoMeses": 144,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 3 a 12 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a fé pública localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "moeda falsa",
+        "papel-moeda"
+      ]
+    },
+    {
+      "id": "cp-289-3",
+      "nomeJuridico": "Emissão irregular de moeda por funcionário ou dirigente bancário",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 289, § 3º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-289",
+      "descricaoObjetiva": "Funcionário público ou dirigente de banco de emissão fabricar, emitir ou autorizar moeda com título ou peso inferior ao legal, ou papel-moeda em quantidade superior à autorizada.",
+      "pena": {
+        "minimoMeses": 36,
+        "maximoMeses": 180,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 3 a 15 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a fé pública localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "moeda falsa",
+        "emissão irregular"
+      ]
+    },
+    {
+      "id": "cp-290",
+      "nomeJuridico": "Crimes assimilados ao de moeda falsa",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 290",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Formar cédula com fragmentos verdadeiros, suprimir sinal de inutilização ou restituir à circulação cédula recolhida para inutilização.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 96,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 8 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a fé pública localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "moeda falsa",
+        "cédula inutilizada"
+      ]
+    },
+    {
+      "id": "cp-291",
+      "nomeJuridico": "Petrechos para falsificação de moeda",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 291",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Fabricar, adquirir, fornecer, possuir ou guardar objeto especialmente destinado à falsificação de moeda.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 72,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 6 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a fé pública localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "petrechos",
+        "falsificação de moeda"
+      ]
+    },
+    {
+      "id": "cp-292",
+      "nomeJuridico": "Emissão de título ao portador sem permissão legal",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 292, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Emitir sem permissão legal nota, bilhete, ficha, vale ou título com promessa de pagamento em dinheiro ao portador ou sem indicação do beneficiário.",
+      "pena": {
+        "minimoMeses": 1,
+        "maximoMeses": 6,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 6 meses, ou multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a fé pública localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "título ao portador",
+        "emissão irregular"
+      ]
+    },
+    {
+      "id": "cp-292-pu",
+      "nomeJuridico": "Uso de título ao portador sem permissão legal",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 292, parágrafo único",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-292",
+      "descricaoObjetiva": "Receber ou utilizar como dinheiro documento abrangido pelo art. 292.",
+      "pena": {
+        "minimoMeses": 0.5,
+        "maximoMeses": 3,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 15 dias a 3 meses, ou multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a fé pública localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "título ao portador",
+        "uso irregular"
+      ]
+    },
+    {
+      "id": "cp-293",
+      "nomeJuridico": "Falsificação de papéis públicos",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 293, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Falsificar selo de controle tributário, papel selado, papel de emissão legal, papel de crédito público, vale postal ou documento de arrecadação ou transporte público.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 96,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 8 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a fé pública localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "papéis públicos",
+        "selo tributário"
+      ]
+    },
+    {
+      "id": "cp-293-2",
+      "nomeJuridico": "Supressão de sinal de inutilização de papel público",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 293, § 2º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-293",
+      "descricaoObjetiva": "Suprimir, em papel público legítimo, carimbo ou sinal de inutilização para torná-lo novamente utilizável.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 4 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a fé pública localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "papéis públicos",
+        "sinal de inutilização"
+      ]
+    },
+    {
+      "id": "cp-293-4",
+      "nomeJuridico": "Uso de papel público falsificado recebido de boa-fé",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 293, § 4º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-293",
+      "descricaoObjetiva": "Usar ou restituir à circulação, após conhecer a falsidade ou alteração, papel público falsificado ou alterado recebido de boa-fé.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 24,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 2 anos, ou multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a fé pública localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "papéis públicos",
+        "boa-fé"
+      ]
+    },
+    {
+      "id": "cp-294",
+      "nomeJuridico": "Petrechos de falsificação de papéis públicos",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 294",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Fabricar, adquirir, fornecer, possuir ou guardar objeto especialmente destinado à falsificação de papéis públicos.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 3 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a fé pública localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "petrechos",
+        "papéis públicos"
+      ]
+    },
+    {
+      "id": "cp-296",
+      "nomeJuridico": "Falsificação de selo ou sinal público",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 296",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Falsificar selo público, selo ou sinal atribuído por lei a entidade ou autoridade pública, ou sinal público de tabelião.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 72,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 6 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a fé pública localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "selo público",
+        "sinal público"
+      ]
+    },
+    {
+      "id": "cp-296-pu",
+      "nomeJuridico": "Uso indevido de símbolo da Administração Pública",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 296, § 1º, III",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-296",
+      "descricaoObjetiva": "Alterar, falsificar ou fazer uso indevido de marcas, logotipos, siglas ou símbolos utilizados ou identificadores de órgãos ou entidades da Administração Pública.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 72,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 6 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Figura do art. 296, § 1º, III, com conduta própria e mesma pena do tipo-base; natureza normalizada para enumeração aceita pelo schema."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940",
+        "Lei nº 9.983/2000"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "símbolo público",
+        "Administração Pública"
+      ]
+    },
+    {
+      "id": "cp-297",
+      "nomeJuridico": "Falsificação de documento público",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 297",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Falsificar total ou parcialmente documento público ou alterar documento público verdadeiro.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 72,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 6 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a fé pública localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "documento público",
+        "falsificação"
+      ]
+    },
+    {
+      "id": "cp-298",
+      "nomeJuridico": "Falsificação de documento particular",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 298",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Falsificar total ou parcialmente documento particular ou alterar documento particular verdadeiro.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 60,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 5 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a fé pública localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "documento particular",
+        "falsificação"
+      ]
+    },
+    {
+      "id": "cp-299-publico",
+      "nomeJuridico": "Falsidade ideológica em documento público",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 299, caput, documento público",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Omitir ou inserir declaração falsa ou diversa em documento público, para prejudicar direito, criar obrigação ou alterar a verdade sobre fato juridicamente relevante.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 60,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 5 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a fé pública localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "falsidade ideológica",
+        "documento público"
+      ]
+    },
+    {
+      "id": "cp-299-particular",
+      "nomeJuridico": "Falsidade ideológica em documento particular",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 299, caput, documento particular",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Omitir ou inserir declaração falsa ou diversa em documento particular, para prejudicar direito, criar obrigação ou alterar a verdade sobre fato juridicamente relevante.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 3 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a fé pública localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "falsidade ideológica",
+        "documento particular"
+      ]
+    },
+    {
+      "id": "cp-300-publico",
+      "nomeJuridico": "Falso reconhecimento de firma ou letra em documento público",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 300, documento público",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Reconhecer como verdadeira, no exercício de função pública, firma ou letra que não o seja em documento público.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 60,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 5 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a fé pública localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "firma falsa",
+        "documento público"
+      ]
+    },
+    {
+      "id": "cp-300-particular",
+      "nomeJuridico": "Falso reconhecimento de firma ou letra em documento particular",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 300, documento particular",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Reconhecer como verdadeira, no exercício de função pública, firma ou letra que não o seja em documento particular.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 3 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a fé pública localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "firma falsa",
+        "documento particular"
+      ]
+    },
+    {
+      "id": "cp-301",
+      "nomeJuridico": "Certidão ou atestado ideologicamente falso",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 301, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Atestar ou certificar falsamente, em razão de função pública, fato ou circunstância que habilite alguém a obter cargo, isenção, serviço ou vantagem.",
+      "pena": {
+        "minimoMeses": 0.16666666666666666,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 2 meses a 1 ano.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a fé pública localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "certidão falsa",
+        "atestado falso"
+      ]
+    },
+    {
+      "id": "cp-301-1",
+      "nomeJuridico": "Falsidade material de atestado ou certidão",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 301, § 1º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-301",
+      "descricaoObjetiva": "Falsificar atestado ou certidão, ou alterar certidão ou atestado verdadeiro, para prova de fato que habilite alguém a obter cargo, isenção ou vantagem.",
+      "pena": {
+        "minimoMeses": 0.25,
+        "maximoMeses": 24,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 2 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a fé pública localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "certidão falsa",
+        "falsidade material"
+      ]
+    },
+    {
+      "id": "cp-302",
+      "nomeJuridico": "Falsidade de atestado médico",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 302",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Dar o médico, no exercício da profissão, atestado falso.",
+      "pena": {
+        "minimoMeses": 0.08333333333333333,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 mês a 1 ano.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a fé pública localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "atestado médico falso"
+      ]
+    },
+    {
+      "id": "cp-303",
+      "nomeJuridico": "Reprodução ou adulteração de selo ou peça filatélica",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 303",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Reproduzir ou alterar selo ou peça filatélica de valor para coleção sem anotação visível da reprodução ou alteração.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 3 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a fé pública localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "selo filatélico",
+        "adulteração"
+      ]
+    },
+    {
+      "id": "cp-304",
+      "nomeJuridico": "Uso de documento falso",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 304",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Fazer uso de papel falsificado ou alterado referido nos arts. 297 a 302.",
+      "pena": {
+        "minimoMeses": null,
+        "maximoMeses": null,
+        "unidadePrincipal": "meses",
+        "descricao": "Pena correspondente à falsificação ou alteração do documento utilizado.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "A pena é remissiva e depende do documento-base; mantida sem faixa numérica para evitar estimativa indevida."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "uso de documento falso"
+      ]
+    },
+    {
+      "id": "cp-305-publico",
+      "nomeJuridico": "Supressão de documento público",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 305, documento público",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Destruir, suprimir ou ocultar, em benefício próprio ou alheio ou em prejuízo de outrem, documento público verdadeiro de que não podia dispor.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 72,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 6 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a fé pública localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "supressão de documento",
+        "documento público"
+      ]
+    },
+    {
+      "id": "cp-305-particular",
+      "nomeJuridico": "Supressão de documento particular",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 305, documento particular",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Destruir, suprimir ou ocultar, em benefício próprio ou alheio ou em prejuízo de outrem, documento particular verdadeiro de que não podia dispor.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 60,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 5 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a fé pública localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "supressão de documento",
+        "documento particular"
+      ]
+    },
+    {
+      "id": "cp-306",
+      "nomeJuridico": "Falsificação de sinal de fiscalização pública",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 306, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Falsificar ou usar marca ou sinal empregado pelo poder público no contraste de metal precioso ou na fiscalização alfandegária.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 72,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 6 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a fé pública localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "marca pública",
+        "fiscalização alfandegária"
+      ]
+    },
+    {
+      "id": "cp-306-pu",
+      "nomeJuridico": "Falsificação de sinal de fiscalização sanitária",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 306, parágrafo único",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-306",
+      "descricaoObjetiva": "Falsificar ou usar marca ou sinal empregado pela autoridade para fiscalização sanitária, autenticação, encerramento de objetos ou comprovação de formalidade legal.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão ou detenção, de 1 a 3 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a fé pública localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "fiscalização sanitária",
+        "sinal público"
+      ]
+    },
+    {
+      "id": "cp-307",
+      "nomeJuridico": "Falsa identidade",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 307",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Atribuir-se ou atribuir a terceiro falsa identidade para obter vantagem ou causar dano.",
+      "pena": {
+        "minimoMeses": 0.25,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 1 ano, ou multa, se o fato não constitui elemento de crime mais grave.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a fé pública localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "falsa identidade"
+      ]
+    },
+    {
+      "id": "cp-308",
+      "nomeJuridico": "Uso de documento de identidade alheia",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 308",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Usar como próprio ou ceder a outrem passaporte, título de eleitor, caderneta de reservista ou documento de identidade alheio.",
+      "pena": {
+        "minimoMeses": 0.3333333333333333,
+        "maximoMeses": 24,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 4 meses a 2 anos, e multa, se o fato não constitui elemento de crime mais grave.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a fé pública localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "documento alheio",
+        "identidade"
+      ]
+    },
+    {
+      "id": "cp-309",
+      "nomeJuridico": "Fraude de lei sobre estrangeiros",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 309",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Usar o estrangeiro, para entrar ou permanecer no território nacional, nome que não é o seu.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 3 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a fé pública localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "estrangeiro",
+        "identidade falsa"
+      ]
+    },
+    {
+      "id": "cp-309-pu",
+      "nomeJuridico": "Atribuição de falsa qualidade a estrangeiro",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 309, parágrafo único",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-309",
+      "descricaoObjetiva": "Atribuir a estrangeiro falsa qualidade para promover sua entrada em território nacional.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 4 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a fé pública localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940",
+        "Lei nº 9.426/1996"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "estrangeiro",
+        "entrada irregular"
+      ]
+    },
+    {
+      "id": "cp-310",
+      "nomeJuridico": "Falsidade em prejuízo da nacionalização de sociedade",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 310",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Prestar-se a figurar como proprietário ou possuidor de ação, título ou valor pertencente a estrangeiro quando a lei lhe veda essa propriedade ou posse.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 3 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a fé pública localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940",
+        "Lei nº 9.426/1996"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "estrangeiro",
+        "sociedade",
+        "falsidade"
+      ]
+    },
+    {
+      "id": "cp-311",
+      "nomeJuridico": "Adulteração de sinal identificador de veículo",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 311",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Adulterar, remarcar ou suprimir número de chassi, monobloco, motor, placa ou sinal identificador de veículo ou componente sem autorização do órgão competente.",
+      "pena": {
+        "minimoMeses": 36,
+        "maximoMeses": 72,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 3 a 6 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a fé pública localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940",
+        "Lei nº 14.562/2023"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "veículo",
+        "chassi",
+        "sinal identificador"
+      ]
+    },
+    {
+      "id": "cp-311-3",
+      "nomeJuridico": "Comércio de veículo com sinal identificador adulterado",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 311, § 3º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-311",
+      "descricaoObjetiva": "Praticar em atividade comercial ou industrial as condutas de adquirir, transportar, ocultar, manter em depósito, fabricar, fornecer ou possuir objeto de falsificação, ou utilizar veículo com sinal adulterado.",
+      "pena": {
+        "minimoMeses": 48,
+        "maximoMeses": 96,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 4 a 8 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a fé pública localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940",
+        "Lei nº 14.562/2023"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "veículo",
+        "sinal identificador",
+        "comércio"
       ]
     }
   ]

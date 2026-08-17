@@ -1,5 +1,5 @@
 {
-  "versaoCatalogo": "cntp-br-2026-08-17-1002c66b9bec8501",
+  "versaoCatalogo": "cntp-br-2026-08-17-88576482f58c7a94",
   "dataCorte": "2026-08-17",
   "estadoGeral": "incompleto",
   "registros": [
@@ -295,6 +295,24 @@
         "acesso indevido"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9504.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-311",
+      "name": "Adulteração de sinal identificador de veículo",
+      "article": "art. 311",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 3,
+      "maximum": 6,
+      "penalty": "Reclusão, de 3 a 6 anos, e multa.",
+      "keywords": [
+        "veículo",
+        "chassi",
+        "sinal identificador"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -913,6 +931,23 @@
       "canCalculate": false
     },
     {
+      "id": "cp-309-pu",
+      "name": "Atribuição de falsa qualidade a estrangeiro",
+      "article": "art. 309, parágrafo único",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão, de 1 a 4 anos, e multa.",
+      "keywords": [
+        "estrangeiro",
+        "entrada irregular"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "cp-341",
       "name": "Autoacusação falsa",
       "article": "art. 341",
@@ -996,6 +1031,23 @@
         "celebração de contrato com inidôneo"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-301",
+      "name": "Certidão ou atestado ideologicamente falso",
+      "article": "art. 301, caput",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.013888888888888888,
+      "maximum": 1,
+      "penalty": "Detenção, de 2 meses a 1 ano.",
+      "keywords": [
+        "certidão falsa",
+        "atestado falso"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -1156,6 +1208,24 @@
         "comércio"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9279.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-311-3",
+      "name": "Comércio de veículo com sinal identificador adulterado",
+      "article": "art. 311, § 3º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 4,
+      "maximum": 8,
+      "penalty": "Reclusão, de 4 a 8 anos, e multa.",
+      "keywords": [
+        "veículo",
+        "sinal identificador",
+        "comércio"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -1867,6 +1937,23 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8137.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "cp-290",
+      "name": "Crimes assimilados ao de moeda falsa",
+      "article": "art. 290",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 8,
+      "penalty": "Reclusão, de 2 a 8 anos, e multa.",
+      "keywords": [
+        "moeda falsa",
+        "cédula inutilizada"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "economia-popular-1521-2",
@@ -3281,6 +3368,23 @@
       "canCalculate": false
     },
     {
+      "id": "cp-292",
+      "name": "Emissão de título ao portador sem permissão legal",
+      "article": "art. 292, caput",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.08333333333333333,
+      "maximum": 0.5,
+      "penalty": "Detenção, de 1 a 6 meses, ou multa.",
+      "keywords": [
+        "título ao portador",
+        "emissão irregular"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "cp-178",
       "name": "Emissão irregular de conhecimento de depósito ou warrant",
       "article": "art. 178",
@@ -3292,6 +3396,23 @@
       "keywords": [
         "warrant",
         "conhecimento de depósito"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-289-3",
+      "name": "Emissão irregular de moeda por funcionário ou dirigente bancário",
+      "article": "art. 289, § 3º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 3,
+      "maximum": 15,
+      "penalty": "Reclusão, de 3 a 15 anos, e multa.",
+      "keywords": [
+        "moeda falsa",
+        "emissão irregular"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
@@ -4404,6 +4525,22 @@
       "canCalculate": false
     },
     {
+      "id": "cp-307",
+      "name": "Falsa identidade",
+      "article": "art. 307",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.020833333333333332,
+      "maximum": 1,
+      "penalty": "Detenção, de 3 meses a 1 ano, ou multa, se o fato não constitui elemento de crime mais grave.",
+      "keywords": [
+        "falsa identidade"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "sfn-7492-21",
       "name": "Falsa identidade em operação de câmbio",
       "article": "art. 21",
@@ -4455,6 +4592,22 @@
       "canCalculate": false
     },
     {
+      "id": "cp-302",
+      "name": "Falsidade de atestado médico",
+      "article": "art. 302",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.006944444444444444,
+      "maximum": 1,
+      "penalty": "Detenção, de 1 mês a 1 ano.",
+      "keywords": [
+        "atestado médico falso"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "sfn-7492-10",
       "name": "Falsidade em demonstrativo contábil de instituição financeira",
       "article": "art. 10",
@@ -4470,6 +4623,75 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7492.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "cp-310",
+      "name": "Falsidade em prejuízo da nacionalização de sociedade",
+      "article": "art. 310",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.5,
+      "maximum": 3,
+      "penalty": "Detenção, de 6 meses a 3 anos, e multa.",
+      "keywords": [
+        "estrangeiro",
+        "sociedade",
+        "falsidade"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-299-particular",
+      "name": "Falsidade ideológica em documento particular",
+      "article": "art. 299, caput, documento particular",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Reclusão, de 1 a 3 anos, e multa.",
+      "keywords": [
+        "falsidade ideológica",
+        "documento particular"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-299-publico",
+      "name": "Falsidade ideológica em documento público",
+      "article": "art. 299, caput, documento público",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 5,
+      "penalty": "Reclusão, de 1 a 5 anos, e multa.",
+      "keywords": [
+        "falsidade ideológica",
+        "documento público"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-301-1",
+      "name": "Falsidade material de atestado ou certidão",
+      "article": "art. 301, § 1º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.020833333333333332,
+      "maximum": 2,
+      "penalty": "Detenção, de 3 meses a 2 anos.",
+      "keywords": [
+        "certidão falsa",
+        "falsidade material"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "ambiental-66",
@@ -4490,6 +4712,108 @@
       "canCalculate": true
     },
     {
+      "id": "cp-298",
+      "name": "Falsificação de documento particular",
+      "article": "art. 298",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 5,
+      "penalty": "Reclusão, de 1 a 5 anos, e multa.",
+      "keywords": [
+        "documento particular",
+        "falsificação"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-297",
+      "name": "Falsificação de documento público",
+      "article": "art. 297",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 6,
+      "penalty": "Reclusão, de 2 a 6 anos, e multa.",
+      "keywords": [
+        "documento público",
+        "falsificação"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-293",
+      "name": "Falsificação de papéis públicos",
+      "article": "art. 293, caput",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 8,
+      "penalty": "Reclusão, de 2 a 8 anos, e multa.",
+      "keywords": [
+        "papéis públicos",
+        "selo tributário"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-296",
+      "name": "Falsificação de selo ou sinal público",
+      "article": "art. 296",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 6,
+      "penalty": "Reclusão, de 2 a 6 anos, e multa.",
+      "keywords": [
+        "selo público",
+        "sinal público"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-306",
+      "name": "Falsificação de sinal de fiscalização pública",
+      "article": "art. 306, caput",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 6,
+      "penalty": "Reclusão, de 2 a 6 anos, e multa.",
+      "keywords": [
+        "marca pública",
+        "fiscalização alfandegária"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-306-pu",
+      "name": "Falsificação de sinal de fiscalização sanitária",
+      "article": "art. 306, parágrafo único",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Reclusão ou detenção, de 1 a 3 anos, e multa.",
+      "keywords": [
+        "fiscalização sanitária",
+        "sinal público"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "contravencao-3688-41",
       "name": "Falso alarme",
       "article": "art. 41",
@@ -4503,6 +4827,40 @@
         "pânico"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-300-particular",
+      "name": "Falso reconhecimento de firma ou letra em documento particular",
+      "article": "art. 300, documento particular",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Reclusão, de 1 a 3 anos, e multa.",
+      "keywords": [
+        "firma falsa",
+        "documento particular"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-300-publico",
+      "name": "Falso reconhecimento de firma ou letra em documento público",
+      "article": "art. 300, documento público",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 5,
+      "penalty": "Reclusão, de 1 a 5 anos, e multa.",
+      "keywords": [
+        "firma falsa",
+        "documento público"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -4873,6 +5231,23 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7492.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "cp-309",
+      "name": "Fraude de lei sobre estrangeiros",
+      "article": "art. 309",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Detenção, de 1 a 3 anos, e multa.",
+      "keywords": [
+        "estrangeiro",
+        "identidade falsa"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "esporte-14597-200",
@@ -6847,6 +7222,23 @@
       "canCalculate": false
     },
     {
+      "id": "cp-289",
+      "name": "Moeda falsa",
+      "article": "art. 289, caput",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 3,
+      "maximum": 12,
+      "penalty": "Reclusão, de 3 a 12 anos, e multa.",
+      "keywords": [
+        "moeda falsa",
+        "papel-moeda"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "transplante-19",
       "name": "Não recomposição de cadáver",
       "article": "art. 19",
@@ -8173,6 +8565,40 @@
       "canCalculate": true
     },
     {
+      "id": "cp-294",
+      "name": "Petrechos de falsificação de papéis públicos",
+      "article": "art. 294",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Reclusão, de 1 a 3 anos, e multa.",
+      "keywords": [
+        "petrechos",
+        "papéis públicos"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-291",
+      "name": "Petrechos para falsificação de moeda",
+      "article": "art. 291",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 6,
+      "penalty": "Reclusão, de 2 a 6 anos, e multa.",
+      "keywords": [
+        "petrechos",
+        "falsificação de moeda"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "ambiental-65",
       "name": "Pichação ou conspurcação de edificação ou monumento urbano",
       "article": "art. 65",
@@ -8987,6 +9413,23 @@
       "canCalculate": false
     },
     {
+      "id": "cp-303",
+      "name": "Reprodução ou adulteração de selo ou peça filatélica",
+      "article": "art. 303",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Detenção, de 1 a 3 anos, e multa.",
+      "keywords": [
+        "selo filatélico",
+        "adulteração"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "propriedade-industrial-9279-189",
       "name": "Reprodução ou alteração de marca registrada",
       "article": "art. 189",
@@ -9442,6 +9885,57 @@
       "canCalculate": false
     },
     {
+      "id": "cp-305-particular",
+      "name": "Supressão de documento particular",
+      "article": "art. 305, documento particular",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 5,
+      "penalty": "Reclusão, de 1 a 5 anos, e multa.",
+      "keywords": [
+        "supressão de documento",
+        "documento particular"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-305-publico",
+      "name": "Supressão de documento público",
+      "article": "art. 305, documento público",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 6,
+      "penalty": "Reclusão, de 2 a 6 anos, e multa.",
+      "keywords": [
+        "supressão de documento",
+        "documento público"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-293-2",
+      "name": "Supressão de sinal de inutilização de papel público",
+      "article": "art. 293, § 2º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão, de 1 a 4 anos, e multa.",
+      "keywords": [
+        "papéis públicos",
+        "sinal de inutilização"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "cp-162",
       "name": "Supressão ou alteração de marca em animais",
       "article": "art. 162",
@@ -9744,6 +10238,39 @@
       "canCalculate": true
     },
     {
+      "id": "cp-308",
+      "name": "Uso de documento de identidade alheia",
+      "article": "art. 308",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.027777777777777776,
+      "maximum": 2,
+      "penalty": "Detenção, de 4 meses a 2 anos, e multa, se o fato não constitui elemento de crime mais grave.",
+      "keywords": [
+        "documento alheio",
+        "identidade"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-304",
+      "name": "Uso de documento falso",
+      "article": "art. 304",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0,
+      "maximum": 0,
+      "penalty": "Pena correspondente à falsificação ou alteração do documento utilizado.",
+      "keywords": [
+        "uso de documento falso"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "propriedade-industrial-9279-193",
       "name": "Uso de indicação geográfica falsa ou retificativa",
       "article": "art. 193",
@@ -9774,6 +10301,23 @@
         "aliciamento"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-293-4",
+      "name": "Uso de papel público falsificado recebido de boa-fé",
+      "article": "art. 293, § 4º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, ou multa.",
+      "keywords": [
+        "papéis públicos",
+        "boa-fé"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -9831,6 +10375,23 @@
       "canCalculate": false
     },
     {
+      "id": "cp-292-pu",
+      "name": "Uso de título ao portador sem permissão legal",
+      "article": "art. 292, parágrafo único",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.041666666666666664,
+      "maximum": 0.25,
+      "penalty": "Detenção, de 15 dias a 3 meses, ou multa.",
+      "keywords": [
+        "título ao portador",
+        "uso irregular"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "contravencao-3688-46",
       "name": "Uso ilegítimo de uniforme ou distintivo",
       "article": "art. 46",
@@ -9862,6 +10423,23 @@
         "município"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-296-pu",
+      "name": "Uso indevido de símbolo da Administração Pública",
+      "article": "art. 296, § 1º, III",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 6,
+      "penalty": "Reclusão, de 2 a 6 anos, e multa.",
+      "keywords": [
+        "símbolo público",
+        "Administração Pública"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
       "canCalculate": false
     },

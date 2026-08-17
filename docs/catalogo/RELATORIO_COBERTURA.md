@@ -1,6 +1,6 @@
 # Relatório de cobertura do catálogo penal
 
-Data de corte: **2026-08-17**. Identificador: **cntp-br-2026-08-17-1002c66b9bec8501**.
+Data de corte: **2026-08-17**. Identificador: **cntp-br-2026-08-17-88576482f58c7a94**.
 
 > O estado global permanece **incompleto**. A carga abaixo é um checkpoint auditável; ela não declara conter todos os tipos penais vigentes.
 
@@ -8,12 +8,12 @@ Data de corte: **2026-08-17**. Identificador: **cntp-br-2026-08-17-1002c66b9bec8
 
 | Indicador | Quantidade |
 | --- | ---: |
-| Registros ativos na fonte canônica | 600 |
-| Crimes | 553 |
+| Registros ativos na fonte canônica | 634 |
+| Crimes | 587 |
 | Contravenções | 47 |
 | Inventário validado | 212 |
 | Enriquecimento jurídico validado | 0 |
-| Registros pendentes | 388 |
+| Registros pendentes | 422 |
 | Diplomas no inventário de normas | 88 |
 | Fontes auditadas | 4 |
 | Fontes pendentes | 95 |
@@ -26,7 +26,7 @@ Data de corte: **2026-08-17**. Identificador: **cntp-br-2026-08-17-1002c66b9bec8
 | Agrotóxicos e produtos de controle ambiental | 2 |
 | Armas | 8 |
 | Biossegurança | 6 |
-| Código Penal | 153 |
+| Código Penal | 187 |
 | Código Penal Militar | 8 |
 | Contravenções | 47 |
 | Crimes ambientais | 39 |

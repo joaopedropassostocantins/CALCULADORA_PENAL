@@ -201,3 +201,9 @@ A fonte oficial confirmou os arts. 338 a 342 do Código Penal: reingresso de est
 ## Cobertura nacional — Código Penal: continuidade da Administração da Justiça
 
 O texto oficial confirmou os arts. 343 a 349-A do Código Penal: corrupção ativa de testemunha ou perito, coação no curso do processo, exercício arbitrário das próprias razões, subtração ou dano de coisa própria em poder de terceiro, fraude processual, favorecimento pessoal e sua figura com pena própria, favorecimento real e entrada de aparelho de comunicação em estabelecimento prisional. O art. 350 foi deliberadamente excluído da coleção ativa porque aparece expressamente revogado pela Lei nº 13.869/2019.
+
+## Cobertura nacional — Código Penal: crimes contra a fé pública
+
+A fonte oficial confirmou os arts. 289 a 311 do Código Penal: moeda falsa e crimes assimilados, petrechos, títulos ao portador, papéis públicos, selos e sinais públicos, falsidades documentais e ideológicas, atestados, uso e supressão de documentos, falsa identidade, fraude de lei sobre estrangeiros, falsidade em prejuízo da nacionalização de sociedade e adulteração de sinais identificadores de veículos. Foram separadas as figuras com pena própria, inclusive as distinções público/particular e a forma comercial do art. 311, § 3º.
+
+O art. 304 foi mantido como pena remissiva, sem faixa numérica inventada. O art. 295 e demais aumentos de pena foram preservados como enriquecimento; redações revogadas ou históricas não foram cadastradas como tipos ativos.
