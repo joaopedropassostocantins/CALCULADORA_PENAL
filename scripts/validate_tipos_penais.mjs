@@ -11,6 +11,10 @@ const warnings = [];
 const records = catalog.registros ?? [];
 const isoDate = /^\d{4}-\d{2}-\d{2}$/;
 const officialUrl = /^https:\/\//;
+const allowedNatureza = new Set(["basica", "qualificada", "privilegiada", "culposa", "preterdolosa", "omissiva"]);
+const allowedClasse = new Set(["crime", "contravencao"]);
+const allowedJurisdicao = new Set(["comum", "militar", "eleitoral", "especial"]);
+const allowedConferencia = new Set(["confirmada", "pendente"]);
 
 function error(message) { errors.push(message); }
 function warn(message) { warnings.push(message); }
@@ -38,6 +42,10 @@ for (const [index, record] of records.entries()) {
   requireString(record.dispositivo, `${prefix}.dispositivo`);
   requireString(record.modulo, `${prefix}.modulo`);
   requireString(record.fonteOficial, `${prefix}.fonteOficial`);
+  if (!allowedNatureza.has(record.naturezaFigura)) error(`${record.id} possui naturezaFigura inválida: ${record.naturezaFigura}`);
+  if (!allowedClasse.has(record.classe)) error(`${record.id} possui classe inválida: ${record.classe}`);
+  if (!allowedJurisdicao.has(record.jurisdicao)) error(`${record.id} possui jurisdição inválida: ${record.jurisdicao}`);
+  if (!allowedConferencia.has(record.vigencia?.estadoConferencia)) error(`${record.id} possui estado de conferência inválido: ${record.vigencia?.estadoConferencia}`);
   if (ids.has(record.id)) error(`ID duplicado: ${record.id}`);
   ids.add(record.id);
   const deviceKey = `${record.norma}::${record.dispositivo}`;

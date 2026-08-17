@@ -3,19 +3,21 @@
   "versaoCatalogo": "0.1.0-incremental",
   "dataCorte": "2026-08-17",
   "estadoGeral": "incompleto",
-  "identificadorVersao": "cntp-br-2026-08-17-a1846b3bd20a5e23",
-  "quantidadeTotalAtiva": 65,
+  "identificadorVersao": "cntp-br-2026-08-17-8a1b307b7f4603df",
+  "quantidadeTotalAtiva": 119,
   "quantidadePorModulo": {
     "Código Penal": 55,
+    "Trânsito": 15,
+    "Crimes ambientais": 39,
     "Drogas": 2,
     "Armas": 7,
     "Organização criminosa": 1
   },
   "fontesPrevistas": 88,
   "fontesAuditadas": 4,
-  "registrosInventariados": 47,
+  "registrosInventariados": 88,
   "registrosEnriquecidos": 0,
-  "registrosPendentes": 18,
+  "registrosPendentes": 31,
   "modulosPendentes": [
     "1 Codificações e diplomas estruturantes",
     "2 Núcleo da legislação penal especial",
@@ -3944,6 +3946,3235 @@
         "organização criminosa",
         "facção",
         "grupo estruturado"
+      ]
+    },
+    {
+      "id": "ctb-302",
+      "nomeJuridico": "Homicídio culposo na direção de veículo automotor",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Trânsito",
+      "norma": "Lei nº 9.503/1997",
+      "dispositivo": "art. 302, caput",
+      "naturezaFigura": "culposa",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Praticar homicídio culposo na direção de veículo automotor.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 2 a 4 anos, e suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículo automotor.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1997-09-23",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.503/1997"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "homicídio no trânsito",
+        "morte no trânsito",
+        "direção culposa"
+      ]
+    },
+    {
+      "id": "ctb-302-3",
+      "nomeJuridico": "Homicídio culposo no trânsito sob influência de álcool ou substância psicoativa",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Trânsito",
+      "norma": "Lei nº 13.546/2017",
+      "dispositivo": "art. 302, § 3º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "ctb-302",
+      "descricaoObjetiva": "Praticar homicídio culposo na direção de veículo automotor sob influência de álcool ou de outra substância psicoativa que determine dependência.",
+      "pena": {
+        "minimoMeses": 60,
+        "maximoMeses": 96,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 5 a 8 anos, e suspensão ou proibição do direito de se obter a permissão ou a habilitação para dirigir veículo automotor.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Artigo e pena conferidos na página oficial compilada; data inicial da redação atual pendente de conferência da lei modificadora."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 13.546/2017"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "homicídio no trânsito",
+        "álcool",
+        "substância psicoativa"
+      ]
+    },
+    {
+      "id": "ctb-303",
+      "nomeJuridico": "Lesão corporal culposa na direção de veículo automotor",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Trânsito",
+      "norma": "Lei nº 9.503/1997",
+      "dispositivo": "art. 303, caput",
+      "naturezaFigura": "culposa",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Praticar lesão corporal culposa na direção de veículo automotor.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 24,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 2 anos, e suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículo automotor.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1997-09-23",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.503/1997"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "lesão no trânsito",
+        "acidente com lesão",
+        "direção culposa"
+      ]
+    },
+    {
+      "id": "ctb-303-2",
+      "nomeJuridico": "Lesão corporal culposa no trânsito sob influência de álcool com resultado grave",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Trânsito",
+      "norma": "Lei nº 13.546/2017",
+      "dispositivo": "art. 303, § 2º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "ctb-303",
+      "descricaoObjetiva": "Praticar lesão corporal culposa na direção de veículo automotor sob influência de álcool ou substância psicoativa, com resultado de lesão grave ou gravíssima.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 60,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 5 anos, sem prejuízo das demais penas previstas no artigo.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Artigo e pena conferidos; data inicial da redação atual pendente."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 13.546/2017"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "lesão grave no trânsito",
+        "álcool",
+        "lesão gravíssima"
+      ]
+    },
+    {
+      "id": "ctb-304",
+      "nomeJuridico": "Omissão de socorro no trânsito",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Trânsito",
+      "norma": "Lei nº 14.599/2023",
+      "dispositivo": "art. 304",
+      "naturezaFigura": "omissiva",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Deixar o condutor do veículo, na ocasião do sinistro, de prestar imediato socorro à vítima ou de solicitar auxílio da autoridade pública quando não puder fazê-lo diretamente por justa causa.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 1 ano, ou multa, se o fato não constituir crime mais grave.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Redação atual conferida; data inicial da redação pendente."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 14.599/2023"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "omissão de socorro",
+        "sinistro",
+        "vítima de trânsito"
+      ]
+    },
+    {
+      "id": "ctb-305",
+      "nomeJuridico": "Afastamento do local do sinistro",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Trânsito",
+      "norma": "Lei nº 14.599/2023",
+      "dispositivo": "art. 305",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Afastar-se o condutor do veículo do local do sinistro para fugir à responsabilidade penal ou civil que lhe possa ser atribuída.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 1 ano, ou multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Redação atual conferida; data inicial da redação pendente."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 14.599/2023"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "fuga do local",
+        "sinistro de trânsito"
+      ]
+    },
+    {
+      "id": "ctb-306",
+      "nomeJuridico": "Condução de veículo automotor com capacidade psicomotora alterada",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Trânsito",
+      "norma": "Lei nº 12.760/2012",
+      "dispositivo": "art. 306",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Conduzir veículo automotor com capacidade psicomotora alterada em razão da influência de álcool ou de outra substância psicoativa que determine dependência.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 3 anos, multa e suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículo automotor.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Redação atual conferida; data inicial da redação pendente."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 12.760/2012"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "embriaguez ao volante",
+        "álcool",
+        "bafômetro"
+      ]
+    },
+    {
+      "id": "ctb-307",
+      "nomeJuridico": "Violação de suspensão ou proibição de dirigir",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Trânsito",
+      "norma": "Lei nº 9.503/1997",
+      "dispositivo": "art. 307",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Violar a suspensão ou a proibição de se obter a permissão ou a habilitação para dirigir veículo automotor imposta com fundamento no Código de Trânsito Brasileiro.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 1 ano, e multa, com nova imposição adicional de idêntico prazo de suspensão ou proibição.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1997-09-23",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.503/1997"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "dirigir suspenso",
+        "proibição de dirigir"
+      ]
+    },
+    {
+      "id": "ctb-308",
+      "nomeJuridico": "Racha ou competição automobilística não autorizada",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Trânsito",
+      "norma": "Lei nº 13.546/2017",
+      "dispositivo": "art. 308, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Participar, na direção de veículo automotor, em via pública, de corrida, disputa, competição ou exibição de perícia não autorizada, gerando risco à incolumidade pública ou privada.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 3 anos, multa e suspensão ou proibição de se obter a permissão ou habilitação.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Redação atual conferida; data inicial da redação pendente."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 13.546/2017"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "racha",
+        "corrida ilegal",
+        "competição automobilística"
+      ]
+    },
+    {
+      "id": "ctb-308-1",
+      "nomeJuridico": "Racha com lesão corporal grave",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Trânsito",
+      "norma": "Lei nº 12.971/2014",
+      "dispositivo": "art. 308, § 1º",
+      "naturezaFigura": "preterdolosa",
+      "tipoPaiId": "ctb-308",
+      "descricaoObjetiva": "Se da participação em corrida ou competição não autorizada resulta lesão corporal grave e o agente não quis nem assumiu o risco do resultado.",
+      "pena": {
+        "minimoMeses": 36,
+        "maximoMeses": 72,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 3 a 6 anos, sem prejuízo das demais penas previstas no artigo.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Redação atual conferida; data inicial da redação pendente."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 12.971/2014"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "racha",
+        "lesão grave",
+        "competição automobilística"
+      ]
+    },
+    {
+      "id": "ctb-308-2",
+      "nomeJuridico": "Racha com resultado morte",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Trânsito",
+      "norma": "Lei nº 12.971/2014",
+      "dispositivo": "art. 308, § 2º",
+      "naturezaFigura": "preterdolosa",
+      "tipoPaiId": "ctb-308",
+      "descricaoObjetiva": "Se da participação em corrida ou competição não autorizada resulta morte e o agente não quis nem assumiu o risco do resultado.",
+      "pena": {
+        "minimoMeses": 60,
+        "maximoMeses": 120,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 5 a 10 anos, sem prejuízo das demais penas previstas no artigo.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Redação atual conferida; data inicial da redação pendente."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 12.971/2014"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "racha",
+        "morte",
+        "competição automobilística"
+      ]
+    },
+    {
+      "id": "ctb-309",
+      "nomeJuridico": "Direção sem habilitação com perigo de dano",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Trânsito",
+      "norma": "Lei nº 9.503/1997",
+      "dispositivo": "art. 309",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Dirigir veículo automotor em via pública sem permissão, habilitação ou com direito de dirigir cassado, gerando perigo de dano.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 1 ano, ou multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1997-09-23",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.503/1997"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "dirigir sem habilitação",
+        "perigo de dano"
+      ]
+    },
+    {
+      "id": "ctb-310",
+      "nomeJuridico": "Entrega de direção a pessoa não habilitada",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Trânsito",
+      "norma": "Lei nº 9.503/1997",
+      "dispositivo": "art. 310",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Permitir, confiar ou entregar a direção de veículo automotor a pessoa não habilitada, com habilitação cassada, direito suspenso ou sem condições de conduzi-lo com segurança.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 1 ano, ou multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1997-09-23",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.503/1997"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "entregar direção",
+        "pessoa não habilitada"
+      ]
+    },
+    {
+      "id": "ctb-311",
+      "nomeJuridico": "Tráfego em velocidade incompatível com segurança",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Trânsito",
+      "norma": "Lei nº 9.503/1997",
+      "dispositivo": "art. 311",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Trafegar em velocidade incompatível com a segurança nas proximidades e locais previstos no art. 311, gerando perigo de dano.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 1 ano, ou multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1997-09-23",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.503/1997"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "velocidade incompatível",
+        "perigo de dano"
+      ]
+    },
+    {
+      "id": "ctb-312",
+      "nomeJuridico": "Fraude processual em sinistro automobilístico",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Trânsito",
+      "norma": "Lei nº 14.599/2023",
+      "dispositivo": "art. 312",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Inovar artificiosamente, em caso de sinistro automobilístico com vítima e na pendência do procedimento preparatório, inquérito ou processo, o estado de lugar, coisa ou pessoa para induzir a erro agente policial, perito ou juiz.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 1 ano, ou multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Redação atual conferida; data inicial da redação pendente."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 14.599/2023"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "fraude processual",
+        "sinistro",
+        "alterar local do acidente"
+      ]
+    },
+    {
+      "id": "ambiental-29",
+      "nomeJuridico": "Crime contra a fauna silvestre",
+      "aliases": [
+        "caça ilegal"
+      ],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 9.605/1998",
+      "dispositivo": "art. 29, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Matar, perseguir, caçar, apanhar ou utilizar espécimes da fauna silvestre sem autorização ou em desacordo com a obtida.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 1 ano, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1998-02-12",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.605/1998"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "fauna silvestre",
+        "caça ilegal",
+        "animal silvestre"
+      ]
+    },
+    {
+      "id": "ambiental-30",
+      "nomeJuridico": "Exportação ilegal de peles e couros de anfíbios e répteis",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 9.605/1998",
+      "dispositivo": "art. 30",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Exportar para o exterior peles e couros de anfíbios e répteis em bruto sem autorização da autoridade ambiental competente.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 3 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1998-02-12",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.605/1998"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "peles",
+        "couros",
+        "fauna"
+      ]
+    },
+    {
+      "id": "ambiental-31",
+      "nomeJuridico": "Introdução ilegal de espécime animal no País",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 9.605/1998",
+      "dispositivo": "art. 31",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Introduzir espécime animal no País sem parecer técnico oficial favorável e licença de autoridade competente.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 1 ano, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1998-02-12",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.605/1998"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "introdução de animal",
+        "espécime animal"
+      ]
+    },
+    {
+      "id": "ambiental-32",
+      "nomeJuridico": "Maus-tratos a animais",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 9.605/1998",
+      "dispositivo": "art. 32, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Praticar abuso, maus-tratos, ferir ou mutilar animais silvestres, domésticos ou domesticados, nativos ou exóticos.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 1 ano, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1998-02-12",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.605/1998"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "maus-tratos",
+        "animal",
+        "mutilação"
+      ]
+    },
+    {
+      "id": "ambiental-32-1a",
+      "nomeJuridico": "Maus-tratos a cão ou gato",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 14.064/2020",
+      "dispositivo": "art. 32, § 1º-A",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "ambiental-32",
+      "descricaoObjetiva": "Praticar contra cão ou gato as condutas de abuso, maus-tratos, ferimento ou mutilação previstas no art. 32.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 60,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 5 anos, multa e proibição da guarda.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "2020-09-29",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 14.064/2020"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "maus-tratos a cão",
+        "maus-tratos a gato",
+        "animal"
+      ]
+    },
+    {
+      "id": "ambiental-33",
+      "nomeJuridico": "Perecimento de fauna aquática por poluição",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 9.605/1998",
+      "dispositivo": "art. 33",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Provocar, por emissão de efluentes ou carreamento de materiais, o perecimento de espécimes da fauna aquática.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 3 anos, ou multa, ou ambas cumulativamente.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1998-02-12",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.605/1998"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "fauna aquática",
+        "efluentes",
+        "poluição"
+      ]
+    },
+    {
+      "id": "ambiental-34",
+      "nomeJuridico": "Pesca em período proibido ou local interditado",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 9.605/1998",
+      "dispositivo": "art. 34",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Pescar em período em que a pesca é proibida ou em lugares interditados por órgão competente.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 3 anos, ou multa, ou ambas cumulativamente.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1998-02-12",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.605/1998"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "pesca proibida",
+        "pesca ilegal"
+      ]
+    },
+    {
+      "id": "ambiental-35",
+      "nomeJuridico": "Pesca com explosivos ou substâncias tóxicas",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 9.605/1998",
+      "dispositivo": "art. 35",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Pescar mediante utilização de explosivos, substâncias tóxicas ou outro meio proibido pela autoridade competente.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 60,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 5 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1998-02-12",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.605/1998"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "pesca com explosivo",
+        "pesca com substância tóxica"
+      ]
+    },
+    {
+      "id": "ambiental-38",
+      "nomeJuridico": "Dano a floresta de preservação permanente",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 9.605/1998",
+      "dispositivo": "art. 38",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Destruir ou danificar floresta considerada de preservação permanente, mesmo em formação, ou utilizá-la em desacordo com as normas de proteção.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 3 anos, ou multa, ou ambas cumulativamente.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1998-02-12",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.605/1998"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "floresta",
+        "preservação permanente",
+        "dano ambiental"
+      ]
+    },
+    {
+      "id": "ambiental-38a",
+      "nomeJuridico": "Dano à vegetação da Mata Atlântica",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 11.428/2006",
+      "dispositivo": "art. 38-A",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Destruir ou danificar vegetação primária ou secundária em estágio avançado ou médio de regeneração do Bioma Mata Atlântica, em desacordo com normas de proteção.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 3 anos, ou multa, ou ambas cumulativamente.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "2006-12-22",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 11.428/2006"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "Mata Atlântica",
+        "vegetação",
+        "dano ambiental"
+      ]
+    },
+    {
+      "id": "ambiental-39",
+      "nomeJuridico": "Corte ilegal de árvore em floresta de preservação permanente",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 9.605/1998",
+      "dispositivo": "art. 39",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Cortar árvores em floresta de preservação permanente sem permissão da autoridade competente.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 3 anos, ou multa, ou ambas cumulativamente.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1998-02-12",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.605/1998"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "corte de árvore",
+        "floresta",
+        "preservação permanente"
+      ]
+    },
+    {
+      "id": "ambiental-40",
+      "nomeJuridico": "Dano a unidade de conservação",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 9.605/1998",
+      "dispositivo": "art. 40",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Causar dano direto ou indireto às Unidades de Conservação e áreas indicadas no art. 40.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 60,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 5 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1998-02-12",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.605/1998"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "unidade de conservação",
+        "dano ambiental"
+      ]
+    },
+    {
+      "id": "ambiental-41",
+      "nomeJuridico": "Incêndio em floresta ou vegetação",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 14.944/2024",
+      "dispositivo": "art. 41, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Provocar incêndio em floresta ou em demais formas de vegetação.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 4 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Redação atual e pena conferidas na fonte oficial; data inicial da redação atual pendente."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 14.944/2024"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "incêndio florestal",
+        "queimada"
+      ]
+    },
+    {
+      "id": "ambiental-42",
+      "nomeJuridico": "Fabricação, venda, transporte ou soltura de balões",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 9.605/1998",
+      "dispositivo": "art. 42",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Fabricar, vender, transportar ou soltar balões que possam provocar incêndios em florestas, vegetação, áreas urbanas ou assentamentos humanos.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 3 anos, ou multa, ou ambas cumulativamente.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1998-02-12",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.605/1998"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "balão",
+        "incêndio",
+        "floresta"
+      ]
+    },
+    {
+      "id": "ambiental-44",
+      "nomeJuridico": "Extração mineral ilegal em floresta",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 9.605/1998",
+      "dispositivo": "art. 44",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Extrair de floresta de domínio público ou de preservação permanente, sem autorização, pedra, areia, cal ou minerais.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 1 ano, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1998-02-12",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.605/1998"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "extração mineral",
+        "areia",
+        "floresta"
+      ]
+    },
+    {
+      "id": "ambiental-45",
+      "nomeJuridico": "Corte ou transformação ilegal de madeira de lei",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 9.605/1998",
+      "dispositivo": "art. 45",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Cortar ou transformar em carvão madeira de lei em desacordo com as determinações legais.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 24,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 2 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1998-02-12",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.605/1998"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "madeira de lei",
+        "carvão",
+        "desmatamento"
+      ]
+    },
+    {
+      "id": "ambiental-46",
+      "nomeJuridico": "Comércio irregular de produtos de origem vegetal",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 9.605/1998",
+      "dispositivo": "art. 46",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Receber ou adquirir para fins comerciais ou industriais madeira, lenha, carvão ou produtos vegetais sem exigir licença e documento de acompanhamento.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 1 ano, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1998-02-12",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.605/1998"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "madeira",
+        "lenha",
+        "carvão",
+        "produto vegetal"
+      ]
+    },
+    {
+      "id": "ambiental-48",
+      "nomeJuridico": "Impedimento da regeneração natural de florestas",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 9.605/1998",
+      "dispositivo": "art. 48",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Impedir ou dificultar a regeneração natural de florestas e demais formas de vegetação.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 1 ano, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1998-02-12",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.605/1998"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "regeneração natural",
+        "floresta"
+      ]
+    },
+    {
+      "id": "ambiental-49",
+      "nomeJuridico": "Dano a plantas de ornamentação",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 15.299/2025",
+      "dispositivo": "art. 49, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Destruir, danificar, lesar ou maltratar plantas de ornamentação de logradouros públicos ou propriedade privada alheia.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 1 ano, ou multa, ou ambas cumulativamente.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Artigo e pena atuais conferidos; alterações de 2025 exigem conferência da data inicial da redação."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 15.299/2025"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "planta de ornamentação",
+        "dano"
+      ]
+    },
+    {
+      "id": "ambiental-50a",
+      "nomeJuridico": "Desmatamento ou exploração ilegal em terras públicas",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 11.284/2006",
+      "dispositivo": "art. 50-A",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Desmatar, explorar economicamente ou degradar floresta em terras de domínio público ou devolutas sem autorização do órgão competente.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 4 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "2006-03-02",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 11.284/2006"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "desmatamento",
+        "terras públicas",
+        "floresta"
+      ]
+    },
+    {
+      "id": "ambiental-54",
+      "nomeJuridico": "Poluição ambiental",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 9.605/1998",
+      "dispositivo": "art. 54, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Causar poluição de qualquer natureza em níveis que resultem ou possam resultar em dano à saúde humana, mortandade de animais ou destruição significativa da flora.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 4 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1998-02-12",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.605/1998"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "poluição",
+        "dano ambiental",
+        "saúde humana"
+      ]
+    },
+    {
+      "id": "ambiental-54-1",
+      "nomeJuridico": "Poluição ambiental culposa",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 9.605/1998",
+      "dispositivo": "art. 54, § 1º",
+      "naturezaFigura": "culposa",
+      "tipoPaiId": "ambiental-54",
+      "descricaoObjetiva": "Causar culposamente poluição nas condições previstas no art. 54.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 1 ano, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1998-02-12",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.605/1998"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "poluição culposa",
+        "dano ambiental"
+      ]
+    },
+    {
+      "id": "ambiental-54-2",
+      "nomeJuridico": "Poluição ambiental qualificada",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 9.605/1998",
+      "dispositivo": "art. 54, § 2º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "ambiental-54",
+      "descricaoObjetiva": "Causar poluição nas hipóteses qualificadas do § 2º do art. 54.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 60,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 5 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1998-02-12",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.605/1998"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "poluição",
+        "abastecimento de água",
+        "resíduos"
+      ]
+    },
+    {
+      "id": "ambiental-55",
+      "nomeJuridico": "Extração mineral sem licença",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 9.605/1998",
+      "dispositivo": "art. 55",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Executar pesquisa, lavra ou extração de recursos minerais sem autorização, permissão, concessão ou licença, ou em desacordo com a obtida.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 1 ano, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1998-02-12",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.605/1998"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "extração mineral",
+        "lavra",
+        "mineração"
+      ]
+    },
+    {
+      "id": "ambiental-56",
+      "nomeJuridico": "Uso ou circulação irregular de produto perigoso",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 9.605/1998",
+      "dispositivo": "art. 56, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Produzir, processar, transportar, armazenar, guardar, ter em depósito ou usar produto ou substância tóxica, perigosa ou nociva em desacordo com as exigências legais.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 4 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1998-02-12",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.605/1998"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "produto perigoso",
+        "substância tóxica",
+        "resíduos perigosos"
+      ]
+    },
+    {
+      "id": "ambiental-56-3",
+      "nomeJuridico": "Uso culposo de produto ou substância perigosa",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 9.605/1998",
+      "dispositivo": "art. 56, § 3º",
+      "naturezaFigura": "culposa",
+      "tipoPaiId": "ambiental-56",
+      "descricaoObjetiva": "Praticar culposamente a conduta prevista no art. 56.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 1 ano, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1998-02-12",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.605/1998"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "produto perigoso",
+        "culpa",
+        "substância tóxica"
+      ]
+    },
+    {
+      "id": "ambiental-60",
+      "nomeJuridico": "Funcionamento de atividade potencialmente poluidora sem licença",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 15.190/2025",
+      "dispositivo": "art. 60",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Construir, reformar, ampliar, instalar ou fazer funcionar estabelecimento, obra ou serviço potencialmente poluidor sem licença ou autorização ambiental ou em desacordo com as normas.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 24,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 2 anos, ou multa, ou ambas cumulativamente.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Redação atual e pena conferidas; data inicial da redação atual pendente."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 15.190/2025"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "licenciamento ambiental",
+        "atividade poluidora",
+        "sem licença"
+      ]
+    },
+    {
+      "id": "ambiental-61",
+      "nomeJuridico": "Disseminação de doença ou praga ambiental",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 9.605/1998",
+      "dispositivo": "art. 61",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Disseminar doença, praga ou espécie que possa causar dano à agricultura, pecuária, fauna, flora ou ecossistemas.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 4 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1998-02-12",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.605/1998"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "praga",
+        "doença",
+        "ecossistema"
+      ]
+    },
+    {
+      "id": "ambiental-62",
+      "nomeJuridico": "Dano a bem ou patrimônio cultural protegido",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 9.605/1998",
+      "dispositivo": "art. 62, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Destruir, inutilizar ou deteriorar bem, arquivo, registro, museu, biblioteca, pinacoteca, instalação científica ou similar protegido por lei, ato administrativo ou decisão judicial.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 3 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1998-02-12",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.605/1998"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "patrimônio cultural",
+        "bem protegido",
+        "museu"
+      ]
+    },
+    {
+      "id": "ambiental-62-culposo",
+      "nomeJuridico": "Dano culposo a patrimônio cultural protegido",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 9.605/1998",
+      "dispositivo": "art. 62, parágrafo único",
+      "naturezaFigura": "culposa",
+      "tipoPaiId": "ambiental-62",
+      "descricaoObjetiva": "Destruir, inutilizar ou deteriorar culposamente bem ou patrimônio cultural protegido nas condições do art. 62.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 1 ano, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1998-02-12",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.605/1998"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "patrimônio cultural",
+        "culpa",
+        "bem protegido"
+      ]
+    },
+    {
+      "id": "ambiental-63",
+      "nomeJuridico": "Alteração não autorizada de patrimônio cultural protegido",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 9.605/1998",
+      "dispositivo": "art. 63",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Alterar aspecto ou estrutura de edificação ou local especialmente protegido sem autorização ou em desacordo com a concedida.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 3 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1998-02-12",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.605/1998"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "patrimônio cultural",
+        "edificação protegida",
+        "alteração"
+      ]
+    },
+    {
+      "id": "ambiental-64",
+      "nomeJuridico": "Construção ilegal em solo não edificável protegido",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 9.605/1998",
+      "dispositivo": "art. 64",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Promover construção em solo não edificável ou no entorno de local protegido sem autorização ou em desacordo com a concedida.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 1 ano, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1998-02-12",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.605/1998"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "solo não edificável",
+        "construção ilegal",
+        "patrimônio cultural"
+      ]
+    },
+    {
+      "id": "ambiental-65",
+      "nomeJuridico": "Pichação ou conspurcação de edificação ou monumento urbano",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 12.408/2011",
+      "dispositivo": "art. 65",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Pichar ou por outro meio conspurcar edificação ou monumento urbano.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 1 ano, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "2011-05-25",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 12.408/2011"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "pichação",
+        "grafite",
+        "monumento urbano"
+      ]
+    },
+    {
+      "id": "ambiental-66",
+      "nomeJuridico": "Falsidade ou omissão em licenciamento ambiental",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 9.605/1998",
+      "dispositivo": "art. 66",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Fazer funcionário público afirmação falsa ou enganosa, omitir a verdade ou sonegar informações em procedimento de autorização ou licenciamento ambiental.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 3 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1998-02-12",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.605/1998"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "licenciamento ambiental",
+        "funcionário público",
+        "informação falsa"
+      ]
+    },
+    {
+      "id": "ambiental-67",
+      "nomeJuridico": "Concessão dolosa de licença ambiental irregular",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 15.190/2025",
+      "dispositivo": "art. 67",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Conceder dolosamente funcionário público licença, autorização ou permissão que sabe estar em desacordo com as normas ambientais.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 3 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Redação atual e pena conferidas; data inicial da redação atual pendente."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 15.190/2025"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "licença ambiental",
+        "funcionário público",
+        "concessão irregular"
+      ]
+    },
+    {
+      "id": "ambiental-68",
+      "nomeJuridico": "Descumprimento de obrigação de relevante interesse ambiental",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 9.605/1998",
+      "dispositivo": "art. 68",
+      "naturezaFigura": "omissiva",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Deixar quem tenha dever legal ou contratual de cumprir obrigação de relevante interesse ambiental.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 3 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1998-02-12",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.605/1998"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "obrigação ambiental",
+        "omissão ambiental"
+      ]
+    },
+    {
+      "id": "ambiental-69",
+      "nomeJuridico": "Obstrução da fiscalização ambiental",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 9.605/1998",
+      "dispositivo": "art. 69",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Obstar ou dificultar a ação fiscalizadora do Poder Público em questões ambientais.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 3 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1998-02-12",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.605/1998"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "fiscalização ambiental",
+        "obstrução",
+        "ação fiscalizadora"
+      ]
+    },
+    {
+      "id": "ambiental-69a",
+      "nomeJuridico": "Laudo ou relatório ambiental falso",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 11.284/2006",
+      "dispositivo": "art. 69-A, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Elaborar ou apresentar em procedimento ambiental estudo, laudo ou relatório total ou parcialmente falso ou enganoso, inclusive por omissão.",
+      "pena": {
+        "minimoMeses": 36,
+        "maximoMeses": 72,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 3 a 6 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "2006-03-02",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 11.284/2006"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "laudo ambiental falso",
+        "licenciamento",
+        "relatório ambiental"
+      ]
+    },
+    {
+      "id": "ambiental-69a-1",
+      "nomeJuridico": "Laudo ou relatório ambiental falso culposo",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes ambientais",
+      "norma": "Lei nº 11.284/2006",
+      "dispositivo": "art. 69-A, § 1º",
+      "naturezaFigura": "culposa",
+      "tipoPaiId": "ambiental-69a",
+      "descricaoObjetiva": "Elaborar ou apresentar culposamente estudo, laudo ou relatório ambiental falso ou enganoso.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 3 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "2006-03-02",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 11.284/2006"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "laudo ambiental falso",
+        "culpa",
+        "relatório ambiental"
       ]
     }
   ]

@@ -18,4 +18,4 @@ O catálogo usa a data de corte **2026-08-17**. Alterações legislativas recent
 
 ## Escopo do checkpoint
 
-A carga inicial cobre uma seleção auditada do Código Penal e páginas oficiais acessadas de drogas, armas e organização criminosa. Ela não é um inventário nacional integral. O relatório de cobertura deve permanecer incompleto até que todos os módulos e dispositivos previstos estejam mapeados, auditados e justificados.
+A carga deste checkpoint cobre uma seleção auditada do Código Penal e páginas oficiais acessadas de drogas, armas, organização criminosa, trânsito e crimes ambientais. Ela não é um inventário nacional integral; os registros cuja redação atual depende de leis modificadoras recentes permanecem pendentes até a conferência temporal. O relatório de cobertura deve permanecer incompleto até que todos os módulos e dispositivos previstos estejam mapeados, auditados e justificados.

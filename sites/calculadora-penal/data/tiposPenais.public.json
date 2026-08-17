@@ -1,5 +1,5 @@
 {
-  "versaoCatalogo": "cntp-br-2026-08-17-a1846b3bd20a5e23",
+  "versaoCatalogo": "cntp-br-2026-08-17-8a1b307b7f4603df",
   "dataCorte": "2026-08-17",
   "estadoGeral": "incompleto",
   "registros": [
@@ -102,6 +102,41 @@
         "gestante"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "ctb-305",
+      "name": "Afastamento do local do sinistro",
+      "article": "art. 305",
+      "law": "Lei nº 14.599/2023",
+      "category": "Trânsito",
+      "minimum": 0.5,
+      "maximum": 1,
+      "penalty": "Detenção, de 6 meses a 1 ano, ou multa.",
+      "keywords": [
+        "fuga do local",
+        "sinistro de trânsito"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "ambiental-63",
+      "name": "Alteração não autorizada de patrimônio cultural protegido",
+      "article": "art. 63",
+      "law": "Lei nº 9.605/1998",
+      "category": "Crimes ambientais",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Reclusão, de 1 a 3 anos, e multa.",
+      "keywords": [
+        "patrimônio cultural",
+        "edificação protegida",
+        "alteração"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
       "validationState": "confirmada",
       "canCalculate": true
     },
@@ -210,6 +245,43 @@
       "canCalculate": true
     },
     {
+      "id": "ambiental-46",
+      "name": "Comércio irregular de produtos de origem vegetal",
+      "article": "art. 46",
+      "law": "Lei nº 9.605/1998",
+      "category": "Crimes ambientais",
+      "minimum": 0.5,
+      "maximum": 1,
+      "penalty": "Detenção, de 6 meses a 1 ano, e multa.",
+      "keywords": [
+        "madeira",
+        "lenha",
+        "carvão",
+        "produto vegetal"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "ambiental-67",
+      "name": "Concessão dolosa de licença ambiental irregular",
+      "article": "art. 67",
+      "law": "Lei nº 15.190/2025",
+      "category": "Crimes ambientais",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Detenção, de 1 a 3 anos, e multa.",
+      "keywords": [
+        "licença ambiental",
+        "funcionário público",
+        "concessão irregular"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "cp-316",
       "name": "Concussão",
       "article": "art. 316, caput",
@@ -224,6 +296,42 @@
         "funcionário público"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "ctb-306",
+      "name": "Condução de veículo automotor com capacidade psicomotora alterada",
+      "article": "art. 306",
+      "law": "Lei nº 12.760/2012",
+      "category": "Trânsito",
+      "minimum": 0.5,
+      "maximum": 3,
+      "penalty": "Detenção, de 6 meses a 3 anos, multa e suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículo automotor.",
+      "keywords": [
+        "embriaguez ao volante",
+        "álcool",
+        "bafômetro"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "ambiental-64",
+      "name": "Construção ilegal em solo não edificável protegido",
+      "article": "art. 64",
+      "law": "Lei nº 9.605/1998",
+      "category": "Crimes ambientais",
+      "minimum": 0.5,
+      "maximum": 1,
+      "penalty": "Detenção, de 6 meses a 1 ano, e multa.",
+      "keywords": [
+        "solo não edificável",
+        "construção ilegal",
+        "patrimônio cultural"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
       "validationState": "confirmada",
       "canCalculate": true
     },
@@ -264,6 +372,218 @@
       "canCalculate": true
     },
     {
+      "id": "ambiental-39",
+      "name": "Corte ilegal de árvore em floresta de preservação permanente",
+      "article": "art. 39",
+      "law": "Lei nº 9.605/1998",
+      "category": "Crimes ambientais",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Detenção, de 1 a 3 anos, ou multa, ou ambas cumulativamente.",
+      "keywords": [
+        "corte de árvore",
+        "floresta",
+        "preservação permanente"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "ambiental-45",
+      "name": "Corte ou transformação ilegal de madeira de lei",
+      "article": "art. 45",
+      "law": "Lei nº 9.605/1998",
+      "category": "Crimes ambientais",
+      "minimum": 1,
+      "maximum": 2,
+      "penalty": "Reclusão, de 1 a 2 anos, e multa.",
+      "keywords": [
+        "madeira de lei",
+        "carvão",
+        "desmatamento"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "ambiental-29",
+      "name": "Crime contra a fauna silvestre",
+      "article": "art. 29, caput",
+      "law": "Lei nº 9.605/1998",
+      "category": "Crimes ambientais",
+      "minimum": 0.5,
+      "maximum": 1,
+      "penalty": "Detenção, de 6 meses a 1 ano, e multa.",
+      "keywords": [
+        "fauna silvestre",
+        "caça ilegal",
+        "animal silvestre"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "ambiental-62",
+      "name": "Dano a bem ou patrimônio cultural protegido",
+      "article": "art. 62, caput",
+      "law": "Lei nº 9.605/1998",
+      "category": "Crimes ambientais",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Reclusão, de 1 a 3 anos, e multa.",
+      "keywords": [
+        "patrimônio cultural",
+        "bem protegido",
+        "museu"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "ambiental-38",
+      "name": "Dano a floresta de preservação permanente",
+      "article": "art. 38",
+      "law": "Lei nº 9.605/1998",
+      "category": "Crimes ambientais",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Detenção, de 1 a 3 anos, ou multa, ou ambas cumulativamente.",
+      "keywords": [
+        "floresta",
+        "preservação permanente",
+        "dano ambiental"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "ambiental-49",
+      "name": "Dano a plantas de ornamentação",
+      "article": "art. 49, caput",
+      "law": "Lei nº 15.299/2025",
+      "category": "Crimes ambientais",
+      "minimum": 0.25,
+      "maximum": 1,
+      "penalty": "Detenção, de 3 meses a 1 ano, ou multa, ou ambas cumulativamente.",
+      "keywords": [
+        "planta de ornamentação",
+        "dano"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "ambiental-40",
+      "name": "Dano a unidade de conservação",
+      "article": "art. 40",
+      "law": "Lei nº 9.605/1998",
+      "category": "Crimes ambientais",
+      "minimum": 1,
+      "maximum": 5,
+      "penalty": "Reclusão, de 1 a 5 anos.",
+      "keywords": [
+        "unidade de conservação",
+        "dano ambiental"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "ambiental-38a",
+      "name": "Dano à vegetação da Mata Atlântica",
+      "article": "art. 38-A",
+      "law": "Lei nº 11.428/2006",
+      "category": "Crimes ambientais",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Detenção, de 1 a 3 anos, ou multa, ou ambas cumulativamente.",
+      "keywords": [
+        "Mata Atlântica",
+        "vegetação",
+        "dano ambiental"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "ambiental-62-culposo",
+      "name": "Dano culposo a patrimônio cultural protegido",
+      "article": "art. 62, parágrafo único",
+      "law": "Lei nº 9.605/1998",
+      "category": "Crimes ambientais",
+      "minimum": 0.5,
+      "maximum": 1,
+      "penalty": "Detenção, de 6 meses a 1 ano, e multa.",
+      "keywords": [
+        "patrimônio cultural",
+        "culpa",
+        "bem protegido"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "ambiental-68",
+      "name": "Descumprimento de obrigação de relevante interesse ambiental",
+      "article": "art. 68",
+      "law": "Lei nº 9.605/1998",
+      "category": "Crimes ambientais",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Detenção, de 1 a 3 anos, e multa.",
+      "keywords": [
+        "obrigação ambiental",
+        "omissão ambiental"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "ambiental-50a",
+      "name": "Desmatamento ou exploração ilegal em terras públicas",
+      "article": "art. 50-A",
+      "law": "Lei nº 11.284/2006",
+      "category": "Crimes ambientais",
+      "minimum": 2,
+      "maximum": 4,
+      "penalty": "Reclusão, de 2 a 4 anos, e multa.",
+      "keywords": [
+        "desmatamento",
+        "terras públicas",
+        "floresta"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "ctb-309",
+      "name": "Direção sem habilitação com perigo de dano",
+      "article": "art. 309",
+      "law": "Lei nº 9.503/1997",
+      "category": "Trânsito",
+      "minimum": 0.5,
+      "maximum": 1,
+      "penalty": "Detenção, de 6 meses a 1 ano, ou multa.",
+      "keywords": [
+        "dirigir sem habilitação",
+        "perigo de dano"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
       "id": "armas-15",
       "name": "Disparo de arma de fogo",
       "article": "art. 15",
@@ -278,6 +598,41 @@
         "tiro"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826compilado.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "ambiental-61",
+      "name": "Disseminação de doença ou praga ambiental",
+      "article": "art. 61",
+      "law": "Lei nº 9.605/1998",
+      "category": "Crimes ambientais",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão, de 1 a 4 anos, e multa.",
+      "keywords": [
+        "praga",
+        "doença",
+        "ecossistema"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "ctb-310",
+      "name": "Entrega de direção a pessoa não habilitada",
+      "article": "art. 310",
+      "law": "Lei nº 9.503/1997",
+      "category": "Trânsito",
+      "minimum": 0.5,
+      "maximum": 1,
+      "penalty": "Detenção, de 6 meses a 1 ano, ou multa.",
+      "keywords": [
+        "entregar direção",
+        "pessoa não habilitada"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
       "validationState": "confirmada",
       "canCalculate": true
     },
@@ -406,6 +761,24 @@
       "canCalculate": false
     },
     {
+      "id": "ambiental-30",
+      "name": "Exportação ilegal de peles e couros de anfíbios e répteis",
+      "article": "art. 30",
+      "law": "Lei nº 9.605/1998",
+      "category": "Crimes ambientais",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Reclusão, de 1 a 3 anos, e multa.",
+      "keywords": [
+        "peles",
+        "couros",
+        "fauna"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
       "id": "cp-158",
       "name": "Extorsão",
       "article": "art. 158, caput",
@@ -437,6 +810,78 @@
         "restrição da liberdade"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "ambiental-44",
+      "name": "Extração mineral ilegal em floresta",
+      "article": "art. 44",
+      "law": "Lei nº 9.605/1998",
+      "category": "Crimes ambientais",
+      "minimum": 0.5,
+      "maximum": 1,
+      "penalty": "Detenção, de 6 meses a 1 ano, e multa.",
+      "keywords": [
+        "extração mineral",
+        "areia",
+        "floresta"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "ambiental-55",
+      "name": "Extração mineral sem licença",
+      "article": "art. 55",
+      "law": "Lei nº 9.605/1998",
+      "category": "Crimes ambientais",
+      "minimum": 0.5,
+      "maximum": 1,
+      "penalty": "Detenção, de 6 meses a 1 ano, e multa.",
+      "keywords": [
+        "extração mineral",
+        "lavra",
+        "mineração"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "ambiental-42",
+      "name": "Fabricação, venda, transporte ou soltura de balões",
+      "article": "art. 42",
+      "law": "Lei nº 9.605/1998",
+      "category": "Crimes ambientais",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Detenção, de 1 a 3 anos, ou multa, ou ambas cumulativamente.",
+      "keywords": [
+        "balão",
+        "incêndio",
+        "floresta"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "ambiental-66",
+      "name": "Falsidade ou omissão em licenciamento ambiental",
+      "article": "art. 66",
+      "law": "Lei nº 9.605/1998",
+      "category": "Crimes ambientais",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Reclusão, de 1 a 3 anos, e multa.",
+      "keywords": [
+        "licenciamento ambiental",
+        "funcionário público",
+        "informação falsa"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
       "validationState": "confirmada",
       "canCalculate": true
     },
@@ -473,6 +918,42 @@
         "fraude financeira"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "ctb-312",
+      "name": "Fraude processual em sinistro automobilístico",
+      "article": "art. 312",
+      "law": "Lei nº 14.599/2023",
+      "category": "Trânsito",
+      "minimum": 0.5,
+      "maximum": 1,
+      "penalty": "Detenção, de 6 meses a 1 ano, ou multa.",
+      "keywords": [
+        "fraude processual",
+        "sinistro",
+        "alterar local do acidente"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "ambiental-60",
+      "name": "Funcionamento de atividade potencialmente poluidora sem licença",
+      "article": "art. 60",
+      "law": "Lei nº 15.190/2025",
+      "category": "Crimes ambientais",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, ou multa, ou ambas cumulativamente.",
+      "keywords": [
+        "licenciamento ambiental",
+        "atividade poluidora",
+        "sem licença"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -566,6 +1047,42 @@
       "canCalculate": true
     },
     {
+      "id": "ctb-302",
+      "name": "Homicídio culposo na direção de veículo automotor",
+      "article": "art. 302, caput",
+      "law": "Lei nº 9.503/1997",
+      "category": "Trânsito",
+      "minimum": 2,
+      "maximum": 4,
+      "penalty": "Detenção, de 2 a 4 anos, e suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículo automotor.",
+      "keywords": [
+        "homicídio no trânsito",
+        "morte no trânsito",
+        "direção culposa"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "ctb-302-3",
+      "name": "Homicídio culposo no trânsito sob influência de álcool ou substância psicoativa",
+      "article": "art. 302, § 3º",
+      "law": "Lei nº 13.546/2017",
+      "category": "Trânsito",
+      "minimum": 5,
+      "maximum": 8,
+      "penalty": "Reclusão, de 5 a 8 anos, e suspensão ou proibição do direito de se obter a permissão ou a habilitação para dirigir veículo automotor.",
+      "keywords": [
+        "homicídio no trânsito",
+        "álcool",
+        "substância psicoativa"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "cp-121-2d",
       "name": "Homicídio no contexto de organização criminosa ultraviolenta",
       "article": "art. 121, § 2º-D",
@@ -621,6 +1138,40 @@
       "canCalculate": true
     },
     {
+      "id": "ambiental-48",
+      "name": "Impedimento da regeneração natural de florestas",
+      "article": "art. 48",
+      "law": "Lei nº 9.605/1998",
+      "category": "Crimes ambientais",
+      "minimum": 0.5,
+      "maximum": 1,
+      "penalty": "Detenção, de 6 meses a 1 ano, e multa.",
+      "keywords": [
+        "regeneração natural",
+        "floresta"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "ambiental-41",
+      "name": "Incêndio em floresta ou vegetação",
+      "article": "art. 41, caput",
+      "law": "Lei nº 14.944/2024",
+      "category": "Crimes ambientais",
+      "minimum": 2,
+      "maximum": 4,
+      "penalty": "Reclusão, de 2 a 4 anos, e multa.",
+      "keywords": [
+        "incêndio florestal",
+        "queimada"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "cp-123",
       "name": "Infanticídio",
       "article": "art. 123",
@@ -634,6 +1185,23 @@
         "estado puerperal"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "ambiental-31",
+      "name": "Introdução ilegal de espécime animal no País",
+      "article": "art. 31",
+      "law": "Lei nº 9.605/1998",
+      "category": "Crimes ambientais",
+      "minimum": 0.25,
+      "maximum": 1,
+      "penalty": "Detenção, de 3 meses a 1 ano, e multa.",
+      "keywords": [
+        "introdução de animal",
+        "espécime animal"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
       "validationState": "confirmada",
       "canCalculate": true
     },
@@ -674,6 +1242,42 @@
       "canCalculate": false
     },
     {
+      "id": "ambiental-69a",
+      "name": "Laudo ou relatório ambiental falso",
+      "article": "art. 69-A, caput",
+      "law": "Lei nº 11.284/2006",
+      "category": "Crimes ambientais",
+      "minimum": 3,
+      "maximum": 6,
+      "penalty": "Reclusão, de 3 a 6 anos, e multa.",
+      "keywords": [
+        "laudo ambiental falso",
+        "licenciamento",
+        "relatório ambiental"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "ambiental-69a-1",
+      "name": "Laudo ou relatório ambiental falso culposo",
+      "article": "art. 69-A, § 1º",
+      "law": "Lei nº 11.284/2006",
+      "category": "Crimes ambientais",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Detenção, de 1 a 3 anos.",
+      "keywords": [
+        "laudo ambiental falso",
+        "culpa",
+        "relatório ambiental"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
       "id": "cp-129",
       "name": "Lesão corporal",
       "article": "art. 129, caput",
@@ -708,6 +1312,42 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "ctb-303",
+      "name": "Lesão corporal culposa na direção de veículo automotor",
+      "article": "art. 303, caput",
+      "law": "Lei nº 9.503/1997",
+      "category": "Trânsito",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, e suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículo automotor.",
+      "keywords": [
+        "lesão no trânsito",
+        "acidente com lesão",
+        "direção culposa"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "ctb-303-2",
+      "name": "Lesão corporal culposa no trânsito sob influência de álcool com resultado grave",
+      "article": "art. 303, § 2º",
+      "law": "Lei nº 13.546/2017",
+      "category": "Trânsito",
+      "minimum": 2,
+      "maximum": 5,
+      "penalty": "Reclusão, de 2 a 5 anos, sem prejuízo das demais penas previstas no artigo.",
+      "keywords": [
+        "lesão grave no trânsito",
+        "álcool",
+        "lesão gravíssima"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "cp-129-1",
@@ -797,6 +1437,60 @@
       "canCalculate": false
     },
     {
+      "id": "ambiental-32",
+      "name": "Maus-tratos a animais",
+      "article": "art. 32, caput",
+      "law": "Lei nº 9.605/1998",
+      "category": "Crimes ambientais",
+      "minimum": 0.25,
+      "maximum": 1,
+      "penalty": "Detenção, de 3 meses a 1 ano, e multa.",
+      "keywords": [
+        "maus-tratos",
+        "animal",
+        "mutilação"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "ambiental-32-1a",
+      "name": "Maus-tratos a cão ou gato",
+      "article": "art. 32, § 1º-A",
+      "law": "Lei nº 14.064/2020",
+      "category": "Crimes ambientais",
+      "minimum": 2,
+      "maximum": 5,
+      "penalty": "Reclusão, de 2 a 5 anos, multa e proibição da guarda.",
+      "keywords": [
+        "maus-tratos a cão",
+        "maus-tratos a gato",
+        "animal"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "ambiental-69",
+      "name": "Obstrução da fiscalização ambiental",
+      "article": "art. 69",
+      "law": "Lei nº 9.605/1998",
+      "category": "Crimes ambientais",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Detenção, de 1 a 3 anos, e multa.",
+      "keywords": [
+        "fiscalização ambiental",
+        "obstrução",
+        "ação fiscalizadora"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
       "id": "armas-13",
       "name": "Omissão de cautela",
       "article": "art. 13",
@@ -813,6 +1507,24 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826compilado.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "ctb-304",
+      "name": "Omissão de socorro no trânsito",
+      "article": "art. 304",
+      "law": "Lei nº 14.599/2023",
+      "category": "Trânsito",
+      "minimum": 0.5,
+      "maximum": 1,
+      "penalty": "Detenção, de 6 meses a 1 ano, ou multa, se o fato não constituir crime mais grave.",
+      "keywords": [
+        "omissão de socorro",
+        "sinistro",
+        "vítima de trânsito"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "org-2",
@@ -847,6 +1559,129 @@
         "desvio de dinheiro público"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "ambiental-33",
+      "name": "Perecimento de fauna aquática por poluição",
+      "article": "art. 33",
+      "law": "Lei nº 9.605/1998",
+      "category": "Crimes ambientais",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Detenção, de 1 a 3 anos, ou multa, ou ambas cumulativamente.",
+      "keywords": [
+        "fauna aquática",
+        "efluentes",
+        "poluição"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "ambiental-35",
+      "name": "Pesca com explosivos ou substâncias tóxicas",
+      "article": "art. 35",
+      "law": "Lei nº 9.605/1998",
+      "category": "Crimes ambientais",
+      "minimum": 1,
+      "maximum": 5,
+      "penalty": "Reclusão, de 1 a 5 anos.",
+      "keywords": [
+        "pesca com explosivo",
+        "pesca com substância tóxica"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "ambiental-34",
+      "name": "Pesca em período proibido ou local interditado",
+      "article": "art. 34",
+      "law": "Lei nº 9.605/1998",
+      "category": "Crimes ambientais",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Detenção, de 1 a 3 anos, ou multa, ou ambas cumulativamente.",
+      "keywords": [
+        "pesca proibida",
+        "pesca ilegal"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "ambiental-65",
+      "name": "Pichação ou conspurcação de edificação ou monumento urbano",
+      "article": "art. 65",
+      "law": "Lei nº 12.408/2011",
+      "category": "Crimes ambientais",
+      "minimum": 0.25,
+      "maximum": 1,
+      "penalty": "Detenção, de 3 meses a 1 ano, e multa.",
+      "keywords": [
+        "pichação",
+        "grafite",
+        "monumento urbano"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "ambiental-54",
+      "name": "Poluição ambiental",
+      "article": "art. 54, caput",
+      "law": "Lei nº 9.605/1998",
+      "category": "Crimes ambientais",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão, de 1 a 4 anos, e multa.",
+      "keywords": [
+        "poluição",
+        "dano ambiental",
+        "saúde humana"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "ambiental-54-1",
+      "name": "Poluição ambiental culposa",
+      "article": "art. 54, § 1º",
+      "law": "Lei nº 9.605/1998",
+      "category": "Crimes ambientais",
+      "minimum": 0.5,
+      "maximum": 1,
+      "penalty": "Detenção, de 6 meses a 1 ano, e multa.",
+      "keywords": [
+        "poluição culposa",
+        "dano ambiental"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "ambiental-54-2",
+      "name": "Poluição ambiental qualificada",
+      "article": "art. 54, § 2º",
+      "law": "Lei nº 9.605/1998",
+      "category": "Crimes ambientais",
+      "minimum": 1,
+      "maximum": 5,
+      "penalty": "Reclusão, de 1 a 5 anos.",
+      "keywords": [
+        "poluição",
+        "abastecimento de água",
+        "resíduos"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
       "validationState": "confirmada",
       "canCalculate": true
     },
@@ -905,6 +1740,60 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826compilado.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "ctb-308-1",
+      "name": "Racha com lesão corporal grave",
+      "article": "art. 308, § 1º",
+      "law": "Lei nº 12.971/2014",
+      "category": "Trânsito",
+      "minimum": 3,
+      "maximum": 6,
+      "penalty": "Reclusão, de 3 a 6 anos, sem prejuízo das demais penas previstas no artigo.",
+      "keywords": [
+        "racha",
+        "lesão grave",
+        "competição automobilística"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "ctb-308-2",
+      "name": "Racha com resultado morte",
+      "article": "art. 308, § 2º",
+      "law": "Lei nº 12.971/2014",
+      "category": "Trânsito",
+      "minimum": 5,
+      "maximum": 10,
+      "penalty": "Reclusão, de 5 a 10 anos, sem prejuízo das demais penas previstas no artigo.",
+      "keywords": [
+        "racha",
+        "morte",
+        "competição automobilística"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "ctb-308",
+      "name": "Racha ou competição automobilística não autorizada",
+      "article": "art. 308, caput",
+      "law": "Lei nº 13.546/2017",
+      "category": "Trânsito",
+      "minimum": 0.5,
+      "maximum": 3,
+      "penalty": "Detenção, de 6 meses a 3 anos, multa e suspensão ou proibição de se obter a permissão ou habilitação.",
+      "keywords": [
+        "racha",
+        "corrida ilegal",
+        "competição automobilística"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "cp-180",
@@ -1065,6 +1954,23 @@
       "canCalculate": true
     },
     {
+      "id": "ctb-311",
+      "name": "Tráfego em velocidade incompatível com segurança",
+      "article": "art. 311",
+      "law": "Lei nº 9.503/1997",
+      "category": "Trânsito",
+      "minimum": 0.5,
+      "maximum": 1,
+      "penalty": "Detenção, de 6 meses a 1 ano, ou multa.",
+      "keywords": [
+        "velocidade incompatível",
+        "perigo de dano"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
       "id": "drogas-33",
       "name": "Tráfico de drogas",
       "article": "art. 33, caput",
@@ -1102,6 +2008,42 @@
       "canCalculate": true
     },
     {
+      "id": "ambiental-56-3",
+      "name": "Uso culposo de produto ou substância perigosa",
+      "article": "art. 56, § 3º",
+      "law": "Lei nº 9.605/1998",
+      "category": "Crimes ambientais",
+      "minimum": 0.5,
+      "maximum": 1,
+      "penalty": "Detenção, de 6 meses a 1 ano, e multa.",
+      "keywords": [
+        "produto perigoso",
+        "culpa",
+        "substância tóxica"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "ambiental-56",
+      "name": "Uso ou circulação irregular de produto perigoso",
+      "article": "art. 56, caput",
+      "law": "Lei nº 9.605/1998",
+      "category": "Crimes ambientais",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão, de 1 a 4 anos, e multa.",
+      "keywords": [
+        "produto perigoso",
+        "substância tóxica",
+        "resíduos perigosos"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
       "id": "cp-121b",
       "name": "Vicaricídio",
       "article": "art. 121-B",
@@ -1118,6 +2060,23 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
       "canCalculate": false
+    },
+    {
+      "id": "ctb-307",
+      "name": "Violação de suspensão ou proibição de dirigir",
+      "article": "art. 307",
+      "law": "Lei nº 9.503/1997",
+      "category": "Trânsito",
+      "minimum": 0.5,
+      "maximum": 1,
+      "penalty": "Detenção, de 6 meses a 1 ano, e multa, com nova imposição adicional de idêntico prazo de suspensão ou proibição.",
+      "keywords": [
+        "dirigir suspenso",
+        "proibição de dirigir"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
     },
     {
       "id": "cp-359p",

@@ -31,3 +31,15 @@ A consulta da página compilada da Lei nº 9.613/1998, em <https://www.planalto.
 A consulta da Lei nº 9.455/1997, em <https://www.planalto.gov.br/ccivil_03/leis/l9455.htm>, foi bloqueada pelo Planalto com código `13376840596267397533`; portanto, a Lei de Tortura continua pendente de conferência automática.
 
 A página oficial da Lei nº 12.850/2013 foi aberta em <https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm>. O art. 2º define promover, constituir, financiar ou integrar organização criminosa e prevê reclusão de 3 a 8 anos e multa. A redação consultada também mostra alterações de 2025 e 2026, razão pela qual os parágrafos derivados devem ser tratados separadamente e sem transformar majorantes em tipos autônomos.
+
+## Próximo ciclo — trânsito e ECA
+
+A versão compilada do Código de Trânsito Brasileiro foi aberta em <https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm>. A página oficial está acessível e deve ser usada para extrair os crimes dos arts. 302 a 312, com conferência de redações alteradas por leis posteriores. A primeira visualização da página exibiu conteúdo administrativo do art. 302, portanto os trechos penais devem ser extraídos do texto completo salvo pelo navegador antes de cadastrar registros.
+
+A página do Estatuto da Criança e do Adolescente em <https://www.planalto.gov.br/ccivil_03/leis/l8069.htm> respondeu com acesso negado, código `13376840596226237007`. O módulo ECA permanece pendente até validação por outra página oficial acessível ou nova consulta.
+
+## Próximo lote — ambiental e crimes raciais
+
+A página oficial da Lei nº 9.605/1998 foi aberta em <https://www.planalto.gov.br/ccivil_03/leis/l9605.htm>. O texto identifica a lei como fonte de sanções penais e administrativas ambientais e contém alterações recentes, inclusive dispositivos novos de 2025 e 2026. A extração deve usar apenas artigos com pena criminal, excluindo infrações administrativas e efeitos da condenação.
+
+A página oficial da Lei nº 7.716/1989 foi aberta em <https://www.planalto.gov.br/ccivil_03/leis/l7716.htm>. A consulta confirmou, entre outros, o art. 2º-A, com injúria racial e pena de reclusão de 2 a 5 anos e multa, e os arts. 3º a 14 e 20, com figuras discriminatórias autônomas e penas próprias. O texto retornou caracteres com problemas de codificação em alguns trechos; a carga deve preservar a URL oficial e registrar eventual necessidade de reconferência textual antes de marcar todos os artigos como validados.

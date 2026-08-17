@@ -16,6 +16,7 @@ type RecordItem = {
   inventarioValidado: boolean;
   usavelNaCalculadora: boolean;
   tipoPaiId: string | null;
+  modulo: string;
   validationState?: string;
   canCalculate?: boolean;
 };
@@ -37,6 +38,8 @@ describe("catálogo canônico de tipos penais", () => {
     expect(ids.size).toBe(catalog.registros.length);
     expect(devices.size).toBe(catalog.registros.length);
     expect(catalog.quantidadeTotalAtiva).toBe(catalog.registros.length);
+    expect(catalog.registros.filter((record) => record.modulo === "Trânsito")).toHaveLength(15);
+    expect(catalog.registros.filter((record) => record.modulo === "Crimes ambientais")).toHaveLength(39);
     for (const record of catalog.registros) {
       expect(record.pena.minimoMeses == null || record.pena.maximoMeses == null || record.pena.minimoMeses <= record.pena.maximoMeses).toBe(true);
       expect(record.tipoPaiId === null || ids.has(record.tipoPaiId)).toBe(true);
@@ -59,6 +62,19 @@ describe("catálogo canônico de tipos penais", () => {
       "cp-157": [72, 120],
       "cp-157-3-ii": [288, 360],
       "cp-359p": [36, 72],
+      "ctb-302": [24, 48],
+      "ctb-303": [6, 24],
+      "ctb-306": [6, 36],
+      "ctb-308-2": [60, 120],
+      "ctb-309": [6, 12],
+      "ambiental-32-1a": [24, 60],
+      "ambiental-35": [12, 60],
+      "ambiental-40": [12, 60],
+      "ambiental-41": [24, 48],
+      "ambiental-54": [12, 48],
+      "ambiental-54-2": [12, 60],
+      "ambiental-60": [6, 24],
+      "ambiental-69a": [36, 72],
     };
     for (const [id, [minimum, maximum]] of Object.entries(expected)) {
       const record = byId.get(id);

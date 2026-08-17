@@ -27,7 +27,7 @@ Em 15/08/2026, a interface local foi revisada com êxito. A página exibiu a sim
 
 O inventário de figuras incriminadoras fica separado do catálogo de diplomas normativos. A fonte canônica é `src/data/tiposPenais.json`, acompanhada de `src/data/tiposPenais.schema.json`; `src/data/tiposPenais.csv`, `src/data/fontesPenais.json` e `sites/calculadora-penal/data/tiposPenais.public.json` são derivados. Execute `pnpm run catalog:generate` para regenerá-los e `pnpm run catalog:validate` para verificar IDs, dispositivos, referências a tipos-pai, penas, datas, URLs e bloqueio de registros pendentes no cálculo.
 
-O checkpoint atual é deliberadamente **incompleto**: contém 65 registros ativos, dos quais 47 têm inventário conferido e 18 permanecem pendentes. O relatório de cobertura, as decisões metodológicas, as pendências jurídicas e o registro de fontes estão em `docs/catalogo/`. A aplicação publica os registros do checkpoint com o estado de conferência visível; somente os registros com inventário validado podem ser enviados à calculadora. O aviso de que a coleção não representa ainda todos os tipos penais vigentes permanece ativo.
+O checkpoint atual é deliberadamente **incompleto**: contém 119 registros ativos, dos quais 88 têm inventário conferido e 31 permanecem pendentes. O relatório de cobertura, as decisões metodológicas, as pendências jurídicas e o registro de fontes estão em `docs/catalogo/`. A aplicação publica os registros do checkpoint com o estado de conferência visível; somente os registros com inventário validado podem ser enviados à calculadora. O aviso de que a coleção não representa ainda todos os tipos penais vigentes permanece ativo.
 
 ## Execução local
 

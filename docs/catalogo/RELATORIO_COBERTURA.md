@@ -1,6 +1,6 @@
 # Relatório de cobertura do catálogo penal
 
-Data de corte: **2026-08-17**. Identificador: **cntp-br-2026-08-17-a1846b3bd20a5e23**.
+Data de corte: **2026-08-17**. Identificador: **cntp-br-2026-08-17-8a1b307b7f4603df**.
 
 > O estado global permanece **incompleto**. A carga abaixo é um checkpoint auditável; ela não declara conter todos os tipos penais vigentes.
 
@@ -8,12 +8,12 @@ Data de corte: **2026-08-17**. Identificador: **cntp-br-2026-08-17-a1846b3bd20a5
 
 | Indicador | Quantidade |
 | --- | ---: |
-| Registros ativos na fonte canônica | 65 |
-| Crimes | 65 |
+| Registros ativos na fonte canônica | 119 |
+| Crimes | 119 |
 | Contravenções | 0 |
-| Inventário validado | 47 |
+| Inventário validado | 88 |
 | Enriquecimento jurídico validado | 0 |
-| Registros pendentes | 18 |
+| Registros pendentes | 31 |
 | Diplomas no inventário de normas | 88 |
 | Fontes auditadas | 4 |
 | Fontes pendentes | 86 |
@@ -24,8 +24,10 @@ Data de corte: **2026-08-17**. Identificador: **cntp-br-2026-08-17-a1846b3bd20a5
 | --- | ---: |
 | Armas | 7 |
 | Código Penal | 55 |
+| Crimes ambientais | 39 |
 | Drogas | 2 |
 | Organização criminosa | 1 |
+| Trânsito | 15 |
 
 ## Critério de publicação
 
