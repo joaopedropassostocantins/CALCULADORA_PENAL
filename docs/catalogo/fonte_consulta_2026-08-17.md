@@ -197,3 +197,7 @@ As regras de aumento, extinção da punibilidade, equiparação de funcionário 
 ## Cobertura nacional — Código Penal: Administração da Justiça
 
 A fonte oficial confirmou os arts. 338 a 342 do Código Penal: reingresso de estrangeiro expulso, descumprimento de medidas protetivas de urgência, denunciação caluniosa, comunicação falsa de crime ou contravenção, autoacusação falsa e falso testemunho ou falsa perícia. O art. 338-A, incluído pela Lei nº 15.280/2025, foi cadastrado como tipo autônomo do Código Penal, sem eliminar o registro distinto do art. 24-A da Lei nº 11.340/2006, pois ambos pertencem a diplomas diferentes e permanecem vigentes na fonte oficial. Majorantes e causas de não punibilidade foram mantidas no enriquecimento.
+
+## Cobertura nacional — Código Penal: continuidade da Administração da Justiça
+
+O texto oficial confirmou os arts. 343 a 349-A do Código Penal: corrupção ativa de testemunha ou perito, coação no curso do processo, exercício arbitrário das próprias razões, subtração ou dano de coisa própria em poder de terceiro, fraude processual, favorecimento pessoal e sua figura com pena própria, favorecimento real e entrada de aparelho de comunicação em estabelecimento prisional. O art. 350 foi deliberadamente excluído da coleção ativa porque aparece expressamente revogado pela Lei nº 13.869/2019.

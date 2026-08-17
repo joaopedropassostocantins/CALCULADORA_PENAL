@@ -1,5 +1,5 @@
 {
-  "versaoCatalogo": "cntp-br-2026-08-17-e78f2c4c9374c1cd",
+  "versaoCatalogo": "cntp-br-2026-08-17-1002c66b9bec8501",
   "dataCorte": "2026-08-17",
   "estadoGeral": "incompleto",
   "registros": [
@@ -1072,6 +1072,23 @@
       "canCalculate": false
     },
     {
+      "id": "cp-344",
+      "name": "Coação no curso do processo",
+      "article": "art. 344",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão, de 1 a 4 anos, e multa, além da pena correspondente à violência.",
+      "keywords": [
+        "coação processual",
+        "processo judicial"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "consumo-8078-71",
       "name": "Cobrança abusiva de dívida",
       "article": "art. 71",
@@ -1655,6 +1672,24 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "cp-343",
+      "name": "Corrupção ativa de testemunha ou perito",
+      "article": "art. 343",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 3,
+      "maximum": 4,
+      "penalty": "Reclusão, de 3 a 4 anos, e multa.",
+      "keywords": [
+        "corrupção de testemunha",
+        "perícia",
+        "processo"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "eca-244b",
@@ -3352,6 +3387,23 @@
       "canCalculate": false
     },
     {
+      "id": "cp-349a",
+      "name": "Entrada de aparelho de comunicação em estabelecimento prisional",
+      "article": "art. 349-A",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.25,
+      "maximum": 1,
+      "penalty": "Detenção, de 3 meses a 1 ano.",
+      "keywords": [
+        "estabelecimento prisional",
+        "aparelho telefônico"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "ctb-310",
       "name": "Entrega de direção a pessoa não habilitada",
       "article": "art. 310",
@@ -3666,6 +3718,23 @@
         "execução de serviço de alta periculosidade contra determinação"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-345",
+      "name": "Exercício arbitrário das próprias razões",
+      "article": "art. 345",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.041666666666666664,
+      "maximum": 0.08333333333333333,
+      "penalty": "Detenção, de 15 dias a 1 mês, ou multa, além da pena correspondente à violência.",
+      "keywords": [
+        "justiça pelas próprias mãos",
+        "pretensão"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -4508,6 +4577,57 @@
       "canCalculate": false
     },
     {
+      "id": "cp-348",
+      "name": "Favorecimento pessoal",
+      "article": "art. 348",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.08333333333333333,
+      "maximum": 0.5,
+      "penalty": "Detenção, de 1 a 6 meses, e multa.",
+      "keywords": [
+        "favorecimento pessoal",
+        "fuga"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-348-1",
+      "name": "Favorecimento pessoal de crime sem reclusão",
+      "article": "art. 348, § 1º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.041666666666666664,
+      "maximum": 0.25,
+      "penalty": "Detenção, de 15 dias a 3 meses, e multa.",
+      "keywords": [
+        "favorecimento pessoal",
+        "crime sem reclusão"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-349",
+      "name": "Favorecimento real",
+      "article": "art. 349",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.08333333333333333,
+      "maximum": 0.5,
+      "penalty": "Detenção, de 1 a 6 meses, e multa.",
+      "keywords": [
+        "favorecimento real",
+        "proveito do crime"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "cp-121a",
       "name": "Feminicídio",
       "article": "art. 121-A",
@@ -4837,6 +4957,23 @@
         "fraude no comércio",
         "metais",
         "pedras"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-347",
+      "name": "Fraude processual",
+      "article": "art. 347",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.25,
+      "maximum": 2,
+      "penalty": "Detenção, de 3 meses a 2 anos, e multa.",
+      "keywords": [
+        "fraude processual",
+        "processo"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
@@ -9286,6 +9423,23 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "cp-346",
+      "name": "Subtração ou dano de coisa própria em poder de terceiro",
+      "article": "art. 346",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, e multa.",
+      "keywords": [
+        "coisa própria",
+        "determinação judicial"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "cp-162",

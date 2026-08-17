@@ -90,7 +90,7 @@ describe("catálogo canônico de tipos penais", () => {
     expect(catalog.registros.filter((record) => record.modulo === "Biossegurança")).toHaveLength(6);
     expect(catalog.registros.filter((record) => record.modulo === "Lei Maria da Penha")).toHaveLength(1);
     expect(catalog.registros.filter((record) => record.modulo === "Armas")).toHaveLength(8);
-    expect(catalog.registros.filter((record) => record.modulo === "Código Penal")).toHaveLength(144);
+    expect(catalog.registros.filter((record) => record.modulo === "Código Penal")).toHaveLength(153);
     for (const record of catalog.registros) {
       expect(record.pena.minimoMeses == null || record.pena.maximoMeses == null || record.pena.minimoMeses <= record.pena.maximoMeses).toBe(true);
       expect(record.tipoPaiId === null || ids.has(record.tipoPaiId)).toBe(true);
@@ -364,6 +364,15 @@ describe("catálogo canônico de tipos penais", () => {
       "cp-340": [1, 6],
       "cp-341": [3, 24],
       "cp-342": [24, 48],
+      "cp-343": [36, 48],
+      "cp-344": [12, 48],
+      "cp-345": [0.5, 1],
+      "cp-346": [6, 24],
+      "cp-347": [3, 24],
+      "cp-348": [1, 6],
+      "cp-348-1": [0.5, 3],
+      "cp-349": [1, 6],
+      "cp-349a": [3, 12],
     };
     for (const [id, [minimum, maximum]] of Object.entries(expected)) {
       const record = byId.get(id);

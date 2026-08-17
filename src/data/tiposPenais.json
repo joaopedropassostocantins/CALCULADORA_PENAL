@@ -3,10 +3,10 @@
   "versaoCatalogo": "0.1.0-incremental",
   "dataCorte": "2026-08-17",
   "estadoGeral": "incompleto",
-  "identificadorVersao": "cntp-br-2026-08-17-e78f2c4c9374c1cd",
-  "quantidadeTotalAtiva": 591,
+  "identificadorVersao": "cntp-br-2026-08-17-1002c66b9bec8501",
+  "quantidadeTotalAtiva": 600,
   "quantidadePorModulo": {
-    "Código Penal": 144,
+    "Código Penal": 153,
     "Pessoa com deficiência": 5,
     "Estatuto da Pessoa Idosa": 15,
     "Crimes de responsabilidade municipal": 23,
@@ -58,7 +58,7 @@
   "fontesAuditadas": 4,
   "registrosInventariados": 212,
   "registrosEnriquecidos": 0,
-  "registrosPendentes": 379,
+  "registrosPendentes": 388,
   "modulosPendentes": [
     "1 Codificações e diplomas estruturantes",
     "2 Núcleo da legislação penal especial",
@@ -35366,6 +35366,541 @@
         "falso testemunho",
         "falsa perícia",
         "processo"
+      ]
+    },
+    {
+      "id": "cp-343",
+      "nomeJuridico": "Corrupção ativa de testemunha ou perito",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 343",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Dar, oferecer ou prometer dinheiro ou vantagem a testemunha, perito, contador, tradutor ou intérprete para fazer afirmação falsa, negar ou calar a verdade.",
+      "pena": {
+        "minimoMeses": 36,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 3 a 4 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a Administração da Justiça localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940",
+        "Lei nº 10.268/2001"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "corrupção de testemunha",
+        "perícia",
+        "processo"
+      ]
+    },
+    {
+      "id": "cp-344",
+      "nomeJuridico": "Coação no curso do processo",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 344",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Usar violência ou grave ameaça para favorecer interesse próprio ou alheio contra pessoa que funciona ou é chamada a intervir em processo.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 4 anos, e multa, além da pena correspondente à violência.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a Administração da Justiça localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940",
+        "Lei nº 14.245/2021"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "coação processual",
+        "processo judicial"
+      ]
+    },
+    {
+      "id": "cp-345",
+      "nomeJuridico": "Exercício arbitrário das próprias razões",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 345",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Fazer justiça pelas próprias mãos para satisfazer pretensão, embora legítima, salvo quando a lei o permite.",
+      "pena": {
+        "minimoMeses": 0.5,
+        "maximoMeses": 1,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 15 dias a 1 mês, ou multa, além da pena correspondente à violência.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a Administração da Justiça localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "justiça pelas próprias mãos",
+        "pretensão"
+      ]
+    },
+    {
+      "id": "cp-346",
+      "nomeJuridico": "Subtração ou dano de coisa própria em poder de terceiro",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 346",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Tirar, suprimir, destruir ou danificar coisa própria que se acha em poder de terceiro por determinação judicial ou convenção.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 24,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 2 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a Administração da Justiça localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "coisa própria",
+        "determinação judicial"
+      ]
+    },
+    {
+      "id": "cp-347",
+      "nomeJuridico": "Fraude processual",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 347",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Inovar artificiosamente, na pendência de processo civil ou administrativo, o estado de lugar, coisa ou pessoa para induzir juiz ou perito a erro.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 24,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 2 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a Administração da Justiça localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "fraude processual",
+        "processo"
+      ]
+    },
+    {
+      "id": "cp-348",
+      "nomeJuridico": "Favorecimento pessoal",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 348",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Auxiliar a subtrair-se à ação de autoridade pública autor de crime punido com reclusão.",
+      "pena": {
+        "minimoMeses": 1,
+        "maximoMeses": 6,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 6 meses, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a Administração da Justiça localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "favorecimento pessoal",
+        "fuga"
+      ]
+    },
+    {
+      "id": "cp-348-1",
+      "nomeJuridico": "Favorecimento pessoal de crime sem reclusão",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 348, § 1º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-348",
+      "descricaoObjetiva": "Auxiliar a subtrair-se à ação de autoridade pública autor de crime que não tenha pena de reclusão.",
+      "pena": {
+        "minimoMeses": 0.5,
+        "maximoMeses": 3,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 15 dias a 3 meses, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a Administração da Justiça localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "favorecimento pessoal",
+        "crime sem reclusão"
+      ]
+    },
+    {
+      "id": "cp-349",
+      "nomeJuridico": "Favorecimento real",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 349",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Prestar a criminoso, fora dos casos de coautoria ou receptação, auxílio destinado a tornar seguro o proveito do crime.",
+      "pena": {
+        "minimoMeses": 1,
+        "maximoMeses": 6,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 6 meses, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a Administração da Justiça localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "favorecimento real",
+        "proveito do crime"
+      ]
+    },
+    {
+      "id": "cp-349a",
+      "nomeJuridico": "Entrada de aparelho de comunicação em estabelecimento prisional",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 349-A",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Ingressar, promover, intermediar, auxiliar ou facilitar a entrada, sem autorização legal, de aparelho telefônico móvel, rádio ou similar em estabelecimento prisional.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 1 ano.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime contra a Administração da Justiça localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940",
+        "Lei nº 12.012/2009"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "estabelecimento prisional",
+        "aparelho telefônico"
       ]
     }
   ]

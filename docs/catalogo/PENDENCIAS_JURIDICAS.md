@@ -45,6 +45,7 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | biosseguranca-11105-26 | Biossegurança | art. 26 | Clonagem humana | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | eleitoral-4737-301 | Crimes eleitorais | art. 301 | Coação eleitoral com violência ou grave ameaça | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | eleitoral-4737-300 | Crimes eleitorais | art. 300 | Coação eleitoral por servidor público | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-344 | Código Penal | art. 344 | Coação no curso do processo | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | consumo-8078-71 | Crimes contra relações de consumo | art. 71 | Cobrança abusiva de dívida | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | drogas-37 | Drogas | art. 37 | Colaboração como informante | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | propriedade-industrial-9279-190 | Propriedade industrial | art. 190 | Comércio de produto com marca ilícita | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
@@ -66,6 +67,7 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | licitacao-14133-337-e | Crimes em licitações e contratos administrativos | art. 337-E | Contratação direta ilegal | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | prefeito-201-1-xi | Crimes de responsabilidade municipal | art. 1º, XI | Contratação pública sem concorrência exigida | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | cp-152 | Código Penal | art. 152 | Correspondência comercial | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-343 | Código Penal | art. 343 | Corrupção ativa de testemunha ou perito | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | eleitoral-4737-299 | Crimes eleitorais | art. 299 | Corrupção eleitoral | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | cpm-308 | Código Penal Militar | art. 308 | Corrupção passiva militar | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | cp-317-2 | Código Penal | art. 317, § 2º | Corrupção passiva privilegiada | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
@@ -118,6 +120,7 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | cp-315 | Código Penal | art. 315 | Emprego irregular de verbas ou rendas públicas | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | prefeito-201-1-viii | Crimes de responsabilidade municipal | art. 1º, VIII | Empréstimo ou título municipal sem autorização | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | biosseguranca-11105-25 | Biossegurança | art. 25 | Engenharia genética em célula germinal humana | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-349a | Código Penal | art. 349-A | Entrada de aparelho de comunicação em estabelecimento prisional | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | estado-democratico-359k | Estado Democrático de Direito | art. 359-K, caput | Espionagem | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | estado-democratico-359k-2 | Estado Democrático de Direito | art. 359-K, § 2º | Espionagem com violação de sigilo | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | cp-171 | Código Penal | art. 171, caput | Estelionato | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
@@ -128,6 +131,7 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | cp-217a-4 | Código Penal | art. 217-A, § 4º | Estupro de vulnerável com resultado morte | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-316-1 | Código Penal | art. 316, § 1º | Excesso de exação | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | consumo-8078-65 | Crimes contra relações de consumo | art. 65 | Execução de serviço de alta periculosidade contra determinação | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-345 | Código Penal | art. 345 | Exercício arbitrário das próprias razões | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-324 | Código Penal | art. 324 | Exercício funcional ilegalmente antecipado ou prolongado | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | falimentar-11101-176 | Crimes falimentares | art. 176 | Exercício ilegal de atividade após inabilitação | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | contravencao-3688-48 | Contravenções | art. 48 | Exercício ilegal de comércio de antiguidades | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
@@ -158,6 +162,9 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | contravencao-3688-32 | Contravenções | art. 32 | Falta de habilitação para dirigir veículo | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | contravencao-3688-49 | Contravenções | art. 49 | Falta de matrícula ou escrituração de atividade | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | falimentar-11101-172 | Crimes falimentares | art. 172 | Favorecimento de credores | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-348 | Código Penal | art. 348 | Favorecimento pessoal | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-348-1 | Código Penal | art. 348, § 1º | Favorecimento pessoal de crime sem reclusão | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-349 | Código Penal | art. 349 | Favorecimento real | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-121a | Código Penal | art. 121-A | Feminicídio | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | drogas-36 | Drogas | art. 36 | Financiamento de crimes de drogas | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | terrorismo-6 | Terrorismo | art. 6º | Financiamento do terrorismo | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
@@ -172,6 +179,7 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | licitacao-14133-337-l | Crimes em licitações e contratos administrativos | art. 337-L | Fraude em licitação ou contrato | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | cp-175 | Código Penal | art. 175 | Fraude no comércio | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-175-1 | Código Penal | art. 175, § 1º | Fraude no comércio qualificada | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-347 | Código Penal | art. 347 | Fraude processual | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | ctb-312 | Trânsito | art. 312 | Fraude processual em sinistro automobilístico | Conferir a lei modificadora e a vigência da redação atual do CTB; depois enriquecer e liberar para cálculo. |
 | cp-177 | Código Penal | art. 177 | Fraudes e abusos na fundação ou administração de sociedade por ações | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-311a | Código Penal | art. 311-A, caput | Fraudes em certames de interesse público | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
@@ -335,6 +343,7 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | contravencao-3688-63 | Contravenções | art. 63 | Servir bebida alcoólica em hipóteses proibidas | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | contravencao-3688-45 | Contravenções | art. 45 | Simulação da qualidade de funcionário | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | esporte-14597-198 | Lei Geral do Esporte | art. 198 | Solicitação ou aceitação de vantagem para manipulação esportiva | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-346 | Código Penal | art. 346 | Subtração ou dano de coisa própria em poder de terceiro | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-162 | Código Penal | art. 162 | Supressão ou alteração de marca em animais | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | terrorismo-2 | Terrorismo | art. 2º, caput e § 1º | Terrorismo | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | tortura-1 | Crimes de tortura | art. 1º, caput e incisos I a III | Tortura | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
@@ -396,7 +405,7 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | Legislação penal especial e estatutos setoriais | O catálogo de 88 diplomas ainda não equivale a catálogo de tipos; vários diplomas estão apenas previstos. | Extrair dispositivos incriminadores de drogas, armas, tortura, abuso de autoridade, ambientais, trânsito, ECA, pessoa idosa, racismo, sistema financeiro, tributário, falimentar, propriedade intelectual e demais módulos. |
 | Alterações legislativas de 2025 e 2026 | Páginas de leis recentes foram bloqueadas em algumas consultas; a redação atual do CP e das leis ambientais e de trânsito mostra alterações que precisam de validação temporal independente. | Conferir a lei criadora/modificadora e o início de vigência diretamente em fonte oficial acessível, sem usar apenas snippet. |
 | Enriquecimento jurídico | Nenhum registro está marcado como enriquecimento validado neste checkpoint. | Completar bem jurídico, sujeitos, elemento subjetivo, consumação, tentativa, ação penal, competência, rito, hediondez, jurisprudência e controvérsias. |
-| Cobertura integral | O estado global é incompleto e há 379 registros pendentes na fonte canônica. | Trabalhar módulo por módulo, atualizar as contagens e não declarar integralidade enquanto houver lacunas. |
+| Cobertura integral | O estado global é incompleto e há 388 registros pendentes na fonte canônica. | Trabalhar módulo por módulo, atualizar as contagens e não declarar integralidade enquanto houver lacunas. |
 
 ## Fontes bloqueadas na consulta de 2026-08-17
 
