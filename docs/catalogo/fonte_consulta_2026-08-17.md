@@ -187,3 +187,9 @@ As penas atualizadas pelas Leis nº 15.163/2025 e nº 15.397/2026 foram transcri
 ## Cobertura nacional — Código Penal: direitos autorais e conexos
 
 A fonte oficial do Código Penal confirmou o art. 184, caput e §§ 1º a 3º, com figuras próprias para violação simples, reprodução com intuito de lucro, distribuição ou comercialização lucrativa e oferta pública não autorizada. O lote foi separado em quatro registros, vinculados por parentagem; o § 4º, que estabelece exceções ou limitações, não foi tratado como tipo penal.
+
+## Cobertura nacional — Código Penal: Administração Pública
+
+A fonte oficial do Código Penal confirmou o lote dos arts. 311-A e 312 a 326. Foram cadastradas fraudes em certames de interesse público, peculatos e formas qualificadas ou culposas, inserção e alteração de dados de sistemas públicos, extravio de documentos, emprego irregular de verbas, excesso de exação, corrupção passiva privilegiada, facilitação de contrabando, prevaricação, omissão penitenciária, condescendência criminosa, advocacia administrativa, violência arbitrária, abandono de função e suas figuras com pena própria, exercício funcional ilegal, violação de sigilo funcional e violação de sigilo de proposta.
+
+As regras de aumento, extinção da punibilidade, equiparação de funcionário público e disposições funcionais sem pena autônoma foram mantidas fora da contagem de tipos. As redações e penas foram conferidas no texto oficial, incluindo alterações da Lei nº 9.983/2000, da Lei nº 12.550/2011 e demais remissões legislativas visíveis na fonte.

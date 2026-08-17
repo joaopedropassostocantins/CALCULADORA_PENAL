@@ -1,8 +1,59 @@
 {
-  "versaoCatalogo": "cntp-br-2026-08-17-96ec02b97b436c7d",
+  "versaoCatalogo": "cntp-br-2026-08-17-dbae5c7708f293a1",
   "dataCorte": "2026-08-17",
   "estadoGeral": "incompleto",
   "registros": [
+    {
+      "id": "cp-323",
+      "name": "Abandono de função",
+      "article": "art. 323",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.041666666666666664,
+      "maximum": 0.08333333333333333,
+      "penalty": "Detenção, de 15 dias a 1 mês, ou multa.",
+      "keywords": [
+        "abandono de função",
+        "cargo público"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-323-1",
+      "name": "Abandono de função com prejuízo público",
+      "article": "art. 323, § 1º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.25,
+      "maximum": 1,
+      "penalty": "Detenção, de 3 meses a 1 ano, e multa.",
+      "keywords": [
+        "abandono de função",
+        "prejuízo público"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-323-2",
+      "name": "Abandono de função em faixa de fronteira",
+      "article": "art. 323, § 2º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Detenção, de 1 a 3 anos, e multa.",
+      "keywords": [
+        "abandono de função",
+        "faixa de fronteira"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
     {
       "id": "cp-133",
       "name": "Abandono de incapaz",
@@ -244,6 +295,40 @@
         "acesso indevido"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9504.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-321",
+      "name": "Advocacia administrativa",
+      "article": "art. 321",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.08333333333333333,
+      "maximum": 0.25,
+      "penalty": "Detenção, de 1 a 3 meses, ou multa.",
+      "keywords": [
+        "advocacia administrativa",
+        "interesse privado"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-321-pu",
+      "name": "Advocacia administrativa com interesse ilegítimo",
+      "article": "art. 321, parágrafo único",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.25,
+      "maximum": 1,
+      "penalty": "Detenção, de 3 meses a 1 ano, além da multa.",
+      "keywords": [
+        "advocacia administrativa",
+        "interesse ilegítimo"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -1258,6 +1343,23 @@
       "canCalculate": true
     },
     {
+      "id": "cp-320",
+      "name": "Condescendência criminosa",
+      "article": "art. 320",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.041666666666666664,
+      "maximum": 0.08333333333333333,
+      "penalty": "Detenção, de 15 dias a 1 mês, ou multa.",
+      "keywords": [
+        "condescendência criminosa",
+        "subordinado"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "cp-135a",
       "name": "Condicionamento de atendimento médico-hospitalar emergencial",
       "article": "art. 135-A",
@@ -1587,6 +1689,23 @@
         "função militar"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del1001.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-317-2",
+      "name": "Corrupção passiva privilegiada",
+      "article": "art. 317, § 2º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.041666666666666664,
+      "maximum": 1,
+      "penalty": "Detenção, de 3 meses a 1 ano, ou multa.",
+      "keywords": [
+        "corrupção passiva",
+        "influência"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -2242,6 +2361,23 @@
         "eleição"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-316-2",
+      "name": "Desvio de excesso de exação",
+      "article": "art. 316, § 2º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 12,
+      "penalty": "Reclusão, de 2 a 12 anos, e multa.",
+      "keywords": [
+        "excesso de exação",
+        "desvio"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -3095,6 +3231,23 @@
       "canCalculate": false
     },
     {
+      "id": "cp-315",
+      "name": "Emprego irregular de verbas ou rendas públicas",
+      "article": "art. 315",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.041666666666666664,
+      "maximum": 0.25,
+      "penalty": "Detenção, de 1 a 3 meses, ou multa.",
+      "keywords": [
+        "verba pública",
+        "emprego irregular"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "prefeito-201-1-viii",
       "name": "Empréstimo ou título municipal sem autorização",
       "article": "art. 1º, VIII",
@@ -3414,6 +3567,23 @@
       "canCalculate": true
     },
     {
+      "id": "cp-316-1",
+      "name": "Excesso de exação",
+      "article": "art. 316, § 1º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 3,
+      "maximum": 8,
+      "penalty": "Reclusão, de 3 a 8 anos, e multa.",
+      "keywords": [
+        "excesso de exação",
+        "tributo"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "consumo-8078-65",
       "name": "Execução de serviço de alta periculosidade contra determinação",
       "article": "art. 65",
@@ -3428,6 +3598,23 @@
         "execução de serviço de alta periculosidade contra determinação"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-324",
+      "name": "Exercício funcional ilegalmente antecipado ou prolongado",
+      "article": "art. 324",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.041666666666666664,
+      "maximum": 0.08333333333333333,
+      "penalty": "Detenção, de 15 dias a 1 mês, ou multa.",
+      "keywords": [
+        "função pública",
+        "exercício ilegal"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -3921,6 +4108,24 @@
       "canCalculate": false
     },
     {
+      "id": "cp-314",
+      "name": "Extravio, sonegação ou inutilização de livro ou documento",
+      "article": "art. 314",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão, de 1 a 4 anos, se o fato não constitui crime mais grave.",
+      "keywords": [
+        "documento público",
+        "extravio",
+        "sonegação"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "propriedade-industrial-9279-187",
       "name": "Fabricação de produto com desenho industrial ilícito",
       "article": "art. 187",
@@ -4022,6 +4227,24 @@
         "munição"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-318",
+      "name": "Facilitação de contrabando ou descaminho",
+      "article": "art. 318",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 3,
+      "maximum": 8,
+      "penalty": "Reclusão, de 3 a 8 anos, e multa.",
+      "keywords": [
+        "contrabando",
+        "descaminho",
+        "funcionário público"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -4464,6 +4687,23 @@
       "canCalculate": false
     },
     {
+      "id": "cp-311a-2",
+      "name": "Fraude em certame com dano à Administração Pública",
+      "article": "art. 311-A, § 2º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 6,
+      "penalty": "Reclusão, de 2 a 6 anos, e multa.",
+      "keywords": [
+        "fraude em concurso",
+        "dano à Administração Pública"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "licitacao-14133-337-l",
       "name": "Fraude em licitação ou contrato",
       "article": "art. 337-L",
@@ -4546,6 +4786,23 @@
       "keywords": [
         "sociedade por ações",
         "fraude societária"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-311a",
+      "name": "Fraudes em certames de interesse público",
+      "article": "art. 311-A, caput",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão, de 1 a 4 anos, e multa.",
+      "keywords": [
+        "fraude em concurso",
+        "certame público"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
@@ -5549,6 +5806,24 @@
       "canCalculate": false
     },
     {
+      "id": "cp-313a",
+      "name": "Inserção de dados falsos em sistema de informações",
+      "article": "art. 313-A",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 12,
+      "penalty": "Reclusão, de 2 a 12 anos, e multa.",
+      "keywords": [
+        "dados falsos",
+        "sistema de informações",
+        "Administração Pública"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "interceptacao-9296-10",
       "name": "Interceptação ou escuta ambiental ilegal",
       "article": "art. 10",
@@ -6308,6 +6583,23 @@
       "keywords": [
         "maus-tratos",
         "morte"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-313b",
+      "name": "Modificação ou alteração não autorizada de sistema de informações",
+      "article": "art. 313-B",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.25,
+      "maximum": 2,
+      "penalty": "Detenção, de 3 meses a 2 anos, e multa.",
+      "keywords": [
+        "sistema de informações",
+        "alteração não autorizada"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
@@ -7185,6 +7477,24 @@
       "canCalculate": false
     },
     {
+      "id": "cp-319a",
+      "name": "Omissão na vedação de acesso a aparelho de comunicação por preso",
+      "article": "art. 319-A",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.25,
+      "maximum": 1,
+      "penalty": "Detenção, de 3 meses a 1 ano.",
+      "keywords": [
+        "presídio",
+        "aparelho telefônico",
+        "omissão"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "eleitoral-4737-304",
       "name": "Omissão ou exclusividade de utilidades eleitorais",
       "article": "art. 304",
@@ -7414,6 +7724,40 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "cp-312-2",
+      "name": "Peculato culposo",
+      "article": "art. 312, § 2º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.25,
+      "maximum": 1,
+      "penalty": "Detenção, de 3 meses a 1 ano.",
+      "keywords": [
+        "peculato culposo",
+        "funcionário público"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-313",
+      "name": "Peculato mediante erro de outrem",
+      "article": "art. 313",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão, de 1 a 4 anos, e multa.",
+      "keywords": [
+        "peculato mediante erro",
+        "funcionário público"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "cpm-303",
@@ -7834,6 +8178,23 @@
         "droga"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-319",
+      "name": "Prevaricação",
+      "article": "art. 319",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.25,
+      "maximum": 1,
+      "penalty": "Detenção, de 3 meses a 1 ano, e multa.",
+      "keywords": [
+        "prevaricação",
+        "ato de ofício"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -9649,6 +10010,40 @@
       "canCalculate": false
     },
     {
+      "id": "cp-325",
+      "name": "Violação de sigilo funcional",
+      "article": "art. 325",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, ou multa.",
+      "keywords": [
+        "sigilo funcional",
+        "funcionário público"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-325-2",
+      "name": "Violação de sigilo funcional com dano",
+      "article": "art. 325, § 2º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 6,
+      "penalty": "Reclusão, de 2 a 6 anos, e multa.",
+      "keywords": [
+        "sigilo funcional",
+        "dano"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "ctb-307",
       "name": "Violação de suspensão ou proibição de dirigir",
       "article": "art. 307",
@@ -9700,6 +10095,23 @@
       "canCalculate": false
     },
     {
+      "id": "cp-326",
+      "name": "Violação do sigilo de proposta de concorrência",
+      "article": "art. 326",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.25,
+      "maximum": 1,
+      "penalty": "Detenção, de 3 meses a 1 ano, e multa.",
+      "keywords": [
+        "concorrência pública",
+        "sigilo de proposta"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "eleitoral-4737-312",
       "name": "Violação do sigilo do voto",
       "article": "art. 312",
@@ -9713,6 +10125,23 @@
         "voto"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-322",
+      "name": "Violência arbitrária",
+      "article": "art. 322",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.5,
+      "maximum": 3,
+      "penalty": "Detenção, de 6 meses a 3 anos, além da pena correspondente à violência.",
+      "keywords": [
+        "violência arbitrária",
+        "função pública"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
       "canCalculate": false
     },

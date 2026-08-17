@@ -3,10 +3,10 @@
   "versaoCatalogo": "0.1.0-incremental",
   "dataCorte": "2026-08-17",
   "estadoGeral": "incompleto",
-  "identificadorVersao": "cntp-br-2026-08-17-96ec02b97b436c7d",
-  "quantidadeTotalAtiva": 560,
+  "identificadorVersao": "cntp-br-2026-08-17-dbae5c7708f293a1",
+  "quantidadeTotalAtiva": 585,
   "quantidadePorModulo": {
-    "Código Penal": 113,
+    "Código Penal": 138,
     "Pessoa com deficiência": 5,
     "Estatuto da Pessoa Idosa": 15,
     "Crimes de responsabilidade municipal": 23,
@@ -58,7 +58,7 @@
   "fontesAuditadas": 4,
   "registrosInventariados": 212,
   "registrosEnriquecidos": 0,
-  "registrosPendentes": 348,
+  "registrosPendentes": 373,
   "modulosPendentes": [
     "1 Codificações e diplomas estruturantes",
     "2 Núcleo da legislação penal especial",
@@ -33520,6 +33520,1493 @@
         "direito autoral",
         "oferta pública",
         "streaming"
+      ]
+    },
+    {
+      "id": "cp-311a",
+      "nomeJuridico": "Fraudes em certames de interesse público",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 311-A, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Utilizar ou divulgar indevidamente, com fim de beneficiar alguém ou comprometer a credibilidade do certame, conteúdo sigiloso de concurso, avaliação, exame ou processo seletivo previsto em lei.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 4 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Figura funcional do Código Penal localizada no texto oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940",
+        "Lei nº 12.550/2011"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "funcionário público",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "fraude em concurso",
+        "certame público"
+      ]
+    },
+    {
+      "id": "cp-311a-2",
+      "nomeJuridico": "Fraude em certame com dano à Administração Pública",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 311-A, § 2º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-311a",
+      "descricaoObjetiva": "Se da ação ou omissão relativa a certame de interesse público resulta dano à Administração Pública.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 72,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 6 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Figura funcional do Código Penal localizada no texto oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940",
+        "Lei nº 12.550/2011"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "funcionário público",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "fraude em concurso",
+        "dano à Administração Pública"
+      ]
+    },
+    {
+      "id": "cp-312-2",
+      "nomeJuridico": "Peculato culposo",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 312, § 2º",
+      "naturezaFigura": "culposa",
+      "tipoPaiId": "cp-312",
+      "descricaoObjetiva": "Se o funcionário concorre culposamente para o crime de outrem.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 1 ano.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Figura funcional do Código Penal localizada no texto oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "funcionário público",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "peculato culposo",
+        "funcionário público"
+      ]
+    },
+    {
+      "id": "cp-313",
+      "nomeJuridico": "Peculato mediante erro de outrem",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 313",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Apropriar-se de dinheiro ou utilidade que, no exercício do cargo, recebeu por erro de outrem.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 4 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Figura funcional do Código Penal localizada no texto oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "funcionário público",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "peculato mediante erro",
+        "funcionário público"
+      ]
+    },
+    {
+      "id": "cp-313a",
+      "nomeJuridico": "Inserção de dados falsos em sistema de informações",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 313-A",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Inserir ou facilitar a inserção de dados falsos, ou alterar ou excluir indevidamente dados corretos em sistemas informatizados ou bancos de dados da Administração Pública, para vantagem indevida ou dano.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 144,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 12 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Figura funcional do Código Penal localizada no texto oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940",
+        "Lei nº 9.983/2000"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "funcionário público",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "dados falsos",
+        "sistema de informações",
+        "Administração Pública"
+      ]
+    },
+    {
+      "id": "cp-313b",
+      "nomeJuridico": "Modificação ou alteração não autorizada de sistema de informações",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 313-B",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Modificar ou alterar sistema de informações ou programa de informática sem autorização ou solicitação de autoridade competente.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 24,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 2 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Figura funcional do Código Penal localizada no texto oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940",
+        "Lei nº 9.983/2000"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "funcionário público",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "sistema de informações",
+        "alteração não autorizada"
+      ]
+    },
+    {
+      "id": "cp-314",
+      "nomeJuridico": "Extravio, sonegação ou inutilização de livro ou documento",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 314",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Extraviar, sonegar ou inutilizar, total ou parcialmente, livro oficial ou documento sob guarda em razão do cargo.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 4 anos, se o fato não constitui crime mais grave.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Figura funcional do Código Penal localizada no texto oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "funcionário público",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "documento público",
+        "extravio",
+        "sonegação"
+      ]
+    },
+    {
+      "id": "cp-315",
+      "nomeJuridico": "Emprego irregular de verbas ou rendas públicas",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 315",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Dar às verbas ou rendas públicas aplicação diversa da estabelecida em lei.",
+      "pena": {
+        "minimoMeses": 0.5,
+        "maximoMeses": 3,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 3 meses, ou multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Figura funcional do Código Penal localizada no texto oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "funcionário público",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "verba pública",
+        "emprego irregular"
+      ]
+    },
+    {
+      "id": "cp-316-1",
+      "nomeJuridico": "Excesso de exação",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 316, § 1º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-316",
+      "descricaoObjetiva": "Exigir tributo ou contribuição social que sabe ou deveria saber indevido, ou empregar na cobrança meio vexatório ou gravoso não autorizado.",
+      "pena": {
+        "minimoMeses": 36,
+        "maximoMeses": 96,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 3 a 8 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Figura funcional do Código Penal localizada no texto oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940",
+        "Lei nº 8.137/1990"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "funcionário público",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "excesso de exação",
+        "tributo"
+      ]
+    },
+    {
+      "id": "cp-316-2",
+      "nomeJuridico": "Desvio de excesso de exação",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 316, § 2º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-316",
+      "descricaoObjetiva": "Desviar, em proveito próprio ou de outrem, o que recebeu indevidamente para recolher aos cofres públicos.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 144,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 12 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Figura funcional do Código Penal localizada no texto oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "funcionário público",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "excesso de exação",
+        "desvio"
+      ]
+    },
+    {
+      "id": "cp-317-2",
+      "nomeJuridico": "Corrupção passiva privilegiada",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 317, § 2º",
+      "naturezaFigura": "privilegiada",
+      "tipoPaiId": "cp-317",
+      "descricaoObjetiva": "Praticar, deixar de praticar ou retardar ato de ofício, com infração de dever funcional, cedendo a pedido ou influência de outrem.",
+      "pena": {
+        "minimoMeses": 0.5,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 1 ano, ou multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Figura funcional do Código Penal localizada no texto oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "funcionário público",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "corrupção passiva",
+        "influência"
+      ]
+    },
+    {
+      "id": "cp-318",
+      "nomeJuridico": "Facilitação de contrabando ou descaminho",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 318",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Facilitar, com infração de dever funcional, a prática de contrabando ou descaminho.",
+      "pena": {
+        "minimoMeses": 36,
+        "maximoMeses": 96,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 3 a 8 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Figura funcional do Código Penal localizada no texto oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940",
+        "Lei nº 8.137/1990"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "funcionário público",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "contrabando",
+        "descaminho",
+        "funcionário público"
+      ]
+    },
+    {
+      "id": "cp-319",
+      "nomeJuridico": "Prevaricação",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 319",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Retardar ou deixar de praticar indevidamente ato de ofício, ou praticá-lo contra disposição expressa de lei, para satisfazer interesse ou sentimento pessoal.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 1 ano, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Figura funcional do Código Penal localizada no texto oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "funcionário público",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "prevaricação",
+        "ato de ofício"
+      ]
+    },
+    {
+      "id": "cp-319a",
+      "nomeJuridico": "Omissão na vedação de acesso a aparelho de comunicação por preso",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 319-A",
+      "naturezaFigura": "omissiva",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Deixar diretor de penitenciária ou agente público de cumprir o dever de vedar ao preso acesso a aparelho telefônico, rádio ou similar que permita comunicação.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 1 ano.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Figura funcional do Código Penal localizada no texto oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940",
+        "Lei nº 11.466/2007"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "funcionário público",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "presídio",
+        "aparelho telefônico",
+        "omissão"
+      ]
+    },
+    {
+      "id": "cp-320",
+      "nomeJuridico": "Condescendência criminosa",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 320",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Deixar o funcionário, por indulgência, de responsabilizar subordinado que cometeu infração no exercício do cargo ou de comunicar o fato à autoridade competente.",
+      "pena": {
+        "minimoMeses": 0.5,
+        "maximoMeses": 1,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 15 dias a 1 mês, ou multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Figura funcional do Código Penal localizada no texto oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "funcionário público",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "condescendência criminosa",
+        "subordinado"
+      ]
+    },
+    {
+      "id": "cp-321",
+      "nomeJuridico": "Advocacia administrativa",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 321",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Patrocinar, direta ou indiretamente, interesse privado perante a Administração Pública valendo-se da qualidade de funcionário.",
+      "pena": {
+        "minimoMeses": 1,
+        "maximoMeses": 3,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 3 meses, ou multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Figura funcional do Código Penal localizada no texto oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "funcionário público",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "advocacia administrativa",
+        "interesse privado"
+      ]
+    },
+    {
+      "id": "cp-321-pu",
+      "nomeJuridico": "Advocacia administrativa com interesse ilegítimo",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 321, parágrafo único",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-321",
+      "descricaoObjetiva": "Se o interesse patrocinado perante a Administração Pública é ilegítimo.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 1 ano, além da multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Figura funcional do Código Penal localizada no texto oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "funcionário público",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "advocacia administrativa",
+        "interesse ilegítimo"
+      ]
+    },
+    {
+      "id": "cp-322",
+      "nomeJuridico": "Violência arbitrária",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 322",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Praticar violência no exercício de função ou a pretexto de exercê-la.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 3 anos, além da pena correspondente à violência.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Figura funcional do Código Penal localizada no texto oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "funcionário público",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "violência arbitrária",
+        "função pública"
+      ]
+    },
+    {
+      "id": "cp-323",
+      "nomeJuridico": "Abandono de função",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 323",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Abandonar cargo público fora dos casos permitidos em lei.",
+      "pena": {
+        "minimoMeses": 0.5,
+        "maximoMeses": 1,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 15 dias a 1 mês, ou multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Figura funcional do Código Penal localizada no texto oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "funcionário público",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "abandono de função",
+        "cargo público"
+      ]
+    },
+    {
+      "id": "cp-323-1",
+      "nomeJuridico": "Abandono de função com prejuízo público",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 323, § 1º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-323",
+      "descricaoObjetiva": "Se do abandono de função resulta prejuízo público.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 1 ano, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Figura funcional do Código Penal localizada no texto oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "funcionário público",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "abandono de função",
+        "prejuízo público"
+      ]
+    },
+    {
+      "id": "cp-323-2",
+      "nomeJuridico": "Abandono de função em faixa de fronteira",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 323, § 2º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-323",
+      "descricaoObjetiva": "Se o abandono de função ocorre em lugar compreendido na faixa de fronteira.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 3 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Figura funcional do Código Penal localizada no texto oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "funcionário público",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "abandono de função",
+        "faixa de fronteira"
+      ]
+    },
+    {
+      "id": "cp-324",
+      "nomeJuridico": "Exercício funcional ilegalmente antecipado ou prolongado",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 324",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Entrar no exercício de função pública antes das exigências legais ou continuar a exercê-la sem autorização após exoneração, remoção, substituição ou suspensão.",
+      "pena": {
+        "minimoMeses": 0.5,
+        "maximoMeses": 1,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 15 dias a 1 mês, ou multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Figura funcional do Código Penal localizada no texto oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "funcionário público",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "função pública",
+        "exercício ilegal"
+      ]
+    },
+    {
+      "id": "cp-325",
+      "nomeJuridico": "Violação de sigilo funcional",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 325",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Revelar fato conhecido em razão do cargo que deva permanecer em segredo ou facilitar sua revelação, se o fato não constitui crime mais grave.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 24,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 2 anos, ou multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Figura funcional do Código Penal localizada no texto oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "funcionário público",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "sigilo funcional",
+        "funcionário público"
+      ]
+    },
+    {
+      "id": "cp-325-2",
+      "nomeJuridico": "Violação de sigilo funcional com dano",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 325, § 2º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-325",
+      "descricaoObjetiva": "Se da ação ou omissão de violação de sigilo funcional resulta dano à Administração Pública ou a outrem.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 72,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 6 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Figura funcional do Código Penal localizada no texto oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940",
+        "Lei nº 9.983/2000"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "funcionário público",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "sigilo funcional",
+        "dano"
+      ]
+    },
+    {
+      "id": "cp-326",
+      "nomeJuridico": "Violação do sigilo de proposta de concorrência",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 326",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Devassar o sigilo de proposta de concorrência pública ou proporcionar a terceiro o ensejo de devassá-lo.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 1 ano, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Figura funcional do Código Penal localizada no texto oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": "funcionário público",
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "concorrência pública",
+        "sigilo de proposta"
       ]
     }
   ]
