@@ -1,5 +1,5 @@
 {
-  "versaoCatalogo": "cntp-br-2026-08-17-9c26d07e88683fb9",
+  "versaoCatalogo": "cntp-br-2026-08-17-ed8b4139f669b7b4",
   "dataCorte": "2026-08-17",
   "estadoGeral": "incompleto",
   "registros": [
@@ -178,6 +178,23 @@
       "canCalculate": true
     },
     {
+      "id": "cp-173",
+      "name": "Abuso de incapazes",
+      "article": "art. 173",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 6,
+      "penalty": "Reclusão, de 2 a 6 anos, e multa.",
+      "keywords": [
+        "abuso de incapazes",
+        "fraude"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "tributario-8137-4-i",
       "name": "Abuso de poder econômico por ajuste ou acordo",
       "article": "art. 4º, I",
@@ -338,6 +355,40 @@
       "canCalculate": false
     },
     {
+      "id": "cp-161",
+      "name": "Alteração de limites",
+      "article": "art. 161",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.041666666666666664,
+      "maximum": 0.5,
+      "penalty": "Detenção, de 1 a 6 meses, e multa.",
+      "keywords": [
+        "alteração de limites",
+        "imóvel"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-166",
+      "name": "Alteração de local especialmente protegido",
+      "article": "art. 166",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.08333333333333333,
+      "maximum": 1,
+      "penalty": "Detenção, de 1 mês a 1 ano, ou multa.",
+      "keywords": [
+        "local protegido",
+        "patrimônio cultural"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "ambiental-63",
       "name": "Alteração não autorizada de patrimônio cultural protegido",
       "article": "art. 63",
@@ -478,6 +529,24 @@
       "canCalculate": true
     },
     {
+      "id": "cp-169",
+      "name": "Apropriação de coisa havida por erro, caso fortuito ou força da natureza",
+      "article": "art. 169",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.08333333333333333,
+      "maximum": 1,
+      "penalty": "Detenção, de 1 mês a 1 ano, ou multa.",
+      "keywords": [
+        "apropriação",
+        "erro",
+        "coisa achada"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "lbi-89",
       "name": "Apropriação de rendimentos de pessoa com deficiência",
       "article": "art. 89",
@@ -511,6 +580,24 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "cp-168a",
+      "name": "Apropriação indébita previdenciária",
+      "article": "art. 168-A",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 5,
+      "penalty": "Reclusão, de 2 a 5 anos, e multa.",
+      "keywords": [
+        "previdência social",
+        "contribuição",
+        "apropriação indébita"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "sfn-7492-5",
@@ -1682,6 +1769,23 @@
       "canCalculate": false
     },
     {
+      "id": "cp-163",
+      "name": "Dano",
+      "article": "art. 163",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.08333333333333333,
+      "maximum": 0.5,
+      "penalty": "Detenção, de 1 a 6 meses, ou multa.",
+      "keywords": [
+        "dano",
+        "patrimônio"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "ambiental-62",
       "name": "Dano a bem ou patrimônio cultural protegido",
       "article": "art. 62, caput",
@@ -1788,6 +1892,23 @@
       "canCalculate": true
     },
     {
+      "id": "cp-165",
+      "name": "Dano em coisa de valor artístico, arqueológico ou histórico",
+      "article": "art. 165",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, e multa.",
+      "keywords": [
+        "patrimônio histórico",
+        "dano"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "eleicoes-9504-72-iii",
       "name": "Dano físico a equipamento de votação ou totalização",
       "article": "art. 72, III",
@@ -1802,6 +1923,23 @@
         "dano"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9504.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-163-pu",
+      "name": "Dano qualificado",
+      "article": "art. 163, parágrafo único",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.5,
+      "maximum": 3,
+      "penalty": "Detenção, de 6 meses a 3 anos, e multa, além da pena correspondente à violência.",
+      "keywords": [
+        "dano qualificado",
+        "patrimônio público"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -2835,6 +2973,23 @@
       "canCalculate": true
     },
     {
+      "id": "cp-172",
+      "name": "Duplicata simulada",
+      "article": "art. 172",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 4,
+      "penalty": "Detenção, de 2 a 4 anos, e multa.",
+      "keywords": [
+        "duplicata simulada",
+        "fatura"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "contravencao-3688-62",
       "name": "Embriaguez pública perigosa",
       "article": "art. 62",
@@ -2865,6 +3020,23 @@
         "emissão"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-178",
+      "name": "Emissão irregular de conhecimento de depósito ou warrant",
+      "article": "art. 178",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão, de 1 a 4 anos, e multa.",
+      "keywords": [
+        "warrant",
+        "conhecimento de depósito"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -3576,6 +3748,23 @@
       "canCalculate": true
     },
     {
+      "id": "cp-160",
+      "name": "Extorsão indireta",
+      "article": "art. 160",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Reclusão, de 1 a 3 anos, e multa.",
+      "keywords": [
+        "extorsão indireta",
+        "garantia de dívida"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "cp-158-3",
       "name": "Extorsão mediante restrição da liberdade",
       "article": "art. 158, § 3º",
@@ -3591,6 +3780,74 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "cp-159",
+      "name": "Extorsão mediante sequestro",
+      "article": "art. 159, caput",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 8,
+      "maximum": 15,
+      "penalty": "Reclusão, de 8 a 15 anos.",
+      "keywords": [
+        "extorsão mediante sequestro",
+        "resgate"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-159-2",
+      "name": "Extorsão mediante sequestro com lesão grave",
+      "article": "art. 159, § 2º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 16,
+      "maximum": 24,
+      "penalty": "Reclusão, de 16 a 24 anos.",
+      "keywords": [
+        "sequestro",
+        "lesão grave"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-159-3",
+      "name": "Extorsão mediante sequestro com morte",
+      "article": "art. 159, § 3º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 24,
+      "maximum": 30,
+      "penalty": "Reclusão, de 24 a 30 anos.",
+      "keywords": [
+        "sequestro",
+        "morte"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-159-1",
+      "name": "Extorsão mediante sequestro qualificada por duração, vítima ou concurso",
+      "article": "art. 159, § 1º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 12,
+      "maximum": 20,
+      "penalty": "Reclusão, de 12 a 20 anos.",
+      "keywords": [
+        "sequestro",
+        "vítima vulnerável"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "ambiental-44",
@@ -4101,6 +4358,23 @@
       "canCalculate": true
     },
     {
+      "id": "cp-179",
+      "name": "Fraude à execução",
+      "article": "art. 179",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, ou multa.",
+      "keywords": [
+        "fraude à execução",
+        "bens"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "cp-171a",
       "name": "Fraude com ativos virtuais",
       "article": "art. 171-A",
@@ -4190,6 +4464,41 @@
       "canCalculate": false
     },
     {
+      "id": "cp-175",
+      "name": "Fraude no comércio",
+      "article": "art. 175",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, ou multa.",
+      "keywords": [
+        "fraude no comércio",
+        "consumidor"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-175-1",
+      "name": "Fraude no comércio qualificada",
+      "article": "art. 175, § 1º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 5,
+      "penalty": "Reclusão, de 1 a 5 anos, e multa.",
+      "keywords": [
+        "fraude no comércio",
+        "metais",
+        "pedras"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "ctb-312",
       "name": "Fraude processual em sinistro automobilístico",
       "article": "art. 312",
@@ -4204,6 +4513,23 @@
         "alterar local do acidente"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-177",
+      "name": "Fraudes e abusos na fundação ou administração de sociedade por ações",
+      "article": "art. 177",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão, de 1 a 4 anos, e multa, se o fato não constituir crime contra a economia popular.",
+      "keywords": [
+        "sociedade por ações",
+        "fraude societária"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -4998,6 +5324,23 @@
       "canCalculate": false
     },
     {
+      "id": "cp-174",
+      "name": "Induzimento à especulação",
+      "article": "art. 174",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Reclusão, de 1 a 3 anos, e multa.",
+      "keywords": [
+        "induzimento à especulação",
+        "jogo"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "cp-123",
       "name": "Infanticídio",
       "article": "art. 123",
@@ -5341,6 +5684,23 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "cp-164",
+      "name": "Introdução ou abandono de animais em propriedade alheia",
+      "article": "art. 164",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.041666666666666664,
+      "maximum": 0.5,
+      "penalty": "Detenção, de 15 dias a 6 meses, ou multa.",
+      "keywords": [
+        "animais",
+        "propriedade alheia"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "contravencao-3688-67",
@@ -6021,6 +6381,24 @@
         "autoridade judiciária"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-177-2",
+      "name": "Negociação fraudulenta de voto societário",
+      "article": "art. 177, § 2º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, e multa.",
+      "keywords": [
+        "sociedade por ações",
+        "voto",
+        "fraude"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -6912,6 +7290,24 @@
       "canCalculate": false
     },
     {
+      "id": "cp-176",
+      "name": "Outras fraudes",
+      "article": "art. 176",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.041666666666666664,
+      "maximum": 0.16666666666666666,
+      "penalty": "Detenção, de 15 dias a 2 meses, ou multa.",
+      "keywords": [
+        "outras fraudes",
+        "restaurante",
+        "hotel"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "parcelamento-6766-50",
       "name": "Parcelamento urbano ilegal",
       "article": "art. 50",
@@ -7708,6 +8104,57 @@
       "canCalculate": true
     },
     {
+      "id": "cp-180-3",
+      "name": "Receptação culposa",
+      "article": "art. 180, § 3º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.08333333333333333,
+      "maximum": 1,
+      "penalty": "Detenção, de 1 mês a 1 ano, ou multa, ou ambas as penas.",
+      "keywords": [
+        "receptação culposa",
+        "coisa produto de crime"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-180a",
+      "name": "Receptação de animal",
+      "article": "art. 180-A",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 3,
+      "maximum": 8,
+      "penalty": "Reclusão, de 3 a 8 anos, e multa.",
+      "keywords": [
+        "receptação de animal",
+        "semovente"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-180-1",
+      "name": "Receptação qualificada",
+      "article": "art. 180, § 1º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 3,
+      "maximum": 8,
+      "penalty": "Reclusão, de 3 a 8 anos, e multa.",
+      "keywords": [
+        "receptação qualificada",
+        "atividade comercial"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "contravencao-3688-68",
       "name": "Recusa de dados sobre identidade",
       "article": "art. 68",
@@ -8320,6 +8767,23 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "cp-162",
+      "name": "Supressão ou alteração de marca em animais",
+      "article": "art. 162",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.5,
+      "maximum": 3,
+      "penalty": "Detenção, de 6 meses a 3 anos, e multa.",
+      "keywords": [
+        "marca de animais",
+        "gado"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "terrorismo-2",

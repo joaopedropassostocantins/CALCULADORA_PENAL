@@ -90,7 +90,7 @@ describe("catálogo canônico de tipos penais", () => {
     expect(catalog.registros.filter((record) => record.modulo === "Biossegurança")).toHaveLength(6);
     expect(catalog.registros.filter((record) => record.modulo === "Lei Maria da Penha")).toHaveLength(1);
     expect(catalog.registros.filter((record) => record.modulo === "Armas")).toHaveLength(8);
-    expect(catalog.registros.filter((record) => record.modulo === "Código Penal")).toHaveLength(82);
+    expect(catalog.registros.filter((record) => record.modulo === "Código Penal")).toHaveLength(109);
     for (const record of catalog.registros) {
       expect(record.pena.minimoMeses == null || record.pena.maximoMeses == null || record.pena.minimoMeses <= record.pena.maximoMeses).toBe(true);
       expect(record.tipoPaiId === null || ids.has(record.tipoPaiId)).toBe(true);
@@ -302,6 +302,33 @@ describe("catálogo canônico de tipos penais", () => {
       "cp-153": [0.5, 6],
       "cp-153-1a": [12, 48],
       "cp-154": [3, 12],
+      "cp-159": [96, 180],
+      "cp-159-1": [144, 240],
+      "cp-159-2": [192, 288],
+      "cp-159-3": [288, 360],
+      "cp-160": [12, 36],
+      "cp-161": [0.5, 6],
+      "cp-162": [6, 36],
+      "cp-163": [1, 6],
+      "cp-163-pu": [6, 36],
+      "cp-164": [0.5, 6],
+      "cp-165": [6, 24],
+      "cp-166": [1, 12],
+      "cp-168a": [24, 60],
+      "cp-169": [1, 12],
+      "cp-172": [24, 48],
+      "cp-173": [24, 72],
+      "cp-174": [12, 36],
+      "cp-175": [6, 24],
+      "cp-175-1": [12, 60],
+      "cp-176": [0.5, 2],
+      "cp-177": [12, 48],
+      "cp-177-2": [6, 24],
+      "cp-178": [12, 48],
+      "cp-179": [6, 24],
+      "cp-180-1": [36, 96],
+      "cp-180-3": [1, 12],
+      "cp-180a": [36, 96],
     };
     for (const [id, [minimum, maximum]] of Object.entries(expected)) {
       const record = byId.get(id);

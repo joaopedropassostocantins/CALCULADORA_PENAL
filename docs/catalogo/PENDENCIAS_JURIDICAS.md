@@ -8,6 +8,7 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | --- | --- | --- | --- | --- |
 | prefeito-201-1-xvii | Crimes de responsabilidade municipal | art. 1º, XVII | Abertura irregular de crédito público | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | estado-democratico-359l | Estado Democrático de Direito | art. 359-L | Abolição violenta do Estado Democrático de Direito | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-173 | Código Penal | art. 173 | Abuso de incapazes | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | contravencao-3688-35 | Contravenções | art. 35 | Abuso na prática da aviação | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | eleicoes-9504-72-i | Normas para eleições | art. 72, I | Acesso indevido a sistema eleitoral para alterar votos | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | licitacao-14133-337-k | Crimes em licitações e contratos administrativos | art. 337-K | Afastamento de licitante | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
@@ -15,10 +16,14 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | consumo-8078-66 | Crimes contra relações de consumo | art. 66 | Afirmação falsa ou enganosa sobre produto ou serviço | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | orgcrime-12850-21b | Organização criminosa | art. 21-B | Ajuste para violência contra agente ou colaborador | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | prefeito-201-1-x | Crimes de responsabilidade municipal | art. 1º, X | Alienação ou oneração irregular de bens municipais | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-161 | Código Penal | art. 161 | Alteração de limites | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-166 | Código Penal | art. 166 | Alteração de local especialmente protegido | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-147c | Código Penal | art. 147-C | Ameaça no contexto de organização criminosa | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | prefeito-201-1-xxi | Crimes de responsabilidade municipal | art. 1º, XXI | Antecipação de receita tributária futura | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | contravencao-3688-20 | Contravenções | art. 20 | Anúncio de meio abortivo | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | transplante-20 | Transplantes | art. 20 | Anúncio ou apelo público irregular sobre transplante | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-169 | Código Penal | art. 169 | Apropriação de coisa havida por erro, caso fortuito ou força da natureza | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-168a | Código Penal | art. 168-A | Apropriação indébita previdenciária | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | prefeito-201-1-i | Crimes de responsabilidade municipal | art. 1º, I | Apropriação ou desvio de bens e rendas públicas | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | falimentar-11101-174 | Crimes falimentares | art. 174 | Aquisição ou uso ilegal de bens da massa | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | contravencao-3688-37 | Contravenções | art. 37 | Arremesso ou colocação perigosa | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
@@ -59,8 +64,11 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | economia-popular-1521-3 | Economia popular | art. 3º | Crimes contra a economia popular e a concorrência | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | contravencao-3688-64 | Contravenções | art. 64 | Crueldade contra animais | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | contravencao-3688-23 | Contravenções | art. 23 | Custódia indevida de doente mental | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-163 | Código Penal | art. 163 | Dano | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | ambiental-49 | Crimes ambientais | art. 49, caput | Dano a plantas de ornamentação | Conferir a redação alterada e a vigência temporal na lei modificadora; distinguir crime de infração administrativa. |
+| cp-165 | Código Penal | art. 165 | Dano em coisa de valor artístico, arqueológico ou histórico | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | eleicoes-9504-72-iii | Normas para eleições | art. 72, III | Dano físico a equipamento de votação ou totalização | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-163-pu | Código Penal | art. 163, parágrafo único | Dano qualificado | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | eleitoral-4737-326-a | Crimes eleitorais | art. 326-A | Denunciação caluniosa eleitoral | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | contravencao-3688-29 | Contravenções | art. 29 | Desabamento de construção | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | transporte-eleitoral-6091-11-ii | Transporte eleitoral | art. 11, II | Desatendimento de requisição de transporte eleitoral | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
@@ -89,8 +97,10 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | cp-153-1a | Código Penal | art. 153, § 1º-A | Divulgação de informação sigilosa da Administração Pública | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | eleicoes-9504-33-4 | Normas para eleições | art. 33, § 4º | Divulgação de pesquisa eleitoral fraudulenta | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | cp-153 | Código Penal | art. 153 | Divulgação de segredo | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-172 | Código Penal | art. 172 | Duplicata simulada | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | contravencao-3688-62 | Contravenções | art. 62 | Embriaguez pública perigosa | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | contravencao-3688-38 | Contravenções | art. 38 | Emissão abusiva de fumaça, vapor ou gás | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-178 | Código Penal | art. 178 | Emissão irregular de conhecimento de depósito ou warrant | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | prefeito-201-1-iv | Crimes de responsabilidade municipal | art. 1º, IV | Emprego irregular de subvenções e recursos | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | prefeito-201-1-viii | Crimes de responsabilidade municipal | art. 1º, VIII | Empréstimo ou título municipal sem autorização | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | biosseguranca-11105-25 | Biossegurança | art. 25 | Engenharia genética em célula germinal humana | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
@@ -113,6 +123,11 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | cp-134 | Código Penal | art. 134 | Exposição ou abandono de recém-nascido | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-134-1 | Código Penal | art. 134, § 1º | Exposição ou abandono de recém-nascido com lesão grave | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-134-2 | Código Penal | art. 134, § 2º | Exposição ou abandono de recém-nascido com morte | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-160 | Código Penal | art. 160 | Extorsão indireta | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-159 | Código Penal | art. 159, caput | Extorsão mediante sequestro | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-159-2 | Código Penal | art. 159, § 2º | Extorsão mediante sequestro com lesão grave | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-159-3 | Código Penal | art. 159, § 3º | Extorsão mediante sequestro com morte | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-159-1 | Código Penal | art. 159, § 1º | Extorsão mediante sequestro qualificada por duração, vítima ou concurso | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | nuclear-6453-24 | Crimes nucleares | art. 24 | Extração ou comércio ilegal de minério nuclear | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | propriedade-industrial-9279-187 | Propriedade industrial | art. 187 | Fabricação de produto com desenho industrial ilícito | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | contravencao-3688-24 | Contravenções | art. 24 | Fabricação ou comércio de gazua | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
@@ -130,11 +145,15 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | indigena-6001-58-iii | Crimes contra indígenas | art. 58, III | Fornecimento de bebidas alcoólicas a indígenas | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | eleitoral-4737-307 | Crimes eleitorais | art. 307 | Fornecimento de cédula oficial marcada | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | propriedade-industrial-9279-185 | Propriedade industrial | art. 185 | Fornecimento de componente para processo patenteado | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-179 | Código Penal | art. 179 | Fraude à execução | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-171a | Código Penal | art. 171-A | Fraude com ativos virtuais | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | falimentar-11101-168 | Crimes falimentares | art. 168 | Fraude contra credores em falência ou recuperação | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | esporte-14597-200 | Lei Geral do Esporte | art. 200 | Fraude de resultado de competição esportiva | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | licitacao-14133-337-l | Crimes em licitações e contratos administrativos | art. 337-L | Fraude em licitação ou contrato | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-175 | Código Penal | art. 175 | Fraude no comércio | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-175-1 | Código Penal | art. 175, § 1º | Fraude no comércio qualificada | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | ctb-312 | Trânsito | art. 312 | Fraude processual em sinistro automobilístico | Conferir a lei modificadora e a vigência da redação atual do CTB; depois enriquecer e liberar para cálculo. |
+| cp-177 | Código Penal | art. 177 | Fraudes e abusos na fundação ou administração de sociedade por ações | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | licitacao-14133-337-f | Crimes em licitações e contratos administrativos | art. 337-F | Frustração do caráter competitivo de licitação | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | ambiental-60 | Crimes ambientais | art. 60 | Funcionamento de atividade potencialmente poluidora sem licença | Conferir a redação alterada e a vigência temporal na lei modificadora; distinguir crime de infração administrativa. |
 | cp-155-7 | Código Penal | art. 155, § 7º | Furto de arma de fogo ou explosivo | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
@@ -164,6 +183,7 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | falimentar-11101-171 | Crimes falimentares | art. 171 | Indução a erro no processo falimentar | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | eleitoral-4737-290 | Crimes eleitorais | art. 290 | Indução à inscrição eleitoral irregular | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | planejamento-familiar-9263-17 | Planejamento familiar | art. 17 | Indução ou instigação de esterilização | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-174 | Código Penal | art. 174 | Induzimento à especulação | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-140 | Código Penal | art. 140 | Injúria | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | eleitoral-4737-326 | Crimes eleitorais | art. 326 | Injúria eleitoral | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | cp-140-3 | Código Penal | art. 140, § 3º | Injúria qualificada por religião, idade ou deficiência | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
@@ -178,6 +198,7 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | cp-146a | Código Penal | art. 146-A | Intimidação sistemática (bullying) | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-146a-pu | Código Penal | art. 146-A, parágrafo único | Intimidação sistemática virtual (cyberbullying) | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | eleicoes-9504-72-ii | Normas para eleições | art. 72, II | Introdução de comando ou programa lesivo em sistema eleitoral | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-164 | Código Penal | art. 164 | Introdução ou abandono de animais em propriedade alheia | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | contravencao-3688-67 | Contravenções | art. 67 | Inumação ou exumação irregular | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | prefeito-201-1-xii | Crimes de responsabilidade municipal | art. 1º, XII | Inversão indevida da ordem de pagamentos | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | eleicoes-9504-34-3 | Normas para eleições | art. 34, § 3º | Irregularidade em dados de pesquisa eleitoral | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
@@ -199,6 +220,7 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | cp-136-2 | Código Penal | art. 136, § 2º | Maus-tratos com morte | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | licitacao-14133-337-h | Crimes em licitações e contratos administrativos | art. 337-H | Modificação ou pagamento irregular em contrato administrativo | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | eleitoral-4737-292 | Crimes eleitorais | art. 292 | Negativa ou retardamento ilegal de inscrição | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-177-2 | Código Penal | art. 177, § 2º | Negociação fraudulenta de voto societário | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | prefeito-201-1-xiii | Crimes de responsabilidade municipal | art. 1º, XIII | Nomeação irregular de servidor | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | eleicoes-9504-87-4 | Normas para eleições | art. 87, § 4º | Obstrução da fiscalização da apuração | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | eleicoes-9504-34-2 | Normas para eleições | art. 34, § 2º | Obstrução da fiscalização de pesquisa eleitoral | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
@@ -233,6 +255,7 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | prefeito-201-1-xx | Crimes de responsabilidade municipal | art. 1º, XX | Operação de crédito irregular entre entes federativos | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | nuclear-6453-21 | Crimes nucleares | art. 21 | Operação não autorizada de instalação nuclear | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | terrorismo-3 | Terrorismo | art. 3º | Organização terrorista | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-176 | Código Penal | art. 176 | Outras fraudes | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | parcelamento-6766-50 | Parcelamento do solo urbano | art. 50 | Parcelamento urbano ilegal | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | licitacao-14133-337-g | Crimes em licitações e contratos administrativos | art. 337-G | Patrocínio de contratação indevida | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | cpm-303 | Código Penal Militar | art. 303 | Peculato militar | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
@@ -259,6 +282,9 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | ctb-308-1 | Trânsito | art. 308, § 1º | Racha com lesão corporal grave | Conferir a lei modificadora e a vigência da redação atual do CTB; depois enriquecer e liberar para cálculo. |
 | ctb-308-2 | Trânsito | art. 308, § 2º | Racha com resultado morte | Conferir a lei modificadora e a vigência da redação atual do CTB; depois enriquecer e liberar para cálculo. |
 | ctb-308 | Trânsito | art. 308, caput | Racha ou competição automobilística não autorizada | Conferir a lei modificadora e a vigência da redação atual do CTB; depois enriquecer e liberar para cálculo. |
+| cp-180-3 | Código Penal | art. 180, § 3º | Receptação culposa | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-180a | Código Penal | art. 180-A | Receptação de animal | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-180-1 | Código Penal | art. 180, § 1º | Receptação qualificada | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | contravencao-3688-68 | Contravenções | art. 68 | Recusa de dados sobre identidade | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | eleicoes-9504-68-2 | Normas para eleições | art. 68, § 2º | Recusa de entrega de cópia do boletim de urna | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | contravencao-3688-43 | Contravenções | art. 43 | Recusa de moeda de curso legal | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
@@ -279,6 +305,7 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | contravencao-3688-63 | Contravenções | art. 63 | Servir bebida alcoólica em hipóteses proibidas | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | contravencao-3688-45 | Contravenções | art. 45 | Simulação da qualidade de funcionário | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | esporte-14597-198 | Lei Geral do Esporte | art. 198 | Solicitação ou aceitação de vantagem para manipulação esportiva | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-162 | Código Penal | art. 162 | Supressão ou alteração de marca em animais | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | terrorismo-2 | Terrorismo | art. 2º, caput e § 1º | Terrorismo | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | tortura-1 | Crimes de tortura | art. 1º, caput e incisos I a III | Tortura | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | tortura-1-3 | Crimes de tortura | art. 1º, § 3º, primeira parte | Tortura com lesão grave ou gravíssima | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
@@ -334,7 +361,7 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | Legislação penal especial e estatutos setoriais | O catálogo de 88 diplomas ainda não equivale a catálogo de tipos; vários diplomas estão apenas previstos. | Extrair dispositivos incriminadores de drogas, armas, tortura, abuso de autoridade, ambientais, trânsito, ECA, pessoa idosa, racismo, sistema financeiro, tributário, falimentar, propriedade intelectual e demais módulos. |
 | Alterações legislativas de 2025 e 2026 | Páginas de leis recentes foram bloqueadas em algumas consultas; a redação atual do CP e das leis ambientais e de trânsito mostra alterações que precisam de validação temporal independente. | Conferir a lei criadora/modificadora e o início de vigência diretamente em fonte oficial acessível, sem usar apenas snippet. |
 | Enriquecimento jurídico | Nenhum registro está marcado como enriquecimento validado neste checkpoint. | Completar bem jurídico, sujeitos, elemento subjetivo, consumação, tentativa, ação penal, competência, rito, hediondez, jurisprudência e controvérsias. |
-| Cobertura integral | O estado global é incompleto e há 317 registros pendentes na fonte canônica. | Trabalhar módulo por módulo, atualizar as contagens e não declarar integralidade enquanto houver lacunas. |
+| Cobertura integral | O estado global é incompleto e há 344 registros pendentes na fonte canônica. | Trabalhar módulo por módulo, atualizar as contagens e não declarar integralidade enquanto houver lacunas. |
 
 ## Fontes bloqueadas na consulta de 2026-08-17
 
