@@ -90,7 +90,7 @@ describe("catálogo canônico de tipos penais", () => {
     expect(catalog.registros.filter((record) => record.modulo === "Biossegurança")).toHaveLength(6);
     expect(catalog.registros.filter((record) => record.modulo === "Lei Maria da Penha")).toHaveLength(1);
     expect(catalog.registros.filter((record) => record.modulo === "Armas")).toHaveLength(8);
-    expect(catalog.registros.filter((record) => record.modulo === "Código Penal")).toHaveLength(109);
+    expect(catalog.registros.filter((record) => record.modulo === "Código Penal")).toHaveLength(113);
     for (const record of catalog.registros) {
       expect(record.pena.minimoMeses == null || record.pena.maximoMeses == null || record.pena.minimoMeses <= record.pena.maximoMeses).toBe(true);
       expect(record.tipoPaiId === null || ids.has(record.tipoPaiId)).toBe(true);
@@ -329,6 +329,10 @@ describe("catálogo canônico de tipos penais", () => {
       "cp-180-1": [36, 96],
       "cp-180-3": [1, 12],
       "cp-180a": [36, 96],
+      "cp-184": [0.5, 12],
+      "cp-184-1": [24, 48],
+      "cp-184-2": [24, 48],
+      "cp-184-3": [24, 48],
     };
     for (const [id, [minimum, maximum]] of Object.entries(expected)) {
       const record = byId.get(id);

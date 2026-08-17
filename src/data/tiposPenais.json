@@ -3,10 +3,10 @@
   "versaoCatalogo": "0.1.0-incremental",
   "dataCorte": "2026-08-17",
   "estadoGeral": "incompleto",
-  "identificadorVersao": "cntp-br-2026-08-17-ed8b4139f669b7b4",
-  "quantidadeTotalAtiva": 556,
+  "identificadorVersao": "cntp-br-2026-08-17-96ec02b97b436c7d",
+  "quantidadeTotalAtiva": 560,
   "quantidadePorModulo": {
-    "Código Penal": 109,
+    "Código Penal": 113,
     "Pessoa com deficiência": 5,
     "Estatuto da Pessoa Idosa": 15,
     "Crimes de responsabilidade municipal": 23,
@@ -58,7 +58,7 @@
   "fontesAuditadas": 4,
   "registrosInventariados": 212,
   "registrosEnriquecidos": 0,
-  "registrosPendentes": 344,
+  "registrosPendentes": 348,
   "modulosPendentes": [
     "1 Codificações e diplomas estruturantes",
     "2 Núcleo da legislação penal especial",
@@ -33276,6 +33276,250 @@
       "palavrasChave": [
         "receptação de animal",
         "semovente"
+      ]
+    },
+    {
+      "id": "cp-184",
+      "nomeJuridico": "Violação de direitos autorais e conexos",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 184, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Violar direitos de autor e os que lhe são conexos.",
+      "pena": {
+        "minimoMeses": 0.5,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 1 ano, ou multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Figura do art. 184 do Código Penal localizada no texto oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940",
+        "Lei nº 10.695/2003"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "direito autoral",
+        "obra intelectual",
+        "fonograma"
+      ]
+    },
+    {
+      "id": "cp-184-1",
+      "nomeJuridico": "Reprodução não autorizada com intuito de lucro",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 184, § 1º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-184",
+      "descricaoObjetiva": "Reproduzir total ou parcialmente obra intelectual, interpretação, execução ou fonograma, com intuito de lucro direto ou indireto, sem autorização dos titulares.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 4 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Figura do art. 184 do Código Penal localizada no texto oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940",
+        "Lei nº 10.695/2003"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "direito autoral",
+        "reprodução",
+        "lucro"
+      ]
+    },
+    {
+      "id": "cp-184-2",
+      "nomeJuridico": "Distribuição ou comercialização ilícita de obra autoral",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 184, § 2º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-184",
+      "descricaoObjetiva": "Distribuir, vender, expor à venda, alugar, introduzir no País, adquirir, ocultar ou ter em depósito, com intuito de lucro, obra, fonograma ou cópia produzida com violação de direito autoral.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 4 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Figura do art. 184 do Código Penal localizada no texto oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940",
+        "Lei nº 10.695/2003"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "direito autoral",
+        "distribuição",
+        "comércio"
+      ]
+    },
+    {
+      "id": "cp-184-3",
+      "nomeJuridico": "Oferta pública não autorizada de obra autoral",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 184, § 3º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-184",
+      "descricaoObjetiva": "Oferecer ao público, mediante cabo, fibra ótica, satélite, ondas ou outro sistema de seleção de obra para recebimento em tempo e lugar determinados, com intuito de lucro, sem autorização.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 4 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Figura do art. 184 do Código Penal localizada no texto oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940",
+        "Lei nº 10.695/2003"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "direito autoral",
+        "oferta pública",
+        "streaming"
       ]
     }
   ]

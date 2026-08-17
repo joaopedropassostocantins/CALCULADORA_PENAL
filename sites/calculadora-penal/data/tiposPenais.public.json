@@ -1,5 +1,5 @@
 {
-  "versaoCatalogo": "cntp-br-2026-08-17-ed8b4139f669b7b4",
+  "versaoCatalogo": "cntp-br-2026-08-17-96ec02b97b436c7d",
   "dataCorte": "2026-08-17",
   "estadoGeral": "incompleto",
   "registros": [
@@ -2814,6 +2814,24 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "cp-184-2",
+      "name": "Distribuição ou comercialização ilícita de obra autoral",
+      "article": "art. 184, § 2º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 4,
+      "penalty": "Reclusão, de 2 a 4 anos, e multa.",
+      "keywords": [
+        "direito autoral",
+        "distribuição",
+        "comércio"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "eca-241a",
@@ -6582,6 +6600,24 @@
       "canCalculate": false
     },
     {
+      "id": "cp-184-3",
+      "name": "Oferta pública não autorizada de obra autoral",
+      "article": "art. 184, § 3º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 4,
+      "penalty": "Reclusão, de 2 a 4 anos, e multa.",
+      "keywords": [
+        "direito autoral",
+        "oferta pública",
+        "streaming"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "eca-229-culposa",
       "name": "Omissão culposa de identificação ou exames",
       "article": "art. 229, parágrafo único",
@@ -8331,6 +8367,24 @@
       "canCalculate": true
     },
     {
+      "id": "cp-184-1",
+      "name": "Reprodução não autorizada com intuito de lucro",
+      "article": "art. 184, § 1º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 4,
+      "penalty": "Reclusão, de 2 a 4 anos, e multa.",
+      "keywords": [
+        "direito autoral",
+        "reprodução",
+        "lucro"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "propriedade-industrial-9279-189",
       "name": "Reprodução ou alteração de marca registrada",
       "article": "art. 189",
@@ -9396,6 +9450,24 @@
       "keywords": [
         "correspondência",
         "abuso de função"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-184",
+      "name": "Violação de direitos autorais e conexos",
+      "article": "art. 184, caput",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.041666666666666664,
+      "maximum": 1,
+      "penalty": "Detenção, de 3 meses a 1 ano, ou multa.",
+      "keywords": [
+        "direito autoral",
+        "obra intelectual",
+        "fonograma"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",

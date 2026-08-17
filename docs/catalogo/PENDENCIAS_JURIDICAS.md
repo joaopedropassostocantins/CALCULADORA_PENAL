@@ -91,6 +91,7 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | hiv-12984-1 | Discriminação por HIV | art. 1º | Discriminação contra pessoa com HIV ou aids | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | discriminacao-trabalho-9029-2 | Discriminação laboral | art. 2º | Discriminação laboral por gravidez ou esterilização | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | contravencao-3688-28 | Contravenções | art. 28 | Disparo de arma de fogo | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-184-2 | Código Penal | art. 184, § 2º | Distribuição ou comercialização ilícita de obra autoral | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | contravencao-3688-56 | Contravenções | art. 56 | Distribuição ou transporte de listas de loteria | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | eleitoral-4737-323 | Crimes eleitorais | art. 323 | Divulgação de fato inverídico em propaganda | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | falimentar-11101-170 | Crimes falimentares | art. 170 | Divulgação de informação falsa sobre devedor | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
@@ -228,6 +229,7 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | transporte-eleitoral-6091-11-iv | Transporte eleitoral | art. 11, IV | Obstrução de serviço eleitoral de transporte ou alimentação | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | indigena-6001-58-i | Crimes contra indígenas | art. 58, I | Ofensa ou perturbação de cultura indígena | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | esporte-14597-199 | Lei Geral do Esporte | art. 199 | Oferta de vantagem para manipulação esportiva | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-184-3 | Código Penal | art. 184, § 3º | Oferta pública não autorizada de obra autoral | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | consumo-8078-63 | Crimes contra relações de consumo | art. 63 | Omissão de alerta sobre nocividade ou periculosidade | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | prefeito-201-1-xviii | Crimes de responsabilidade municipal | art. 1º, XVIII | Omissão de cancelamento ou reserva de operação de crédito | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | contravencao-3688-31 | Contravenções | art. 31 | Omissão de cautela na guarda ou condução de animais | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
@@ -289,6 +291,7 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | eleicoes-9504-68-2 | Normas para eleições | art. 68, § 2º | Recusa de entrega de cópia do boletim de urna | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | contravencao-3688-43 | Contravenções | art. 43 | Recusa de moeda de curso legal | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | parcelamento-6766-52 | Parcelamento do solo urbano | art. 52 | Registro irregular de parcelamento urbano | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-184-1 | Código Penal | art. 184, § 1º | Reprodução não autorizada com intuito de lucro | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | propriedade-industrial-9279-189 | Propriedade industrial | art. 189 | Reprodução ou alteração de marca registrada | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | transporte-eleitoral-6091-11-pu | Transporte eleitoral | art. 11, parágrafo único | Responsabilidade do guardião de veículo eleitoral | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | eleicoes-9504-91-pu | Normas para eleições | art. 91, parágrafo único | Retenção de título eleitoral | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
@@ -332,6 +335,7 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | cp-121b | Código Penal | art. 121-B | Vicaricídio | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-151 | Código Penal | art. 151 | Violação de correspondência | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-151-3 | Código Penal | art. 151, § 3º | Violação de correspondência com abuso de função | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-184 | Código Penal | art. 184, caput | Violação de direitos autorais e conexos | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-150 | Código Penal | art. 150 | Violação de domicílio | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-150-1 | Código Penal | art. 150, § 1º | Violação de domicílio qualificada | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | falimentar-11101-177 | Crimes falimentares | art. 177 | Violação de impedimento no processo falimentar | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
@@ -361,7 +365,7 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | Legislação penal especial e estatutos setoriais | O catálogo de 88 diplomas ainda não equivale a catálogo de tipos; vários diplomas estão apenas previstos. | Extrair dispositivos incriminadores de drogas, armas, tortura, abuso de autoridade, ambientais, trânsito, ECA, pessoa idosa, racismo, sistema financeiro, tributário, falimentar, propriedade intelectual e demais módulos. |
 | Alterações legislativas de 2025 e 2026 | Páginas de leis recentes foram bloqueadas em algumas consultas; a redação atual do CP e das leis ambientais e de trânsito mostra alterações que precisam de validação temporal independente. | Conferir a lei criadora/modificadora e o início de vigência diretamente em fonte oficial acessível, sem usar apenas snippet. |
 | Enriquecimento jurídico | Nenhum registro está marcado como enriquecimento validado neste checkpoint. | Completar bem jurídico, sujeitos, elemento subjetivo, consumação, tentativa, ação penal, competência, rito, hediondez, jurisprudência e controvérsias. |
-| Cobertura integral | O estado global é incompleto e há 344 registros pendentes na fonte canônica. | Trabalhar módulo por módulo, atualizar as contagens e não declarar integralidade enquanto houver lacunas. |
+| Cobertura integral | O estado global é incompleto e há 348 registros pendentes na fonte canônica. | Trabalhar módulo por módulo, atualizar as contagens e não declarar integralidade enquanto houver lacunas. |
 
 ## Fontes bloqueadas na consulta de 2026-08-17
 

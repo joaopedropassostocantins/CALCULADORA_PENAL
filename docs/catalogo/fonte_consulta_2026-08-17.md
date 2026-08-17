@@ -183,3 +183,7 @@ As penas vigentes alteradas pelas Leis nº 14.811/2024, nº 15.123/2025 e nº 15
 Na mesma fonte oficial do Código Penal, <https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm>, foi extraído lote complementar dos arts. 159 a 180-A. Foram cadastradas extorsão mediante sequestro e resultados qualificados, extorsão indireta, usurpação, dano e dano qualificado, crimes envolvendo animais e patrimônio cultural, apropriação indébita previdenciária, apropriação de coisa havida por erro, duplicata simulada, abusos e fraudes comerciais ou societárias, fraude à execução e figuras qualificadas e culposa da receptação, além da receptação de animal.
 
 As penas atualizadas pelas Leis nº 15.163/2025 e nº 15.397/2026 foram transcritas do texto oficial vigente. Dispositivos de majorante, extinção de punibilidade, ação penal e equiparação sem pena própria independente permaneceram no enriquecimento ou nas observações, conforme o critério de não duplicação do catálogo.
+
+## Cobertura nacional — Código Penal: direitos autorais e conexos
+
+A fonte oficial do Código Penal confirmou o art. 184, caput e §§ 1º a 3º, com figuras próprias para violação simples, reprodução com intuito de lucro, distribuição ou comercialização lucrativa e oferta pública não autorizada. O lote foi separado em quatro registros, vinculados por parentagem; o § 4º, que estabelece exceções ou limitações, não foi tratado como tipo penal.
