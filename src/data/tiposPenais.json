@@ -1,0 +1,3950 @@
+{
+  "versaoEsquema": "1.0.0",
+  "versaoCatalogo": "0.1.0-incremental",
+  "dataCorte": "2026-08-17",
+  "estadoGeral": "incompleto",
+  "identificadorVersao": "cntp-br-2026-08-17-a1846b3bd20a5e23",
+  "quantidadeTotalAtiva": 65,
+  "quantidadePorModulo": {
+    "Código Penal": 55,
+    "Drogas": 2,
+    "Armas": 7,
+    "Organização criminosa": 1
+  },
+  "fontesPrevistas": 88,
+  "fontesAuditadas": 4,
+  "registrosInventariados": 47,
+  "registrosEnriquecidos": 0,
+  "registrosPendentes": 18,
+  "modulosPendentes": [
+    "1 Codificações e diplomas estruturantes",
+    "2 Núcleo da legislação penal especial",
+    "3 Penal econômico, tributário e empresarial",
+    "4 Estatutos protetivos e legislação setorial",
+    "5 Penal eleitoral e crimes de responsabilidade",
+    "6 Processo penal, investigação e execução",
+    "7 Penal e processual penal militar",
+    "8 Normas convencionais internalizadas"
+  ],
+  "registros": [
+    {
+      "id": "armas-12",
+      "nomeJuridico": "Posse irregular de arma de fogo de uso permitido",
+      "aliases": [
+        "posse irregular de arma"
+      ],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Armas",
+      "norma": "Lei nº 10.826/2003",
+      "dispositivo": "art. 12",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Possuir ou manter sob guarda arma de fogo, acessório ou munição de uso permitido em desacordo com determinação legal ou regulamentar, no interior da residência ou local de trabalho indicado em lei.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 3 anos e multa",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "2003-12-22",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826compilado.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 10.826/2003"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "posse irregular",
+        "arma em casa",
+        "arma de fogo"
+      ]
+    },
+    {
+      "id": "armas-13",
+      "nomeJuridico": "Omissão de cautela",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Armas",
+      "norma": "Lei nº 10.826/2003",
+      "dispositivo": "art. 13",
+      "naturezaFigura": "omissiva",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Deixar de observar cautelas para impedir que menor de 18 anos ou pessoa com deficiência mental se apodere de arma de fogo sob posse ou propriedade do agente.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 24,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 2 anos e multa",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "2003-12-22",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826compilado.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 10.826/2003"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "omissão de cautela",
+        "arma de fogo",
+        "menor"
+      ]
+    },
+    {
+      "id": "armas-14",
+      "nomeJuridico": "Porte ilegal de arma de fogo de uso permitido",
+      "aliases": [
+        "porte ilegal de arma"
+      ],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Armas",
+      "norma": "Lei nº 10.826/2003",
+      "dispositivo": "art. 14",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Portar, deter, adquirir, fornecer, receber, transportar, ceder, emprestar, remeter, empregar, manter sob guarda ou ocultar arma de fogo, acessório ou munição de uso permitido sem autorização.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 4 anos e multa",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "2003-12-22",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826compilado.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 10.826/2003"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "porte ilegal",
+        "arma de fogo",
+        "pistola",
+        "revólver"
+      ]
+    },
+    {
+      "id": "armas-15",
+      "nomeJuridico": "Disparo de arma de fogo",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Armas",
+      "norma": "Lei nº 10.826/2003",
+      "dispositivo": "art. 15",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Disparar arma de fogo ou acionar munição em lugar habitado, via pública ou em direção a ela, quando a conduta não tem por finalidade outro crime.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 4 anos e multa",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "2003-12-22",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826compilado.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 10.826/2003"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "disparo",
+        "arma de fogo",
+        "tiro"
+      ]
+    },
+    {
+      "id": "armas-16",
+      "nomeJuridico": "Posse ou porte ilegal de arma de fogo de uso restrito",
+      "aliases": [
+        "arma de uso restrito"
+      ],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Armas",
+      "norma": "Lei nº 10.826/2003",
+      "dispositivo": "art. 16",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Possuir, deter, portar, adquirir, fornecer, receber, transportar, ceder, emprestar, remeter, empregar, manter sob guarda ou ocultar arma de fogo, acessório ou munição de uso restrito sem autorização.",
+      "pena": {
+        "minimoMeses": 36,
+        "maximoMeses": 72,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 3 a 6 anos e multa",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "2003-12-22",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826compilado.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 10.826/2003"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "arma restrita",
+        "porte",
+        "posse",
+        "arma de fogo"
+      ]
+    },
+    {
+      "id": "armas-17",
+      "nomeJuridico": "Comércio ilegal de arma de fogo",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Armas",
+      "norma": "Lei nº 10.826/2003",
+      "dispositivo": "art. 17",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Adquirir, alugar, receber, transportar, conduzir, ocultar, ter em depósito, vender ou utilizar arma de fogo, acessório ou munição no exercício de atividade comercial ou industrial sem autorização.",
+      "pena": {
+        "minimoMeses": 72,
+        "maximoMeses": 144,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 6 a 12 anos e multa",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "2003-12-22",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826compilado.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 10.826/2003"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "comércio ilegal",
+        "arma de fogo",
+        "venda de arma"
+      ]
+    },
+    {
+      "id": "armas-18",
+      "nomeJuridico": "Tráfico internacional de arma de fogo",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Armas",
+      "norma": "Lei nº 10.826/2003",
+      "dispositivo": "art. 18",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Importar, exportar ou favorecer a entrada ou saída do território nacional de arma de fogo, acessório ou munição sem autorização da autoridade competente.",
+      "pena": {
+        "minimoMeses": 96,
+        "maximoMeses": 192,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 8 a 16 anos e multa",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "2003-12-22",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826compilado.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 10.826/2003"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "tráfico internacional",
+        "arma de fogo",
+        "importação de arma"
+      ]
+    },
+    {
+      "id": "cp-121",
+      "nomeJuridico": "Homicídio simples",
+      "aliases": [
+        "homicídio doloso"
+      ],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 121, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Matar alguém.",
+      "pena": {
+        "minimoMeses": 72,
+        "maximoMeses": 240,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 6 a 20 anos",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "matar",
+        "homicídio",
+        "morte"
+      ]
+    },
+    {
+      "id": "cp-121-qualificado",
+      "nomeJuridico": "Homicídio qualificado",
+      "aliases": [
+        "homicídio qualificado"
+      ],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 121, § 2º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-121",
+      "descricaoObjetiva": "Matar alguém em uma das circunstâncias qualificadoras do § 2º.",
+      "pena": {
+        "minimoMeses": 144,
+        "maximoMeses": 360,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 12 a 30 anos",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "homicídio qualificado",
+        "motivo torpe",
+        "emboscada",
+        "meio cruel"
+      ]
+    },
+    {
+      "id": "cp-121-2d",
+      "nomeJuridico": "Homicídio no contexto de organização criminosa ultraviolenta",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Lei nº 15.358/2026",
+      "dispositivo": "art. 121, § 2º-D",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-121",
+      "descricaoObjetiva": "Praticar homicídio doloso como integrante de organização criminosa ultraviolenta, grupo paramilitar ou milícia privada, no contexto legal indicado.",
+      "pena": {
+        "minimoMeses": 240,
+        "maximoMeses": 480,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 20 a 40 anos",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Texto atual localizado no Código Penal oficial; data inicial da redação e lei modificadora aguardam conferência independente."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 15.358/2026"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "organização criminosa ultraviolenta",
+        "milícia",
+        "grupo paramilitar"
+      ]
+    },
+    {
+      "id": "cp-121-culposo",
+      "nomeJuridico": "Homicídio culposo",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 121, § 3º",
+      "naturezaFigura": "culposa",
+      "tipoPaiId": "cp-121",
+      "descricaoObjetiva": "Causar a morte de alguém por imprudência, negligência ou imperícia.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 3 anos",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "homicídio culposo",
+        "morte sem intenção"
+      ]
+    },
+    {
+      "id": "cp-121a",
+      "nomeJuridico": "Feminicídio",
+      "aliases": [
+        "morte de mulher por razões de sexo feminino"
+      ],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Lei nº 14.994/2024",
+      "dispositivo": "art. 121-A",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Matar mulher por razões da condição do sexo feminino.",
+      "pena": {
+        "minimoMeses": 240,
+        "maximoMeses": 480,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 20 a 40 anos",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 14.994/2024"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "feminicídio",
+        "violência doméstica",
+        "menosprezo à condição de mulher"
+      ]
+    },
+    {
+      "id": "cp-121b",
+      "nomeJuridico": "Vicaricídio",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Lei nº 15.384/2026",
+      "dispositivo": "art. 121-B",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Matar descendente, ascendente, dependente, enteado ou pessoa sob guarda ou responsabilidade direta da mulher, com fim específico de causar sofrimento, punição ou controle, no contexto de violência doméstica e familiar.",
+      "pena": {
+        "minimoMeses": 240,
+        "maximoMeses": 480,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 20 a 40 anos",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 15.384/2026"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "vicaricídio",
+        "violência por procuração",
+        "sofrimento da mulher"
+      ]
+    },
+    {
+      "id": "cp-123",
+      "nomeJuridico": "Infanticídio",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 123",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Matar, sob a influência do estado puerperal, o próprio filho, durante o parto ou logo após.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 72,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 2 a 6 anos",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "infanticídio",
+        "estado puerperal"
+      ]
+    },
+    {
+      "id": "cp-124",
+      "nomeJuridico": "Aborto provocado pela gestante",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 124",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Provocar aborto em si mesma ou consentir que outrem lho provoque.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 3 anos",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "aborto",
+        "gestante",
+        "consentiu aborto"
+      ]
+    },
+    {
+      "id": "cp-125",
+      "nomeJuridico": "Aborto provocado sem consentimento",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 125",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Provocar aborto sem o consentimento da gestante.",
+      "pena": {
+        "minimoMeses": 36,
+        "maximoMeses": 120,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 3 a 10 anos",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "aborto sem consentimento",
+        "gestante"
+      ]
+    },
+    {
+      "id": "cp-126",
+      "nomeJuridico": "Aborto provocado com consentimento",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 126",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Provocar aborto com o consentimento da gestante.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 4 anos",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "aborto com consentimento"
+      ]
+    },
+    {
+      "id": "cp-129",
+      "nomeJuridico": "Lesão corporal",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 129, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Ofender a integridade corporal ou a saúde de outrem.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 1 ano",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "lesão corporal",
+        "agressão",
+        "feriu"
+      ]
+    },
+    {
+      "id": "cp-129-1",
+      "nomeJuridico": "Lesão corporal de natureza grave",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 129, § 1º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-129",
+      "descricaoObjetiva": "Ofender a integridade corporal ou a saúde de outrem com resultado de natureza grave previsto no § 1º.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 60,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 5 anos",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "lesão grave",
+        "perigo de vida",
+        "debilidade permanente"
+      ]
+    },
+    {
+      "id": "cp-129-2",
+      "nomeJuridico": "Lesão corporal de natureza gravíssima",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 129, § 2º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-129",
+      "descricaoObjetiva": "Ofender a integridade corporal ou a saúde de outrem com resultado de natureza gravíssima previsto no § 2º.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 96,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 8 anos",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "lesão gravíssima",
+        "deformidade permanente",
+        "enfermidade incurável"
+      ]
+    },
+    {
+      "id": "cp-129-3",
+      "nomeJuridico": "Lesão corporal seguida de morte",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 129, § 3º",
+      "naturezaFigura": "preterdolosa",
+      "tipoPaiId": "cp-129",
+      "descricaoObjetiva": "Ofender a integridade corporal ou a saúde de outrem quando resulta morte sem dolo ou assunção do risco do resultado.",
+      "pena": {
+        "minimoMeses": 48,
+        "maximoMeses": 144,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 4 a 12 anos",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "lesão seguida de morte",
+        "morte sem intenção"
+      ]
+    },
+    {
+      "id": "cp-129-3a",
+      "nomeJuridico": "Lesão corporal seguida de morte no contexto de organização criminosa ultraviolenta",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Lei nº 15.358/2026",
+      "dispositivo": "art. 129, § 3º-A",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-129-3",
+      "descricaoObjetiva": "Forma do § 3º praticada no contexto legal de organização criminosa ultraviolenta, grupo paramilitar ou milícia privada.",
+      "pena": {
+        "minimoMeses": 240,
+        "maximoMeses": 480,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 20 a 40 anos",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 15.358/2026"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "lesão seguida de morte",
+        "organização criminosa ultraviolenta"
+      ]
+    },
+    {
+      "id": "cp-129-6",
+      "nomeJuridico": "Lesão corporal culposa",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 129, § 6º",
+      "naturezaFigura": "culposa",
+      "tipoPaiId": "cp-129",
+      "descricaoObjetiva": "Ofender culposamente a integridade corporal ou a saúde de outrem.",
+      "pena": {
+        "minimoMeses": 2,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 2 meses a 1 ano",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "lesão culposa",
+        "negligência",
+        "imprudência"
+      ]
+    },
+    {
+      "id": "cp-129-9",
+      "nomeJuridico": "Lesão corporal em contexto doméstico",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Lei nº 14.994/2024 e alterações",
+      "dispositivo": "art. 129, § 9º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-129",
+      "descricaoObjetiva": "Praticar lesão corporal nas relações domésticas, de coabitação, hospitalidade ou trabalho doméstico indicadas no § 9º.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 60,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 5 anos",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 14.994/2024 e alterações"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "violência doméstica",
+        "lesão contra mulher"
+      ]
+    },
+    {
+      "id": "cp-133",
+      "nomeJuridico": "Abandono de incapaz",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 133, caput",
+      "naturezaFigura": "omissiva",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Abandonar pessoa sob cuidado, guarda, vigilância ou autoridade, incapaz de defender-se dos riscos do abandono.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 3 anos",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "abandono de incapaz",
+        "abandonou pessoa"
+      ]
+    },
+    {
+      "id": "cp-133-1",
+      "nomeJuridico": "Abandono de incapaz com lesão grave",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 133, § 1º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-133",
+      "descricaoObjetiva": "Abandonar incapaz quando do abandono resulta lesão corporal de natureza grave.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 60,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 5 anos",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "abandono de incapaz",
+        "lesão grave"
+      ]
+    },
+    {
+      "id": "cp-133-2",
+      "nomeJuridico": "Abandono de incapaz com morte",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 133, § 2º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-133",
+      "descricaoObjetiva": "Abandonar incapaz quando do abandono resulta morte.",
+      "pena": {
+        "minimoMeses": 48,
+        "maximoMeses": 144,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 4 a 12 anos",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "abandono de incapaz",
+        "morte"
+      ]
+    },
+    {
+      "id": "cp-147",
+      "nomeJuridico": "Ameaça",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 147, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Ameaçar alguém de causar-lhe mal injusto e grave.",
+      "pena": {
+        "minimoMeses": 1,
+        "maximoMeses": 6,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 6 meses, ou multa",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "ameaça",
+        "mal injusto e grave"
+      ]
+    },
+    {
+      "id": "cp-147b",
+      "nomeJuridico": "Violência psicológica contra a mulher",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Lei nº 14.188/2021",
+      "dispositivo": "art. 147-B",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Causar dano emocional à mulher que prejudique seu desenvolvimento ou vise degradar ou controlar suas ações, comportamentos, crenças ou decisões pelos meios descritos em lei.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 24,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 6 meses a 2 anos, e multa",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 14.188/2021"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "violência psicológica",
+        "dano emocional",
+        "mulher"
+      ]
+    },
+    {
+      "id": "cp-147c",
+      "nomeJuridico": "Ameaça no contexto de organização criminosa",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Lei nº 15.358/2026",
+      "dispositivo": "art. 147-C",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Ameaçar alguém de causar-lhe mal injusto e grave no contexto legal de organização criminosa ultraviolenta, grupo paramilitar ou milícia privada.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 3 anos",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 15.358/2026"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "ameaça",
+        "organização criminosa ultraviolenta"
+      ]
+    },
+    {
+      "id": "cp-148",
+      "nomeJuridico": "Sequestro e cárcere privado",
+      "aliases": [
+        "cárcere privado"
+      ],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 148, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Privar alguém de sua liberdade mediante sequestro ou cárcere privado.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 3 anos",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "sequestro",
+        "cárcere privado",
+        "privação da liberdade"
+      ]
+    },
+    {
+      "id": "cp-148-1",
+      "nomeJuridico": "Sequestro e cárcere privado qualificado",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 148, § 1º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-148",
+      "descricaoObjetiva": "Privar alguém de liberdade em uma das hipóteses qualificadoras do § 1º.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 60,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 5 anos",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "sequestro qualificado",
+        "vítima idosa",
+        "fins libidinosos"
+      ]
+    },
+    {
+      "id": "cp-148-2",
+      "nomeJuridico": "Sequestro e cárcere privado com grave sofrimento",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 148, § 2º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-148",
+      "descricaoObjetiva": "Privar alguém de liberdade quando resulta grave sofrimento físico ou moral por maus-tratos ou pela natureza da detenção.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 96,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 8 anos",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "cárcere privado",
+        "grave sofrimento"
+      ]
+    },
+    {
+      "id": "cp-148-3",
+      "nomeJuridico": "Sequestro e cárcere privado no contexto de organização criminosa ultraviolenta",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Lei nº 15.358/2026",
+      "dispositivo": "art. 148, § 3º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-148",
+      "descricaoObjetiva": "Privar alguém de liberdade no contexto legal de organização criminosa ultraviolenta, grupo paramilitar ou milícia privada.",
+      "pena": {
+        "minimoMeses": 144,
+        "maximoMeses": 240,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 12 a 20 anos",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 15.358/2026"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "sequestro",
+        "organização criminosa ultraviolenta"
+      ]
+    },
+    {
+      "id": "cp-149",
+      "nomeJuridico": "Redução a condição análoga à de escravo",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 149",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Reduzir alguém a condição análoga à de escravo.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 96,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 8 anos",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "trabalho escravo",
+        "condição análoga à de escravo"
+      ]
+    },
+    {
+      "id": "cp-154a",
+      "nomeJuridico": "Invasão de dispositivo informático",
+      "aliases": [
+        "crime cibernético",
+        "invasão de computador"
+      ],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Lei nº 12.737/2012",
+      "dispositivo": "art. 154-A",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Invadir dispositivo informático de uso alheio, conectado ou não à rede de computadores, mediante violação indevida de mecanismo de segurança.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 4 anos, e multa",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "2012-11-30",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 12.737/2012"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "invasão de dispositivo",
+        "computador",
+        "celular",
+        "hackear"
+      ]
+    },
+    {
+      "id": "cp-155",
+      "nomeJuridico": "Furto",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 155, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Subtrair, para si ou para outrem, coisa alheia móvel.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 4 anos, e multa",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "furto",
+        "subtração",
+        "coisa alheia móvel"
+      ]
+    },
+    {
+      "id": "cp-155-4",
+      "nomeJuridico": "Furto qualificado",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 155, § 4º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-155",
+      "descricaoObjetiva": "Subtrair coisa alheia móvel em uma das hipóteses qualificadoras do § 4º.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 96,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 8 anos, e multa",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "furto qualificado",
+        "rompimento de obstáculo",
+        "escalada",
+        "chave falsa"
+      ]
+    },
+    {
+      "id": "cp-155-7",
+      "nomeJuridico": "Furto de arma de fogo ou explosivo",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Lei nº 15.397/2026",
+      "dispositivo": "art. 155, § 7º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-155",
+      "descricaoObjetiva": "Subtrair substâncias explosivas ou arma de fogo nas hipóteses previstas no § 7º.",
+      "pena": {
+        "minimoMeses": 48,
+        "maximoMeses": 120,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 4 a 10 anos, e multa",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 15.397/2026"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "furto de arma",
+        "furto de explosivo"
+      ]
+    },
+    {
+      "id": "cp-156",
+      "nomeJuridico": "Furto de coisa comum",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 156",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Subtrair coisa comum de que legitimamente detém a posse, nas condições do art. 156.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 24,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 2 anos, ou multa",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "furto de coisa comum",
+        "condômino",
+        "co-herdeiro"
+      ]
+    },
+    {
+      "id": "cp-157",
+      "nomeJuridico": "Roubo",
+      "aliases": [
+        "assalto"
+      ],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Lei nº 15.397/2026",
+      "dispositivo": "art. 157, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Subtrair coisa móvel alheia mediante grave ameaça, violência ou redução da vítima à impossibilidade de resistência.",
+      "pena": {
+        "minimoMeses": 72,
+        "maximoMeses": 120,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 6 a 10 anos, e multa",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 15.397/2026"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "roubo",
+        "assalto",
+        "grave ameaça",
+        "violência"
+      ]
+    },
+    {
+      "id": "cp-157-1a",
+      "nomeJuridico": "Roubo contra serviço público essencial",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Lei nº 15.181/2025 e Lei nº 15.397/2026",
+      "dispositivo": "art. 157, § 1º-A",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-157",
+      "descricaoObjetiva": "Subtrair bens que comprometam o funcionamento de órgãos ou estabelecimentos que prestem serviços públicos essenciais.",
+      "pena": {
+        "minimoMeses": 72,
+        "maximoMeses": 144,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 6 a 12 anos, e multa",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 15.181/2025 e Lei nº 15.397/2026"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "roubo",
+        "serviço público essencial"
+      ]
+    },
+    {
+      "id": "cp-157-3-i",
+      "nomeJuridico": "Roubo com lesão corporal grave",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Lei nº 13.654/2018",
+      "dispositivo": "art. 157, § 3º, I",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-157",
+      "descricaoObjetiva": "Se da violência do roubo resulta lesão corporal grave.",
+      "pena": {
+        "minimoMeses": 84,
+        "maximoMeses": 216,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 7 a 18 anos, e multa",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "2018-04-23",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 13.654/2018"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "latrocínio tentado",
+        "roubo com lesão grave"
+      ]
+    },
+    {
+      "id": "cp-157-3-ii",
+      "nomeJuridico": "Latrocínio",
+      "aliases": [
+        "roubo seguido de morte"
+      ],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Lei nº 15.397/2026",
+      "dispositivo": "art. 157, § 3º, II",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-157",
+      "descricaoObjetiva": "Se da violência do roubo resulta morte.",
+      "pena": {
+        "minimoMeses": 288,
+        "maximoMeses": 360,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 24 a 30 anos, e multa",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 15.397/2026"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "latrocínio",
+        "roubo seguido de morte"
+      ]
+    },
+    {
+      "id": "cp-158",
+      "nomeJuridico": "Extorsão",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 158, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Constranger alguém, mediante violência ou grave ameaça, com intuito de obter indevida vantagem econômica.",
+      "pena": {
+        "minimoMeses": 48,
+        "maximoMeses": 120,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 4 a 10 anos, e multa",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "extorsão",
+        "vantagem econômica",
+        "grave ameaça"
+      ]
+    },
+    {
+      "id": "cp-158-3",
+      "nomeJuridico": "Extorsão mediante restrição da liberdade",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Lei nº 11.923/2009",
+      "dispositivo": "art. 158, § 3º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-158",
+      "descricaoObjetiva": "Cometer extorsão mediante restrição da liberdade da vítima necessária à obtenção da vantagem econômica.",
+      "pena": {
+        "minimoMeses": 72,
+        "maximoMeses": 144,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 6 a 12 anos, e multa",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "2009-04-17",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 11.923/2009"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "extorsão mediante sequestro",
+        "restrição da liberdade"
+      ]
+    },
+    {
+      "id": "cp-168",
+      "nomeJuridico": "Apropriação indébita",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 168, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Apropriar-se de coisa alheia móvel de que tem a posse ou detenção.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 4 anos, e multa",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "apropriação indébita",
+        "não devolveu bem"
+      ]
+    },
+    {
+      "id": "cp-171",
+      "nomeJuridico": "Estelionato",
+      "aliases": [
+        "fraude",
+        "golpe"
+      ],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940 e Lei nº 15.397/2026",
+      "dispositivo": "art. 171, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Obter vantagem ilícita em prejuízo alheio, induzindo ou mantendo alguém em erro mediante fraude.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 60,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 5 anos, e multa",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940 e Lei nº 15.397/2026"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "estelionato",
+        "golpe",
+        "fraude",
+        "vantagem ilícita"
+      ]
+    },
+    {
+      "id": "cp-171a",
+      "nomeJuridico": "Fraude com ativos virtuais",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Lei nº 14.478/2022",
+      "dispositivo": "art. 171-A",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Organizar, gerir, ofertar, distribuir carteiras ou intermediar operações com ativos virtuais, valores mobiliários ou ativos financeiros com fim de obter vantagem ilícita mediante fraude.",
+      "pena": {
+        "minimoMeses": 48,
+        "maximoMeses": 96,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 4 a 8 anos, e multa",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 14.478/2022"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "ativo virtual",
+        "fraude com criptomoeda",
+        "fraude financeira"
+      ]
+    },
+    {
+      "id": "cp-180",
+      "nomeJuridico": "Receptação",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 180, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Adquirir, receber, transportar, conduzir ou ocultar coisa que sabe ser produto de crime, ou influir para que terceiro de boa-fé a adquira, receba ou oculte.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 4 anos, e multa",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "receptação",
+        "produto de crime",
+        "objeto roubado"
+      ]
+    },
+    {
+      "id": "cp-213",
+      "nomeJuridico": "Estupro",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Lei nº 12.015/2009",
+      "dispositivo": "art. 213, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Constranger alguém, mediante violência ou grave ameaça, a ter conjunção carnal ou praticar ou permitir ato libidinoso.",
+      "pena": {
+        "minimoMeses": 72,
+        "maximoMeses": 120,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 6 a 10 anos",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "2009-08-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 12.015/2009"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "estupro",
+        "violência sexual",
+        "ato libidinoso"
+      ]
+    },
+    {
+      "id": "cp-213-1",
+      "nomeJuridico": "Estupro com lesão grave ou vítima entre 14 e 18 anos",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Lei nº 12.015/2009",
+      "dispositivo": "art. 213, § 1º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-213",
+      "descricaoObjetiva": "Cometer estupro quando resulta lesão corporal grave ou a vítima é menor de 18 e maior de 14 anos.",
+      "pena": {
+        "minimoMeses": 96,
+        "maximoMeses": 144,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 8 a 12 anos",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "2009-08-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 12.015/2009"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "estupro",
+        "lesão grave",
+        "adolescente"
+      ]
+    },
+    {
+      "id": "cp-213-2",
+      "nomeJuridico": "Estupro com resultado morte",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Lei nº 12.015/2009",
+      "dispositivo": "art. 213, § 2º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-213",
+      "descricaoObjetiva": "Cometer estupro quando da conduta resulta morte.",
+      "pena": {
+        "minimoMeses": 144,
+        "maximoMeses": 360,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 12 a 30 anos",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "2009-08-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 12.015/2009"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "estupro",
+        "morte"
+      ]
+    },
+    {
+      "id": "cp-217a",
+      "nomeJuridico": "Estupro de vulnerável",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Lei nº 15.280/2025",
+      "dispositivo": "art. 217-A, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Ter conjunção carnal ou praticar outro ato libidinoso com menor de 14 anos ou pessoa vulnerável nas hipóteses legais.",
+      "pena": {
+        "minimoMeses": 120,
+        "maximoMeses": 216,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 10 a 18 anos, e multa",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 15.280/2025"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "estupro de vulnerável",
+        "menor de 14",
+        "criança"
+      ]
+    },
+    {
+      "id": "cp-217a-3",
+      "nomeJuridico": "Estupro de vulnerável com lesão grave",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Lei nº 15.280/2025",
+      "dispositivo": "art. 217-A, § 3º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-217a",
+      "descricaoObjetiva": "Praticar estupro de vulnerável quando da conduta resulta lesão corporal grave.",
+      "pena": {
+        "minimoMeses": 144,
+        "maximoMeses": 288,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 12 a 24 anos, e multa",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 15.280/2025"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "estupro de vulnerável",
+        "lesão grave"
+      ]
+    },
+    {
+      "id": "cp-217a-4",
+      "nomeJuridico": "Estupro de vulnerável com resultado morte",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Lei nº 15.280/2025",
+      "dispositivo": "art. 217-A, § 4º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-217a",
+      "descricaoObjetiva": "Praticar estupro de vulnerável quando da conduta resulta morte.",
+      "pena": {
+        "minimoMeses": 240,
+        "maximoMeses": 480,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 20 a 40 anos, e multa",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 15.280/2025"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "estupro de vulnerável",
+        "morte"
+      ]
+    },
+    {
+      "id": "cp-288",
+      "nomeJuridico": "Associação criminosa",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 288, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Associarem-se três ou mais pessoas, para o fim específico de cometer crimes.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 3 anos",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "associação criminosa",
+        "três pessoas"
+      ]
+    },
+    {
+      "id": "cp-312",
+      "nomeJuridico": "Peculato",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 312, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Apropriar-se ou desviar dinheiro, valor ou bem móvel de que o funcionário público tem posse em razão do cargo.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 144,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 12 anos, e multa",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "peculato",
+        "funcionário público",
+        "desvio de dinheiro público"
+      ]
+    },
+    {
+      "id": "cp-316",
+      "nomeJuridico": "Concussão",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 316, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Exigir, para si ou para outrem, direta ou indiretamente, vantagem indevida em razão da função pública.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 144,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 12 anos, e multa",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "concussão",
+        "exigiu propina",
+        "funcionário público"
+      ]
+    },
+    {
+      "id": "cp-317",
+      "nomeJuridico": "Corrupção passiva",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 317, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Solicitar ou receber, para si ou para outrem, vantagem indevida, ou aceitar promessa de vantagem, em razão da função pública.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 144,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 12 anos, e multa",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "corrupção passiva",
+        "propina",
+        "funcionário público"
+      ]
+    },
+    {
+      "id": "cp-333",
+      "nomeJuridico": "Corrupção ativa",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 333, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Oferecer ou prometer vantagem indevida a funcionário público para determiná-lo a praticar, omitir ou retardar ato de ofício.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 144,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 12 anos, e multa",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "corrupção ativa",
+        "ofereceu propina",
+        "funcionário público"
+      ]
+    },
+    {
+      "id": "cp-359p",
+      "nomeJuridico": "Violência política",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Lei nº 14.197/2021",
+      "dispositivo": "art. 359-P",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Restringir, impedir ou dificultar, com violência física, sexual ou psicológica, o exercício de direitos políticos em razão de sexo, raça, cor, etnia, religião ou procedência nacional.",
+      "pena": {
+        "minimoMeses": 36,
+        "maximoMeses": 72,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 3 a 6 anos, e multa, além da pena correspondente à violência",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 14.197/2021"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "violência política",
+        "direitos políticos",
+        "discriminação"
+      ]
+    },
+    {
+      "id": "drogas-33",
+      "nomeJuridico": "Tráfico de drogas",
+      "aliases": [
+        "tráfico",
+        "tráfico de entorpecentes"
+      ],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Drogas",
+      "norma": "Lei nº 11.343/2006",
+      "dispositivo": "art. 33, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Importar, exportar, remeter, preparar, produzir, fabricar, adquirir, vender, oferecer, transportar, trazer consigo, guardar ou fornecer drogas sem autorização ou em desacordo com determinação legal ou regulamentar.",
+      "pena": {
+        "minimoMeses": 60,
+        "maximoMeses": 180,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 5 a 15 anos e 500 a 1.500 dias-multa",
+        "multa": {
+          "minimoDias": 500,
+          "maximoDias": 1500
+        }
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "2006-08-23",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 11.343/2006"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "tráfico",
+        "drogas",
+        "cocaína",
+        "maconha"
+      ]
+    },
+    {
+      "id": "drogas-35",
+      "nomeJuridico": "Associação para o tráfico",
+      "aliases": [
+        "associação para o tráfico"
+      ],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Drogas",
+      "norma": "Lei nº 11.343/2006",
+      "dispositivo": "art. 35",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Associar-se duas ou mais pessoas para o fim de praticar, reiteradamente ou não, os crimes previstos na Lei de Drogas indicados no art. 35.",
+      "pena": {
+        "minimoMeses": 36,
+        "maximoMeses": 120,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 3 a 10 anos e 700 a 1.200 dias-multa",
+        "multa": {
+          "minimoDias": 700,
+          "maximoDias": 1200
+        }
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "2006-08-23",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 11.343/2006"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "associação para o tráfico",
+        "tráfico",
+        "duas pessoas"
+      ]
+    },
+    {
+      "id": "org-2",
+      "nomeJuridico": "Organização criminosa",
+      "aliases": [
+        "crime organizado"
+      ],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Organização criminosa",
+      "norma": "Lei nº 12.850/2013",
+      "dispositivo": "art. 2º, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Promover, constituir, financiar ou integrar, pessoalmente ou por interposta pessoa, organização criminosa.",
+      "pena": {
+        "minimoMeses": 36,
+        "maximoMeses": 96,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 3 a 8 anos e multa",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "2013-08-02",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "confirmada",
+        "observacoes": null
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 12.850/2013"
+      ],
+      "inventarioValidado": true,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": true,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "organização criminosa",
+        "facção",
+        "grupo estruturado"
+      ]
+    }
+  ]
+}
