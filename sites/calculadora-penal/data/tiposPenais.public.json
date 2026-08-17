@@ -1,5 +1,5 @@
 {
-  "versaoCatalogo": "cntp-br-2026-08-17-ddfedf7a8ab1b62e",
+  "versaoCatalogo": "cntp-br-2026-08-17-5212dc76adf4cf67",
   "dataCorte": "2026-08-17",
   "estadoGeral": "incompleto",
   "registros": [
@@ -546,6 +546,23 @@
       "canCalculate": true
     },
     {
+      "id": "genocidio-2889-2",
+      "name": "Associação para genocídio",
+      "article": "art. 2º",
+      "law": "Lei nº 2.889/1956",
+      "category": "Genocídio",
+      "minimum": 0,
+      "maximum": 0,
+      "penalty": "Metade da pena cominada aos crimes de genocídio.",
+      "keywords": [
+        "genocídio",
+        "associação"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l2889.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "drogas-35",
       "name": "Associação para o tráfico",
       "article": "art. 35",
@@ -647,6 +664,24 @@
         "propaganda"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "interceptacao-9296-10a",
+      "name": "Captação ambiental ilegal",
+      "article": "art. 10-A",
+      "law": "Lei nº 9.296/1996",
+      "category": "Interceptação de comunicações",
+      "minimum": 2,
+      "maximum": 4,
+      "penalty": "Reclusão, de 2 a 4 anos, e multa.",
+      "keywords": [
+        "captação ambiental",
+        "sinais",
+        "investigação"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9296.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -777,6 +812,24 @@
       "canCalculate": false
     },
     {
+      "id": "propriedade-industrial-9279-190",
+      "name": "Comércio de produto com marca ilícita",
+      "article": "art. 190",
+      "law": "Lei nº 9.279/1996",
+      "category": "Propriedade industrial",
+      "minimum": 0.08333333333333333,
+      "maximum": 0.25,
+      "penalty": "Detenção, de 1 a 3 meses, ou multa.",
+      "keywords": [
+        "marca",
+        "importação",
+        "comércio"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9279.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "armas-17",
       "name": "Comércio ilegal de arma de fogo",
       "article": "art. 17",
@@ -793,6 +846,24 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826compilado.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "ordem-economica-8176-1",
+      "name": "Comércio irregular de combustíveis",
+      "article": "art. 1º",
+      "law": "Lei nº 8.176/1991",
+      "category": "Ordem econômica",
+      "minimum": 1,
+      "maximum": 5,
+      "penalty": "Detenção, de 1 a 5 anos.",
+      "keywords": [
+        "combustíveis",
+        "petróleo",
+        "GLP"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8176.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "ambiental-46",
@@ -812,6 +883,42 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "propriedade-industrial-9279-188",
+      "name": "Comércio ou importação de produto com desenho industrial ilícito",
+      "article": "art. 188",
+      "law": "Lei nº 9.279/1996",
+      "category": "Propriedade industrial",
+      "minimum": 0.08333333333333333,
+      "maximum": 0.25,
+      "penalty": "Detenção, de 1 a 3 meses, ou multa.",
+      "keywords": [
+        "desenho industrial",
+        "importação",
+        "comércio"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9279.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "propriedade-industrial-9279-184",
+      "name": "Comércio ou importação de produto patenteado",
+      "article": "art. 184",
+      "law": "Lei nº 9.279/1996",
+      "category": "Propriedade industrial",
+      "minimum": 0.08333333333333333,
+      "maximum": 0.25,
+      "penalty": "Detenção, de 1 a 3 meses, ou multa.",
+      "keywords": [
+        "patente",
+        "importação",
+        "comércio"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9279.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "transplante-15",
@@ -864,6 +971,42 @@
         "concessão irregular"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "propriedade-industrial-9279-195",
+      "name": "Concorrência desleal",
+      "article": "art. 195",
+      "law": "Lei nº 9.279/1996",
+      "category": "Propriedade industrial",
+      "minimum": 0.25,
+      "maximum": 1,
+      "penalty": "detenção, de 3 meses a 1 ano, ou multa.",
+      "keywords": [
+        "concorrência desleal",
+        "segredo empresarial",
+        "clientela"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9279.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "parcelamento-6766-51",
+      "name": "Concurso para parcelamento urbano ilegal",
+      "article": "art. 51",
+      "law": "Lei nº 6.766/1979",
+      "category": "Parcelamento do solo urbano",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Penas cominadas ao art. 50, conforme a participação.",
+      "keywords": [
+        "loteamento",
+        "concurso",
+        "parcelamento"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l6766.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -1242,6 +1385,42 @@
       "canCalculate": true
     },
     {
+      "id": "economia-popular-1521-2",
+      "name": "Crimes contra a economia popular",
+      "article": "art. 2º",
+      "law": "Lei nº 1.521/1951",
+      "category": "Economia popular",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, e multa em unidade monetária histórica.",
+      "keywords": [
+        "economia popular",
+        "mercadoria",
+        "fraude"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l1521.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "economia-popular-1521-3",
+      "name": "Crimes contra a economia popular e a concorrência",
+      "article": "art. 3º",
+      "law": "Lei nº 1.521/1951",
+      "category": "Economia popular",
+      "minimum": 2,
+      "maximum": 10,
+      "penalty": "Detenção, de 2 a 10 anos, e multa em unidade monetária histórica.",
+      "keywords": [
+        "economia popular",
+        "concorrência",
+        "preços"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l1521.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "idosa-10741-100",
       "name": "Crimes funcionais contra direitos da pessoa idosa",
       "article": "art. 100",
@@ -1523,6 +1702,24 @@
       "canCalculate": true
     },
     {
+      "id": "telecom-9472-183",
+      "name": "Desenvolvimento clandestino de atividade de telecomunicação",
+      "article": "art. 183",
+      "law": "Lei nº 9.472/1997",
+      "category": "Telecomunicações",
+      "minimum": 2,
+      "maximum": 4,
+      "penalty": "Detenção, de 2 a 4 anos, aumentada da metade se houver dano a terceiro, e multa.",
+      "keywords": [
+        "telecomunicação",
+        "radiofrequência",
+        "clandestino"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9472.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "ambiental-50a",
       "name": "Desmatamento ou exploração ilegal em terras públicas",
       "article": "art. 50-A",
@@ -1697,6 +1894,25 @@
       "canCalculate": true
     },
     {
+      "id": "deficiencia-7853-8",
+      "name": "Discriminação contra pessoa com deficiência",
+      "article": "art. 8º",
+      "law": "Lei nº 7.853/1989",
+      "category": "Crimes contra pessoas com deficiência",
+      "minimum": 2,
+      "maximum": 5,
+      "penalty": "Reclusão, de 2 a 5 anos, e multa.",
+      "keywords": [
+        "deficiência",
+        "discriminação",
+        "educação",
+        "trabalho"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7853.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "lbi-88",
       "name": "Discriminação contra pessoa com deficiência",
       "article": "art. 88",
@@ -1730,6 +1946,24 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "hiv-12984-1",
+      "name": "Discriminação contra pessoa com HIV ou aids",
+      "article": "art. 1º",
+      "law": "Lei nº 12.984/2014",
+      "category": "Discriminação por HIV",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão, de 1 a 4 anos, e multa.",
+      "keywords": [
+        "HIV",
+        "aids",
+        "discriminação"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12984.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "idosa-10741-96",
@@ -1910,6 +2144,24 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7716.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "discriminacao-trabalho-9029-2",
+      "name": "Discriminação laboral por gravidez ou esterilização",
+      "article": "art. 2º",
+      "law": "Lei nº 9.029/1995",
+      "category": "Discriminação laboral",
+      "minimum": 1,
+      "maximum": 2,
+      "penalty": "Detenção, de 1 a 2 anos, e multa.",
+      "keywords": [
+        "gravidez",
+        "esterilização",
+        "trabalho"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9029.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "raciais-7716-3",
@@ -2355,6 +2607,23 @@
       "canCalculate": false
     },
     {
+      "id": "planejamento-familiar-9263-15",
+      "name": "Esterilização cirúrgica irregular",
+      "article": "art. 15",
+      "law": "Lei nº 9.263/1996",
+      "category": "Planejamento familiar",
+      "minimum": 2,
+      "maximum": 8,
+      "penalty": "Reclusão, de 2 a 8 anos, e multa.",
+      "keywords": [
+        "esterilização",
+        "planejamento familiar"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9263.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "cp-213",
       "name": "Estupro",
       "article": "art. 213, caput",
@@ -2566,6 +2835,24 @@
       "canCalculate": true
     },
     {
+      "id": "indigena-6001-58-ii",
+      "name": "Exibição lucrativa de indígena ou comunidade",
+      "article": "art. 58, II",
+      "law": "Lei nº 6.001/1973",
+      "category": "Crimes contra indígenas",
+      "minimum": 0.16666666666666666,
+      "maximum": 0.5,
+      "penalty": "Detenção, de 2 a 6 meses.",
+      "keywords": [
+        "indígena",
+        "propaganda",
+        "exibição"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "contravencao-3688-54",
       "name": "Exibição ou guarda de lista de sorteio",
       "article": "art. 54",
@@ -2579,6 +2866,23 @@
         "loteria"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "planejamento-familiar-9263-18",
+      "name": "Exigência de atestado de esterilização",
+      "article": "art. 18",
+      "law": "Lei nº 9.263/1996",
+      "category": "Planejamento familiar",
+      "minimum": 1,
+      "maximum": 2,
+      "penalty": "Reclusão, de 1 a 2 anos, e multa.",
+      "keywords": [
+        "esterilização",
+        "atestado"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9263.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -2652,6 +2956,24 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "nuclear-6453-25",
+      "name": "Exportação ou importação não licenciada de material nuclear",
+      "article": "art. 25",
+      "law": "Lei nº 6.453/1977",
+      "category": "Crimes nucleares",
+      "minimum": 2,
+      "maximum": 8,
+      "penalty": "Reclusão, de 2 a 8 anos.",
+      "keywords": [
+        "exportação",
+        "importação",
+        "material nuclear"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l6453.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "idosa-10741-99",
@@ -2777,6 +3099,40 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "nuclear-6453-24",
+      "name": "Extração ou comércio ilegal de minério nuclear",
+      "article": "art. 24",
+      "law": "Lei nº 6.453/1977",
+      "category": "Crimes nucleares",
+      "minimum": 2,
+      "maximum": 6,
+      "penalty": "Reclusão, de 2 a 6 anos.",
+      "keywords": [
+        "minério nuclear",
+        "extração"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l6453.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "propriedade-industrial-9279-187",
+      "name": "Fabricação de produto com desenho industrial ilícito",
+      "article": "art. 187",
+      "law": "Lei nº 9.279/1996",
+      "category": "Propriedade industrial",
+      "minimum": 0.25,
+      "maximum": 1,
+      "penalty": "detenção, de 3 meses a 1 ano, ou multa.",
+      "keywords": [
+        "desenho industrial",
+        "imitação"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9279.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "sfn-7492-2",
@@ -2917,6 +3273,23 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "propriedade-industrial-9279-192",
+      "name": "Falsa indicação geográfica",
+      "article": "art. 192",
+      "law": "Lei nº 9.279/1996",
+      "category": "Propriedade industrial",
+      "minimum": 0.08333333333333333,
+      "maximum": 0.25,
+      "penalty": "Detenção, de 1 a 3 meses, ou multa.",
+      "keywords": [
+        "indicação geográfica",
+        "produto"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9279.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "sfn-7492-10",
@@ -3130,6 +3503,24 @@
       "canCalculate": true
     },
     {
+      "id": "indigena-6001-58-iii",
+      "name": "Fornecimento de bebidas alcoólicas a indígenas",
+      "article": "art. 58, III",
+      "law": "Lei nº 6.001/1973",
+      "category": "Crimes contra indígenas",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos.",
+      "keywords": [
+        "indígena",
+        "bebida alcoólica",
+        "grupo tribal"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "eleitoral-4737-307",
       "name": "Fornecimento de cédula oficial marcada",
       "article": "art. 307",
@@ -3143,6 +3534,24 @@
         "voto"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "propriedade-industrial-9279-185",
+      "name": "Fornecimento de componente para processo patenteado",
+      "article": "art. 185",
+      "law": "Lei nº 9.279/1996",
+      "category": "Propriedade industrial",
+      "minimum": 0.08333333333333333,
+      "maximum": 0.25,
+      "penalty": "Detenção, de 1 a 3 meses, ou multa.",
+      "keywords": [
+        "patente",
+        "componente",
+        "processo"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9279.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -3391,6 +3800,93 @@
         "patrimônio militar"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del1001.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "genocidio-2889-1d",
+      "name": "Genocídio por impedimento de nascimentos",
+      "article": "art. 1º, d",
+      "law": "Lei nº 2.889/1956",
+      "category": "Genocídio",
+      "minimum": 3,
+      "maximum": 10,
+      "penalty": "Pena do art. 125 do Código Penal.",
+      "keywords": [
+        "genocídio",
+        "nascimentos"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l2889.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "genocidio-2889-1b",
+      "name": "Genocídio por lesão grave a membros do grupo",
+      "article": "art. 1º, b",
+      "law": "Lei nº 2.889/1956",
+      "category": "Genocídio",
+      "minimum": 2,
+      "maximum": 8,
+      "penalty": "Pena do art. 129, § 2º, do Código Penal.",
+      "keywords": [
+        "genocídio",
+        "lesão grave"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l2889.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "genocidio-2889-1a",
+      "name": "Genocídio por morte de membros do grupo",
+      "article": "art. 1º, a",
+      "law": "Lei nº 2.889/1956",
+      "category": "Genocídio",
+      "minimum": 12,
+      "maximum": 30,
+      "penalty": "Pena do art. 121, § 2º, do Código Penal.",
+      "keywords": [
+        "genocídio",
+        "grupo nacional",
+        "grupo étnico"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l2889.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "genocidio-2889-1c",
+      "name": "Genocídio por submissão a condições destrutivas",
+      "article": "art. 1º, c",
+      "law": "Lei nº 2.889/1956",
+      "category": "Genocídio",
+      "minimum": 0,
+      "maximum": 0,
+      "penalty": "Pena do art. 270 do Código Penal.",
+      "keywords": [
+        "genocídio",
+        "destruição física"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l2889.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "genocidio-2889-1e",
+      "name": "Genocídio por transferência forçada de crianças",
+      "article": "art. 1º, e",
+      "law": "Lei nº 2.889/1956",
+      "category": "Genocídio",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Pena do art. 148 do Código Penal.",
+      "keywords": [
+        "genocídio",
+        "criança",
+        "transferência forçada"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l2889.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -3677,6 +4173,23 @@
       "canCalculate": true
     },
     {
+      "id": "nuclear-6453-27",
+      "name": "Impedimento de instalação ou transporte nuclear",
+      "article": "art. 27",
+      "law": "Lei nº 6.453/1977",
+      "category": "Crimes nucleares",
+      "minimum": 4,
+      "maximum": 10,
+      "penalty": "Reclusão, de 4 a 10 anos.",
+      "keywords": [
+        "instalação nuclear",
+        "transporte"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l6453.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "abuso-autoridade-19",
       "name": "Impedimento de pleito de preso",
       "article": "art. 19",
@@ -3798,6 +4311,41 @@
       "canCalculate": false
     },
     {
+      "id": "genocidio-2889-3",
+      "name": "Incitação pública ao genocídio",
+      "article": "art. 3º",
+      "law": "Lei nº 2.889/1956",
+      "category": "Genocídio",
+      "minimum": 0,
+      "maximum": 0,
+      "penalty": "Metade das penas dos crimes incitados; pena integral se o crime incitado se consumar.",
+      "keywords": [
+        "genocídio",
+        "incitação"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l2889.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "propriedade-industrial-9279-194",
+      "name": "Indicação falsa de procedência",
+      "article": "art. 194",
+      "law": "Lei nº 9.279/1996",
+      "category": "Propriedade industrial",
+      "minimum": 0.08333333333333333,
+      "maximum": 0.25,
+      "penalty": "Detenção, de 1 a 3 meses, ou multa.",
+      "keywords": [
+        "procedência",
+        "marca",
+        "nome comercial"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9279.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "abuso-autoridade-36",
       "name": "Indisponibilidade excessiva de ativos",
       "article": "art. 36",
@@ -3884,6 +4432,24 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7492.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "planejamento-familiar-9263-17",
+      "name": "Indução ou instigação de esterilização",
+      "article": "art. 17",
+      "law": "Lei nº 9.263/1996",
+      "category": "Planejamento familiar",
+      "minimum": 1,
+      "maximum": 2,
+      "penalty": "Reclusão, de 1 a 2 anos.",
+      "keywords": [
+        "esterilização",
+        "indução",
+        "instigação"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9263.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "cp-123",
@@ -4019,6 +4585,24 @@
         "alistamento"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "interceptacao-9296-10",
+      "name": "Interceptação ou escuta ambiental ilegal",
+      "article": "art. 10",
+      "law": "Lei nº 9.296/1996",
+      "category": "Interceptação de comunicações",
+      "minimum": 2,
+      "maximum": 4,
+      "penalty": "Reclusão, de 2 a 4 anos, e multa.",
+      "keywords": [
+        "interceptação",
+        "escuta ambiental",
+        "segredo de Justiça"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9296.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -4757,6 +5341,24 @@
       "canCalculate": true
     },
     {
+      "id": "indigena-6001-58-i",
+      "name": "Ofensa ou perturbação de cultura indígena",
+      "article": "art. 58, I",
+      "law": "Lei nº 6.001/1973",
+      "category": "Crimes contra indígenas",
+      "minimum": 0.08333333333333333,
+      "maximum": 0.25,
+      "penalty": "Detenção, de 1 a 3 meses.",
+      "keywords": [
+        "cultura indígena",
+        "cerimônia",
+        "tradição"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "eca-229-culposa",
       "name": "Omissão culposa de identificação ou exames",
       "article": "art. 229, parágrafo único",
@@ -5023,6 +5625,23 @@
       "canCalculate": true
     },
     {
+      "id": "planejamento-familiar-9263-16",
+      "name": "Omissão de notificação de esterilização",
+      "article": "art. 16",
+      "law": "Lei nº 9.263/1996",
+      "category": "Planejamento familiar",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, e multa.",
+      "keywords": [
+        "esterilização",
+        "notificação sanitária"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9263.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "eleitoral-4737-338",
       "name": "Omissão de prioridade postal eleitoral",
       "article": "art. 338",
@@ -5236,6 +5855,23 @@
       "canCalculate": true
     },
     {
+      "id": "nuclear-6453-21",
+      "name": "Operação não autorizada de instalação nuclear",
+      "article": "art. 21",
+      "law": "Lei nº 6.453/1977",
+      "category": "Crimes nucleares",
+      "minimum": 2,
+      "maximum": 6,
+      "penalty": "Reclusão, de 2 a 6 anos.",
+      "keywords": [
+        "instalação nuclear",
+        "autorização"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l6453.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "org-2",
       "name": "Organização criminosa",
       "article": "art. 2º, caput",
@@ -5267,6 +5903,24 @@
         "terrorismo"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13260.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "parcelamento-6766-50",
+      "name": "Parcelamento urbano ilegal",
+      "article": "art. 50",
+      "law": "Lei nº 6.766/1979",
+      "category": "Parcelamento do solo urbano",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão, de 1 a 4 anos, e multa de 5 a 50 vezes o maior salário mínimo vigente.",
+      "keywords": [
+        "loteamento",
+        "desmembramento",
+        "solo urbano"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l6766.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -5676,6 +6330,24 @@
       "canCalculate": true
     },
     {
+      "id": "nuclear-6453-22",
+      "name": "Posse ou transporte não autorizado de material nuclear",
+      "article": "art. 22",
+      "law": "Lei nº 6.453/1977",
+      "category": "Crimes nucleares",
+      "minimum": 2,
+      "maximum": 6,
+      "penalty": "Reclusão, de 2 a 6 anos.",
+      "keywords": [
+        "material nuclear",
+        "posse",
+        "transporte"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l6453.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "drogas-38",
       "name": "Prescrição ou ministração culposa de drogas",
       "article": "art. 38",
@@ -6009,6 +6681,24 @@
       "canCalculate": true
     },
     {
+      "id": "parcelamento-6766-52",
+      "name": "Registro irregular de parcelamento urbano",
+      "article": "art. 52",
+      "law": "Lei nº 6.766/1979",
+      "category": "Parcelamento do solo urbano",
+      "minimum": 1,
+      "maximum": 2,
+      "penalty": "Detenção, de 1 a 2 anos, e multa de 5 a 50 vezes o maior salário mínimo vigente.",
+      "keywords": [
+        "registro",
+        "loteamento",
+        "desmembramento"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l6766.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "transplante-14-1",
       "name": "Remoção de tecidos ou órgãos mediante paga ou motivo torpe",
       "article": "art. 14, § 1º",
@@ -6097,6 +6787,24 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9434.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "propriedade-industrial-9279-189",
+      "name": "Reprodução ou alteração de marca registrada",
+      "article": "art. 189",
+      "law": "Lei nº 9.279/1996",
+      "category": "Propriedade industrial",
+      "minimum": 0.25,
+      "maximum": 1,
+      "penalty": "detenção, de 3 meses a 1 ano, ou multa.",
+      "keywords": [
+        "marca",
+        "reprodução",
+        "imitação"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9279.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "lbi-91",
@@ -6574,6 +7282,23 @@
       "canCalculate": false
     },
     {
+      "id": "nuclear-6453-23",
+      "name": "Transmissão ilícita de informação nuclear sigilosa",
+      "article": "art. 23",
+      "law": "Lei nº 6.453/1977",
+      "category": "Crimes nucleares",
+      "minimum": 4,
+      "maximum": 8,
+      "penalty": "Reclusão, de 4 a 8 anos.",
+      "keywords": [
+        "informação sigilosa",
+        "energia nuclear"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l6453.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "transplante-16",
       "name": "Transplante com material obtido ilicitamente",
       "article": "art. 16",
@@ -6646,6 +7371,23 @@
       "canCalculate": true
     },
     {
+      "id": "propriedade-industrial-9279-193",
+      "name": "Uso de indicação geográfica falsa ou retificativa",
+      "article": "art. 193",
+      "law": "Lei nº 9.279/1996",
+      "category": "Propriedade industrial",
+      "minimum": 0.08333333333333333,
+      "maximum": 0.25,
+      "penalty": "Detenção, de 1 a 3 meses, ou multa.",
+      "keywords": [
+        "indicação geográfica",
+        "procedência"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9279.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "eleitoral-4737-334",
       "name": "Uso de organização comercial para propaganda ou aliciamento",
       "article": "art. 334",
@@ -6698,6 +7440,41 @@
       "canCalculate": false
     },
     {
+      "id": "propriedade-industrial-9279-191",
+      "name": "Uso indevido de símbolos oficiais em marca",
+      "article": "art. 191",
+      "law": "Lei nº 9.279/1996",
+      "category": "Propriedade industrial",
+      "minimum": 0.08333333333333333,
+      "maximum": 0.25,
+      "penalty": "Detenção, de 1 a 3 meses, ou multa.",
+      "keywords": [
+        "marca",
+        "símbolo oficial",
+        "propaganda"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9279.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "nuclear-6453-20",
+      "name": "Uso não autorizado de material nuclear",
+      "article": "art. 20",
+      "law": "Lei nº 6.453/1977",
+      "category": "Crimes nucleares",
+      "minimum": 4,
+      "maximum": 10,
+      "penalty": "Reclusão, de 4 a 10 anos.",
+      "keywords": [
+        "material nuclear",
+        "energia nuclear"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l6453.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "ambiental-56",
       "name": "Uso ou circulação irregular de produto perigoso",
       "article": "art. 56, caput",
@@ -6714,6 +7491,42 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "economia-popular-1521-4",
+      "name": "Usura pecuniária ou real",
+      "article": "art. 4º",
+      "law": "Lei nº 1.521/1951",
+      "category": "Economia popular",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, e multa.",
+      "keywords": [
+        "usura",
+        "juros",
+        "economia popular"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l1521.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "ordem-economica-8176-2",
+      "name": "Usurpação de bens ou matéria-prima da União",
+      "article": "art. 2º",
+      "law": "Lei nº 8.176/1991",
+      "category": "Ordem econômica",
+      "minimum": 1,
+      "maximum": 5,
+      "penalty": "Detenção, de 1 a 5 anos e multa de 10 a 360 dias-multa.",
+      "keywords": [
+        "usurpação",
+        "matéria-prima",
+        "União"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l8176.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "contravencao-3688-59",
@@ -6815,6 +7628,41 @@
         "fechadura"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "nuclear-6453-26",
+      "name": "Violação de normas de segurança nuclear",
+      "article": "art. 26",
+      "law": "Lei nº 6.453/1977",
+      "category": "Crimes nucleares",
+      "minimum": 2,
+      "maximum": 8,
+      "penalty": "Reclusão, de 2 a 8 anos.",
+      "keywords": [
+        "segurança nuclear",
+        "perigo"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l6453.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "propriedade-industrial-9279-183",
+      "name": "Violação de patente por fabricação ou uso",
+      "article": "art. 183",
+      "law": "Lei nº 9.279/1996",
+      "category": "Propriedade industrial",
+      "minimum": 0.25,
+      "maximum": 1,
+      "penalty": "Detenção, de 3 meses a 1 ano, ou multa.",
+      "keywords": [
+        "patente",
+        "invenção",
+        "modelo de utilidade"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9279.htm",
       "validationState": "pendente",
       "canCalculate": false
     },

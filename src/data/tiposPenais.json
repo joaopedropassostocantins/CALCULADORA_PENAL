@@ -3,8 +3,8 @@
   "versaoCatalogo": "0.1.0-incremental",
   "dataCorte": "2026-08-17",
   "estadoGeral": "incompleto",
-  "identificadorVersao": "cntp-br-2026-08-17-ddfedf7a8ab1b62e",
-  "quantidadeTotalAtiva": 402,
+  "identificadorVersao": "cntp-br-2026-08-17-5212dc76adf4cf67",
+  "quantidadeTotalAtiva": 450,
   "quantidadePorModulo": {
     "Código Penal": 55,
     "Pessoa com deficiência": 5,
@@ -23,14 +23,27 @@
     "Crimes contra o sistema financeiro": 16,
     "Crimes falimentares": 11,
     "Crimes eleitorais": 39,
+    "Genocídio": 7,
     "Drogas": 8,
     "Terrorismo": 4,
+    "Interceptação de comunicações": 2,
+    "Propriedade industrial": 12,
     "Armas": 7,
+    "Ordem econômica": 2,
+    "Parcelamento do solo urbano": 3,
     "Código Penal Militar": 8,
     "Crimes tributários": 4,
     "Crimes contra o consumo": 1,
+    "Economia popular": 3,
     "Lei Henry Borel": 2,
+    "Telecomunicações": 1,
     "Crimes raciais": 18,
+    "Crimes contra pessoas com deficiência": 1,
+    "Discriminação por HIV": 1,
+    "Discriminação laboral": 1,
+    "Planejamento familiar": 4,
+    "Crimes contra indígenas": 3,
+    "Crimes nucleares": 8,
     "Lavagem de dinheiro": 1,
     "Crimes de tortura": 4
   },
@@ -38,7 +51,7 @@
   "fontesAuditadas": 4,
   "registrosInventariados": 212,
   "registrosEnriquecidos": 0,
-  "registrosPendentes": 190,
+  "registrosPendentes": 238,
   "modulosPendentes": [
     "1 Codificações e diplomas estruturantes",
     "2 Núcleo da legislação penal especial",
@@ -24059,6 +24072,2870 @@
         "ajuste",
         "violência",
         "crime organizado"
+      ]
+    },
+    {
+      "id": "genocidio-2889-1a",
+      "nomeJuridico": "Genocídio por morte de membros do grupo",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Genocídio",
+      "norma": "Lei nº 2.889/1956",
+      "dispositivo": "art. 1º, a",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Matar membros de grupo nacional, étnico, racial ou religioso com intenção de destruí-lo total ou parcialmente.",
+      "pena": {
+        "minimoMeses": 144,
+        "maximoMeses": 360,
+        "unidadePrincipal": "meses",
+        "descricao": "Pena do art. 121, § 2º, do Código Penal.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "A pena é remetida ao Código Penal e deve ser reconciliada com sua redação vigente."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l2889.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 2.889/1956"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "genocídio",
+        "grupo nacional",
+        "grupo étnico"
+      ]
+    },
+    {
+      "id": "genocidio-2889-1b",
+      "nomeJuridico": "Genocídio por lesão grave a membros do grupo",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Genocídio",
+      "norma": "Lei nº 2.889/1956",
+      "dispositivo": "art. 1º, b",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Causar lesão grave à integridade física ou mental de membros do grupo com intenção genocida.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 96,
+        "unidadePrincipal": "meses",
+        "descricao": "Pena do art. 129, § 2º, do Código Penal.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "A pena é remetida ao Código Penal e deve ser reconciliada com sua redação vigente."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l2889.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 2.889/1956"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "genocídio",
+        "lesão grave"
+      ]
+    },
+    {
+      "id": "genocidio-2889-1c",
+      "nomeJuridico": "Genocídio por submissão a condições destrutivas",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Genocídio",
+      "norma": "Lei nº 2.889/1956",
+      "dispositivo": "art. 1º, c",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Submeter intencionalmente o grupo a condições de existência capazes de ocasionar sua destruição física total ou parcial.",
+      "pena": {
+        "minimoMeses": null,
+        "maximoMeses": null,
+        "unidadePrincipal": "meses",
+        "descricao": "Pena do art. 270 do Código Penal.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Pena por remissão legal; cálculo bloqueado até modelagem específica."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l2889.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 2.889/1956"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "genocídio",
+        "destruição física"
+      ]
+    },
+    {
+      "id": "genocidio-2889-1d",
+      "nomeJuridico": "Genocídio por impedimento de nascimentos",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Genocídio",
+      "norma": "Lei nº 2.889/1956",
+      "dispositivo": "art. 1º, d",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Adotar medidas destinadas a impedir os nascimentos no seio do grupo com intenção genocida.",
+      "pena": {
+        "minimoMeses": 36,
+        "maximoMeses": 120,
+        "unidadePrincipal": "meses",
+        "descricao": "Pena do art. 125 do Código Penal.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Pena por remissão legal; cálculo bloqueado até reconciliação."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l2889.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 2.889/1956"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "genocídio",
+        "nascimentos"
+      ]
+    },
+    {
+      "id": "genocidio-2889-1e",
+      "nomeJuridico": "Genocídio por transferência forçada de crianças",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Genocídio",
+      "norma": "Lei nº 2.889/1956",
+      "dispositivo": "art. 1º, e",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Efetuar transferência forçada de crianças do grupo para outro grupo com intenção genocida.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Pena do art. 148 do Código Penal.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Pena por remissão legal; cálculo bloqueado até reconciliação."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l2889.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 2.889/1956"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "genocídio",
+        "criança",
+        "transferência forçada"
+      ]
+    },
+    {
+      "id": "genocidio-2889-2",
+      "nomeJuridico": "Associação para genocídio",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Genocídio",
+      "norma": "Lei nº 2.889/1956",
+      "dispositivo": "art. 2º",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Associarem-se mais de três pessoas para a prática dos crimes de genocídio.",
+      "pena": {
+        "minimoMeses": null,
+        "maximoMeses": null,
+        "unidadePrincipal": "meses",
+        "descricao": "Metade da pena cominada aos crimes de genocídio.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Pena variável por remissão e fração legal."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l2889.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 2.889/1956"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "genocídio",
+        "associação"
+      ]
+    },
+    {
+      "id": "genocidio-2889-3",
+      "nomeJuridico": "Incitação pública ao genocídio",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Genocídio",
+      "norma": "Lei nº 2.889/1956",
+      "dispositivo": "art. 3º",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Incitar direta e publicamente alguém a cometer crime de genocídio.",
+      "pena": {
+        "minimoMeses": null,
+        "maximoMeses": null,
+        "unidadePrincipal": "meses",
+        "descricao": "Metade das penas dos crimes incitados; pena integral se o crime incitado se consumar.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Pena variável por remissão e resultado."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l2889.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 2.889/1956"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "genocídio",
+        "incitação"
+      ]
+    },
+    {
+      "id": "economia-popular-1521-2",
+      "nomeJuridico": "Crimes contra a economia popular",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Economia popular",
+      "norma": "Lei nº 1.521/1951",
+      "dispositivo": "art. 2º",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Praticar qualquer das condutas do art. 2º, incluindo sonegação de mercadorias, fraude de pesos e medidas, venda acima de tabelas e processos fraudulentos contra o povo.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 24,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 2 anos, e multa em unidade monetária histórica.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Pena pecuniária histórica pendente de normalização monetária."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l1521.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 1.521/1951"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "economia popular",
+        "mercadoria",
+        "fraude"
+      ]
+    },
+    {
+      "id": "economia-popular-1521-3",
+      "nomeJuridico": "Crimes contra a economia popular e a concorrência",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Economia popular",
+      "norma": "Lei nº 1.521/1951",
+      "dispositivo": "art. 3º",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Praticar condutas do art. 3º, incluindo destruição de produtos para alta de preços, cartel, retenção de matérias-primas e gestão fraudulenta ou temerária.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 120,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 2 a 10 anos, e multa em unidade monetária histórica.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Pena pecuniária histórica pendente de normalização monetária."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l1521.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 1.521/1951"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "economia popular",
+        "concorrência",
+        "preços"
+      ]
+    },
+    {
+      "id": "economia-popular-1521-4",
+      "nomeJuridico": "Usura pecuniária ou real",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Economia popular",
+      "norma": "Lei nº 1.521/1951",
+      "dispositivo": "art. 4º",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Cobrar juros ou lucros usurários ou obter lucro patrimonial abusivo em situação de necessidade, inexperiência ou leviandade da outra parte.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 24,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 2 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Pena pecuniária histórica pendente de normalização monetária."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l1521.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 1.521/1951"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "usura",
+        "juros",
+        "economia popular"
+      ]
+    },
+    {
+      "id": "ordem-economica-8176-1",
+      "nomeJuridico": "Comércio irregular de combustíveis",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Ordem econômica",
+      "norma": "Lei nº 8.176/1991",
+      "dispositivo": "art. 1º",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Adquirir, distribuir ou revender derivados de petróleo, gás natural, álcool carburante ou combustíveis líquidos em desacordo com as normas legais; ou usar GLP para fins automotivos em desacordo com a lei.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 60,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 5 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Redação do inciso II alterada pela Lei nº 15.348/2026; aguarda reconferência temporal."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l8176.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 8.176/1991"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "combustíveis",
+        "petróleo",
+        "GLP"
+      ]
+    },
+    {
+      "id": "ordem-economica-8176-2",
+      "nomeJuridico": "Usurpação de bens ou matéria-prima da União",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Ordem econômica",
+      "norma": "Lei nº 8.176/1991",
+      "dispositivo": "art. 2º",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Produzir bens ou explorar matéria-prima pertencentes à União sem autorização legal ou em desacordo com obrigações do título autorizativo, incluindo adquirir, transportar, industrializar, possuir, consumir ou comercializar os produtos.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 60,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 5 anos e multa de 10 a 360 dias-multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Pena pecuniária em dias-multa; cálculo bloqueado até suporte específico."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l8176.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 8.176/1991"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "usurpação",
+        "matéria-prima",
+        "União"
+      ]
+    },
+    {
+      "id": "hiv-12984-1",
+      "nomeJuridico": "Discriminação contra pessoa com HIV ou aids",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Discriminação por HIV",
+      "norma": "Lei nº 12.984/2014",
+      "dispositivo": "art. 1º",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Recusar, retardar, cancelar, segregar ou impedir ensino; negar emprego; exonerar ou demitir; segregar no trabalho ou escola; divulgar condição para ofender dignidade; ou recusar ou retardar atendimento de saúde por condição de HIV ou aids.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 4 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo localizado em fonte oficial; cálculo bloqueado até auditoria de vigência e enriquecimento jurídico."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12984.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 12.984/2014"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "HIV",
+        "aids",
+        "discriminação"
+      ]
+    },
+    {
+      "id": "interceptacao-9296-10",
+      "nomeJuridico": "Interceptação ou escuta ambiental ilegal",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Interceptação de comunicações",
+      "norma": "Lei nº 9.296/1996",
+      "dispositivo": "art. 10",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Realizar interceptação de comunicações telefônicas, informáticas ou telemáticas, promover escuta ambiental ou quebrar segredo da Justiça sem autorização judicial ou com objetivo não autorizado em lei.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 4 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Redação atual inclui escuta ambiental e autoridade judicial no parágrafo único, conforme Lei nº 13.869/2019."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9296.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.296/1996"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "interceptação",
+        "escuta ambiental",
+        "segredo de Justiça"
+      ]
+    },
+    {
+      "id": "interceptacao-9296-10a",
+      "nomeJuridico": "Captação ambiental ilegal",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Interceptação de comunicações",
+      "norma": "Lei nº 9.296/1996",
+      "dispositivo": "art. 10-A",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Realizar captação ambiental de sinais eletromagnéticos, ópticos ou acústicos sem autorização judicial quando exigida.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 4 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo localizado em fonte oficial; cálculo bloqueado até auditoria de vigência e enriquecimento jurídico."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9296.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.296/1996"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "captação ambiental",
+        "sinais",
+        "investigação"
+      ]
+    },
+    {
+      "id": "telecom-9472-183",
+      "nomeJuridico": "Desenvolvimento clandestino de atividade de telecomunicação",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Telecomunicações",
+      "norma": "Lei nº 9.472/1997",
+      "dispositivo": "art. 183",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Desenvolver clandestinamente atividades de telecomunicação.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 2 a 4 anos, aumentada da metade se houver dano a terceiro, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo localizado em fonte oficial; cálculo bloqueado até auditoria de vigência e enriquecimento jurídico."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9472.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.472/1997"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "telecomunicação",
+        "radiofrequência",
+        "clandestino"
+      ]
+    },
+    {
+      "id": "discriminacao-trabalho-9029-2",
+      "nomeJuridico": "Discriminação laboral por gravidez ou esterilização",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Discriminação laboral",
+      "norma": "Lei nº 9.029/1995",
+      "dispositivo": "art. 2º",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Exigir teste ou procedimento relativo à esterilização ou gravidez, ou adotar medidas de indução ou instigação à esterilização genética ou controle de natalidade nas hipóteses legais.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 24,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 2 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo localizado em fonte oficial; cálculo bloqueado até auditoria de vigência e enriquecimento jurídico."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9029.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.029/1995"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "gravidez",
+        "esterilização",
+        "trabalho"
+      ]
+    },
+    {
+      "id": "nuclear-6453-20",
+      "nomeJuridico": "Uso não autorizado de material nuclear",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes nucleares",
+      "norma": "Lei nº 6.453/1977",
+      "dispositivo": "art. 20",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Produzir, processar, fornecer ou usar material nuclear sem autorização necessária ou para fim diverso do permitido em lei.",
+      "pena": {
+        "minimoMeses": 48,
+        "maximoMeses": 120,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 4 a 10 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo localizado em fonte oficial; cálculo bloqueado até auditoria de vigência, competência e enriquecimento jurídico."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l6453.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 6.453/1977"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "material nuclear",
+        "energia nuclear"
+      ]
+    },
+    {
+      "id": "nuclear-6453-21",
+      "nomeJuridico": "Operação não autorizada de instalação nuclear",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes nucleares",
+      "norma": "Lei nº 6.453/1977",
+      "dispositivo": "art. 21",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Permitir o responsável pela instalação nuclear sua operação sem a necessária autorização.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 72,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 6 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo localizado em fonte oficial; cálculo bloqueado até auditoria de vigência, competência e enriquecimento jurídico."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l6453.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 6.453/1977"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "instalação nuclear",
+        "autorização"
+      ]
+    },
+    {
+      "id": "nuclear-6453-22",
+      "nomeJuridico": "Posse ou transporte não autorizado de material nuclear",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes nucleares",
+      "norma": "Lei nº 6.453/1977",
+      "dispositivo": "art. 22",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Possuir, adquirir, transferir, transportar, guardar ou trazer consigo material nuclear sem autorização necessária.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 72,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 6 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo localizado em fonte oficial; cálculo bloqueado até auditoria de vigência, competência e enriquecimento jurídico."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l6453.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 6.453/1977"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "material nuclear",
+        "posse",
+        "transporte"
+      ]
+    },
+    {
+      "id": "nuclear-6453-23",
+      "nomeJuridico": "Transmissão ilícita de informação nuclear sigilosa",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes nucleares",
+      "norma": "Lei nº 6.453/1977",
+      "dispositivo": "art. 23",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Transmitir ilicitamente informações sigilosas concernentes à energia nuclear.",
+      "pena": {
+        "minimoMeses": 48,
+        "maximoMeses": 96,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 4 a 8 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo localizado em fonte oficial; cálculo bloqueado até auditoria de vigência, competência e enriquecimento jurídico."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l6453.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 6.453/1977"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "informação sigilosa",
+        "energia nuclear"
+      ]
+    },
+    {
+      "id": "nuclear-6453-24",
+      "nomeJuridico": "Extração ou comércio ilegal de minério nuclear",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes nucleares",
+      "norma": "Lei nº 6.453/1977",
+      "dispositivo": "art. 24",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Extrair, beneficiar ou comerciar ilegalmente minério nuclear.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 72,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 6 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo localizado em fonte oficial; cálculo bloqueado até auditoria de vigência, competência e enriquecimento jurídico."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l6453.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 6.453/1977"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "minério nuclear",
+        "extração"
+      ]
+    },
+    {
+      "id": "nuclear-6453-25",
+      "nomeJuridico": "Exportação ou importação não licenciada de material nuclear",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes nucleares",
+      "norma": "Lei nº 6.453/1977",
+      "dispositivo": "art. 25",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Exportar ou importar sem licença material nuclear, minérios nucleares ou materiais de interesse para energia nuclear.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 96,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 8 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo localizado em fonte oficial; cálculo bloqueado até auditoria de vigência, competência e enriquecimento jurídico."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l6453.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 6.453/1977"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "exportação",
+        "importação",
+        "material nuclear"
+      ]
+    },
+    {
+      "id": "nuclear-6453-26",
+      "nomeJuridico": "Violação de normas de segurança nuclear",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes nucleares",
+      "norma": "Lei nº 6.453/1977",
+      "dispositivo": "art. 26",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Deixar de observar normas de segurança ou proteção relativas à instalação, uso, transporte, posse ou guarda de material nuclear, expondo alguém a perigo.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 96,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 8 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo localizado em fonte oficial; cálculo bloqueado até auditoria de vigência, competência e enriquecimento jurídico."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l6453.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 6.453/1977"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "segurança nuclear",
+        "perigo"
+      ]
+    },
+    {
+      "id": "nuclear-6453-27",
+      "nomeJuridico": "Impedimento de instalação ou transporte nuclear",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes nucleares",
+      "norma": "Lei nº 6.453/1977",
+      "dispositivo": "art. 27",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Impedir ou dificultar o funcionamento de instalação nuclear ou o transporte de material nuclear.",
+      "pena": {
+        "minimoMeses": 48,
+        "maximoMeses": 120,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 4 a 10 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo localizado em fonte oficial; cálculo bloqueado até auditoria de vigência, competência e enriquecimento jurídico."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l6453.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 6.453/1977"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "instalação nuclear",
+        "transporte"
+      ]
+    },
+    {
+      "id": "indigena-6001-58-i",
+      "nomeJuridico": "Ofensa ou perturbação de cultura indígena",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes contra indígenas",
+      "norma": "Lei nº 6.001/1973",
+      "dispositivo": "art. 58, I",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Escarnecer de cerimônia, rito, uso, costume ou tradição cultural indígena, vilipendiá-los ou perturbar sua prática.",
+      "pena": {
+        "minimoMeses": 1,
+        "maximoMeses": 3,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 3 meses.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo localizado em fonte oficial; cálculo bloqueado até auditoria de vigência, competência e enriquecimento jurídico."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 6.001/1973"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "cultura indígena",
+        "cerimônia",
+        "tradição"
+      ]
+    },
+    {
+      "id": "indigena-6001-58-ii",
+      "nomeJuridico": "Exibição lucrativa de indígena ou comunidade",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes contra indígenas",
+      "norma": "Lei nº 6.001/1973",
+      "dispositivo": "art. 58, II",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Utilizar indígena ou comunidade indígena como objeto de propaganda turística ou de exibição para fins lucrativos.",
+      "pena": {
+        "minimoMeses": 2,
+        "maximoMeses": 6,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 2 a 6 meses.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo localizado em fonte oficial; cálculo bloqueado até auditoria de vigência, competência e enriquecimento jurídico."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 6.001/1973"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "indígena",
+        "propaganda",
+        "exibição"
+      ]
+    },
+    {
+      "id": "indigena-6001-58-iii",
+      "nomeJuridico": "Fornecimento de bebidas alcoólicas a indígenas",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes contra indígenas",
+      "norma": "Lei nº 6.001/1973",
+      "dispositivo": "art. 58, III",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Propiciar aquisição, uso ou disseminação de bebidas alcoólicas em grupos tribais ou entre indígenas não integrados.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 24,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 2 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo localizado em fonte oficial; cálculo bloqueado até auditoria de vigência, competência e enriquecimento jurídico."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 6.001/1973"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "indígena",
+        "bebida alcoólica",
+        "grupo tribal"
+      ]
+    },
+    {
+      "id": "parcelamento-6766-50",
+      "nomeJuridico": "Parcelamento urbano ilegal",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Parcelamento do solo urbano",
+      "norma": "Lei nº 6.766/1979",
+      "dispositivo": "art. 50",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Dar início ou efetuar loteamento ou desmembramento urbano sem autorização, em desacordo com a lei ou licença, ou fazer afirmação falsa sobre sua legalidade.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 4 anos, e multa de 5 a 50 vezes o maior salário mínimo vigente.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime localizado em texto compilado oficial; multa calculada em múltiplos de salário mínimo e participação acessória exigem modelagem específica."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l6766.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 6.766/1979"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "loteamento",
+        "desmembramento",
+        "solo urbano"
+      ]
+    },
+    {
+      "id": "parcelamento-6766-51",
+      "nomeJuridico": "Concurso para parcelamento urbano ilegal",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Parcelamento do solo urbano",
+      "norma": "Lei nº 6.766/1979",
+      "dispositivo": "art. 51",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Concorrer para a prática dos crimes do art. 50, especialmente como mandatário de loteador, diretor ou gerente de sociedade.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Penas cominadas ao art. 50, conforme a participação.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime localizado em texto compilado oficial; multa calculada em múltiplos de salário mínimo e participação acessória exigem modelagem específica."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l6766.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 6.766/1979"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "loteamento",
+        "concurso",
+        "parcelamento"
+      ]
+    },
+    {
+      "id": "parcelamento-6766-52",
+      "nomeJuridico": "Registro irregular de parcelamento urbano",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Parcelamento do solo urbano",
+      "norma": "Lei nº 6.766/1979",
+      "dispositivo": "art. 52",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Registrar loteamento ou desmembramento não aprovado, registrar compromisso ou cessão relativa a parcelamento não registrado ou efetuar registro de contrato de venda irregular.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 24,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 2 anos, e multa de 5 a 50 vezes o maior salário mínimo vigente.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime localizado em texto compilado oficial; multa calculada em múltiplos de salário mínimo e participação acessória exigem modelagem específica."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l6766.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 6.766/1979"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "registro",
+        "loteamento",
+        "desmembramento"
+      ]
+    },
+    {
+      "id": "deficiencia-7853-8",
+      "nomeJuridico": "Discriminação contra pessoa com deficiência",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Crimes contra pessoas com deficiência",
+      "norma": "Lei nº 7.853/1989",
+      "dispositivo": "art. 8º",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Recusar, cobrar valor adicional, suspender, procrastinar ou cancelar matrícula; obstar concurso ou emprego público; negar emprego ou promoção; recusar assistência de saúde; descumprir ordem judicial; ou omitir dados técnicos por motivo de deficiência.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 60,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 5 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "A redação vigente foi alterada pela Lei nº 13.146/2015 e a lei recebeu atualização terminológica em 2025."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l7853.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 7.853/1989"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "deficiência",
+        "discriminação",
+        "educação",
+        "trabalho"
+      ]
+    },
+    {
+      "id": "planejamento-familiar-9263-15",
+      "nomeJuridico": "Esterilização cirúrgica irregular",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Planejamento familiar",
+      "norma": "Lei nº 9.263/1996",
+      "dispositivo": "art. 15",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Realizar esterilização cirúrgica em desacordo com o art. 10 da Lei de Planejamento Familiar.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 96,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 8 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo localizado em fonte oficial; cálculo bloqueado até auditoria da redação vigente e enriquecimento jurídico."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9263.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.263/1996"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "esterilização",
+        "planejamento familiar"
+      ]
+    },
+    {
+      "id": "planejamento-familiar-9263-16",
+      "nomeJuridico": "Omissão de notificação de esterilização",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Planejamento familiar",
+      "norma": "Lei nº 9.263/1996",
+      "dispositivo": "art. 16",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Deixar o médico de notificar à autoridade sanitária as esterilizações cirúrgicas realizadas.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 24,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 2 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo localizado em fonte oficial; cálculo bloqueado até auditoria da redação vigente e enriquecimento jurídico."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9263.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.263/1996"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "esterilização",
+        "notificação sanitária"
+      ]
+    },
+    {
+      "id": "planejamento-familiar-9263-17",
+      "nomeJuridico": "Indução ou instigação de esterilização",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Planejamento familiar",
+      "norma": "Lei nº 9.263/1996",
+      "dispositivo": "art. 17",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Induzir ou instigar dolosamente a prática de esterilização cirúrgica.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 24,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 2 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo localizado em fonte oficial; cálculo bloqueado até auditoria da redação vigente e enriquecimento jurídico."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9263.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.263/1996"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "esterilização",
+        "indução",
+        "instigação"
+      ]
+    },
+    {
+      "id": "planejamento-familiar-9263-18",
+      "nomeJuridico": "Exigência de atestado de esterilização",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Planejamento familiar",
+      "norma": "Lei nº 9.263/1996",
+      "dispositivo": "art. 18",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Exigir atestado de esterilização para qualquer fim.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 24,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 2 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo localizado em fonte oficial; cálculo bloqueado até auditoria da redação vigente e enriquecimento jurídico."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9263.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.263/1996"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "esterilização",
+        "atestado"
+      ]
+    },
+    {
+      "id": "propriedade-industrial-9279-183",
+      "nomeJuridico": "Violação de patente por fabricação ou uso",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Propriedade industrial",
+      "norma": "Lei nº 9.279/1996",
+      "dispositivo": "art. 183",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Fabricar produto objeto de patente de invenção ou modelo de utilidade, ou usar meio ou processo patenteado, sem autorização do titular.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 1 ano, ou multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime localizado no capítulo penal da fonte oficial compilada; cálculo bloqueado até auditoria de elementos, tentativa, ação penal e multa."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9279.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.279/1996"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "patente",
+        "invenção",
+        "modelo de utilidade"
+      ]
+    },
+    {
+      "id": "propriedade-industrial-9279-184",
+      "nomeJuridico": "Comércio ou importação de produto patenteado",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Propriedade industrial",
+      "norma": "Lei nº 9.279/1996",
+      "dispositivo": "art. 184",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Exportar, vender, oferecer, manter em estoque, ocultar, receber ou importar produto fabricado ou obtido com violação de patente para fins econômicos.",
+      "pena": {
+        "minimoMeses": 1,
+        "maximoMeses": 3,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 3 meses, ou multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime localizado no capítulo penal da fonte oficial compilada; cálculo bloqueado até auditoria de elementos, tentativa, ação penal e multa."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9279.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.279/1996"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "patente",
+        "importação",
+        "comércio"
+      ]
+    },
+    {
+      "id": "propriedade-industrial-9279-185",
+      "nomeJuridico": "Fornecimento de componente para processo patenteado",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Propriedade industrial",
+      "norma": "Lei nº 9.279/1996",
+      "dispositivo": "art. 185",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Fornecer componente, material ou equipamento cuja aplicação final necessariamente induza à exploração de objeto de patente.",
+      "pena": {
+        "minimoMeses": 1,
+        "maximoMeses": 3,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 3 meses, ou multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime localizado no capítulo penal da fonte oficial compilada; cálculo bloqueado até auditoria de elementos, tentativa, ação penal e multa."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9279.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.279/1996"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "patente",
+        "componente",
+        "processo"
+      ]
+    },
+    {
+      "id": "propriedade-industrial-9279-187",
+      "nomeJuridico": "Fabricação de produto com desenho industrial ilícito",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Propriedade industrial",
+      "norma": "Lei nº 9.279/1996",
+      "dispositivo": "art. 187",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Fabricar, sem autorização do titular, produto que incorpore desenho industrial registrado ou imitação substancial capaz de induzir erro ou confusão.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "detenção, de 3 meses a 1 ano, ou multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime localizado no capítulo penal da fonte oficial compilada; cálculo bloqueado até auditoria de elementos, tentativa, ação penal e multa."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9279.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.279/1996"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "desenho industrial",
+        "imitação"
+      ]
+    },
+    {
+      "id": "propriedade-industrial-9279-188",
+      "nomeJuridico": "Comércio ou importação de produto com desenho industrial ilícito",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Propriedade industrial",
+      "norma": "Lei nº 9.279/1996",
+      "dispositivo": "art. 188",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Exportar, vender, oferecer, manter em estoque, ocultar, receber ou importar objeto que incorpore ilicitamente desenho industrial ou imitação substancial.",
+      "pena": {
+        "minimoMeses": 1,
+        "maximoMeses": 3,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 3 meses, ou multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime localizado no capítulo penal da fonte oficial compilada; cálculo bloqueado até auditoria de elementos, tentativa, ação penal e multa."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9279.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.279/1996"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "desenho industrial",
+        "importação",
+        "comércio"
+      ]
+    },
+    {
+      "id": "propriedade-industrial-9279-189",
+      "nomeJuridico": "Reprodução ou alteração de marca registrada",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Propriedade industrial",
+      "norma": "Lei nº 9.279/1996",
+      "dispositivo": "art. 189",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Reproduzir ou imitar marca registrada sem autorização, ou alterar marca registrada de outrem já aposta em produto colocado no mercado.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "detenção, de 3 meses a 1 ano, ou multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime localizado no capítulo penal da fonte oficial compilada; cálculo bloqueado até auditoria de elementos, tentativa, ação penal e multa."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9279.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.279/1996"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "marca",
+        "reprodução",
+        "imitação"
+      ]
+    },
+    {
+      "id": "propriedade-industrial-9279-190",
+      "nomeJuridico": "Comércio de produto com marca ilícita",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Propriedade industrial",
+      "norma": "Lei nº 9.279/1996",
+      "dispositivo": "art. 190",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Importar, exportar, vender, oferecer, expor, ocultar ou manter em estoque produto com marca ilicitamente reproduzida ou embalagem com marca legítima de outrem.",
+      "pena": {
+        "minimoMeses": 1,
+        "maximoMeses": 3,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 3 meses, ou multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime localizado no capítulo penal da fonte oficial compilada; cálculo bloqueado até auditoria de elementos, tentativa, ação penal e multa."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9279.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.279/1996"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "marca",
+        "importação",
+        "comércio"
+      ]
+    },
+    {
+      "id": "propriedade-industrial-9279-191",
+      "nomeJuridico": "Uso indevido de símbolos oficiais em marca",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Propriedade industrial",
+      "norma": "Lei nº 9.279/1996",
+      "dispositivo": "art. 191",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Reproduzir ou imitar armas, brasões ou distintivos oficiais em marca, nome comercial, insígnia ou propaganda, ou vender produto assim assinalado.",
+      "pena": {
+        "minimoMeses": 1,
+        "maximoMeses": 3,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 3 meses, ou multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime localizado no capítulo penal da fonte oficial compilada; cálculo bloqueado até auditoria de elementos, tentativa, ação penal e multa."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9279.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.279/1996"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "marca",
+        "símbolo oficial",
+        "propaganda"
+      ]
+    },
+    {
+      "id": "propriedade-industrial-9279-192",
+      "nomeJuridico": "Falsa indicação geográfica",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Propriedade industrial",
+      "norma": "Lei nº 9.279/1996",
+      "dispositivo": "art. 192",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Fabricar, importar, exportar, vender, expor, oferecer ou manter em estoque produto com falsa indicação geográfica.",
+      "pena": {
+        "minimoMeses": 1,
+        "maximoMeses": 3,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 3 meses, ou multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime localizado no capítulo penal da fonte oficial compilada; cálculo bloqueado até auditoria de elementos, tentativa, ação penal e multa."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9279.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.279/1996"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "indicação geográfica",
+        "produto"
+      ]
+    },
+    {
+      "id": "propriedade-industrial-9279-193",
+      "nomeJuridico": "Uso de indicação geográfica falsa ou retificativa",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Propriedade industrial",
+      "norma": "Lei nº 9.279/1996",
+      "dispositivo": "art. 193",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Usar termos retificativos que não ressalvem a verdadeira procedência do produto.",
+      "pena": {
+        "minimoMeses": 1,
+        "maximoMeses": 3,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 3 meses, ou multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime localizado no capítulo penal da fonte oficial compilada; cálculo bloqueado até auditoria de elementos, tentativa, ação penal e multa."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9279.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.279/1996"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "indicação geográfica",
+        "procedência"
+      ]
+    },
+    {
+      "id": "propriedade-industrial-9279-194",
+      "nomeJuridico": "Indicação falsa de procedência",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Propriedade industrial",
+      "norma": "Lei nº 9.279/1996",
+      "dispositivo": "art. 194",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Usar marca, nome comercial, título de estabelecimento, insígnia ou sinal que indique procedência diversa da verdadeira, ou vender produto com esses sinais.",
+      "pena": {
+        "minimoMeses": 1,
+        "maximoMeses": 3,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 3 meses, ou multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime localizado no capítulo penal da fonte oficial compilada; cálculo bloqueado até auditoria de elementos, tentativa, ação penal e multa."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9279.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.279/1996"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "procedência",
+        "marca",
+        "nome comercial"
+      ]
+    },
+    {
+      "id": "propriedade-industrial-9279-195",
+      "nomeJuridico": "Concorrência desleal",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Propriedade industrial",
+      "norma": "Lei nº 9.279/1996",
+      "dispositivo": "art. 195",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Publicar falsa afirmação, desviar clientela por fraude, usar sinais alheios, corromper empregado de concorrente, violar segredo empresarial ou divulgar dados de testes não divulgados, entre outras condutas legais.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "detenção, de 3 meses a 1 ano, ou multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": null,
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime localizado no capítulo penal da fonte oficial compilada; cálculo bloqueado até auditoria de elementos, tentativa, ação penal e multa."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9279.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 9.279/1996"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": null,
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "concorrência desleal",
+        "segredo empresarial",
+        "clientela"
       ]
     }
   ]

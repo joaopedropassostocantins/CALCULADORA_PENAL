@@ -1,6 +1,6 @@
 # Relatório de cobertura do catálogo penal
 
-Data de corte: **2026-08-17**. Identificador: **cntp-br-2026-08-17-ddfedf7a8ab1b62e**.
+Data de corte: **2026-08-17**. Identificador: **cntp-br-2026-08-17-5212dc76adf4cf67**.
 
 > O estado global permanece **incompleto**. A carga abaixo é um checkpoint auditável; ela não declara conter todos os tipos penais vigentes.
 
@@ -8,12 +8,12 @@ Data de corte: **2026-08-17**. Identificador: **cntp-br-2026-08-17-ddfedf7a8ab1b
 
 | Indicador | Quantidade |
 | --- | ---: |
-| Registros ativos na fonte canônica | 402 |
-| Crimes | 355 |
+| Registros ativos na fonte canônica | 450 |
+| Crimes | 403 |
 | Contravenções | 47 |
 | Inventário validado | 212 |
 | Enriquecimento jurídico validado | 0 |
-| Registros pendentes | 190 |
+| Registros pendentes | 238 |
 | Diplomas no inventário de normas | 88 |
 | Fontes auditadas | 4 |
 | Fontes pendentes | 93 |
@@ -29,23 +29,36 @@ Data de corte: **2026-08-17**. Identificador: **cntp-br-2026-08-17-ddfedf7a8ab1b
 | Contravenções | 47 |
 | Crimes ambientais | 39 |
 | Crimes contra a ordem econômica | 1 |
+| Crimes contra indígenas | 3 |
 | Crimes contra o consumo | 1 |
 | Crimes contra o sistema financeiro | 16 |
+| Crimes contra pessoas com deficiência | 1 |
 | Crimes contra relações de consumo | 12 |
 | Crimes de tortura | 4 |
 | Crimes eleitorais | 39 |
 | Crimes em licitações e contratos administrativos | 12 |
 | Crimes falimentares | 11 |
+| Crimes nucleares | 8 |
 | Crimes raciais | 18 |
 | Crimes tributários | 4 |
+| Discriminação laboral | 1 |
+| Discriminação por HIV | 1 |
 | Drogas | 8 |
 | ECA | 26 |
+| Economia popular | 3 |
 | Estado Democrático de Direito | 9 |
 | Estatuto da Pessoa Idosa | 15 |
+| Genocídio | 7 |
+| Interceptação de comunicações | 2 |
 | Lavagem de dinheiro | 1 |
 | Lei Henry Borel | 2 |
+| Ordem econômica | 2 |
 | Organização criminosa | 7 |
+| Parcelamento do solo urbano | 3 |
 | Pessoa com deficiência | 5 |
+| Planejamento familiar | 4 |
+| Propriedade industrial | 12 |
+| Telecomunicações | 1 |
 | Terrorismo | 4 |
 | Trânsito | 15 |
 | Transplantes | 11 |

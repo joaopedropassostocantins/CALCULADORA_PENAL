@@ -69,6 +69,19 @@ describe("catálogo canônico de tipos penais", () => {
     expect(catalog.registros.filter((record) => record.modulo === "Drogas").every((record) => !record.inventarioValidado && !record.usavelNaCalculadora || record.dispositivo === "art. 33, caput" || record.dispositivo === "art. 35")).toBe(true);
     expect(catalog.registros.filter((record) => record.modulo === "Organização criminosa")).toHaveLength(7);
     expect(catalog.registros.filter((record) => record.modulo === "Organização criminosa").every((record) => !record.inventarioValidado && !record.usavelNaCalculadora || record.dispositivo === "art. 2º, caput")).toBe(true);
+    expect(catalog.registros.filter((record) => record.modulo === "Genocídio")).toHaveLength(7);
+    expect(catalog.registros.filter((record) => record.modulo === "Economia popular")).toHaveLength(3);
+    expect(catalog.registros.filter((record) => record.modulo === "Ordem econômica")).toHaveLength(2);
+    expect(catalog.registros.filter((record) => record.modulo === "Discriminação por HIV")).toHaveLength(1);
+    expect(catalog.registros.filter((record) => record.modulo === "Interceptação de comunicações")).toHaveLength(2);
+    expect(catalog.registros.filter((record) => record.modulo === "Telecomunicações")).toHaveLength(1);
+    expect(catalog.registros.filter((record) => record.modulo === "Discriminação laboral")).toHaveLength(1);
+    expect(catalog.registros.filter((record) => record.modulo === "Crimes nucleares")).toHaveLength(8);
+    expect(catalog.registros.filter((record) => record.modulo === "Crimes contra indígenas")).toHaveLength(3);
+    expect(catalog.registros.filter((record) => record.modulo === "Parcelamento do solo urbano")).toHaveLength(3);
+    expect(catalog.registros.filter((record) => record.modulo === "Crimes contra pessoas com deficiência")).toHaveLength(1);
+    expect(catalog.registros.filter((record) => record.modulo === "Planejamento familiar")).toHaveLength(4);
+    expect(catalog.registros.filter((record) => record.modulo === "Propriedade industrial")).toHaveLength(12);
     for (const record of catalog.registros) {
       expect(record.pena.minimoMeses == null || record.pena.maximoMeses == null || record.pena.minimoMeses <= record.pena.maximoMeses).toBe(true);
       expect(record.tipoPaiId === null || ids.has(record.tipoPaiId)).toBe(true);
@@ -178,6 +191,49 @@ describe("catálogo canônico de tipos penais", () => {
       "orgcrime-12850-21": [6, 24],
       "orgcrime-12850-21a": [48, 144],
       "orgcrime-12850-21b": [48, 144],
+      "genocidio-2889-1a": [144, 360],
+      "genocidio-2889-1b": [24, 96],
+      "genocidio-2889-1c": [null, null],
+      "genocidio-2889-1d": [36, 120],
+      "genocidio-2889-1e": [12, 36],
+      "genocidio-2889-2": [null, null],
+      "genocidio-2889-3": [null, null],
+      "economia-popular-1521-2": [6, 24],
+      "economia-popular-1521-3": [24, 120],
+      "economia-popular-1521-4": [6, 24],
+      "ordem-economica-8176-1": [12, 60],
+      "ordem-economica-8176-2": [12, 60],
+      "hiv-12984-1": [12, 48],
+      "interceptacao-9296-10": [24, 48],
+      "interceptacao-9296-10a": [24, 48],
+      "telecom-9472-183": [24, 48],
+      "discriminacao-trabalho-9029-2": [12, 24],
+      "nuclear-6453-20": [48, 120],
+      "nuclear-6453-23": [48, 96],
+      "nuclear-6453-27": [48, 120],
+      "indigena-6001-58-i": [1, 3],
+      "indigena-6001-58-ii": [2, 6],
+      "indigena-6001-58-iii": [6, 24],
+      "parcelamento-6766-50": [12, 48],
+      "parcelamento-6766-51": [12, 48],
+      "parcelamento-6766-52": [12, 24],
+      "deficiencia-7853-8": [24, 60],
+      "planejamento-familiar-9263-15": [24, 96],
+      "planejamento-familiar-9263-16": [6, 24],
+      "planejamento-familiar-9263-17": [12, 24],
+      "planejamento-familiar-9263-18": [12, 24],
+      "propriedade-industrial-9279-183": [3, 12],
+      "propriedade-industrial-9279-184": [1, 3],
+      "propriedade-industrial-9279-185": [1, 3],
+      "propriedade-industrial-9279-187": [3, 12],
+      "propriedade-industrial-9279-188": [1, 3],
+      "propriedade-industrial-9279-189": [3, 12],
+      "propriedade-industrial-9279-190": [1, 3],
+      "propriedade-industrial-9279-191": [1, 3],
+      "propriedade-industrial-9279-192": [1, 3],
+      "propriedade-industrial-9279-193": [1, 3],
+      "propriedade-industrial-9279-194": [1, 3],
+      "propriedade-industrial-9279-195": [3, 12],
     };
     for (const [id, [minimum, maximum]] of Object.entries(expected)) {
       const record = byId.get(id);

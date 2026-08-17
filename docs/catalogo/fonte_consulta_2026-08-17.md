@@ -115,3 +115,33 @@ A Lei nº 11.343/2006 foi extraída de <https://www.planalto.gov.br/ccivil_03/_a
 ## Cobertura nacional — organização criminosa
 
 A fonte compilada da Lei nº 12.850/2013 foi consultada em <https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm>. O art. 2º já está no catálogo; a redação consultada registra alteração recente pela Lei nº 15.245/2025 no § 1º e pela Lei nº 15.487/2026 no § 4º, exigindo reconferência temporal. Os arts. 18 a 21 ainda serão extraídos como infrações penais correlatas, sem cadastrar dispositivos processuais ou de investigação como crimes.
+
+## Cobertura nacional — genocídio e ordem econômica
+
+Foram consultadas a Lei nº 2.889/1956 (<https://www.planalto.gov.br/ccivil_03/leis/l2889.htm>), a Lei nº 1.521/1951 (<https://www.planalto.gov.br/ccivil_03/leis/l1521.htm>) e a Lei nº 8.176/1991 (<https://www.planalto.gov.br/ccivil_03/leis/l8176.htm>).
+
+A Lei de Genocídio prevê modalidades vinculadas às penas dos arts. 121, § 2º, 129, § 2º, 270, 125 e 148 do Código Penal, além de associação e incitação. A Lei de Economia Popular reúne os crimes dos arts. 2º, 3º e 4º, com penas históricas em cruzeiros que exigem normalização antes do cálculo. A Lei nº 8.176/1991 contém dois núcleos penais: combustíveis, com redação alterada pela Lei nº 15.348/2026, e usurpação de matéria-prima ou bens da União, com multa em dias-multa.
+
+## Cobertura nacional — discriminação, interceptação e telecomunicações
+
+Foram extraídas as fontes oficiais da Lei nº 12.984/2014 (<https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12984.htm>), da Lei nº 9.296/1996 (<https://www.planalto.gov.br/ccivil_03/leis/l9296.htm>), da Lei nº 9.472/1997 (<https://www.planalto.gov.br/ccivil_03/leis/l9472.htm>) e da Lei nº 9.029/1995 (<https://www.planalto.gov.br/ccivil_03/leis/l9029.htm>).
+
+A Lei nº 12.984/2014 contém um tipo único com seis condutas de discriminação contra pessoas com HIV ou aids, com reclusão de 1 a 4 anos e multa. A Lei nº 9.296/1996 contém os crimes dos arts. 10 e 10-A, com reclusão de 2 a 4 anos e multa. O art. 183 da Lei nº 9.472/1997 tipifica desenvolvimento clandestino de atividade de telecomunicação. O art. 2º da Lei nº 9.029/1995 tipifica práticas discriminatórias relacionadas a esterilização, gravidez e controle de natalidade, com detenção de 1 a 2 anos e multa.
+
+## Cobertura nacional — energia nuclear, terras indígenas, parcelamento urbano e esporte
+
+Foram extraídas as fontes oficiais da Lei nº 6.001/1973 (<https://www.planalto.gov.br/ccivil_03/leis/l6001.htm>), da Lei nº 6.453/1977 (<https://www.planalto.gov.br/ccivil_03/leis/l6453.htm>), da Lei nº 6.766/1979 (<https://www.planalto.gov.br/ccivil_03/leis/l6766.htm>) e do Estatuto de Defesa do Torcedor (<https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671.htm>).
+
+A Lei nº 6.453/1977 confirma crimes nucleares nos arts. 20 a 27, com penas de reclusão. O Estatuto do Índio exige leitura do capítulo penal dos arts. 56 a 59, incluindo a regra específica do art. 58. A Lei nº 6.766/1979 contém crimes nos arts. 50 a 52, ainda pendentes de extração completa. O Estatuto de Defesa do Torcedor consultado aparece expressamente revogado pela Lei nº 14.597/2023; seus antigos arts. 41-B a 41-G não serão cadastrados como vigentes.
+
+## Cobertura nacional — deficiência e planejamento familiar
+
+Foram extraídas as fontes oficiais da Lei nº 7.853/1989 (<https://www.planalto.gov.br/ccivil_03/leis/l7853.htm>) e da Lei nº 9.263/1996 (<https://www.planalto.gov.br/ccivil_03/leis/l9263.htm>).
+
+A Lei nº 7.853/1989 contém o art. 8º, com seis modalidades de discriminação ou impedimento contra pessoa com deficiência, na redação vigente da Lei nº 13.146/2015, com reclusão de 2 a 5 anos e multa. A Lei nº 9.263/1996 contém os crimes dos arts. 15 a 18: esterilização irregular, omissão de notificação médica, indução ou instigação dolosa e exigência de atestado de esterilização.
+
+O texto vigente também registra alterações de 2025 na Lei nº 7.853/1989 e alterações de 2022 na Lei nº 9.263/1996; esses efeitos temporais deverão permanecer auditáveis nos registros.
+
+## Cobertura nacional — propriedade industrial
+
+A fonte oficial da Lei nº 9.279/1996 foi consultada em <https://www.planalto.gov.br/ccivil_03/leis/l9279.htm>. O diploma contém capítulos penais sobre crimes contra patentes, desenhos industriais, marcas, indicações geográficas e concorrência desleal, especialmente nos arts. 183 a 195. A nova previsão de jogos eletrônicos no art. 2º, VI, não será tratada como tipo penal. O capítulo penal deve ser extraído por artigos e alíneas, excluindo disposições civis, processuais e administrativas.
