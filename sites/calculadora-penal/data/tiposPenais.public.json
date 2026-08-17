@@ -1,0 +1,1159 @@
+{
+  "versaoCatalogo": "cntp-br-2026-08-17-a1846b3bd20a5e23",
+  "dataCorte": "2026-08-17",
+  "estadoGeral": "incompleto",
+  "registros": [
+    {
+      "id": "cp-133",
+      "name": "Abandono de incapaz",
+      "article": "art. 133, caput",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.5,
+      "maximum": 3,
+      "penalty": "Detenção, de 6 meses a 3 anos",
+      "keywords": [
+        "abandono de incapaz",
+        "abandonou pessoa"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-133-1",
+      "name": "Abandono de incapaz com lesão grave",
+      "article": "art. 133, § 1º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 5,
+      "penalty": "Reclusão, de 1 a 5 anos",
+      "keywords": [
+        "abandono de incapaz",
+        "lesão grave"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-133-2",
+      "name": "Abandono de incapaz com morte",
+      "article": "art. 133, § 2º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 4,
+      "maximum": 12,
+      "penalty": "Reclusão, de 4 a 12 anos",
+      "keywords": [
+        "abandono de incapaz",
+        "morte"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-126",
+      "name": "Aborto provocado com consentimento",
+      "article": "art. 126",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão, de 1 a 4 anos",
+      "keywords": [
+        "aborto com consentimento"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-124",
+      "name": "Aborto provocado pela gestante",
+      "article": "art. 124",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Detenção, de 1 a 3 anos",
+      "keywords": [
+        "aborto",
+        "gestante",
+        "consentiu aborto"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-125",
+      "name": "Aborto provocado sem consentimento",
+      "article": "art. 125",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 3,
+      "maximum": 10,
+      "penalty": "Reclusão, de 3 a 10 anos",
+      "keywords": [
+        "aborto sem consentimento",
+        "gestante"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-147",
+      "name": "Ameaça",
+      "article": "art. 147, caput",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.08333333333333333,
+      "maximum": 0.5,
+      "penalty": "Detenção, de 1 a 6 meses, ou multa",
+      "keywords": [
+        "ameaça",
+        "mal injusto e grave"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-147c",
+      "name": "Ameaça no contexto de organização criminosa",
+      "article": "art. 147-C",
+      "law": "Lei nº 15.358/2026",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Reclusão, de 1 a 3 anos",
+      "keywords": [
+        "ameaça",
+        "organização criminosa ultraviolenta"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-168",
+      "name": "Apropriação indébita",
+      "article": "art. 168, caput",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão, de 1 a 4 anos, e multa",
+      "keywords": [
+        "apropriação indébita",
+        "não devolveu bem"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-288",
+      "name": "Associação criminosa",
+      "article": "art. 288, caput",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Reclusão, de 1 a 3 anos",
+      "keywords": [
+        "associação criminosa",
+        "três pessoas"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "drogas-35",
+      "name": "Associação para o tráfico",
+      "article": "art. 35",
+      "law": "Lei nº 11.343/2006",
+      "category": "Drogas",
+      "minimum": 3,
+      "maximum": 10,
+      "penalty": "Reclusão, de 3 a 10 anos e 700 a 1.200 dias-multa",
+      "keywords": [
+        "associação para o tráfico",
+        "tráfico",
+        "duas pessoas"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "armas-17",
+      "name": "Comércio ilegal de arma de fogo",
+      "article": "art. 17",
+      "law": "Lei nº 10.826/2003",
+      "category": "Armas",
+      "minimum": 6,
+      "maximum": 12,
+      "penalty": "Reclusão, de 6 a 12 anos e multa",
+      "keywords": [
+        "comércio ilegal",
+        "arma de fogo",
+        "venda de arma"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826compilado.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-316",
+      "name": "Concussão",
+      "article": "art. 316, caput",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 12,
+      "penalty": "Reclusão, de 2 a 12 anos, e multa",
+      "keywords": [
+        "concussão",
+        "exigiu propina",
+        "funcionário público"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-333",
+      "name": "Corrupção ativa",
+      "article": "art. 333, caput",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 12,
+      "penalty": "Reclusão, de 2 a 12 anos, e multa",
+      "keywords": [
+        "corrupção ativa",
+        "ofereceu propina",
+        "funcionário público"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-317",
+      "name": "Corrupção passiva",
+      "article": "art. 317, caput",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 12,
+      "penalty": "Reclusão, de 2 a 12 anos, e multa",
+      "keywords": [
+        "corrupção passiva",
+        "propina",
+        "funcionário público"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "armas-15",
+      "name": "Disparo de arma de fogo",
+      "article": "art. 15",
+      "law": "Lei nº 10.826/2003",
+      "category": "Armas",
+      "minimum": 2,
+      "maximum": 4,
+      "penalty": "Reclusão, de 2 a 4 anos e multa",
+      "keywords": [
+        "disparo",
+        "arma de fogo",
+        "tiro"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826compilado.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-171",
+      "name": "Estelionato",
+      "article": "art. 171, caput",
+      "law": "Decreto-Lei nº 2.848/1940 e Lei nº 15.397/2026",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 5,
+      "penalty": "Reclusão, de 1 a 5 anos, e multa",
+      "keywords": [
+        "estelionato",
+        "golpe",
+        "fraude",
+        "vantagem ilícita"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-213",
+      "name": "Estupro",
+      "article": "art. 213, caput",
+      "law": "Lei nº 12.015/2009",
+      "category": "Código Penal",
+      "minimum": 6,
+      "maximum": 10,
+      "penalty": "Reclusão, de 6 a 10 anos",
+      "keywords": [
+        "estupro",
+        "violência sexual",
+        "ato libidinoso"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-213-1",
+      "name": "Estupro com lesão grave ou vítima entre 14 e 18 anos",
+      "article": "art. 213, § 1º",
+      "law": "Lei nº 12.015/2009",
+      "category": "Código Penal",
+      "minimum": 8,
+      "maximum": 12,
+      "penalty": "Reclusão, de 8 a 12 anos",
+      "keywords": [
+        "estupro",
+        "lesão grave",
+        "adolescente"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-213-2",
+      "name": "Estupro com resultado morte",
+      "article": "art. 213, § 2º",
+      "law": "Lei nº 12.015/2009",
+      "category": "Código Penal",
+      "minimum": 12,
+      "maximum": 30,
+      "penalty": "Reclusão, de 12 a 30 anos",
+      "keywords": [
+        "estupro",
+        "morte"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-217a",
+      "name": "Estupro de vulnerável",
+      "article": "art. 217-A, caput",
+      "law": "Lei nº 15.280/2025",
+      "category": "Código Penal",
+      "minimum": 10,
+      "maximum": 18,
+      "penalty": "Reclusão, de 10 a 18 anos, e multa",
+      "keywords": [
+        "estupro de vulnerável",
+        "menor de 14",
+        "criança"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-217a-3",
+      "name": "Estupro de vulnerável com lesão grave",
+      "article": "art. 217-A, § 3º",
+      "law": "Lei nº 15.280/2025",
+      "category": "Código Penal",
+      "minimum": 12,
+      "maximum": 24,
+      "penalty": "Reclusão, de 12 a 24 anos, e multa",
+      "keywords": [
+        "estupro de vulnerável",
+        "lesão grave"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-217a-4",
+      "name": "Estupro de vulnerável com resultado morte",
+      "article": "art. 217-A, § 4º",
+      "law": "Lei nº 15.280/2025",
+      "category": "Código Penal",
+      "minimum": 20,
+      "maximum": 40,
+      "penalty": "Reclusão, de 20 a 40 anos, e multa",
+      "keywords": [
+        "estupro de vulnerável",
+        "morte"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-158",
+      "name": "Extorsão",
+      "article": "art. 158, caput",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 4,
+      "maximum": 10,
+      "penalty": "Reclusão, de 4 a 10 anos, e multa",
+      "keywords": [
+        "extorsão",
+        "vantagem econômica",
+        "grave ameaça"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-158-3",
+      "name": "Extorsão mediante restrição da liberdade",
+      "article": "art. 158, § 3º",
+      "law": "Lei nº 11.923/2009",
+      "category": "Código Penal",
+      "minimum": 6,
+      "maximum": 12,
+      "penalty": "Reclusão, de 6 a 12 anos, e multa",
+      "keywords": [
+        "extorsão mediante sequestro",
+        "restrição da liberdade"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-121a",
+      "name": "Feminicídio",
+      "article": "art. 121-A",
+      "law": "Lei nº 14.994/2024",
+      "category": "Código Penal",
+      "minimum": 20,
+      "maximum": 40,
+      "penalty": "Reclusão, de 20 a 40 anos",
+      "keywords": [
+        "feminicídio",
+        "violência doméstica",
+        "menosprezo à condição de mulher"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-171a",
+      "name": "Fraude com ativos virtuais",
+      "article": "art. 171-A",
+      "law": "Lei nº 14.478/2022",
+      "category": "Código Penal",
+      "minimum": 4,
+      "maximum": 8,
+      "penalty": "Reclusão, de 4 a 8 anos, e multa",
+      "keywords": [
+        "ativo virtual",
+        "fraude com criptomoeda",
+        "fraude financeira"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-155",
+      "name": "Furto",
+      "article": "art. 155, caput",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão, de 1 a 4 anos, e multa",
+      "keywords": [
+        "furto",
+        "subtração",
+        "coisa alheia móvel"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-155-7",
+      "name": "Furto de arma de fogo ou explosivo",
+      "article": "art. 155, § 7º",
+      "law": "Lei nº 15.397/2026",
+      "category": "Código Penal",
+      "minimum": 4,
+      "maximum": 10,
+      "penalty": "Reclusão, de 4 a 10 anos, e multa",
+      "keywords": [
+        "furto de arma",
+        "furto de explosivo"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-156",
+      "name": "Furto de coisa comum",
+      "article": "art. 156",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, ou multa",
+      "keywords": [
+        "furto de coisa comum",
+        "condômino",
+        "co-herdeiro"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-155-4",
+      "name": "Furto qualificado",
+      "article": "art. 155, § 4º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 8,
+      "penalty": "Reclusão, de 2 a 8 anos, e multa",
+      "keywords": [
+        "furto qualificado",
+        "rompimento de obstáculo",
+        "escalada",
+        "chave falsa"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-121-culposo",
+      "name": "Homicídio culposo",
+      "article": "art. 121, § 3º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Detenção, de 1 a 3 anos",
+      "keywords": [
+        "homicídio culposo",
+        "morte sem intenção"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-121-2d",
+      "name": "Homicídio no contexto de organização criminosa ultraviolenta",
+      "article": "art. 121, § 2º-D",
+      "law": "Lei nº 15.358/2026",
+      "category": "Código Penal",
+      "minimum": 20,
+      "maximum": 40,
+      "penalty": "Reclusão, de 20 a 40 anos",
+      "keywords": [
+        "organização criminosa ultraviolenta",
+        "milícia",
+        "grupo paramilitar"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-121-qualificado",
+      "name": "Homicídio qualificado",
+      "article": "art. 121, § 2º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 12,
+      "maximum": 30,
+      "penalty": "Reclusão, de 12 a 30 anos",
+      "keywords": [
+        "homicídio qualificado",
+        "motivo torpe",
+        "emboscada",
+        "meio cruel"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-121",
+      "name": "Homicídio simples",
+      "article": "art. 121, caput",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 6,
+      "maximum": 20,
+      "penalty": "Reclusão, de 6 a 20 anos",
+      "keywords": [
+        "matar",
+        "homicídio",
+        "morte"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-123",
+      "name": "Infanticídio",
+      "article": "art. 123",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 6,
+      "penalty": "Detenção, de 2 a 6 anos",
+      "keywords": [
+        "infanticídio",
+        "estado puerperal"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-154a",
+      "name": "Invasão de dispositivo informático",
+      "article": "art. 154-A",
+      "law": "Lei nº 12.737/2012",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão, de 1 a 4 anos, e multa",
+      "keywords": [
+        "invasão de dispositivo",
+        "computador",
+        "celular",
+        "hackear"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-157-3-ii",
+      "name": "Latrocínio",
+      "article": "art. 157, § 3º, II",
+      "law": "Lei nº 15.397/2026",
+      "category": "Código Penal",
+      "minimum": 24,
+      "maximum": 30,
+      "penalty": "Reclusão, de 24 a 30 anos, e multa",
+      "keywords": [
+        "latrocínio",
+        "roubo seguido de morte"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-129",
+      "name": "Lesão corporal",
+      "article": "art. 129, caput",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.25,
+      "maximum": 1,
+      "penalty": "Detenção, de 3 meses a 1 ano",
+      "keywords": [
+        "lesão corporal",
+        "agressão",
+        "feriu"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-129-6",
+      "name": "Lesão corporal culposa",
+      "article": "art. 129, § 6º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.16666666666666666,
+      "maximum": 1,
+      "penalty": "Detenção, de 2 meses a 1 ano",
+      "keywords": [
+        "lesão culposa",
+        "negligência",
+        "imprudência"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-129-1",
+      "name": "Lesão corporal de natureza grave",
+      "article": "art. 129, § 1º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 5,
+      "penalty": "Reclusão, de 1 a 5 anos",
+      "keywords": [
+        "lesão grave",
+        "perigo de vida",
+        "debilidade permanente"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-129-2",
+      "name": "Lesão corporal de natureza gravíssima",
+      "article": "art. 129, § 2º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 8,
+      "penalty": "Reclusão, de 2 a 8 anos",
+      "keywords": [
+        "lesão gravíssima",
+        "deformidade permanente",
+        "enfermidade incurável"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-129-9",
+      "name": "Lesão corporal em contexto doméstico",
+      "article": "art. 129, § 9º",
+      "law": "Lei nº 14.994/2024 e alterações",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 5,
+      "penalty": "Reclusão, de 2 a 5 anos",
+      "keywords": [
+        "violência doméstica",
+        "lesão contra mulher"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-129-3",
+      "name": "Lesão corporal seguida de morte",
+      "article": "art. 129, § 3º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 4,
+      "maximum": 12,
+      "penalty": "Reclusão, de 4 a 12 anos",
+      "keywords": [
+        "lesão seguida de morte",
+        "morte sem intenção"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-129-3a",
+      "name": "Lesão corporal seguida de morte no contexto de organização criminosa ultraviolenta",
+      "article": "art. 129, § 3º-A",
+      "law": "Lei nº 15.358/2026",
+      "category": "Código Penal",
+      "minimum": 20,
+      "maximum": 40,
+      "penalty": "Reclusão, de 20 a 40 anos",
+      "keywords": [
+        "lesão seguida de morte",
+        "organização criminosa ultraviolenta"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "armas-13",
+      "name": "Omissão de cautela",
+      "article": "art. 13",
+      "law": "Lei nº 10.826/2003",
+      "category": "Armas",
+      "minimum": 1,
+      "maximum": 2,
+      "penalty": "Detenção, de 1 a 2 anos e multa",
+      "keywords": [
+        "omissão de cautela",
+        "arma de fogo",
+        "menor"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826compilado.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "org-2",
+      "name": "Organização criminosa",
+      "article": "art. 2º, caput",
+      "law": "Lei nº 12.850/2013",
+      "category": "Organização criminosa",
+      "minimum": 3,
+      "maximum": 8,
+      "penalty": "Reclusão, de 3 a 8 anos e multa",
+      "keywords": [
+        "organização criminosa",
+        "facção",
+        "grupo estruturado"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-312",
+      "name": "Peculato",
+      "article": "art. 312, caput",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 12,
+      "penalty": "Reclusão, de 2 a 12 anos, e multa",
+      "keywords": [
+        "peculato",
+        "funcionário público",
+        "desvio de dinheiro público"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "armas-14",
+      "name": "Porte ilegal de arma de fogo de uso permitido",
+      "article": "art. 14",
+      "law": "Lei nº 10.826/2003",
+      "category": "Armas",
+      "minimum": 2,
+      "maximum": 4,
+      "penalty": "Reclusão, de 2 a 4 anos e multa",
+      "keywords": [
+        "porte ilegal",
+        "arma de fogo",
+        "pistola",
+        "revólver"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826compilado.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "armas-12",
+      "name": "Posse irregular de arma de fogo de uso permitido",
+      "article": "art. 12",
+      "law": "Lei nº 10.826/2003",
+      "category": "Armas",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Detenção, de 1 a 3 anos e multa",
+      "keywords": [
+        "posse irregular",
+        "arma em casa",
+        "arma de fogo"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826compilado.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "armas-16",
+      "name": "Posse ou porte ilegal de arma de fogo de uso restrito",
+      "article": "art. 16",
+      "law": "Lei nº 10.826/2003",
+      "category": "Armas",
+      "minimum": 3,
+      "maximum": 6,
+      "penalty": "Reclusão, de 3 a 6 anos e multa",
+      "keywords": [
+        "arma restrita",
+        "porte",
+        "posse",
+        "arma de fogo"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826compilado.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-180",
+      "name": "Receptação",
+      "article": "art. 180, caput",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão, de 1 a 4 anos, e multa",
+      "keywords": [
+        "receptação",
+        "produto de crime",
+        "objeto roubado"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-149",
+      "name": "Redução a condição análoga à de escravo",
+      "article": "art. 149",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 8,
+      "penalty": "Reclusão, de 2 a 8 anos",
+      "keywords": [
+        "trabalho escravo",
+        "condição análoga à de escravo"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-157",
+      "name": "Roubo",
+      "article": "art. 157, caput",
+      "law": "Lei nº 15.397/2026",
+      "category": "Código Penal",
+      "minimum": 6,
+      "maximum": 10,
+      "penalty": "Reclusão, de 6 a 10 anos, e multa",
+      "keywords": [
+        "roubo",
+        "assalto",
+        "grave ameaça",
+        "violência"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-157-3-i",
+      "name": "Roubo com lesão corporal grave",
+      "article": "art. 157, § 3º, I",
+      "law": "Lei nº 13.654/2018",
+      "category": "Código Penal",
+      "minimum": 7,
+      "maximum": 18,
+      "penalty": "Reclusão, de 7 a 18 anos, e multa",
+      "keywords": [
+        "latrocínio tentado",
+        "roubo com lesão grave"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-157-1a",
+      "name": "Roubo contra serviço público essencial",
+      "article": "art. 157, § 1º-A",
+      "law": "Lei nº 15.181/2025 e Lei nº 15.397/2026",
+      "category": "Código Penal",
+      "minimum": 6,
+      "maximum": 12,
+      "penalty": "Reclusão, de 6 a 12 anos, e multa",
+      "keywords": [
+        "roubo",
+        "serviço público essencial"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-148",
+      "name": "Sequestro e cárcere privado",
+      "article": "art. 148, caput",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Reclusão, de 1 a 3 anos",
+      "keywords": [
+        "sequestro",
+        "cárcere privado",
+        "privação da liberdade"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-148-2",
+      "name": "Sequestro e cárcere privado com grave sofrimento",
+      "article": "art. 148, § 2º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 8,
+      "penalty": "Reclusão, de 2 a 8 anos",
+      "keywords": [
+        "cárcere privado",
+        "grave sofrimento"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-148-3",
+      "name": "Sequestro e cárcere privado no contexto de organização criminosa ultraviolenta",
+      "article": "art. 148, § 3º",
+      "law": "Lei nº 15.358/2026",
+      "category": "Código Penal",
+      "minimum": 12,
+      "maximum": 20,
+      "penalty": "Reclusão, de 12 a 20 anos",
+      "keywords": [
+        "sequestro",
+        "organização criminosa ultraviolenta"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-148-1",
+      "name": "Sequestro e cárcere privado qualificado",
+      "article": "art. 148, § 1º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 5,
+      "penalty": "Reclusão, de 2 a 5 anos",
+      "keywords": [
+        "sequestro qualificado",
+        "vítima idosa",
+        "fins libidinosos"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "drogas-33",
+      "name": "Tráfico de drogas",
+      "article": "art. 33, caput",
+      "law": "Lei nº 11.343/2006",
+      "category": "Drogas",
+      "minimum": 5,
+      "maximum": 15,
+      "penalty": "Reclusão, de 5 a 15 anos e 500 a 1.500 dias-multa",
+      "keywords": [
+        "tráfico",
+        "drogas",
+        "cocaína",
+        "maconha"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "armas-18",
+      "name": "Tráfico internacional de arma de fogo",
+      "article": "art. 18",
+      "law": "Lei nº 10.826/2003",
+      "category": "Armas",
+      "minimum": 8,
+      "maximum": 16,
+      "penalty": "Reclusão, de 8 a 16 anos e multa",
+      "keywords": [
+        "tráfico internacional",
+        "arma de fogo",
+        "importação de arma"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826compilado.htm",
+      "validationState": "confirmada",
+      "canCalculate": true
+    },
+    {
+      "id": "cp-121b",
+      "name": "Vicaricídio",
+      "article": "art. 121-B",
+      "law": "Lei nº 15.384/2026",
+      "category": "Código Penal",
+      "minimum": 20,
+      "maximum": 40,
+      "penalty": "Reclusão, de 20 a 40 anos",
+      "keywords": [
+        "vicaricídio",
+        "violência por procuração",
+        "sofrimento da mulher"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-359p",
+      "name": "Violência política",
+      "article": "art. 359-P",
+      "law": "Lei nº 14.197/2021",
+      "category": "Código Penal",
+      "minimum": 3,
+      "maximum": 6,
+      "penalty": "Reclusão, de 3 a 6 anos, e multa, além da pena correspondente à violência",
+      "keywords": [
+        "violência política",
+        "direitos políticos",
+        "discriminação"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-147b",
+      "name": "Violência psicológica contra a mulher",
+      "article": "art. 147-B",
+      "law": "Lei nº 14.188/2021",
+      "category": "Código Penal",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Reclusão, de 6 meses a 2 anos, e multa",
+      "keywords": [
+        "violência psicológica",
+        "dano emocional",
+        "mulher"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    }
+  ]
+}
