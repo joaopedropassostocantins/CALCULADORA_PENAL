@@ -1,5 +1,5 @@
 {
-  "versaoCatalogo": "cntp-br-2026-08-17-3f9c61ff82535562",
+  "versaoCatalogo": "cntp-br-2026-08-17-9c26d07e88683fb9",
   "dataCorte": "2026-08-17",
   "estadoGeral": "incompleto",
   "registros": [
@@ -741,6 +741,23 @@
       "canCalculate": false
     },
     {
+      "id": "cp-138",
+      "name": "Calúnia",
+      "article": "art. 138",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, e multa.",
+      "keywords": [
+        "calúnia",
+        "honra"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "eleitoral-4737-324",
       "name": "Calúnia eleitoral",
       "article": "art. 324",
@@ -1154,6 +1171,23 @@
       "canCalculate": true
     },
     {
+      "id": "cp-135a",
+      "name": "Condicionamento de atendimento médico-hospitalar emergencial",
+      "article": "art. 135-A",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.25,
+      "maximum": 1,
+      "penalty": "Detenção, de 3 meses a 1 ano, e multa.",
+      "keywords": [
+        "atendimento médico",
+        "cheque-caução"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "abuso-autoridade-10",
       "name": "Condução coercitiva manifestamente descabida",
       "article": "art. 10",
@@ -1260,6 +1294,22 @@
       "canCalculate": true
     },
     {
+      "id": "cp-146",
+      "name": "Constrangimento ilegal",
+      "article": "art. 146",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.041666666666666664,
+      "maximum": 1,
+      "penalty": "Detenção, de 3 meses a 1 ano, ou multa.",
+      "keywords": [
+        "constrangimento ilegal"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "ambiental-64",
       "name": "Construção ilegal em solo não edificável protegido",
       "article": "art. 64",
@@ -1346,6 +1396,22 @@
         "município"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-152",
+      "name": "Correspondência comercial",
+      "article": "art. 152",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.25,
+      "maximum": 2,
+      "penalty": "Detenção, de 3 meses a 2 anos.",
+      "keywords": [
+        "correspondência comercial"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -2096,6 +2162,23 @@
       "canCalculate": false
     },
     {
+      "id": "cp-139",
+      "name": "Difamação",
+      "article": "art. 139",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.25,
+      "maximum": 1,
+      "penalty": "Detenção, de 3 meses a 1 ano, e multa.",
+      "keywords": [
+        "difamação",
+        "honra"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "eleitoral-4737-325",
       "name": "Difamação eleitoral",
       "article": "art. 325",
@@ -2682,6 +2765,23 @@
       "canCalculate": true
     },
     {
+      "id": "cp-153-1a",
+      "name": "Divulgação de informação sigilosa da Administração Pública",
+      "article": "art. 153, § 1º-A",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Detenção, de 1 a 4 anos, e multa.",
+      "keywords": [
+        "informação sigilosa",
+        "Administração Pública"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "eleicoes-9504-33-4",
       "name": "Divulgação de pesquisa eleitoral fraudulenta",
       "article": "art. 33, § 4º",
@@ -2696,6 +2796,23 @@
         "divulgação"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9504.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-153",
+      "name": "Divulgação de segredo",
+      "article": "art. 153",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.041666666666666664,
+      "maximum": 0.5,
+      "penalty": "Detenção, de 1 a 6 meses, ou multa histórica prevista no texto legal.",
+      "keywords": [
+        "divulgação de segredo",
+        "documento particular"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -3388,6 +3505,57 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "cp-134",
+      "name": "Exposição ou abandono de recém-nascido",
+      "article": "art. 134",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos.",
+      "keywords": [
+        "recém-nascido",
+        "abandono"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-134-1",
+      "name": "Exposição ou abandono de recém-nascido com lesão grave",
+      "article": "art. 134, § 1º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Detenção, de 1 a 3 anos.",
+      "keywords": [
+        "recém-nascido",
+        "lesão grave"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-134-2",
+      "name": "Exposição ou abandono de recém-nascido com morte",
+      "article": "art. 134, § 2º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 6,
+      "penalty": "Detenção, de 2 a 6 anos.",
+      "keywords": [
+        "recém-nascido",
+        "morte"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "cp-158",
@@ -4864,6 +5032,23 @@
       "canCalculate": true
     },
     {
+      "id": "cp-140",
+      "name": "Injúria",
+      "article": "art. 140",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.08333333333333333,
+      "maximum": 0.5,
+      "penalty": "Detenção, de 1 a 6 meses, ou multa.",
+      "keywords": [
+        "injúria",
+        "honra"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "eleitoral-4737-326",
       "name": "Injúria eleitoral",
       "article": "art. 326",
@@ -4877,6 +5062,25 @@
         "propaganda"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-140-3",
+      "name": "Injúria qualificada por religião, idade ou deficiência",
+      "article": "art. 140, § 3º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Reclusão, de 1 a 3 anos, e multa.",
+      "keywords": [
+        "injúria qualificada",
+        "religião",
+        "pessoa idosa",
+        "deficiência"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -4897,6 +5101,23 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l7716.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "cp-140-2",
+      "name": "Injúria real",
+      "article": "art. 140, § 2º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.25,
+      "maximum": 1,
+      "penalty": "Detenção, de 3 meses a 1 ano, e multa, além da pena correspondente à violência.",
+      "keywords": [
+        "injúria real",
+        "violência"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "abuso-autoridade-23",
@@ -5049,6 +5270,40 @@
         "eleição"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-146a",
+      "name": "Intimidação sistemática (bullying)",
+      "article": "art. 146-A",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0,
+      "maximum": 0,
+      "penalty": "Multa, se a conduta não constituir crime mais grave.",
+      "keywords": [
+        "bullying",
+        "intimidação sistemática"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-146a-pu",
+      "name": "Intimidação sistemática virtual (cyberbullying)",
+      "article": "art. 146-A, parágrafo único",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 4,
+      "penalty": "Reclusão, de 2 a 4 anos, e multa, se a conduta não constituir crime mais grave.",
+      "keywords": [
+        "cyberbullying",
+        "ambiente digital"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -5594,6 +5849,23 @@
       "canCalculate": false
     },
     {
+      "id": "cp-136",
+      "name": "Maus-tratos",
+      "article": "art. 136",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 5,
+      "penalty": "Reclusão, de 2 a 5 anos.",
+      "keywords": [
+        "maus-tratos",
+        "criança"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "ambiental-32",
       "name": "Maus-tratos a animais",
       "article": "art. 32, caput",
@@ -5628,6 +5900,40 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "cp-136-1",
+      "name": "Maus-tratos com lesão grave",
+      "article": "art. 136, § 1º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 3,
+      "maximum": 7,
+      "penalty": "Reclusão, de 3 a 7 anos.",
+      "keywords": [
+        "maus-tratos",
+        "lesão grave"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-136-2",
+      "name": "Maus-tratos com morte",
+      "article": "art. 136, § 2º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 8,
+      "maximum": 14,
+      "penalty": "Reclusão, de 8 a 14 anos.",
+      "keywords": [
+        "maus-tratos",
+        "morte"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "licitacao-14133-337-h",
@@ -6305,6 +6611,22 @@
       "canCalculate": false
     },
     {
+      "id": "cp-135",
+      "name": "Omissão de socorro",
+      "article": "art. 135",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.08333333333333333,
+      "maximum": 0.5,
+      "penalty": "Detenção, de 1 a 6 meses, ou multa.",
+      "keywords": [
+        "omissão de socorro"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "ctb-304",
       "name": "Omissão de socorro no trânsito",
       "article": "art. 304",
@@ -6729,6 +7051,23 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "cp-147a",
+      "name": "Perseguição",
+      "article": "art. 147-A",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Reclusão, de 6 meses a 2 anos, e multa.",
+      "keywords": [
+        "perseguição",
+        "stalking"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "eleitoral-4737-331",
@@ -7686,6 +8025,40 @@
       "canCalculate": false
     },
     {
+      "id": "cp-137",
+      "name": "Rixa",
+      "article": "art. 137",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.041666666666666664,
+      "maximum": 0.16666666666666666,
+      "penalty": "Detenção, de 15 dias a 2 meses, ou multa.",
+      "keywords": [
+        "rixa"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-137-pu",
+      "name": "Rixa com morte ou lesão grave",
+      "article": "art. 137, parágrafo único",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos.",
+      "keywords": [
+        "rixa",
+        "lesão grave",
+        "morte"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "cp-157",
       "name": "Roubo",
       "article": "art. 157, caput",
@@ -8531,6 +8904,74 @@
       "canCalculate": false
     },
     {
+      "id": "cp-151",
+      "name": "Violação de correspondência",
+      "article": "art. 151",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.08333333333333333,
+      "maximum": 0.5,
+      "penalty": "Detenção, de 1 a 6 meses, ou multa.",
+      "keywords": [
+        "correspondência",
+        "comunicação"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-151-3",
+      "name": "Violação de correspondência com abuso de função",
+      "article": "art. 151, § 3º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Detenção, de 1 a 3 anos.",
+      "keywords": [
+        "correspondência",
+        "abuso de função"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-150",
+      "name": "Violação de domicílio",
+      "article": "art. 150",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.08333333333333333,
+      "maximum": 0.25,
+      "penalty": "Detenção, de 1 a 3 meses, ou multa.",
+      "keywords": [
+        "violação de domicílio",
+        "casa"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-150-1",
+      "name": "Violação de domicílio qualificada",
+      "article": "art. 150, § 1º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, além da pena correspondente à violência.",
+      "keywords": [
+        "violação de domicílio",
+        "arma"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "falimentar-11101-177",
       "name": "Violação de impedimento no processo falimentar",
       "article": "art. 177",
@@ -8597,6 +9038,23 @@
         "modelo de utilidade"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9279.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-154",
+      "name": "Violação de segredo profissional",
+      "article": "art. 154",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.25,
+      "maximum": 1,
+      "penalty": "Detenção, de 3 meses a 1 ano, ou multa histórica prevista no texto legal.",
+      "keywords": [
+        "segredo profissional",
+        "confidencialidade"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
       "canCalculate": false
     },

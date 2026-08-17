@@ -90,6 +90,7 @@ describe("catálogo canônico de tipos penais", () => {
     expect(catalog.registros.filter((record) => record.modulo === "Biossegurança")).toHaveLength(6);
     expect(catalog.registros.filter((record) => record.modulo === "Lei Maria da Penha")).toHaveLength(1);
     expect(catalog.registros.filter((record) => record.modulo === "Armas")).toHaveLength(8);
+    expect(catalog.registros.filter((record) => record.modulo === "Código Penal")).toHaveLength(82);
     for (const record of catalog.registros) {
       expect(record.pena.minimoMeses == null || record.pena.maximoMeses == null || record.pena.minimoMeses <= record.pena.maximoMeses).toBe(true);
       expect(record.tipoPaiId === null || ids.has(record.tipoPaiId)).toBe(true);
@@ -274,6 +275,33 @@ describe("catálogo canônico de tipos penais", () => {
       "biosseguranca-11105-29": [12, 24],
       "maria-penha-11340-24a": [24, 60],
       "desarmamento-10826-16-2": [48, 144],
+      "cp-134": [6, 24],
+      "cp-134-1": [12, 36],
+      "cp-134-2": [24, 72],
+      "cp-135": [1, 6],
+      "cp-135a": [3, 12],
+      "cp-136": [24, 60],
+      "cp-136-1": [36, 84],
+      "cp-136-2": [96, 168],
+      "cp-137": [0.5, 2],
+      "cp-137-pu": [6, 24],
+      "cp-138": [6, 24],
+      "cp-139": [3, 12],
+      "cp-140": [1, 6],
+      "cp-140-2": [3, 12],
+      "cp-140-3": [12, 36],
+      "cp-146": [0.5, 12],
+      "cp-146a": [null, null],
+      "cp-146a-pu": [24, 48],
+      "cp-147a": [6, 24],
+      "cp-150": [1, 3],
+      "cp-150-1": [6, 24],
+      "cp-151": [1, 6],
+      "cp-151-3": [12, 36],
+      "cp-152": [3, 24],
+      "cp-153": [0.5, 6],
+      "cp-153-1a": [12, 48],
+      "cp-154": [3, 12],
     };
     for (const [id, [minimum, maximum]] of Object.entries(expected)) {
       const record = byId.get(id);
