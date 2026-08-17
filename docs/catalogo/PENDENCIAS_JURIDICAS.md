@@ -37,6 +37,7 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | estado-democratico-359j | Estado Democrático de Direito | art. 359-J | Atentado à integridade nacional | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | estado-democratico-359i | Estado Democrático de Direito | art. 359-I | Atentado à soberania | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | terrorismo-5 | Terrorismo | art. 5º | Atos preparatórios de terrorismo | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-341 | Código Penal | art. 341 | Autoacusação falsa | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-138 | Código Penal | art. 138 | Calúnia | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | eleitoral-4737-324 | Crimes eleitorais | art. 324 | Calúnia eleitoral | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | interceptacao-9296-10a | Interceptação de comunicações | art. 10-A | Captação ambiental ilegal | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
@@ -50,6 +51,7 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | ordem-economica-8176-1 | Ordem econômica | art. 1º | Comércio irregular de combustíveis | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | propriedade-industrial-9279-188 | Propriedade industrial | art. 188 | Comércio ou importação de produto com desenho industrial ilícito | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | propriedade-industrial-9279-184 | Propriedade industrial | art. 184 | Comércio ou importação de produto patenteado | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-340 | Código Penal | art. 340 | Comunicação falsa de crime ou contravenção | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | eleitoral-4737-302 | Crimes eleitorais | art. 302 | Concentração fraudulenta de eleitores | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | ambiental-67 | Crimes ambientais | art. 67 | Concessão dolosa de licença ambiental irregular | Conferir a redação alterada e a vigência temporal na lei modificadora; distinguir crime de infração administrativa. |
 | prefeito-201-1-ix | Crimes de responsabilidade municipal | art. 1º, IX | Concessão irregular de empréstimo ou subvenção | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
@@ -76,9 +78,11 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | cp-165 | Código Penal | art. 165 | Dano em coisa de valor artístico, arqueológico ou histórico | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | eleicoes-9504-72-iii | Normas para eleições | art. 72, III | Dano físico a equipamento de votação ou totalização | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | cp-163-pu | Código Penal | art. 163, parágrafo único | Dano qualificado | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-339 | Código Penal | art. 339 | Denunciação caluniosa | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | eleitoral-4737-326-a | Crimes eleitorais | art. 326-A | Denunciação caluniosa eleitoral | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | contravencao-3688-29 | Contravenções | art. 29 | Desabamento de construção | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | transporte-eleitoral-6091-11-ii | Transporte eleitoral | art. 11, II | Desatendimento de requisição de transporte eleitoral | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-338a | Código Penal | art. 338-A | Descumprimento de medidas protetivas de urgência | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | maria-penha-11340-24a | Lei Maria da Penha | art. 24-A | Descumprimento de medidas protetivas de urgência | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | prefeito-201-1-xiv | Crimes de responsabilidade municipal | art. 1º, XIV | Descumprimento injustificado de lei ou ordem judicial | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | telecom-9472-183 | Telecomunicações | art. 183 | Desenvolvimento clandestino de atividade de telecomunicação | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
@@ -150,6 +154,7 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | estado-democratico-359k-3 | Estado Democrático de Direito | art. 359-K, § 3º | Facilitação de espionagem por acesso | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | propriedade-industrial-9279-192 | Propriedade industrial | art. 192 | Falsa indicação geográfica | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | contravencao-3688-41 | Contravenções | art. 41 | Falso alarme | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-342 | Código Penal | art. 342 | Falso testemunho ou falsa perícia | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | contravencao-3688-32 | Contravenções | art. 32 | Falta de habilitação para dirigir veículo | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | contravencao-3688-49 | Contravenções | art. 49 | Falta de matrícula ou escrituração de atividade | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | falimentar-11101-172 | Crimes falimentares | art. 172 | Favorecimento de credores | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
@@ -312,6 +317,7 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | eleicoes-9504-68-2 | Normas para eleições | art. 68, § 2º | Recusa de entrega de cópia do boletim de urna | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | contravencao-3688-43 | Contravenções | art. 43 | Recusa de moeda de curso legal | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | parcelamento-6766-52 | Parcelamento do solo urbano | art. 52 | Registro irregular de parcelamento urbano | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-338 | Código Penal | art. 338 | Reingresso de estrangeiro expulso | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-184-1 | Código Penal | art. 184, § 1º | Reprodução não autorizada com intuito de lucro | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | propriedade-industrial-9279-189 | Propriedade industrial | art. 189 | Reprodução ou alteração de marca registrada | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | transporte-eleitoral-6091-11-pu | Transporte eleitoral | art. 11, parágrafo único | Responsabilidade do guardião de veículo eleitoral | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
@@ -390,7 +396,7 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | Legislação penal especial e estatutos setoriais | O catálogo de 88 diplomas ainda não equivale a catálogo de tipos; vários diplomas estão apenas previstos. | Extrair dispositivos incriminadores de drogas, armas, tortura, abuso de autoridade, ambientais, trânsito, ECA, pessoa idosa, racismo, sistema financeiro, tributário, falimentar, propriedade intelectual e demais módulos. |
 | Alterações legislativas de 2025 e 2026 | Páginas de leis recentes foram bloqueadas em algumas consultas; a redação atual do CP e das leis ambientais e de trânsito mostra alterações que precisam de validação temporal independente. | Conferir a lei criadora/modificadora e o início de vigência diretamente em fonte oficial acessível, sem usar apenas snippet. |
 | Enriquecimento jurídico | Nenhum registro está marcado como enriquecimento validado neste checkpoint. | Completar bem jurídico, sujeitos, elemento subjetivo, consumação, tentativa, ação penal, competência, rito, hediondez, jurisprudência e controvérsias. |
-| Cobertura integral | O estado global é incompleto e há 373 registros pendentes na fonte canônica. | Trabalhar módulo por módulo, atualizar as contagens e não declarar integralidade enquanto houver lacunas. |
+| Cobertura integral | O estado global é incompleto e há 379 registros pendentes na fonte canônica. | Trabalhar módulo por módulo, atualizar as contagens e não declarar integralidade enquanto houver lacunas. |
 
 ## Fontes bloqueadas na consulta de 2026-08-17
 

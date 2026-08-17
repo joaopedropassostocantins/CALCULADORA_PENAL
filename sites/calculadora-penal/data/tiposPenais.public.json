@@ -1,5 +1,5 @@
 {
-  "versaoCatalogo": "cntp-br-2026-08-17-dbae5c7708f293a1",
+  "versaoCatalogo": "cntp-br-2026-08-17-e78f2c4c9374c1cd",
   "dataCorte": "2026-08-17",
   "estadoGeral": "incompleto",
   "registros": [
@@ -913,6 +913,23 @@
       "canCalculate": false
     },
     {
+      "id": "cp-341",
+      "name": "Autoacusação falsa",
+      "article": "art. 341",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.25,
+      "maximum": 2,
+      "penalty": "Detenção, de 3 meses a 2 anos, ou multa.",
+      "keywords": [
+        "autoacusação",
+        "crime inexistente"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "cp-138",
       "name": "Calúnia",
       "article": "art. 138",
@@ -1233,6 +1250,23 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l9434.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "cp-340",
+      "name": "Comunicação falsa de crime ou contravenção",
+      "article": "art. 340",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.08333333333333333,
+      "maximum": 0.5,
+      "penalty": "Detenção, de 1 a 6 meses, ou multa.",
+      "keywords": [
+        "comunicação falsa",
+        "crime inexistente"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "eleitoral-4737-302",
@@ -2081,6 +2115,23 @@
       "canCalculate": true
     },
     {
+      "id": "cp-339",
+      "name": "Denunciação caluniosa",
+      "article": "art. 339",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 8,
+      "penalty": "Reclusão, de 2 a 8 anos, e multa.",
+      "keywords": [
+        "denunciação caluniosa",
+        "inocente"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "eleitoral-4737-326-a",
       "name": "Denunciação caluniosa eleitoral",
       "article": "art. 326-A",
@@ -2150,6 +2201,23 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14344.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "cp-338a",
+      "name": "Descumprimento de medidas protetivas de urgência",
+      "article": "art. 338-A",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 5,
+      "penalty": "Reclusão, de 2 a 5 anos, e multa.",
+      "keywords": [
+        "medida protetiva",
+        "descumprimento"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "maria-penha-11340-24a",
@@ -4366,6 +4434,24 @@
         "pânico"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-342",
+      "name": "Falso testemunho ou falsa perícia",
+      "article": "art. 342",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 4,
+      "penalty": "Reclusão, de 2 a 4 anos, e multa.",
+      "keywords": [
+        "falso testemunho",
+        "falsa perícia",
+        "processo"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -8634,6 +8720,24 @@
         "desmembramento"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l6766.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-338",
+      "name": "Reingresso de estrangeiro expulso",
+      "article": "art. 338",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão, de 1 a 4 anos, sem prejuízo de nova expulsão após o cumprimento da pena.",
+      "keywords": [
+        "reingresso",
+        "estrangeiro",
+        "expulsão"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
