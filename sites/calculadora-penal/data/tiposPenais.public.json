@@ -1,5 +1,5 @@
 {
-  "versaoCatalogo": "cntp-br-2026-08-17-93c34d2c9c842b01",
+  "versaoCatalogo": "cntp-br-2026-08-17-3f9c61ff82535562",
   "dataCorte": "2026-08-17",
   "estadoGeral": "incompleto",
   "registros": [
@@ -1827,6 +1827,25 @@
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14344.htm",
       "validationState": "confirmada",
       "canCalculate": true
+    },
+    {
+      "id": "maria-penha-11340-24a",
+      "name": "Descumprimento de medidas protetivas de urgência",
+      "article": "art. 24-A",
+      "law": "Lei nº 11.340/2006",
+      "category": "Lei Maria da Penha",
+      "minimum": 2,
+      "maximum": 5,
+      "penalty": "Reclusão, de 2 a 5 anos, e multa.",
+      "keywords": [
+        "violência doméstica",
+        "medida protetiva",
+        "descumprimento",
+        "Lei Maria da Penha"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm",
+      "validationState": "pendente",
+      "canCalculate": false
     },
     {
       "id": "ambiental-68",
@@ -6971,6 +6990,24 @@
         "furto"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "desarmamento-10826-16-2",
+      "name": "Posse ou porte de arma de fogo de uso proibido",
+      "article": "art. 16, § 2º",
+      "law": "Lei nº 10.826/2003",
+      "category": "Armas",
+      "minimum": 4,
+      "maximum": 12,
+      "penalty": "Reclusão, de 4 a 12 anos, e multa.",
+      "keywords": [
+        "arma de fogo",
+        "uso proibido",
+        "qualificadora"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826compilado.htm",
       "validationState": "pendente",
       "canCalculate": false
     },

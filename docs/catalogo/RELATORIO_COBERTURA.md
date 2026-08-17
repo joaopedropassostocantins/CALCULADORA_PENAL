@@ -1,6 +1,6 @@
 # Relatório de cobertura do catálogo penal
 
-Data de corte: **2026-08-17**. Identificador: **cntp-br-2026-08-17-93c34d2c9c842b01**.
+Data de corte: **2026-08-17**. Identificador: **cntp-br-2026-08-17-3f9c61ff82535562**.
 
 > O estado global permanece **incompleto**. A carga abaixo é um checkpoint auditável; ela não declara conter todos os tipos penais vigentes.
 
@@ -8,12 +8,12 @@ Data de corte: **2026-08-17**. Identificador: **cntp-br-2026-08-17-93c34d2c9c842
 
 | Indicador | Quantidade |
 | --- | ---: |
-| Registros ativos na fonte canônica | 500 |
-| Crimes | 453 |
+| Registros ativos na fonte canônica | 502 |
+| Crimes | 455 |
 | Contravenções | 47 |
 | Inventário validado | 212 |
 | Enriquecimento jurídico validado | 0 |
-| Registros pendentes | 288 |
+| Registros pendentes | 290 |
 | Diplomas no inventário de normas | 88 |
 | Fontes auditadas | 4 |
 | Fontes pendentes | 95 |
@@ -24,7 +24,7 @@ Data de corte: **2026-08-17**. Identificador: **cntp-br-2026-08-17-93c34d2c9c842
 | --- | ---: |
 | Abuso de autoridade | 25 |
 | Agrotóxicos e produtos de controle ambiental | 2 |
-| Armas | 7 |
+| Armas | 8 |
 | Biossegurança | 6 |
 | Código Penal | 55 |
 | Código Penal Militar | 8 |
@@ -56,6 +56,7 @@ Data de corte: **2026-08-17**. Identificador: **cntp-br-2026-08-17-93c34d2c9c842
 | Lavagem de dinheiro | 1 |
 | Lei Geral do Esporte | 4 |
 | Lei Henry Borel | 2 |
+| Lei Maria da Penha | 1 |
 | Normas para eleições | 10 |
 | Ordem econômica | 2 |
 | Organização criminosa | 7 |

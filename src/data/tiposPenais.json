@@ -3,8 +3,8 @@
   "versaoCatalogo": "0.1.0-incremental",
   "dataCorte": "2026-08-17",
   "estadoGeral": "incompleto",
-  "identificadorVersao": "cntp-br-2026-08-17-93c34d2c9c842b01",
-  "quantidadeTotalAtiva": 500,
+  "identificadorVersao": "cntp-br-2026-08-17-3f9c61ff82535562",
+  "quantidadeTotalAtiva": 502,
   "quantidadePorModulo": {
     "Código Penal": 55,
     "Pessoa com deficiência": 5,
@@ -31,7 +31,7 @@
     "Interceptação de comunicações": 2,
     "Biossegurança": 6,
     "Propriedade industrial": 12,
-    "Armas": 7,
+    "Armas": 8,
     "Ordem econômica": 2,
     "Parcelamento do solo urbano": 3,
     "Código Penal Militar": 8,
@@ -40,6 +40,7 @@
     "Economia popular": 3,
     "Transporte eleitoral": 5,
     "Lei Henry Borel": 2,
+    "Lei Maria da Penha": 1,
     "Telecomunicações": 1,
     "Agrotóxicos e produtos de controle ambiental": 2,
     "Crimes raciais": 18,
@@ -57,7 +58,7 @@
   "fontesAuditadas": 4,
   "registrosInventariados": 212,
   "registrosEnriquecidos": 0,
-  "registrosPendentes": 288,
+  "registrosPendentes": 290,
   "modulosPendentes": [
     "1 Codificações e diplomas estruturantes",
     "2 Núcleo da legislação penal especial",
@@ -29939,6 +29940,133 @@
         "produção",
         "importação",
         "exportação"
+      ]
+    },
+    {
+      "id": "maria-penha-11340-24a",
+      "nomeJuridico": "Descumprimento de medidas protetivas de urgência",
+      "aliases": [
+        "crime do art. 24-A da Lei Maria da Penha"
+      ],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Lei Maria da Penha",
+      "norma": "Lei nº 11.340/2006",
+      "dispositivo": "art. 24-A",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Descumprir decisão judicial que defere medidas protetivas de urgência previstas na Lei Maria da Penha.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 60,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 5 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "2024-10-10",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Pena vigente conferida no texto oficial com redação dada pela Lei nº 14.994/2024; a majorante do § 4º, incluída pela Lei nº 15.383/2026, deve ser modelada no enriquecimento e não como tipo autônomo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 11.340/2006",
+        "Lei nº 13.641/2018",
+        "Lei nº 14.994/2024",
+        "Lei nº 15.383/2026"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "violência doméstica",
+        "medida protetiva",
+        "descumprimento",
+        "Lei Maria da Penha"
+      ]
+    },
+    {
+      "id": "desarmamento-10826-16-2",
+      "nomeJuridico": "Posse ou porte de arma de fogo de uso proibido",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Armas",
+      "norma": "Lei nº 10.826/2003",
+      "dispositivo": "art. 16, § 2º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "armas-16",
+      "descricaoObjetiva": "Praticar as condutas do art. 16, caput ou § 1º, envolvendo arma de fogo de uso proibido.",
+      "pena": {
+        "minimoMeses": 48,
+        "maximoMeses": 144,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 4 a 12 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "2003-12-22",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Qualificadora autônoma do art. 16, § 2º, com pena própria; as condutas do § 1º que mantêm a mesma pena do caput não foram duplicadas."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826compilado.htm",
+      "leiCriadoraOuModificadora": [
+        "Lei nº 10.826/2003",
+        "Lei nº 13.964/2019"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "arma de fogo",
+        "uso proibido",
+        "qualificadora"
       ]
     }
   ]

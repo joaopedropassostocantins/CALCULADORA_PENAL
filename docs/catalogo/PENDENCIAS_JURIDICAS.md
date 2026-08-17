@@ -60,6 +60,7 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | eleitoral-4737-326-a | Crimes eleitorais | art. 326-A | Denunciação caluniosa eleitoral | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | contravencao-3688-29 | Contravenções | art. 29 | Desabamento de construção | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | transporte-eleitoral-6091-11-ii | Transporte eleitoral | art. 11, II | Desatendimento de requisição de transporte eleitoral | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| maria-penha-11340-24a | Lei Maria da Penha | art. 24-A | Descumprimento de medidas protetivas de urgência | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | prefeito-201-1-xiv | Crimes de responsabilidade municipal | art. 1º, XIV | Descumprimento injustificado de lei ou ordem judicial | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | telecom-9472-183 | Telecomunicações | art. 183 | Desenvolvimento clandestino de atividade de telecomunicação | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | eleitoral-4737-296 | Crimes eleitorais | art. 296 | Desordem nos trabalhos eleitorais | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
@@ -224,6 +225,7 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | contravencao-3688-19 | Contravenções | art. 19 | Porte de arma | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | drogas-28 | Drogas | art. 28 | Porte de droga para consumo pessoal | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | contravencao-3688-25 | Contravenções | art. 25 | Posse não justificada de instrumento de furto | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| desarmamento-10826-16-2 | Armas | art. 16, § 2º | Posse ou porte de arma de fogo de uso proibido | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | nuclear-6453-22 | Crimes nucleares | art. 22 | Posse ou transporte não autorizado de material nuclear | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | drogas-38 | Drogas | art. 38 | Prescrição ou ministração culposa de drogas | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | eleitoral-4737-298 | Crimes eleitorais | art. 298 | Prisão ou detenção eleitoral ilegal | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
@@ -305,7 +307,7 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | Legislação penal especial e estatutos setoriais | O catálogo de 88 diplomas ainda não equivale a catálogo de tipos; vários diplomas estão apenas previstos. | Extrair dispositivos incriminadores de drogas, armas, tortura, abuso de autoridade, ambientais, trânsito, ECA, pessoa idosa, racismo, sistema financeiro, tributário, falimentar, propriedade intelectual e demais módulos. |
 | Alterações legislativas de 2025 e 2026 | Páginas de leis recentes foram bloqueadas em algumas consultas; a redação atual do CP e das leis ambientais e de trânsito mostra alterações que precisam de validação temporal independente. | Conferir a lei criadora/modificadora e o início de vigência diretamente em fonte oficial acessível, sem usar apenas snippet. |
 | Enriquecimento jurídico | Nenhum registro está marcado como enriquecimento validado neste checkpoint. | Completar bem jurídico, sujeitos, elemento subjetivo, consumação, tentativa, ação penal, competência, rito, hediondez, jurisprudência e controvérsias. |
-| Cobertura integral | O estado global é incompleto e há 288 registros pendentes na fonte canônica. | Trabalhar módulo por módulo, atualizar as contagens e não declarar integralidade enquanto houver lacunas. |
+| Cobertura integral | O estado global é incompleto e há 290 registros pendentes na fonte canônica. | Trabalhar módulo por módulo, atualizar as contagens e não declarar integralidade enquanto houver lacunas. |
 
 ## Fontes bloqueadas na consulta de 2026-08-17
 

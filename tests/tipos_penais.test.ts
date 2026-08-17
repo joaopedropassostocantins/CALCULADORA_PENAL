@@ -88,6 +88,8 @@ describe("catálogo canônico de tipos penais", () => {
     expect(catalog.registros.filter((record) => record.modulo === "Transporte eleitoral")).toHaveLength(5);
     expect(catalog.registros.filter((record) => record.modulo === "Normas para eleições")).toHaveLength(10);
     expect(catalog.registros.filter((record) => record.modulo === "Biossegurança")).toHaveLength(6);
+    expect(catalog.registros.filter((record) => record.modulo === "Lei Maria da Penha")).toHaveLength(1);
+    expect(catalog.registros.filter((record) => record.modulo === "Armas")).toHaveLength(8);
     for (const record of catalog.registros) {
       expect(record.pena.minimoMeses == null || record.pena.maximoMeses == null || record.pena.minimoMeses <= record.pena.maximoMeses).toBe(true);
       expect(record.tipoPaiId === null || ids.has(record.tipoPaiId)).toBe(true);
@@ -270,6 +272,8 @@ describe("catálogo canônico de tipos penais", () => {
       "biosseguranca-11105-27": [12, 48],
       "biosseguranca-11105-28": [24, 60],
       "biosseguranca-11105-29": [12, 24],
+      "maria-penha-11340-24a": [24, 60],
+      "desarmamento-10826-16-2": [48, 144],
     };
     for (const [id, [minimum, maximum]] of Object.entries(expected)) {
       const record = byId.get(id);
