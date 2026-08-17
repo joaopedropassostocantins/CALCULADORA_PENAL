@@ -3,10 +3,10 @@
   "versaoCatalogo": "0.1.0-incremental",
   "dataCorte": "2026-08-17",
   "estadoGeral": "incompleto",
-  "identificadorVersao": "cntp-br-2026-08-17-88576482f58c7a94",
-  "quantidadeTotalAtiva": 634,
+  "identificadorVersao": "cntp-br-2026-08-17-c29edba17f7df7f7",
+  "quantidadeTotalAtiva": 673,
   "quantidadePorModulo": {
-    "Código Penal": 187,
+    "Código Penal": 226,
     "Pessoa com deficiência": 5,
     "Estatuto da Pessoa Idosa": 15,
     "Crimes de responsabilidade municipal": 23,
@@ -58,7 +58,7 @@
   "fontesAuditadas": 4,
   "registrosInventariados": 212,
   "registrosEnriquecidos": 0,
-  "registrosPendentes": 422,
+  "registrosPendentes": 461,
   "modulosPendentes": [
     "1 Codificações e diplomas estruturantes",
     "2 Núcleo da legislação penal especial",
@@ -37912,6 +37912,2337 @@
         "veículo",
         "sinal identificador",
         "comércio"
+      ]
+    },
+    {
+      "id": "cp-215",
+      "nomeJuridico": "Violação sexual mediante fraude",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 215",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Ter conjunção carnal ou praticar outro ato libidinoso com alguém mediante fraude ou outro meio que impeça ou dificulte a livre manifestação de vontade da vítima.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 72,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 6 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo sexual autônomo do Código Penal localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940",
+        "Lei nº 12.015/2009"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "violação sexual",
+        "fraude",
+        "ato libidinoso"
+      ]
+    },
+    {
+      "id": "cp-215a",
+      "nomeJuridico": "Importunação sexual",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 215-A",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Praticar contra alguém e sem sua anuência ato libidinoso com objetivo de satisfazer a própria lascívia ou a de terceiro.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 60,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 5 anos, se o ato não constitui crime mais grave.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo sexual autônomo do Código Penal localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940",
+        "Lei nº 13.718/2018"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "importunação sexual",
+        "ato libidinoso"
+      ]
+    },
+    {
+      "id": "cp-216a",
+      "nomeJuridico": "Assédio sexual",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 216-A",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Constranger alguém com intuito de obter vantagem ou favorecimento sexual, prevalecendo-se de condição de superior hierárquico ou ascendência inerente a emprego, cargo ou função.",
+      "pena": {
+        "minimoMeses": 1,
+        "maximoMeses": 24,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 2 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo sexual autônomo do Código Penal localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940",
+        "Lei nº 10.224/2001"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "assédio sexual",
+        "superior hierárquico"
+      ]
+    },
+    {
+      "id": "cp-216b",
+      "nomeJuridico": "Registro não autorizado da intimidade sexual",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 216-B",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Produzir, fotografar, filmar ou registrar conteúdo com cena de nudez ou ato sexual ou libidinoso íntimo e privado sem autorização dos participantes.",
+      "pena": {
+        "minimoMeses": 0.5,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 1 ano, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo sexual autônomo do Código Penal localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940",
+        "Lei nº 13.772/2018"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "intimidade sexual",
+        "nudez",
+        "registro não autorizado"
+      ]
+    },
+    {
+      "id": "cp-218",
+      "nomeJuridico": "Induzimento à satisfação da lascívia de outrem",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 218",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Induzir alguém menor de 14 anos a satisfazer a lascívia de outrem.",
+      "pena": {
+        "minimoMeses": 72,
+        "maximoMeses": 168,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 6 a 14 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo sexual autônomo do Código Penal localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940",
+        "Lei nº 12.015/2009",
+        "Lei nº 15.280/2025"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "lascívia",
+        "menor de 14 anos"
+      ]
+    },
+    {
+      "id": "cp-218a",
+      "nomeJuridico": "Satisfação de lascívia mediante presença de criança ou adolescente",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 218-A",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Praticar na presença de menor de 14 anos, ou induzi-lo a presenciar, conjunção carnal ou outro ato libidinoso para satisfazer lascívia própria ou alheia.",
+      "pena": {
+        "minimoMeses": 60,
+        "maximoMeses": 144,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 5 a 12 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo sexual autônomo do Código Penal localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940",
+        "Lei nº 12.015/2009",
+        "Lei nº 15.280/2025"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "lascívia",
+        "criança",
+        "presença"
+      ]
+    },
+    {
+      "id": "cp-218b",
+      "nomeJuridico": "Favorecimento da exploração sexual de vulnerável",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 218-B",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Submeter, induzir ou atrair à prostituição ou outra forma de exploração sexual pessoa menor de 18 anos ou sem discernimento necessário, facilitar a exploração ou impedir que a abandone.",
+      "pena": {
+        "minimoMeses": 84,
+        "maximoMeses": 192,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 7 a 16 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo sexual autônomo do Código Penal localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940",
+        "Lei nº 12.015/2009",
+        "Lei nº 12.978/2014",
+        "Lei nº 15.280/2025"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "exploração sexual",
+        "vulnerável",
+        "prostituição"
+      ]
+    },
+    {
+      "id": "cp-218c",
+      "nomeJuridico": "Divulgação de cena de estupro, sexo, nudez ou pornografia",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 218-C",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Oferecer, disponibilizar, transmitir, vender, distribuir, publicar ou divulgar registro audiovisual de estupro, apologia ou indução à sua prática, ou cena de sexo, nudez ou pornografia sem consentimento da vítima.",
+      "pena": {
+        "minimoMeses": 48,
+        "maximoMeses": 120,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 4 a 10 anos, e multa, se o fato não constitui crime mais grave.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Tipo sexual autônomo do Código Penal localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940",
+        "Lei nº 13.718/2018",
+        "Lei nº 15.280/2025"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "divulgação de cena",
+        "pornografia",
+        "nudez",
+        "estupro"
+      ]
+    },
+    {
+      "id": "cp-250",
+      "nomeJuridico": "Incêndio",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 250, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Causar incêndio expondo a perigo a vida, a integridade física ou o patrimônio de outrem.",
+      "pena": {
+        "minimoMeses": 36,
+        "maximoMeses": 72,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 3 a 6 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime de perigo comum ou contra serviço público localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "incêndio",
+        "perigo comum"
+      ]
+    },
+    {
+      "id": "cp-250-2",
+      "nomeJuridico": "Incêndio culposo",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 250, § 2º",
+      "naturezaFigura": "culposa",
+      "tipoPaiId": "cp-250",
+      "descricaoObjetiva": "Causar culposamente incêndio expondo a perigo a vida, a integridade física ou o patrimônio de outrem.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 24,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 2 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime de perigo comum ou contra serviço público localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "incêndio",
+        "culposo"
+      ]
+    },
+    {
+      "id": "cp-251",
+      "nomeJuridico": "Explosão",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 251, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Expor a perigo a vida, a integridade física ou o patrimônio de outrem mediante explosão, arremesso ou colocação de engenho explosivo.",
+      "pena": {
+        "minimoMeses": 36,
+        "maximoMeses": 72,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 3 a 6 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime de perigo comum ou contra serviço público localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "explosão",
+        "engenho explosivo"
+      ]
+    },
+    {
+      "id": "cp-251-1",
+      "nomeJuridico": "Explosão com substância não equiparada a dinamite",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 251, § 1º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-251",
+      "descricaoObjetiva": "Praticar explosão usando substância que não é dinamite ou explosivo de efeitos análogos.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 4 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime de perigo comum ou contra serviço público localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "explosão",
+        "substância explosiva"
+      ]
+    },
+    {
+      "id": "cp-251-3a",
+      "nomeJuridico": "Explosão culposa com dinamite",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 251, § 3º, primeira parte",
+      "naturezaFigura": "culposa",
+      "tipoPaiId": "cp-251",
+      "descricaoObjetiva": "Causar culposamente explosão de dinamite ou substância de efeitos análogos.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 24,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 2 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime de perigo comum ou contra serviço público localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "explosão",
+        "culposa",
+        "dinamite"
+      ]
+    },
+    {
+      "id": "cp-251-3b",
+      "nomeJuridico": "Explosão culposa sem dinamite",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 251, § 3º, segunda parte",
+      "naturezaFigura": "culposa",
+      "tipoPaiId": "cp-251",
+      "descricaoObjetiva": "Causar culposamente explosão nos demais casos previstos no art. 251.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 1 ano.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime de perigo comum ou contra serviço público localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "explosão",
+        "culposa"
+      ]
+    },
+    {
+      "id": "cp-252",
+      "nomeJuridico": "Uso de gás tóxico ou asfixiante",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 252",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Expor a perigo a vida, a integridade física ou o patrimônio de outrem usando gás tóxico ou asfixiante.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 4 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime de perigo comum ou contra serviço público localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "gás tóxico",
+        "asfixiante"
+      ]
+    },
+    {
+      "id": "cp-252-pu",
+      "nomeJuridico": "Uso culposo de gás tóxico ou asfixiante",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 252, parágrafo único",
+      "naturezaFigura": "culposa",
+      "tipoPaiId": "cp-252",
+      "descricaoObjetiva": "Praticar culposamente o crime de uso de gás tóxico ou asfixiante.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 1 ano.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime de perigo comum ou contra serviço público localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "gás tóxico",
+        "culposa"
+      ]
+    },
+    {
+      "id": "cp-253",
+      "nomeJuridico": "Fabrico, fornecimento, aquisição, posse ou transporte de explosivos ou gás tóxico",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 253",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Fabricar, fornecer, adquirir, possuir ou transportar sem licença substância ou engenho explosivo, gás tóxico ou asfixiante, ou material para sua fabricação.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 24,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 2 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime de perigo comum ou contra serviço público localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "explosivo",
+        "gás tóxico"
+      ]
+    },
+    {
+      "id": "cp-254",
+      "nomeJuridico": "Inundação dolosa",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 254, primeira parte",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Causar inundação expondo a perigo a vida, a integridade física ou o patrimônio de outrem.",
+      "pena": {
+        "minimoMeses": 36,
+        "maximoMeses": 72,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 3 a 6 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime de perigo comum ou contra serviço público localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "inundação",
+        "perigo comum"
+      ]
+    },
+    {
+      "id": "cp-254-culposa",
+      "nomeJuridico": "Inundação culposa",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 254, segunda parte",
+      "naturezaFigura": "culposa",
+      "tipoPaiId": "cp-254",
+      "descricaoObjetiva": "Causar culposamente inundação expondo a perigo a vida, a integridade física ou o patrimônio de outrem.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 24,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 2 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime de perigo comum ou contra serviço público localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "inundação",
+        "culposa"
+      ]
+    },
+    {
+      "id": "cp-255",
+      "nomeJuridico": "Perigo de inundação",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 255",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Remover, destruir ou inutilizar obstáculo natural ou obra destinada a impedir inundação, expondo a perigo a vida, a integridade física ou o patrimônio de outrem.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 36,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 3 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime de perigo comum ou contra serviço público localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "inundação",
+        "obra de contenção"
+      ]
+    },
+    {
+      "id": "cp-256",
+      "nomeJuridico": "Desabamento ou desmoronamento",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 256, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Causar desabamento ou desmoronamento expondo a perigo a vida, a integridade física ou o patrimônio de outrem.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 4 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime de perigo comum ou contra serviço público localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "desabamento",
+        "desmoronamento"
+      ]
+    },
+    {
+      "id": "cp-256-pu",
+      "nomeJuridico": "Desabamento ou desmoronamento culposo",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 256, parágrafo único",
+      "naturezaFigura": "culposa",
+      "tipoPaiId": "cp-256",
+      "descricaoObjetiva": "Causar culposamente desabamento ou desmoronamento expondo a perigo a vida, a integridade física ou o patrimônio de outrem.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 1 ano.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime de perigo comum ou contra serviço público localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "desabamento",
+        "culposa"
+      ]
+    },
+    {
+      "id": "cp-257",
+      "nomeJuridico": "Subtração, ocultação ou inutilização de material de salvamento",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 257",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Subtrair, ocultar ou inutilizar material de combate ao perigo, socorro ou salvamento, ou impedir ou dificultar serviço dessa natureza.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 60,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 5 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime de perigo comum ou contra serviço público localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "material de salvamento",
+        "desastre"
+      ]
+    },
+    {
+      "id": "cp-259",
+      "nomeJuridico": "Difusão de doença ou praga",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 259, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Difundir doença ou praga que possa causar dano a floresta, plantação ou animais de utilidade econômica.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 60,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 5 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime de perigo comum ou contra serviço público localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "doença",
+        "praga",
+        "floresta"
+      ]
+    },
+    {
+      "id": "cp-259-pu",
+      "nomeJuridico": "Difusão culposa de doença ou praga",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 259, parágrafo único",
+      "naturezaFigura": "culposa",
+      "tipoPaiId": "cp-259",
+      "descricaoObjetiva": "Difundir culposamente doença ou praga que possa causar dano a floresta, plantação ou animais de utilidade econômica.",
+      "pena": {
+        "minimoMeses": 1,
+        "maximoMeses": 6,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 6 meses, ou multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime de perigo comum ou contra serviço público localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "doença",
+        "praga",
+        "culposa"
+      ]
+    },
+    {
+      "id": "cp-260",
+      "nomeJuridico": "Perigo de desastre ferroviário",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 260, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Impedir ou perturbar serviço ferroviário por destruição, dano, obstáculo, falso aviso ou outro ato capaz de resultar desastre.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 60,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 5 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime de perigo comum ou contra serviço público localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "ferrovia",
+        "desastre ferroviário"
+      ]
+    },
+    {
+      "id": "cp-260-1",
+      "nomeJuridico": "Desastre ferroviário doloso",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 260, § 1º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-260",
+      "descricaoObjetiva": "Se do perigo de desastre ferroviário resulta desastre.",
+      "pena": {
+        "minimoMeses": 48,
+        "maximoMeses": 144,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 4 a 12 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime de perigo comum ou contra serviço público localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "ferrovia",
+        "desastre"
+      ]
+    },
+    {
+      "id": "cp-260-2",
+      "nomeJuridico": "Desastre ferroviário culposo",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 260, § 2º",
+      "naturezaFigura": "culposa",
+      "tipoPaiId": "cp-260",
+      "descricaoObjetiva": "Se, por culpa, ocorre desastre ferroviário.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 24,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 2 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime de perigo comum ou contra serviço público localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "ferrovia",
+        "desastre",
+        "culposa"
+      ]
+    },
+    {
+      "id": "cp-261",
+      "nomeJuridico": "Atentado contra a segurança de transporte marítimo, fluvial ou aéreo",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 261, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Expor a perigo embarcação ou aeronave, ou praticar ato tendente a impedir ou dificultar navegação marítima, fluvial ou aérea.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 60,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 5 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime de perigo comum ou contra serviço público localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "transporte marítimo",
+        "aeronave",
+        "navegação"
+      ]
+    },
+    {
+      "id": "cp-261-1",
+      "nomeJuridico": "Sinistro em transporte marítimo, fluvial ou aéreo",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 261, § 1º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-261",
+      "descricaoObjetiva": "Se do atentado resulta naufrágio, submersão, encalhe, queda ou destruição de aeronave.",
+      "pena": {
+        "minimoMeses": 48,
+        "maximoMeses": 144,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 4 a 12 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime de perigo comum ou contra serviço público localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "naufrágio",
+        "aeronave",
+        "sinistro"
+      ]
+    },
+    {
+      "id": "cp-261-3",
+      "nomeJuridico": "Sinistro culposo em transporte marítimo, fluvial ou aéreo",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 261, § 3º",
+      "naturezaFigura": "culposa",
+      "tipoPaiId": "cp-261",
+      "descricaoObjetiva": "Se, por culpa, ocorre sinistro de transporte marítimo, fluvial ou aéreo.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 24,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 2 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime de perigo comum ou contra serviço público localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "transporte",
+        "sinistro",
+        "culposa"
+      ]
+    },
+    {
+      "id": "cp-262",
+      "nomeJuridico": "Atentado contra a segurança de outro meio de transporte",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 262, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Expor a perigo outro meio de transporte público, ou impedir ou dificultar seu funcionamento.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 24,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 2 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime de perigo comum ou contra serviço público localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "transporte público",
+        "perigo"
+      ]
+    },
+    {
+      "id": "cp-262-1",
+      "nomeJuridico": "Desastre em outro meio de transporte",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 262, § 1º",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-262",
+      "descricaoObjetiva": "Se do atentado contra outro meio de transporte resulta desastre.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 60,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 5 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime de perigo comum ou contra serviço público localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "transporte público",
+        "desastre"
+      ]
+    },
+    {
+      "id": "cp-262-2",
+      "nomeJuridico": "Desastre culposo em outro meio de transporte",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 262, § 2º",
+      "naturezaFigura": "culposa",
+      "tipoPaiId": "cp-262",
+      "descricaoObjetiva": "Se, por culpa, ocorre desastre em outro meio de transporte público.",
+      "pena": {
+        "minimoMeses": 3,
+        "maximoMeses": 12,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 3 meses a 1 ano.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime de perigo comum ou contra serviço público localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "transporte público",
+        "desastre",
+        "culposa"
+      ]
+    },
+    {
+      "id": "cp-264",
+      "nomeJuridico": "Arremesso de projétil",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 264, caput",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Arremessar projétil contra veículo em movimento destinado ao transporte público por terra, água ou ar.",
+      "pena": {
+        "minimoMeses": 1,
+        "maximoMeses": 6,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 1 a 6 meses.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime de perigo comum ou contra serviço público localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "projétil",
+        "transporte público"
+      ]
+    },
+    {
+      "id": "cp-264-pu-lesao",
+      "nomeJuridico": "Arremesso de projétil com lesão corporal",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 264, parágrafo único, lesão corporal",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-264",
+      "descricaoObjetiva": "Se do arremesso de projétil contra veículo resulta lesão corporal.",
+      "pena": {
+        "minimoMeses": 6,
+        "maximoMeses": 24,
+        "unidadePrincipal": "meses",
+        "descricao": "Detenção, de 6 meses a 2 anos.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime de perigo comum ou contra serviço público localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "projétil",
+        "lesão corporal"
+      ]
+    },
+    {
+      "id": "cp-264-pu-morte",
+      "nomeJuridico": "Arremesso de projétil com morte",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 264, parágrafo único, morte",
+      "naturezaFigura": "qualificada",
+      "tipoPaiId": "cp-264",
+      "descricaoObjetiva": "Se do arremesso de projétil contra veículo resulta morte.",
+      "pena": {
+        "minimoMeses": null,
+        "maximoMeses": null,
+        "unidadePrincipal": "meses",
+        "descricao": "Pena do homicídio culposo, aumentada de um terço.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Pena remissiva ao art. 121, § 3º, aumentada de um terço; não convertida em faixa numérica para evitar cálculo incorreto."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "projétil",
+        "morte"
+      ]
+    },
+    {
+      "id": "cp-265",
+      "nomeJuridico": "Atentado contra a segurança de serviço de utilidade pública",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 265",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Atentar contra a segurança ou o funcionamento de serviço de água, luz, força, calor ou outro serviço de utilidade pública.",
+      "pena": {
+        "minimoMeses": 12,
+        "maximoMeses": 60,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 1 a 5 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime de perigo comum ou contra serviço público localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "serviço público",
+        "água",
+        "energia"
+      ]
+    },
+    {
+      "id": "cp-266",
+      "nomeJuridico": "Interrupção ou perturbação de serviço telegráfico, telefônico, informático, telemático ou de informação de utilidade pública",
+      "aliases": [],
+      "classe": "crime",
+      "jurisdicao": "comum",
+      "modulo": "Código Penal",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "dispositivo": "art. 266",
+      "naturezaFigura": "basica",
+      "tipoPaiId": null,
+      "descricaoObjetiva": "Interromper ou perturbar serviço de comunicação ou informação de utilidade pública, ou impedir ou dificultar seu restabelecimento.",
+      "pena": {
+        "minimoMeses": 24,
+        "maximoMeses": 48,
+        "unidadePrincipal": "meses",
+        "descricao": "Reclusão, de 2 a 4 anos, e multa.",
+        "multa": null
+      },
+      "vigencia": {
+        "estado": "vigente",
+        "inicioVigenciaRedacao": "1940-12-07",
+        "dataConsulta": "2026-08-17",
+        "estadoConferencia": "pendente",
+        "observacoes": "Crime de perigo comum ou contra serviço público localizado na fonte oficial; inventário e enriquecimento pendentes antes do cálculo."
+      },
+      "fonteOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "leiCriadoraOuModificadora": [
+        "Decreto-Lei nº 2.848/1940",
+        "Lei nº 12.737/2012",
+        "Lei nº 15.397/2026"
+      ],
+      "inventarioValidado": false,
+      "enriquecimentoValidado": false,
+      "usavelNaCalculadora": false,
+      "enriquecimento": {
+        "bemJuridico": null,
+        "sujeitoAtivo": null,
+        "sujeitoPassivo": null,
+        "elementoSubjetivo": null,
+        "consumacao": null,
+        "tentativa": null,
+        "formaCulposa": null,
+        "acaoPenal": null,
+        "competencia": "comum",
+        "procedimento": null,
+        "rito": null,
+        "hediondez": null,
+        "qualificadoras": [],
+        "majorantes": [],
+        "minorantes": [],
+        "agravantesAtenuantes": [],
+        "extincaoPunibilidade": [],
+        "jurisprudenciaQualificada": [],
+        "controversias": []
+      },
+      "palavrasChave": [
+        "telecomunicações",
+        "serviço de informação"
       ]
     }
   ]

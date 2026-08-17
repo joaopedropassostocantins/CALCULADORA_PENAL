@@ -32,11 +32,18 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | cp-168a | Código Penal | art. 168-A | Apropriação indébita previdenciária | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | prefeito-201-1-i | Crimes de responsabilidade municipal | art. 1º, I | Apropriação ou desvio de bens e rendas públicas | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | falimentar-11101-174 | Crimes falimentares | art. 174 | Aquisição ou uso ilegal de bens da massa | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-264 | Código Penal | art. 264, caput | Arremesso de projétil | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-264-pu-lesao | Código Penal | art. 264, parágrafo único, lesão corporal | Arremesso de projétil com lesão corporal | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-264-pu-morte | Código Penal | art. 264, parágrafo único, morte | Arremesso de projétil com morte | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | contravencao-3688-37 | Contravenções | art. 37 | Arremesso ou colocação perigosa | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-216a | Código Penal | art. 216-A | Assédio sexual | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | eleitoral-4737-321 | Crimes eleitorais | art. 321 | Assinatura em múltiplas fichas partidárias | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | genocidio-2889-2 | Genocídio | art. 2º | Associação para genocídio | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | estado-democratico-359j | Estado Democrático de Direito | art. 359-J | Atentado à integridade nacional | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | estado-democratico-359i | Estado Democrático de Direito | art. 359-I | Atentado à soberania | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-262 | Código Penal | art. 262, caput | Atentado contra a segurança de outro meio de transporte | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-265 | Código Penal | art. 265 | Atentado contra a segurança de serviço de utilidade pública | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-261 | Código Penal | art. 261, caput | Atentado contra a segurança de transporte marítimo, fluvial ou aéreo | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | terrorismo-5 | Terrorismo | art. 5º | Atos preparatórios de terrorismo | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | cp-309-pu | Código Penal | art. 309, parágrafo único | Atribuição de falsa qualidade a estrangeiro | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-341 | Código Penal | art. 341 | Autoacusação falsa | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
@@ -88,6 +95,12 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | cp-339 | Código Penal | art. 339 | Denunciação caluniosa | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | eleitoral-4737-326-a | Crimes eleitorais | art. 326-A | Denunciação caluniosa eleitoral | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | contravencao-3688-29 | Contravenções | art. 29 | Desabamento de construção | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-256 | Código Penal | art. 256, caput | Desabamento ou desmoronamento | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-256-pu | Código Penal | art. 256, parágrafo único | Desabamento ou desmoronamento culposo | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-262-2 | Código Penal | art. 262, § 2º | Desastre culposo em outro meio de transporte | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-262-1 | Código Penal | art. 262, § 1º | Desastre em outro meio de transporte | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-260-2 | Código Penal | art. 260, § 2º | Desastre ferroviário culposo | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-260-1 | Código Penal | art. 260, § 1º | Desastre ferroviário doloso | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | transporte-eleitoral-6091-11-ii | Transporte eleitoral | art. 11, II | Desatendimento de requisição de transporte eleitoral | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | cp-338a | Código Penal | art. 338-A | Descumprimento de medidas protetivas de urgência | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | maria-penha-11340-24a | Lei Maria da Penha | art. 24-A | Descumprimento de medidas protetivas de urgência | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
@@ -104,6 +117,8 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | falimentar-11101-173 | Crimes falimentares | art. 173 | Desvio, ocultação ou apropriação de bens | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | cp-139 | Código Penal | art. 139 | Difamação | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | eleitoral-4737-325 | Crimes eleitorais | art. 325 | Difamação eleitoral | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-259-pu | Código Penal | art. 259, parágrafo único | Difusão culposa de doença ou praga | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-259 | Código Penal | art. 259, caput | Difusão de doença ou praga | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | contravencao-3688-33 | Contravenções | art. 33 | Direção não licenciada de aeronave | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | contravencao-3688-34 | Contravenções | art. 34 | Direção perigosa | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | deficiencia-7853-8 | Crimes contra pessoas com deficiência | art. 8º | Discriminação contra pessoa com deficiência | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
@@ -112,6 +127,7 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | contravencao-3688-28 | Contravenções | art. 28 | Disparo de arma de fogo | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | cp-184-2 | Código Penal | art. 184, § 2º | Distribuição ou comercialização ilícita de obra autoral | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | contravencao-3688-56 | Contravenções | art. 56 | Distribuição ou transporte de listas de loteria | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-218c | Código Penal | art. 218-C | Divulgação de cena de estupro, sexo, nudez ou pornografia | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | eleitoral-4737-323 | Crimes eleitorais | art. 323 | Divulgação de fato inverídico em propaganda | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | falimentar-11101-170 | Crimes falimentares | art. 170 | Divulgação de informação falsa sobre devedor | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | cp-153-1a | Código Penal | art. 153, § 1º-A | Divulgação de informação sigilosa da Administração Pública | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
@@ -146,6 +162,10 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | indigena-6001-58-ii | Crimes contra indígenas | art. 58, II | Exibição lucrativa de indígena ou comunidade | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | contravencao-3688-54 | Contravenções | art. 54 | Exibição ou guarda de lista de sorteio | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | planejamento-familiar-9263-18 | Planejamento familiar | art. 18 | Exigência de atestado de esterilização | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-251 | Código Penal | art. 251, caput | Explosão | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-251-1 | Código Penal | art. 251, § 1º | Explosão com substância não equiparada a dinamite | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-251-3a | Código Penal | art. 251, § 3º, primeira parte | Explosão culposa com dinamite | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-251-3b | Código Penal | art. 251, § 3º, segunda parte | Explosão culposa sem dinamite | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | nuclear-6453-25 | Crimes nucleares | art. 25 | Exportação ou importação não licenciada de material nuclear | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | cp-134 | Código Penal | art. 134 | Exposição ou abandono de recém-nascido | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-134-1 | Código Penal | art. 134, § 1º | Exposição ou abandono de recém-nascido com lesão grave | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
@@ -161,6 +181,7 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | contravencao-3688-24 | Contravenções | art. 24 | Fabricação ou comércio de gazua | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | eleitoral-4737-340 | Crimes eleitorais | art. 340 | Fabricação ou guarda de material eleitoral exclusivo | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | contravencao-3688-18 | Contravenções | art. 18 | Fabrico, comércio ou detenção irregular de arma ou munição | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-253 | Código Penal | art. 253 | Fabrico, fornecimento, aquisição, posse ou transporte de explosivos ou gás tóxico | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-318 | Código Penal | art. 318 | Facilitação de contrabando ou descaminho | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | estado-democratico-359k-3 | Estado Democrático de Direito | art. 359-K, § 3º | Facilitação de espionagem por acesso | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | cp-307 | Código Penal | art. 307 | Falsa identidade | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
@@ -182,6 +203,7 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | cp-342 | Código Penal | art. 342 | Falso testemunho ou falsa perícia | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | contravencao-3688-32 | Contravenções | art. 32 | Falta de habilitação para dirigir veículo | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | contravencao-3688-49 | Contravenções | art. 49 | Falta de matrícula ou escrituração de atividade | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-218b | Código Penal | art. 218-B | Favorecimento da exploração sexual de vulnerável | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | falimentar-11101-172 | Crimes falimentares | art. 172 | Favorecimento de credores | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | cp-348 | Código Penal | art. 348 | Favorecimento pessoal | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-348-1 | Código Penal | art. 348, § 1º | Favorecimento pessoal de crime sem reclusão | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
@@ -226,8 +248,11 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | eleitoral-4737-332 | Crimes eleitorais | art. 332 | Impedimento do exercício de propaganda | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | eleitoral-4737-297 | Crimes eleitorais | art. 297 | Impedimento do exercício do sufrágio | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | licitacao-14133-337-n | Crimes em licitações e contratos administrativos | art. 337-N | Impedimento indevido de inscrição cadastral | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-215a | Código Penal | art. 215-A | Importunação sexual | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | contravencao-3688-55 | Contravenções | art. 55 | Impressão irregular de bilhetes ou anúncios | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | orgcrime-12850-19 | Organização criminosa | art. 19 | Imputação falsa em colaboração com a Justiça | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-250 | Código Penal | art. 250, caput | Incêndio | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-250-2 | Código Penal | art. 250, § 2º | Incêndio culposo | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | ambiental-41 | Crimes ambientais | art. 41, caput | Incêndio em floresta ou vegetação | Conferir a redação alterada e a vigência temporal na lei modificadora; distinguir crime de infração administrativa. |
 | genocidio-2889-3 | Genocídio | art. 3º | Incitação pública ao genocídio | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | propriedade-industrial-9279-194 | Propriedade industrial | art. 194 | Indicação falsa de procedência | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
@@ -235,6 +260,7 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | eleitoral-4737-290 | Crimes eleitorais | art. 290 | Indução à inscrição eleitoral irregular | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | planejamento-familiar-9263-17 | Planejamento familiar | art. 17 | Indução ou instigação de esterilização | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | cp-174 | Código Penal | art. 174 | Induzimento à especulação | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-218 | Código Penal | art. 218 | Induzimento à satisfação da lascívia de outrem | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-140 | Código Penal | art. 140 | Injúria | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | eleitoral-4737-326 | Crimes eleitorais | art. 326 | Injúria eleitoral | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | cp-140-3 | Código Penal | art. 140, § 3º | Injúria qualificada por religião, idade ou deficiência | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
@@ -246,12 +272,15 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | interceptacao-9296-10 | Interceptação de comunicações | art. 10 | Interceptação ou escuta ambiental ilegal | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | contravencao-3688-22 | Contravenções | art. 22 | Internação irregular em estabelecimento psiquiátrico | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | estado-democratico-359n | Estado Democrático de Direito | art. 359-N | Interrupção do processo eleitoral | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-266 | Código Penal | art. 266 | Interrupção ou perturbação de serviço telegráfico, telefônico, informático, telemático ou de informação de utilidade pública | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | eleitoral-4737-305 | Crimes eleitorais | art. 305 | Intervenção estranha na mesa receptora | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | cp-146a | Código Penal | art. 146-A | Intimidação sistemática (bullying) | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-146a-pu | Código Penal | art. 146-A, parágrafo único | Intimidação sistemática virtual (cyberbullying) | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | eleicoes-9504-72-ii | Normas para eleições | art. 72, II | Introdução de comando ou programa lesivo em sistema eleitoral | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | cp-164 | Código Penal | art. 164 | Introdução ou abandono de animais em propriedade alheia | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | contravencao-3688-67 | Contravenções | art. 67 | Inumação ou exumação irregular | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-254-culposa | Código Penal | art. 254, segunda parte | Inundação culposa | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-254 | Código Penal | art. 254, primeira parte | Inundação dolosa | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | prefeito-201-1-xii | Crimes de responsabilidade municipal | art. 1º, XII | Inversão indevida da ordem de pagamentos | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | eleicoes-9504-34-3 | Normas para eleições | art. 34, § 3º | Irregularidade em dados de pesquisa eleitoral | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | eleitoral-4737-310 | Crimes eleitorais | art. 310 | Irregularidade que anula votação | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
@@ -318,6 +347,8 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | cp-313 | Código Penal | art. 313 | Peculato mediante erro de outrem | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cpm-303 | Código Penal Militar | art. 303 | Peculato militar | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | contravencao-3688-30 | Contravenções | art. 30 | Perigo de desabamento | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-260 | Código Penal | art. 260, caput | Perigo de desastre ferroviário | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-255 | Código Penal | art. 255 | Perigo de inundação | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-147a | Código Penal | art. 147-A | Perseguição | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | eleitoral-4737-331 | Crimes eleitorais | art. 331 | Perturbação de meio de propaganda | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | licitacao-14133-337-i | Crimes em licitações e contratos administrativos | art. 337-I | Perturbação de processo licitatório | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
@@ -350,6 +381,7 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | eleicoes-9504-68-2 | Normas para eleições | art. 68, § 2º | Recusa de entrega de cópia do boletim de urna | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | contravencao-3688-43 | Contravenções | art. 43 | Recusa de moeda de curso legal | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | parcelamento-6766-52 | Parcelamento do solo urbano | art. 52 | Registro irregular de parcelamento urbano | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-216b | Código Penal | art. 216-B | Registro não autorizado da intimidade sexual | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-338 | Código Penal | art. 338 | Reingresso de estrangeiro expulso | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-184-1 | Código Penal | art. 184, § 1º | Reprodução não autorizada com intuito de lucro | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-303 | Código Penal | art. 303 | Reprodução ou adulteração de selo ou peça filatélica | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
@@ -365,11 +397,15 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | cp-157-1a | Código Penal | art. 157, § 1º-A | Roubo contra serviço público essencial | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | eleitoral-4737-308 | Crimes eleitorais | art. 308 | Rubrica ou entrega irregular de cédula | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | estado-democratico-359r | Estado Democrático de Direito | art. 359-R | Sabotagem | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-218a | Código Penal | art. 218-A | Satisfação de lascívia mediante presença de criança ou adolescente | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-148-3 | Código Penal | art. 148, § 3º | Sequestro e cárcere privado no contexto de organização criminosa ultraviolenta | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | contravencao-3688-63 | Contravenções | art. 63 | Servir bebida alcoólica em hipóteses proibidas | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | contravencao-3688-45 | Contravenções | art. 45 | Simulação da qualidade de funcionário | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-261-3 | Código Penal | art. 261, § 3º | Sinistro culposo em transporte marítimo, fluvial ou aéreo | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-261-1 | Código Penal | art. 261, § 1º | Sinistro em transporte marítimo, fluvial ou aéreo | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | esporte-14597-198 | Lei Geral do Esporte | art. 198 | Solicitação ou aceitação de vantagem para manipulação esportiva | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | cp-346 | Código Penal | art. 346 | Subtração ou dano de coisa própria em poder de terceiro | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-257 | Código Penal | art. 257 | Subtração, ocultação ou inutilização de material de salvamento | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-305-particular | Código Penal | art. 305, documento particular | Supressão de documento particular | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-305-publico | Código Penal | art. 305, documento público | Supressão de documento público | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-293-2 | Código Penal | art. 293, § 2º | Supressão de sinal de inutilização de papel público | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
@@ -383,8 +419,10 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | nuclear-6453-23 | Crimes nucleares | art. 23 | Transmissão ilícita de informação nuclear sigilosa | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | transporte-eleitoral-6091-11-iii | Transporte eleitoral | art. 11, III | Transporte ou alimentação eleitoral proibidos | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | esporte-14597-201 | Lei Geral do Esporte | art. 201 | Tumulto, violência ou invasão em evento esportivo | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-252-pu | Código Penal | art. 252, parágrafo único | Uso culposo de gás tóxico ou asfixiante | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-308 | Código Penal | art. 308 | Uso de documento de identidade alheia | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-304 | Código Penal | art. 304 | Uso de documento falso | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
+| cp-252 | Código Penal | art. 252 | Uso de gás tóxico ou asfixiante | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | propriedade-industrial-9279-193 | Propriedade industrial | art. 193 | Uso de indicação geográfica falsa ou retificativa | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | eleitoral-4737-334 | Crimes eleitorais | art. 334 | Uso de organização comercial para propaganda ou aliciamento | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | cp-293-4 | Código Penal | art. 293, § 4º | Uso de papel público falsificado recebido de boa-fé | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
@@ -422,6 +460,7 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | eleitoral-4737-317 | Crimes eleitorais | art. 317 | Violação do sigilo da urna | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
 | cp-326 | Código Penal | art. 326 | Violação do sigilo de proposta de concorrência | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | eleitoral-4737-312 | Crimes eleitorais | art. 312 | Violação do sigilo do voto | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
+| cp-215 | Código Penal | art. 215 | Violação sexual mediante fraude | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-322 | Código Penal | art. 322 | Violência arbitrária | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | cp-359p | Código Penal | art. 359-P | Violência política | Conferir lei criadora, início de vigência e redação atual em fonte oficial; depois enriquecer e liberar para cálculo. |
 | eleitoral-4737-326-b | Crimes eleitorais | art. 326-B | Violência política contra a mulher | Reconsultar a fonte primária, conferir vigência e completar o enriquecimento jurídico. |
@@ -439,7 +478,7 @@ Este documento é atualizado junto com os derivados do catálogo e lista bloquei
 | Legislação penal especial e estatutos setoriais | O catálogo de 88 diplomas ainda não equivale a catálogo de tipos; vários diplomas estão apenas previstos. | Extrair dispositivos incriminadores de drogas, armas, tortura, abuso de autoridade, ambientais, trânsito, ECA, pessoa idosa, racismo, sistema financeiro, tributário, falimentar, propriedade intelectual e demais módulos. |
 | Alterações legislativas de 2025 e 2026 | Páginas de leis recentes foram bloqueadas em algumas consultas; a redação atual do CP e das leis ambientais e de trânsito mostra alterações que precisam de validação temporal independente. | Conferir a lei criadora/modificadora e o início de vigência diretamente em fonte oficial acessível, sem usar apenas snippet. |
 | Enriquecimento jurídico | Nenhum registro está marcado como enriquecimento validado neste checkpoint. | Completar bem jurídico, sujeitos, elemento subjetivo, consumação, tentativa, ação penal, competência, rito, hediondez, jurisprudência e controvérsias. |
-| Cobertura integral | O estado global é incompleto e há 422 registros pendentes na fonte canônica. | Trabalhar módulo por módulo, atualizar as contagens e não declarar integralidade enquanto houver lacunas. |
+| Cobertura integral | O estado global é incompleto e há 461 registros pendentes na fonte canônica. | Trabalhar módulo por módulo, atualizar as contagens e não declarar integralidade enquanto houver lacunas. |
 
 ## Fontes bloqueadas na consulta de 2026-08-17
 

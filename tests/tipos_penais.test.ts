@@ -90,7 +90,7 @@ describe("catálogo canônico de tipos penais", () => {
     expect(catalog.registros.filter((record) => record.modulo === "Biossegurança")).toHaveLength(6);
     expect(catalog.registros.filter((record) => record.modulo === "Lei Maria da Penha")).toHaveLength(1);
     expect(catalog.registros.filter((record) => record.modulo === "Armas")).toHaveLength(8);
-    expect(catalog.registros.filter((record) => record.modulo === "Código Penal")).toHaveLength(187);
+    expect(catalog.registros.filter((record) => record.modulo === "Código Penal")).toHaveLength(226);
     for (const record of catalog.registros) {
       expect(record.pena.minimoMeses == null || record.pena.maximoMeses == null || record.pena.minimoMeses <= record.pena.maximoMeses).toBe(true);
       expect(record.tipoPaiId === null || ids.has(record.tipoPaiId)).toBe(true);
@@ -407,6 +407,45 @@ describe("catálogo canônico de tipos penais", () => {
       "cp-310": [6, 36],
       "cp-311": [36, 72],
       "cp-311-3": [48, 96],
+      "cp-215": [24, 72],
+      "cp-215a": [12, 60],
+      "cp-216a": [1, 24],
+      "cp-216b": [0.5, 12],
+      "cp-218": [72, 168],
+      "cp-218a": [60, 144],
+      "cp-218b": [84, 192],
+      "cp-218c": [48, 120],
+      "cp-250": [36, 72],
+      "cp-250-2": [6, 24],
+      "cp-251": [36, 72],
+      "cp-251-1": [12, 48],
+      "cp-251-3a": [6, 24],
+      "cp-251-3b": [3, 12],
+      "cp-252": [12, 48],
+      "cp-252-pu": [3, 12],
+      "cp-253": [6, 24],
+      "cp-254": [36, 72],
+      "cp-254-culposa": [6, 24],
+      "cp-255": [12, 36],
+      "cp-256": [12, 48],
+      "cp-256-pu": [6, 12],
+      "cp-257": [24, 60],
+      "cp-259": [24, 60],
+      "cp-259-pu": [1, 6],
+      "cp-260": [24, 60],
+      "cp-260-1": [48, 144],
+      "cp-260-2": [6, 24],
+      "cp-261": [24, 60],
+      "cp-261-1": [48, 144],
+      "cp-261-3": [6, 24],
+      "cp-262": [12, 24],
+      "cp-262-1": [24, 60],
+      "cp-262-2": [3, 12],
+      "cp-264": [1, 6],
+      "cp-264-pu-lesao": [6, 24],
+      "cp-264-pu-morte": [null, null],
+      "cp-265": [12, 60],
+      "cp-266": [24, 48],
     };
     for (const [id, [minimum, maximum]] of Object.entries(expected)) {
       const record = byId.get(id);

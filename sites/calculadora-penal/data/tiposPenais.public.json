@@ -1,5 +1,5 @@
 {
-  "versaoCatalogo": "cntp-br-2026-08-17-88576482f58c7a94",
+  "versaoCatalogo": "cntp-br-2026-08-17-c29edba17f7df7f7",
   "dataCorte": "2026-08-17",
   "estadoGeral": "incompleto",
   "registros": [
@@ -775,6 +775,57 @@
       "canCalculate": true
     },
     {
+      "id": "cp-264",
+      "name": "Arremesso de projétil",
+      "article": "art. 264, caput",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.08333333333333333,
+      "maximum": 0.5,
+      "penalty": "Detenção, de 1 a 6 meses.",
+      "keywords": [
+        "projétil",
+        "transporte público"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-264-pu-lesao",
+      "name": "Arremesso de projétil com lesão corporal",
+      "article": "art. 264, parágrafo único, lesão corporal",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos.",
+      "keywords": [
+        "projétil",
+        "lesão corporal"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-264-pu-morte",
+      "name": "Arremesso de projétil com morte",
+      "article": "art. 264, parágrafo único, morte",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0,
+      "maximum": 0,
+      "penalty": "Pena do homicídio culposo, aumentada de um terço.",
+      "keywords": [
+        "projétil",
+        "morte"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "contravencao-3688-37",
       "name": "Arremesso ou colocação perigosa",
       "article": "art. 37",
@@ -788,6 +839,23 @@
         "perigo"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-216a",
+      "name": "Assédio sexual",
+      "article": "art. 216-A",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.08333333333333333,
+      "maximum": 2,
+      "penalty": "Detenção, de 1 a 2 anos.",
+      "keywords": [
+        "assédio sexual",
+        "superior hierárquico"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -891,6 +959,59 @@
         "guerra"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14197.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-262",
+      "name": "Atentado contra a segurança de outro meio de transporte",
+      "article": "art. 262, caput",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 2,
+      "penalty": "Detenção, de 1 a 2 anos.",
+      "keywords": [
+        "transporte público",
+        "perigo"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-265",
+      "name": "Atentado contra a segurança de serviço de utilidade pública",
+      "article": "art. 265",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 5,
+      "penalty": "Reclusão, de 1 a 5 anos, e multa.",
+      "keywords": [
+        "serviço público",
+        "água",
+        "energia"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-261",
+      "name": "Atentado contra a segurança de transporte marítimo, fluvial ou aéreo",
+      "article": "art. 261, caput",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 5,
+      "penalty": "Reclusão, de 2 a 5 anos.",
+      "keywords": [
+        "transporte marítimo",
+        "aeronave",
+        "navegação"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -2289,6 +2410,110 @@
       "canCalculate": false
     },
     {
+      "id": "cp-256",
+      "name": "Desabamento ou desmoronamento",
+      "article": "art. 256, caput",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão, de 1 a 4 anos, e multa.",
+      "keywords": [
+        "desabamento",
+        "desmoronamento"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-256-pu",
+      "name": "Desabamento ou desmoronamento culposo",
+      "article": "art. 256, parágrafo único",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.5,
+      "maximum": 1,
+      "penalty": "Detenção, de 6 meses a 1 ano.",
+      "keywords": [
+        "desabamento",
+        "culposa"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-262-2",
+      "name": "Desastre culposo em outro meio de transporte",
+      "article": "art. 262, § 2º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.25,
+      "maximum": 1,
+      "penalty": "Detenção, de 3 meses a 1 ano.",
+      "keywords": [
+        "transporte público",
+        "desastre",
+        "culposa"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-262-1",
+      "name": "Desastre em outro meio de transporte",
+      "article": "art. 262, § 1º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 5,
+      "penalty": "Reclusão, de 2 a 5 anos.",
+      "keywords": [
+        "transporte público",
+        "desastre"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-260-2",
+      "name": "Desastre ferroviário culposo",
+      "article": "art. 260, § 2º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos.",
+      "keywords": [
+        "ferrovia",
+        "desastre",
+        "culposa"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-260-1",
+      "name": "Desastre ferroviário doloso",
+      "article": "art. 260, § 1º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 4,
+      "maximum": 12,
+      "penalty": "Reclusão, de 4 a 12 anos, e multa.",
+      "keywords": [
+        "ferrovia",
+        "desastre"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "transporte-eleitoral-6091-11-ii",
       "name": "Desatendimento de requisição de transporte eleitoral",
       "article": "art. 11, II",
@@ -2656,6 +2881,42 @@
         "propaganda"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-259-pu",
+      "name": "Difusão culposa de doença ou praga",
+      "article": "art. 259, parágrafo único",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.08333333333333333,
+      "maximum": 0.5,
+      "penalty": "Detenção, de 1 a 6 meses, ou multa.",
+      "keywords": [
+        "doença",
+        "praga",
+        "culposa"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-259",
+      "name": "Difusão de doença ou praga",
+      "article": "art. 259, caput",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 5,
+      "penalty": "Reclusão, de 2 a 5 anos, e multa.",
+      "keywords": [
+        "doença",
+        "praga",
+        "floresta"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -3191,6 +3452,25 @@
         "transporte"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-218c",
+      "name": "Divulgação de cena de estupro, sexo, nudez ou pornografia",
+      "article": "art. 218-C",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 4,
+      "maximum": 10,
+      "penalty": "Reclusão, de 4 a 10 anos, e multa, se o fato não constitui crime mais grave.",
+      "keywords": [
+        "divulgação de cena",
+        "pornografia",
+        "nudez",
+        "estupro"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -4052,6 +4332,75 @@
       "canCalculate": true
     },
     {
+      "id": "cp-251",
+      "name": "Explosão",
+      "article": "art. 251, caput",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 3,
+      "maximum": 6,
+      "penalty": "Reclusão, de 3 a 6 anos, e multa.",
+      "keywords": [
+        "explosão",
+        "engenho explosivo"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-251-1",
+      "name": "Explosão com substância não equiparada a dinamite",
+      "article": "art. 251, § 1º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão, de 1 a 4 anos, e multa.",
+      "keywords": [
+        "explosão",
+        "substância explosiva"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-251-3a",
+      "name": "Explosão culposa com dinamite",
+      "article": "art. 251, § 3º, primeira parte",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos.",
+      "keywords": [
+        "explosão",
+        "culposa",
+        "dinamite"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-251-3b",
+      "name": "Explosão culposa sem dinamite",
+      "article": "art. 251, § 3º, segunda parte",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.25,
+      "maximum": 1,
+      "penalty": "Detenção, de 3 meses a 1 ano.",
+      "keywords": [
+        "explosão",
+        "culposa"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "ambiental-30",
       "name": "Exportação ilegal de peles e couros de anfíbios e répteis",
       "article": "art. 30",
@@ -4489,6 +4838,23 @@
       "canCalculate": false
     },
     {
+      "id": "cp-253",
+      "name": "Fabrico, fornecimento, aquisição, posse ou transporte de explosivos ou gás tóxico",
+      "article": "art. 253",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos, e multa.",
+      "keywords": [
+        "explosivo",
+        "gás tóxico"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "cp-318",
       "name": "Facilitação de contrabando ou descaminho",
       "article": "art. 318",
@@ -4913,6 +5279,24 @@
         "atividade"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-218b",
+      "name": "Favorecimento da exploração sexual de vulnerável",
+      "article": "art. 218-B",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 7,
+      "maximum": 16,
+      "penalty": "Reclusão, de 7 a 16 anos, e multa.",
+      "keywords": [
+        "exploração sexual",
+        "vulnerável",
+        "prostituição"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -6004,6 +6388,23 @@
       "canCalculate": false
     },
     {
+      "id": "cp-215a",
+      "name": "Importunação sexual",
+      "article": "art. 215-A",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 5,
+      "penalty": "Reclusão, de 1 a 5 anos, se o ato não constitui crime mais grave.",
+      "keywords": [
+        "importunação sexual",
+        "ato libidinoso"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "contravencao-3688-55",
       "name": "Impressão irregular de bilhetes ou anúncios",
       "article": "art. 55",
@@ -6035,6 +6436,40 @@
         "organização criminosa"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-250",
+      "name": "Incêndio",
+      "article": "art. 250, caput",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 3,
+      "maximum": 6,
+      "penalty": "Reclusão, de 3 a 6 anos, e multa.",
+      "keywords": [
+        "incêndio",
+        "perigo comum"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-250-2",
+      "name": "Incêndio culposo",
+      "article": "art. 250, § 2º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos.",
+      "keywords": [
+        "incêndio",
+        "culposo"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -6208,6 +6643,23 @@
       "keywords": [
         "induzimento à especulação",
         "jogo"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-218",
+      "name": "Induzimento à satisfação da lascívia de outrem",
+      "article": "art. 218",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 6,
+      "maximum": 14,
+      "penalty": "Reclusão, de 6 a 14 anos, e multa.",
+      "keywords": [
+        "lascívia",
+        "menor de 14 anos"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
@@ -6491,6 +6943,23 @@
       "canCalculate": false
     },
     {
+      "id": "cp-266",
+      "name": "Interrupção ou perturbação de serviço telegráfico, telefônico, informático, telemático ou de informação de utilidade pública",
+      "article": "art. 266",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 4,
+      "penalty": "Reclusão, de 2 a 4 anos, e multa.",
+      "keywords": [
+        "telecomunicações",
+        "serviço de informação"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "eleitoral-4737-305",
       "name": "Intervenção estranha na mesa receptora",
       "article": "art. 305",
@@ -6607,6 +7076,40 @@
         "inumação"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-254-culposa",
+      "name": "Inundação culposa",
+      "article": "art. 254, segunda parte",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos.",
+      "keywords": [
+        "inundação",
+        "culposa"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-254",
+      "name": "Inundação dolosa",
+      "article": "art. 254, primeira parte",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 3,
+      "maximum": 6,
+      "penalty": "Reclusão, de 3 a 6 anos, e multa.",
+      "keywords": [
+        "inundação",
+        "perigo comum"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
@@ -8427,6 +8930,40 @@
       "canCalculate": false
     },
     {
+      "id": "cp-260",
+      "name": "Perigo de desastre ferroviário",
+      "article": "art. 260, caput",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 5,
+      "penalty": "Reclusão, de 2 a 5 anos, e multa.",
+      "keywords": [
+        "ferrovia",
+        "desastre ferroviário"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-255",
+      "name": "Perigo de inundação",
+      "article": "art. 255",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 3,
+      "penalty": "Reclusão, de 1 a 3 anos, e multa.",
+      "keywords": [
+        "inundação",
+        "obra de contenção"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "abuso-autoridade-30",
       "name": "Persecução sem justa causa contra inocente",
       "article": "art. 30",
@@ -9287,6 +9824,24 @@
       "canCalculate": false
     },
     {
+      "id": "cp-216b",
+      "name": "Registro não autorizado da intimidade sexual",
+      "article": "art. 216-B",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.041666666666666664,
+      "maximum": 1,
+      "penalty": "Detenção, de 6 meses a 1 ano, e multa.",
+      "keywords": [
+        "intimidade sexual",
+        "nudez",
+        "registro não autorizado"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "cp-338",
       "name": "Reingresso de estrangeiro expulso",
       "article": "art. 338",
@@ -9692,6 +10247,24 @@
       "canCalculate": false
     },
     {
+      "id": "cp-218a",
+      "name": "Satisfação de lascívia mediante presença de criança ou adolescente",
+      "article": "art. 218-A",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 5,
+      "maximum": 12,
+      "penalty": "Reclusão, de 5 a 12 anos, e multa.",
+      "keywords": [
+        "lascívia",
+        "criança",
+        "presença"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "cp-148",
       "name": "Sequestro e cárcere privado",
       "article": "art. 148, caput",
@@ -9814,6 +10387,42 @@
       "canCalculate": true
     },
     {
+      "id": "cp-261-3",
+      "name": "Sinistro culposo em transporte marítimo, fluvial ou aéreo",
+      "article": "art. 261, § 3º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.5,
+      "maximum": 2,
+      "penalty": "Detenção, de 6 meses a 2 anos.",
+      "keywords": [
+        "transporte",
+        "sinistro",
+        "culposa"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-261-1",
+      "name": "Sinistro em transporte marítimo, fluvial ou aéreo",
+      "article": "art. 261, § 1º",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 4,
+      "maximum": 12,
+      "penalty": "Reclusão, de 4 a 12 anos.",
+      "keywords": [
+        "naufrágio",
+        "aeronave",
+        "sinistro"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "esporte-14597-198",
       "name": "Solicitação ou aceitação de vantagem para manipulação esportiva",
       "article": "art. 198",
@@ -9879,6 +10488,23 @@
       "keywords": [
         "coisa própria",
         "determinação judicial"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-257",
+      "name": "Subtração, ocultação ou inutilização de material de salvamento",
+      "article": "art. 257",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 5,
+      "penalty": "Reclusão, de 2 a 5 anos, e multa.",
+      "keywords": [
+        "material de salvamento",
+        "desastre"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
@@ -10220,6 +10846,23 @@
       "canCalculate": false
     },
     {
+      "id": "cp-252-pu",
+      "name": "Uso culposo de gás tóxico ou asfixiante",
+      "article": "art. 252, parágrafo único",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 0.25,
+      "maximum": 1,
+      "penalty": "Detenção, de 3 meses a 1 ano.",
+      "keywords": [
+        "gás tóxico",
+        "culposa"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
       "id": "ambiental-56-3",
       "name": "Uso culposo de produto ou substância perigosa",
       "article": "art. 56, § 3º",
@@ -10265,6 +10908,23 @@
       "penalty": "Pena correspondente à falsificação ou alteração do documento utilizado.",
       "keywords": [
         "uso de documento falso"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-252",
+      "name": "Uso de gás tóxico ou asfixiante",
+      "article": "art. 252",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 1,
+      "maximum": 4,
+      "penalty": "Reclusão, de 1 a 4 anos, e multa.",
+      "keywords": [
+        "gás tóxico",
+        "asfixiante"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
@@ -10961,6 +11621,24 @@
         "voto"
       ],
       "sourceUrl": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "validationState": "pendente",
+      "canCalculate": false
+    },
+    {
+      "id": "cp-215",
+      "name": "Violação sexual mediante fraude",
+      "article": "art. 215",
+      "law": "Decreto-Lei nº 2.848/1940",
+      "category": "Código Penal",
+      "minimum": 2,
+      "maximum": 6,
+      "penalty": "Reclusão, de 2 a 6 anos.",
+      "keywords": [
+        "violação sexual",
+        "fraude",
+        "ato libidinoso"
+      ],
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
       "validationState": "pendente",
       "canCalculate": false
     },
