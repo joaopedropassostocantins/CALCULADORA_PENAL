@@ -1,0 +1,102 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://calculadora-penal.example/schemas/tiposPenais.schema.json",
+  "title": "Catálogo Nacional de Tipos Penais — CNTB-BR",
+  "type": "object",
+  "required": ["versaoEsquema", "versaoCatalogo", "dataCorte", "estadoGeral", "identificadorVersao", "quantidadeTotalAtiva", "quantidadePorModulo", "registros"],
+  "properties": {
+    "versaoEsquema": {"type": "string"},
+    "versaoCatalogo": {"type": "string"},
+    "dataCorte": {"type": "string", "format": "date"},
+    "estadoGeral": {"enum": ["incompleto", "completo"]},
+    "identificadorVersao": {"type": "string", "minLength": 1},
+    "quantidadeTotalAtiva": {"type": "integer", "minimum": 0},
+    "quantidadePorModulo": {"type": "object", "additionalProperties": {"type": "integer", "minimum": 0}},
+    "fontesPrevistas": {"type": "integer", "minimum": 0},
+    "fontesAuditadas": {"type": "integer", "minimum": 0},
+    "registrosInventariados": {"type": "integer", "minimum": 0},
+    "registrosEnriquecidos": {"type": "integer", "minimum": 0},
+    "registrosPendentes": {"type": "integer", "minimum": 0},
+    "modulosPendentes": {"type": "array", "items": {"type": "string"}},
+    "registros": {"type": "array", "items": {"$ref": "#/$defs/registro"}}
+  },
+  "$defs": {
+    "pena": {
+      "type": "object",
+      "required": ["minimoMeses", "maximoMeses", "unidadePrincipal", "descricao"],
+      "properties": {
+        "minimoMeses": {"type": ["number", "null"], "minimum": 0},
+        "maximoMeses": {"type": ["number", "null"], "minimum": 0},
+        "unidadePrincipal": {"enum": ["meses", "dias-multa", "multa", "sem-pena-privativa"]},
+        "descricao": {"type": "string", "minLength": 1},
+        "multa": {"type": ["object", "null"], "properties": {"minimoDias": {"type": "integer", "minimum": 0}, "maximoDias": {"type": "integer", "minimum": 0}}, "additionalProperties": false}
+      },
+      "additionalProperties": false
+    },
+    "vigencia": {
+      "type": "object",
+      "required": ["estado", "dataConsulta", "estadoConferencia"],
+      "properties": {
+        "estado": {"enum": ["vigente", "revogado", "parcialmente-revogado", "historico"]},
+        "inicioVigenciaRedacao": {"type": ["string", "null"], "format": "date"},
+        "dataConsulta": {"type": "string", "format": "date"},
+        "estadoConferencia": {"enum": ["confirmada", "pendente", "controvertida", "historica"]},
+        "observacoes": {"type": ["string", "null"]}
+      },
+      "additionalProperties": false
+    },
+    "enriquecimento": {
+      "type": "object",
+      "required": ["bemJuridico", "sujeitoAtivo", "sujeitoPassivo", "elementoSubjetivo", "consumacao", "tentativa", "formaCulposa", "acaoPenal", "competencia", "procedimento", "rito", "hediondez", "qualificadoras", "majorantes", "minorantes", "agravantesAtenuantes", "extincaoPunibilidade", "jurisprudenciaQualificada", "controversias"],
+      "properties": {
+        "bemJuridico": {"type": ["string", "null"]},
+        "sujeitoAtivo": {"type": ["string", "null"]},
+        "sujeitoPassivo": {"type": ["string", "null"]},
+        "elementoSubjetivo": {"type": ["string", "null"]},
+        "consumacao": {"type": ["string", "null"]},
+        "tentativa": {"type": ["string", "null"]},
+        "formaCulposa": {"type": ["string", "null"]},
+        "acaoPenal": {"type": ["string", "null"]},
+        "competencia": {"type": ["string", "null"]},
+        "procedimento": {"type": ["string", "null"]},
+        "rito": {"type": ["string", "null"]},
+        "hediondez": {"type": ["string", "null"]},
+        "qualificadoras": {"type": "array", "items": {"type": "string"}},
+        "majorantes": {"type": "array", "items": {"type": "string"}},
+        "minorantes": {"type": "array", "items": {"type": "string"}},
+        "agravantesAtenuantes": {"type": "array", "items": {"type": "string"}},
+        "extincaoPunibilidade": {"type": "array", "items": {"type": "string"}},
+        "jurisprudenciaQualificada": {"type": "array", "items": {"type": "string"}},
+        "controversias": {"type": "array", "items": {"type": "string"}}
+      },
+      "additionalProperties": false
+    },
+    "registro": {
+      "type": "object",
+      "required": ["id", "nomeJuridico", "aliases", "classe", "jurisdicao", "modulo", "norma", "dispositivo", "naturezaFigura", "descricaoObjetiva", "pena", "vigencia", "fonteOficial", "leiCriadoraOuModificadora", "inventarioValidado", "enriquecimentoValidado", "usavelNaCalculadora", "enriquecimento", "palavrasChave"],
+      "properties": {
+        "id": {"type": "string", "pattern": "^[a-z0-9][a-z0-9-]+$"},
+        "nomeJuridico": {"type": "string", "minLength": 1},
+        "aliases": {"type": "array", "items": {"type": "string"}},
+        "classe": {"enum": ["crime", "contravencao"]},
+        "jurisdicao": {"enum": ["comum", "eleitoral", "militar", "comum-com-extensao-militar"]},
+        "modulo": {"type": "string", "minLength": 1},
+        "norma": {"type": "string", "minLength": 1},
+        "dispositivo": {"type": "string", "minLength": 1},
+        "naturezaFigura": {"enum": ["basica", "culposa", "preterdolosa", "qualificada", "privilegiada", "equiparada", "omissiva", "autonoma"]},
+        "tipoPaiId": {"type": ["string", "null"]},
+        "descricaoObjetiva": {"type": "string", "minLength": 1},
+        "pena": {"$ref": "#/$defs/pena"},
+        "vigencia": {"$ref": "#/$defs/vigencia"},
+        "fonteOficial": {"type": "string", "pattern": "^https://"},
+        "leiCriadoraOuModificadora": {"type": "array", "minItems": 1, "items": {"type": "string"}},
+        "inventarioValidado": {"type": "boolean"},
+        "enriquecimentoValidado": {"type": "boolean"},
+        "usavelNaCalculadora": {"type": "boolean"},
+        "enriquecimento": {"$ref": "#/$defs/enriquecimento"},
+        "palavrasChave": {"type": "array", "items": {"type": "string"}}
+      },
+      "additionalProperties": false
+    }
+  }
+}

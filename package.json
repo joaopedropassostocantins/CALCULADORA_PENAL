@@ -9,7 +9,9 @@
     "start": "NODE_ENV=production tsx server/index.ts",
     "check": "tsc --noEmit",
     "test": "vitest run",
-    "data:import": "python3 scripts/import_catalog.py"
+    "data:import": "python3 scripts/import_catalog.py",
+    "catalog:generate": "node scripts/generate_tipos_penais.mjs",
+    "catalog:validate": "node scripts/validate_tipos_penais.mjs"
   },
   "dependencies": {
     "dotenv": "^16.4.7",

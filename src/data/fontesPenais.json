@@ -1,0 +1,999 @@
+{
+  "versaoEsquema": "1.0.0",
+  "dataCorte": "2026-08-17",
+  "fontesPrevistas": 99,
+  "fontesAuditadas": 4,
+  "fontesPendentes": 95,
+  "fontes": [
+    {
+      "id": "fonte-7a0138fba168",
+      "norma": "Decreto nº 4.388/2002",
+      "assunto": "Estatuto de Roma do Tribunal Penal Internacional",
+      "bloco": "8 Normas convencionais internalizadas",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/decreto/2002/d4388.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-82f775be1283",
+      "norma": "Decreto nº 40/1991",
+      "assunto": "Convenção contra a Tortura e outros Tratamentos ou Penas Cruéis, Desumanos ou Degradantes",
+      "bloco": "8 Normas convencionais internalizadas",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/decreto/1990-1994/d0040.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-4f0e23a6ea56",
+      "norma": "Decreto nº 5.015/2004",
+      "assunto": "Convenção de Palermo contra o crime organizado transnacional",
+      "bloco": "8 Normas convencionais internalizadas",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/decreto/d5015.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-b143eb01e947",
+      "norma": "Decreto nº 5.687/2006",
+      "assunto": "Convenção de Mérida contra a corrupção",
+      "bloco": "8 Normas convencionais internalizadas",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/decreto/d5687.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-e73804b00995",
+      "norma": "Decreto nº 678/1992",
+      "assunto": "Convenção Americana sobre Direitos Humanos; garantias judiciais penais",
+      "bloco": "8 Normas convencionais internalizadas",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/decreto/d0678.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-c796056a8ae0",
+      "norma": "Decreto nº 9.199/2017",
+      "assunto": "Regulamento da Lei de Migraçao; procedimento de extradição",
+      "bloco": "8 Normas convencionais internalizadas",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/d9199.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-0583b0cbf29d",
+      "norma": "Decreto-Lei nº 1.001/1969",
+      "assunto": "Código Penal Militar",
+      "bloco": "Fonte de registro penal",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del1001.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Fonte associada a registro pendente de conferência."
+    },
+    {
+      "id": "fonte-88a212aa1dcd",
+      "norma": "Decreto-Lei nº 1.001/1969",
+      "assunto": "Código Penal Militar",
+      "bloco": "1 Codificações e diplomas estruturantes",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del1001compilado.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-ab9825950c5c",
+      "norma": "Decreto-Lei nº 1.002/1969",
+      "assunto": "Código de Processo Penal Militar",
+      "bloco": "1 Codificações e diplomas estruturantes",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del1002compilado.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-301ae7456702",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "assunto": "Código Penal",
+      "bloco": "Fonte de registro penal",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "auditada",
+      "observacao": "Fonte utilizada na carga inicial."
+    },
+    {
+      "id": "fonte-0af6ffe751d8",
+      "norma": "Decreto-Lei nº 2.848/1940",
+      "assunto": "Código Penal",
+      "bloco": "1 Codificações e diplomas estruturantes",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-f0ab922f5262",
+      "norma": "Decreto-Lei nº 201/1967",
+      "assunto": "Crimes de responsabilidade de prefeitos e vereadores; crimes próprios de natureza penal (art. 1.)",
+      "bloco": "5 Penal eleitoral e crimes de responsabilidade",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0201.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-2218e9860df8",
+      "norma": "Decreto-Lei nº 3.688/1941",
+      "assunto": "Lei das Contravenções Penais",
+      "bloco": "1 Codificações e diplomas estruturantes",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-367caddee5f1",
+      "norma": "Decreto-Lei nº 3.689/1941",
+      "assunto": "Código de Processo Penal",
+      "bloco": "1 Codificações e diplomas estruturantes",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-470890055329",
+      "norma": "Decreto-Lei nº 3.914/1941",
+      "assunto": "Lei de Introdução ao Código Penal e à Lei das Contravenções Penais; conceito legal de crime e de contravenção",
+      "bloco": "1 Codificações e diplomas estruturantes",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3914.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-7dde62f24606",
+      "norma": "Decreto-Lei nº 3.931/1941",
+      "assunto": "Lei de Introdução ao Código de Processo Penal; direito intertemporal processual",
+      "bloco": "1 Codificações e diplomas estruturantes",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3931.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-b9ba1548b783",
+      "norma": "Lei Complementar nº 75/1993",
+      "assunto": "Estatuto do Ministério Público da União; poder investigatório criminal",
+      "bloco": "6 Processo penal, investigação e execução",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp75.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-54d8e08906e4",
+      "norma": "Lei nº 1.079/1950",
+      "assunto": "Crimes de responsabilidade; processo e julgamento",
+      "bloco": "5 Penal eleitoral e crimes de responsabilidade",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l1079.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-6c840aeda67f",
+      "norma": "Lei nº 1.521/1951",
+      "assunto": "Crimes contra a economia popular",
+      "bloco": "3 Penal econômico, tributário e empresarial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l1521.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-4901a0a5cb97",
+      "norma": "Lei nº 10.259/2001",
+      "assunto": "Juizados Especiais Federais; competência criminal e infrações de menor potencial ofensivo",
+      "bloco": "6 Processo penal, investigação e execução",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10259.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-275c93aa732a",
+      "norma": "Lei nº 10.446/2002",
+      "assunto": "Atribuição investigativa da Polícia Federal em infrações de repercussão interestadual",
+      "bloco": "6 Processo penal, investigação e execução",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10446.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-63e594acdfc9",
+      "norma": "Lei nº 10.671/2003",
+      "assunto": "Estatuto de Defesa do Torcedor; crimes (arts. 41-B a 41-G)",
+      "bloco": "4 Estatutos protetivos e legislação setorial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.671.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-e719b3a70801",
+      "norma": "Lei nº 10.741/2003",
+      "assunto": "Estatuto da Pessoa Idosa; crimes (arts. 93 a 108) e procedimento",
+      "bloco": "4 Estatutos protetivos e legislação setorial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-69204cb03d4b",
+      "norma": "Lei nº 10.741/2003",
+      "assunto": "Estatuto da Pessoa Idosa",
+      "bloco": "Fonte de registro penal",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741compilado.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Fonte associada a registro pendente de conferência."
+    },
+    {
+      "id": "fonte-cf3a1e398a1e",
+      "norma": "Lei nº 10.826/2003",
+      "assunto": "Estatuto do Desarmamento; posse, porte, comércio e tráfico de armas de fogo",
+      "bloco": "2 Núcleo da legislação penal especial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-5ce2163adf23",
+      "norma": "Lei nº 10.826/2003",
+      "assunto": "Armas",
+      "bloco": "Fonte de registro penal",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826compilado.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "auditada",
+      "observacao": "Fonte utilizada na carga inicial."
+    },
+    {
+      "id": "fonte-9226ec32f506",
+      "norma": "Lei nº 11.101/2005",
+      "assunto": "Recuperação judicial e falência; crimes falimentares e respectivo procedimento",
+      "bloco": "3 Penal econômico, tributário e empresarial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11101.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-7c836ce3cdbe",
+      "norma": "Lei nº 11.105/2005",
+      "assunto": "Biossegurança; crimes (arts. 24 a 29)",
+      "bloco": "4 Estatutos protetivos e legislação setorial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11105.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-b588675acbbc",
+      "norma": "Lei nº 11.340/2006",
+      "assunto": "Lei Maria da Penha; violência doméstica e familiar contra a mulher",
+      "bloco": "2 Núcleo da legislação penal especial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-bbb579a35c96",
+      "norma": "Lei nº 11.343/2006",
+      "assunto": "Sistema Nacional de Políticas Públicas sobre Drogas; crimes e procedimento",
+      "bloco": "2 Núcleo da legislação penal especial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "auditada",
+      "observacao": "Fonte oficial aberta e utilizada na carga inicial; alterações posteriores devem ser conferidas antes de publicação completa."
+    },
+    {
+      "id": "fonte-59539fb6ff2f",
+      "norma": "Lei nº 11.671/2008",
+      "assunto": "Transferência e inclusao de presos em estabelecimentos penais federais de segurança máxima",
+      "bloco": "6 Processo penal, investigação e execução",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11671.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-072c7021c499",
+      "norma": "Lei nº 12.037/2009",
+      "assunto": "Identificação criminal do civilmente identificado; identificação pelo perfil genético",
+      "bloco": "6 Processo penal, investigação e execução",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12037.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-efb00a71aa9c",
+      "norma": "Lei nº 12.654/2012",
+      "assunto": "Coleta de perfil genético como forma de identificação criminal",
+      "bloco": "6 Processo penal, investigação e execução",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12654.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-ce0acab3fad0",
+      "norma": "Lei nº 12.694/2012",
+      "assunto": "Julgamento colegiado em primeiro grau nos crimes de organização criminosa",
+      "bloco": "6 Processo penal, investigação e execução",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12694.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-168cacedb478",
+      "norma": "Lei nº 12.830/2013",
+      "assunto": "Investigação criminal conduzida pelo delegado de polícia",
+      "bloco": "6 Processo penal, investigação e execução",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12830.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-36439dbde9c0",
+      "norma": "Lei nº 12.846/2013",
+      "assunto": "Responsabilização administrativa e civil de pessoas jurídicas; acordo de leniência com reflexos penais",
+      "bloco": "3 Penal econômico, tributário e empresarial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12846.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-11011276761b",
+      "norma": "Lei nº 12.850/2013",
+      "assunto": "Organizações criminosas; meios de obtenção de prova; colaboração premiada",
+      "bloco": "2 Núcleo da legislação penal especial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "auditada",
+      "observacao": "Fonte oficial aberta e utilizada na carga inicial; alterações posteriores devem ser conferidas antes de publicação completa."
+    },
+    {
+      "id": "fonte-da44b99f607e",
+      "norma": "Lei nº 12.984/2014",
+      "assunto": "Discriminação contra portadores de HIV e doentes de aids",
+      "bloco": "4 Estatutos protetivos e legislação setorial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12984.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-3b7e80d9119d",
+      "norma": "Lei nº 13.146/2015",
+      "assunto": "Estatuto da Pessoa com Deficiência; crimes (arts. 88 a 91)",
+      "bloco": "4 Estatutos protetivos e legislação setorial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-1548a6e12b86",
+      "norma": "Lei nº 13.260/2016",
+      "assunto": "Terrorismo; disposições investigatórias e processuais",
+      "bloco": "2 Núcleo da legislação penal especial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13260.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-d91acf214556",
+      "norma": "Lei nº 13.431/2017",
+      "assunto": "Escuta especializada e depoimento especial de criancas e adolescentes vítimas ou testemunhas",
+      "bloco": "6 Processo penal, investigação e execução",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13431.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-51522d2d8105",
+      "norma": "Lei nº 13.445/2017",
+      "assunto": "Lei de Migraçao; extradição, expulsão, transferência de pessoas condenadas e cooperaçao penal",
+      "bloco": "4 Estatutos protetivos e legislação setorial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-afdbd34ef115",
+      "norma": "Lei nº 13.491/2017",
+      "assunto": "Ampliação do conceito de crime militar por extensão",
+      "bloco": "7 Penal e processual penal militar",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13491.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-b59fc18e437c",
+      "norma": "Lei nº 13.810/2019",
+      "assunto": "Indisponibilidade de ativos por resoluções do Conselho de Segurança da ONU; financiamento do terrorismo",
+      "bloco": "3 Penal econômico, tributário e empresarial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/L13810.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-80404d3ef085",
+      "norma": "Lei nº 13.869/2019",
+      "assunto": "Abuso de autoridade",
+      "bloco": "Fonte de registro penal",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Fonte associada a registro pendente de conferência."
+    },
+    {
+      "id": "fonte-e9a613ff8b60",
+      "norma": "Lei nº 13.869/2019",
+      "assunto": "Crimes de abuso de autoridade",
+      "bloco": "2 Núcleo da legislação penal especial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/L13869.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-0db5057edfd9",
+      "norma": "Lei nº 13.964/2019",
+      "assunto": "Pacote Anticrime; juiz das garantias, acordo de nao persecução penal, cadeia de custódia",
+      "bloco": "6 Processo penal, investigação e execução",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/L13964.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-e8e6656272c4",
+      "norma": "Lei nº 14.133/2021",
+      "assunto": "Crimes em licitações e contratos administrativos",
+      "bloco": "Fonte de registro penal",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Fonte associada a registro pendente de conferência."
+    },
+    {
+      "id": "fonte-28a8de0a0e9b",
+      "norma": "Lei nº 14.197/2021",
+      "assunto": "Estado Democrático de Direito",
+      "bloco": "Fonte de registro penal",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14197.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Fonte associada a registro pendente de conferência."
+    },
+    {
+      "id": "fonte-cf6c47173e03",
+      "norma": "Lei nº 14.344/2022",
+      "assunto": "Lei Henry Borel",
+      "bloco": "Fonte de registro penal",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14344.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Fonte associada a registro pendente de conferência."
+    },
+    {
+      "id": "fonte-ef07edd97cf9",
+      "norma": "Lei nº 14.344/2022",
+      "assunto": "Lei Henry Borel; violência doméstica e familiar contra crianca e adolescente; medidas protetivas",
+      "bloco": "4 Estatutos protetivos e legislação setorial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2022-2026/2022/lei/L14344.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-6a3773f4f411",
+      "norma": "Lei nº 14.478/2022",
+      "assunto": "Prestadoras de serviços de ativos virtuais; crime de fraude com criptoativos (art. 171-A do CP)",
+      "bloco": "3 Penal econômico, tributário e empresarial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2022-2026/2022/lei/L14478.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-491bdb097c48",
+      "norma": "Lei nº 14.597/2023",
+      "assunto": "Lei Geral do Esporte",
+      "bloco": "Fonte de registro penal",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14597.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Fonte associada a registro pendente de conferência."
+    },
+    {
+      "id": "fonte-9fc4a7cded56",
+      "norma": "Lei nº 14.688/2023",
+      "assunto": "Alterações no Código Penal Militar e no Código de Processo Penal Militar",
+      "bloco": "7 Penal e processual penal militar",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14688.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-9b7aeb6d79e3",
+      "norma": "Lei nº 14.785/2023",
+      "assunto": "Agrotóxicos e produtos de controle ambiental",
+      "bloco": "Fonte de registro penal",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14785.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Fonte associada a registro pendente de conferência."
+    },
+    {
+      "id": "fonte-805acce5afe4",
+      "norma": "Lei nº 15.358/2026",
+      "assunto": "Marco Legal do Combate ao Crime Organizado; domínio social estruturado; ação civil de perdimento",
+      "bloco": "2 Núcleo da legislação penal especial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15358.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-1345d53dfb55",
+      "norma": "Lei nº 15.407/2026",
+      "assunto": "Presídios federais de segurança máxima e regime disciplinar diferenciado",
+      "bloco": "6 Processo penal, investigação e execução",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15407.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-39fed6de4f9e",
+      "norma": "Lei nº 2.889/1956",
+      "assunto": "Crime de genocídio",
+      "bloco": "2 Núcleo da legislação penal especial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l2889.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-bb4741bef99e",
+      "norma": "Lei nº 4.729/1965",
+      "assunto": "Sonegação fiscal; dispositivos remanescentes",
+      "bloco": "3 Penal econômico, tributário e empresarial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/1950-1969/l4729.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-7ba5eaab508f",
+      "norma": "Lei nº 4.737/1965",
+      "assunto": "Código Eleitoral; crimes eleitorais e processo penal eleitoral (arts. 283 a 364)",
+      "bloco": "5 Penal eleitoral e crimes de responsabilidade",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-3a10664fc40c",
+      "norma": "Lei nº 6.001/1973",
+      "assunto": "Estatuto do Índio; crimes contra indígenas (arts. 58 e 59)",
+      "bloco": "4 Estatutos protetivos e legislação setorial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-c6ac33b574ea",
+      "norma": "Lei nº 6.091/1974",
+      "assunto": "Transporte e alimentação de eleitores; crimes eleitorais",
+      "bloco": "5 Penal eleitoral e crimes de responsabilidade",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l6091.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-91a0af3789ea",
+      "norma": "Lei nº 6.453/1977",
+      "assunto": "Responsabilidade por danos nucleares; crimes (arts. 20 a 27)",
+      "bloco": "4 Estatutos protetivos e legislação setorial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l6453.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-fd233c6ac9da",
+      "norma": "Lei nº 6.766/1979",
+      "assunto": "Parcelamento do solo urbano; crimes (arts. 50 a 52)",
+      "bloco": "4 Estatutos protetivos e legislação setorial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l6766.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-db2b55defff1",
+      "norma": "Lei nº 6.880/1980",
+      "assunto": "Estatuto dos Militares; interface disciplinar e penal militar",
+      "bloco": "7 Penal e processual penal militar",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l6880.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-57fb1af39d62",
+      "norma": "Lei nº 7.210/1984",
+      "assunto": "Lei de Execução Penal",
+      "bloco": "1 Codificações e diplomas estruturantes",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l7210.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-6612e54408d6",
+      "norma": "Lei nº 7.492/1986",
+      "assunto": "Crimes contra o sistema financeiro nacional",
+      "bloco": "3 Penal econômico, tributário e empresarial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l7492.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-f41510471d56",
+      "norma": "Lei nº 7.716/1989",
+      "assunto": "Crimes de preconceito de raça, cor, etnia, religião ou procedência nacional; injúria racial equiparada (Lei nº 14.532/2023)",
+      "bloco": "2 Núcleo da legislação penal especial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l7716.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-e10b5ed04b31",
+      "norma": "Lei nº 7.802/1989",
+      "assunto": "Agrotóxicos; crimes (arts. 15 e 16)",
+      "bloco": "4 Estatutos protetivos e legislação setorial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l7802.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-349410f1df8b",
+      "norma": "Lei nº 7.853/1989",
+      "assunto": "Apoio a pessoas com deficiência; crime do art. 8.",
+      "bloco": "4 Estatutos protetivos e legislação setorial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l7853.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-684d0bbb0396",
+      "norma": "Lei nº 7.960/1989",
+      "assunto": "Prisão temporária",
+      "bloco": "6 Processo penal, investigação e execução",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l7960.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-10cc7b19abb4",
+      "norma": "Lei nº 8.038/1990",
+      "assunto": "Procedimentos nas ações penais originárias do STF e do STJ",
+      "bloco": "6 Processo penal, investigação e execução",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l8038.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-1728d7f796d2",
+      "norma": "Lei nº 8.069/1990",
+      "assunto": "ECA",
+      "bloco": "Fonte de registro penal",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Fonte associada a registro pendente de conferência."
+    },
+    {
+      "id": "fonte-c0c929411428",
+      "norma": "Lei nº 8.069/1990",
+      "assunto": "Estatuto da Criança e do Adolescente; crimes e ato infracional",
+      "bloco": "2 Núcleo da legislação penal especial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l8069compilado.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-58cc0c50e516",
+      "norma": "Lei nº 8.072/1990",
+      "assunto": "Crimes hediondos",
+      "bloco": "2 Núcleo da legislação penal especial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l8072compilada.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-b7136860e98e",
+      "norma": "Lei nº 8.078/1990",
+      "assunto": "Código de Defesa do Consumidor; infrações penais (arts. 61 a 80)",
+      "bloco": "3 Penal econômico, tributário e empresarial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-3c822c19bc6f",
+      "norma": "Lei nº 8.137/1990",
+      "assunto": "Crimes contra a ordem tributária, econômica e as relações de consumo",
+      "bloco": "3 Penal econômico, tributário e empresarial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l8137.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-94730edfffda",
+      "norma": "Lei nº 8.176/1991",
+      "assunto": "Crimes contra a ordem econômica; combustíveis e recursos minerais",
+      "bloco": "3 Penal econômico, tributário e empresarial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l8176.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-ae94c86903b5",
+      "norma": "Lei nº 8.429/1992",
+      "assunto": "Improbidade administrativa; interface com a persecução penal",
+      "bloco": "5 Penal eleitoral e crimes de responsabilidade",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l8429.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-2f69c4ec9f8e",
+      "norma": "Lei nº 8.457/1992",
+      "assunto": "Organização da Justiça Militar da União; conselhos de justiça",
+      "bloco": "7 Penal e processual penal militar",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l8457.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-76219eeec240",
+      "norma": "Lei nº 8.625/1993",
+      "assunto": "Lei Orgânica Nacional do Ministério Público; atribuições criminais",
+      "bloco": "6 Processo penal, investigação e execução",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l8625.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-5061157468a1",
+      "norma": "Lei nº 8.658/1993",
+      "assunto": "Extensão do rito da Lei nº 8.038/1990 aos tribunais de segundo grau",
+      "bloco": "6 Processo penal, investigação e execução",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l8658.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-2fd5851835b1",
+      "norma": "Lei nº 8.906/1994",
+      "assunto": "Estatuto da Advocacia; prerrogativas do defensor no inquérito (art. 7., XIV e XXI)",
+      "bloco": "6 Processo penal, investigação e execução",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-3385431dbfd0",
+      "norma": "Lei nº 9.029/1995",
+      "assunto": "Práticas discriminatórias no acesso e na manutenção da relação de emprego; crime do art. 2.",
+      "bloco": "4 Estatutos protetivos e legislação setorial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9029.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-1dd056c7c0f1",
+      "norma": "Lei nº 9.263/1996",
+      "assunto": "Planejamento familiar; crimes de esterilização irregular",
+      "bloco": "4 Estatutos protetivos e legislação setorial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9263.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-61fffe524e7d",
+      "norma": "Lei nº 9.279/1996",
+      "assunto": "Propriedade industrial; crimes e ação penal privada",
+      "bloco": "3 Penal econômico, tributário e empresarial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9279.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-bde573c8fbb0",
+      "norma": "Lei nº 9.296/1996",
+      "assunto": "Interceptação de comunicações telefônicas e de sistemas de informática; crime do art. 10",
+      "bloco": "6 Processo penal, investigação e execução",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9296.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-d3298a1f97c0",
+      "norma": "Lei nº 9.434/1997",
+      "assunto": "Remoção de órgãos, tecidos e partes do corpo humano; crimes (arts. 14 a 20)",
+      "bloco": "4 Estatutos protetivos e legislação setorial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9434.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-459f51f38eb3",
+      "norma": "Lei nº 9.455/1997",
+      "assunto": "Crimes de tortura",
+      "bloco": "2 Núcleo da legislação penal especial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9455.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-3d5194547d6a",
+      "norma": "Lei nº 9.472/1997",
+      "assunto": "Servicos de telecomunicações; crime de desenvolvimento clandestino (art. 183)",
+      "bloco": "4 Estatutos protetivos e legislação setorial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9472.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-a5a20fb01686",
+      "norma": "Lei nº 9.503/1997",
+      "assunto": "Código de Trânsito Brasileiro; crimes de trânsito",
+      "bloco": "2 Núcleo da legislação penal especial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-7d7184bc4c0b",
+      "norma": "Lei nº 9.504/1997",
+      "assunto": "Normas para as eleições; tipos penais eleitorais esparsos",
+      "bloco": "5 Penal eleitoral e crimes de responsabilidade",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9504.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-ac457704198c",
+      "norma": "Lei nº 9.605/1998",
+      "assunto": "Crimes ambientais",
+      "bloco": "2 Núcleo da legislação penal especial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-b40ea876414f",
+      "norma": "Lei nº 9.613/1998",
+      "assunto": "Lavagem ou ocultação de bens, direitos e valores; Coaf",
+      "bloco": "2 Núcleo da legislação penal especial",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9613compilado.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-abeeee49d059",
+      "norma": "Lei nº 9.807/1999",
+      "assunto": "Proteção a vítimas e testemunhas ameaçadas; delação premiada",
+      "bloco": "6 Processo penal, investigação e execução",
+      "urlOficial": "https://www.planalto.gov.br/ccivil_03/leis/l9807.htm",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-a7e5bb317a37",
+      "norma": "Resolução CNJ nº 213/2015",
+      "assunto": "Audiência de custódia; apresentação do preso em ate 24 horas",
+      "bloco": "9 Atos infralegais do CNJ",
+      "urlOficial": "https://atos.cnj.jus.br/atos/detalhar/2234",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-529308de9cc8",
+      "norma": "Resolução CNJ nº 329/2020",
+      "assunto": "Videoconferência no processo penal e de execução penal",
+      "bloco": "9 Atos infralegais do CNJ",
+      "urlOficial": "https://atos.cnj.jus.br/atos/detalhar/3400",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-45d2d7afd6d0",
+      "norma": "Resolução CNJ nº 484/2023",
+      "assunto": "Cadeia de custódia da prova penal",
+      "bloco": "9 Atos infralegais do CNJ",
+      "urlOficial": "https://atos.cnj.jus.br/atos/detalhar/4574",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    },
+    {
+      "id": "fonte-711ee71824b8",
+      "norma": "Resolução CNJ nº 487/2023",
+      "assunto": "Política antimanicomial do Poder Judiciário; medidas de segurança",
+      "bloco": "9 Atos infralegais do CNJ",
+      "urlOficial": "https://atos.cnj.jus.br/atos/detalhar/4589",
+      "dataConsulta": "2026-08-17",
+      "estadoConferencia": "pendente",
+      "observacao": "Diploma identificado no inventário de normas, mas ainda não auditado dispositivo a dispositivo."
+    }
+  ]
+}

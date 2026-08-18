@@ -23,6 +23,12 @@ O diretório `docs/` reúne os estudos, dados e o prompt técnico produzidos na 
 
 Em 15/08/2026, a interface local foi revisada com êxito. A página exibiu a simulação paramétrica, **88 normas catalogadas**, 15 súmulas vinculantes, 25 súmulas STF/STJ e 12 precedentes vinculantes importados da planilha fornecida. O endpoint de checkout permanece propositalmente indisponível até a inclusão de uma credencial privada válida do Mercado Pago.
 
+## Catálogo de tipos penais
+
+O inventário de figuras incriminadoras fica separado do catálogo de diplomas normativos. A fonte canônica é `src/data/tiposPenais.json`, acompanhada de `src/data/tiposPenais.schema.json`; `src/data/tiposPenais.csv`, `src/data/fontesPenais.json` e `sites/calculadora-penal/data/tiposPenais.public.json` são derivados. Execute `pnpm run catalog:generate` para regenerá-los e `pnpm run catalog:validate` para verificar IDs, dispositivos, referências a tipos-pai, penas, datas, URLs e bloqueio de registros pendentes no cálculo.
+
+O checkpoint atual é deliberadamente **incompleto**: contém 450 registros ativos, dos quais 212 têm inventário conferido e 238 permanecem pendentes. A expansão já inclui Código Penal, contravenções, Código Penal Militar, crimes eleitorais, trânsito, ambientais, raciais, ECA, Lei Henry Borel, proteção da pessoa idosa, pessoa com deficiência, transplantes, abuso de autoridade, tortura, terrorismo, Estado Democrático de Direito, drogas, organização criminosa, lavagem de dinheiro, armas, crimes tributários, sistema financeiro, consumo, falências e licitações. O relatório de cobertura, as decisões metodológicas, as pendências jurídicas e o registro de fontes estão em `docs/catalogo/`. A aplicação publica os registros do checkpoint com o estado de conferência visível; somente os registros com inventário validado podem ser enviados à calculadora. O aviso de que a coleção não representa ainda todos os tipos penais vigentes permanece ativo.
+
 ## Execução local
 
 Instale as dependências com `pnpm install`, copie `.env.example` para `.env` e preencha `MERCADO_PAGO_ACCESS_TOKEN` com a credencial privada do seu aplicativo Mercado Pago. Depois, execute `pnpm dev`.

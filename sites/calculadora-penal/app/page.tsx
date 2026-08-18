@@ -1,6 +1,7 @@
 "use client";
 
 import { FormEvent, useMemo, useState } from "react";
+import publicCatalog from "../data/tiposPenais.public.json";
 
 type Plan = {
   name: string;
@@ -20,6 +21,9 @@ type CrimeEntry = {
   maximum: number;
   penalty: string;
   keywords: string[];
+  sourceUrl: string;
+  validationState: string;
+  canCalculate: boolean;
 };
 
 type NarrativeAnalysis = {
@@ -28,45 +32,7 @@ type NarrativeAnalysis = {
   caveats: string[];
 };
 
-const crimeCatalog: CrimeEntry[] = [
-  { id: "cp-121", name: "Homicídio simples", article: "Art. 121, caput", law: "Código Penal", category: "Crimes contra a vida", minimum: 6, maximum: 20, penalty: "Reclusão, de 6 a 20 anos", keywords: ["matou", "matar", "homicidio", "morte", "disparo fatal"] },
-  { id: "cp-121q", name: "Homicídio qualificado", article: "Art. 121, § 2º", law: "Código Penal", category: "Crimes contra a vida", minimum: 12, maximum: 30, penalty: "Reclusão, de 12 a 30 anos", keywords: ["motivo torpe", "motivo futil", "emboscada", "veneno", "asfixia", "meio cruel"] },
-  { id: "cp-123", name: "Infanticídio", article: "Art. 123", law: "Código Penal", category: "Crimes contra a vida", minimum: 2, maximum: 6, penalty: "Detenção, de 2 a 6 anos", keywords: ["estado puerperal", "durante o parto", "logo apos o parto"] },
-  { id: "cp-124", name: "Aborto provocado pela gestante", article: "Art. 124", law: "Código Penal", category: "Crimes contra a vida", minimum: 1, maximum: 3, penalty: "Detenção, de 1 a 3 anos", keywords: ["provocou aborto", "consentiu aborto"] },
-  { id: "cp-125", name: "Aborto sem consentimento", article: "Art. 125", law: "Código Penal", category: "Crimes contra a vida", minimum: 3, maximum: 10, penalty: "Reclusão, de 3 a 10 anos", keywords: ["aborto sem consentimento", "sem consentimento da gestante"] },
-  { id: "cp-129", name: "Lesão corporal", article: "Art. 129, caput", law: "Código Penal", category: "Integridade física", minimum: .25, maximum: 1, penalty: "Detenção, de 3 meses a 1 ano", keywords: ["agrediu", "feriu", "lesao", "soco", "chute"] },
-  { id: "cp-129-1", name: "Lesão corporal grave", article: "Art. 129, § 1º", law: "Código Penal", category: "Integridade física", minimum: 1, maximum: 5, penalty: "Reclusão, de 1 a 5 anos", keywords: ["incapacidade por mais de trinta dias", "perigo de vida", "debilidade permanente"] },
-  { id: "cp-129-2", name: "Lesão corporal gravíssima", article: "Art. 129, § 2º", law: "Código Penal", category: "Integridade física", minimum: 2, maximum: 8, penalty: "Reclusão, de 2 a 8 anos", keywords: ["incapacidade permanente", "enfermidade incuravel", "perda de membro", "deformidade permanente", "aborto"] },
-  { id: "cp-129-3", name: "Lesão corporal seguida de morte", article: "Art. 129, § 3º", law: "Código Penal", category: "Integridade física", minimum: 4, maximum: 12, penalty: "Reclusão, de 4 a 12 anos", keywords: ["lesao seguida de morte", "agressao causou morte"] },
-  { id: "cp-138", name: "Calúnia", article: "Art. 138", law: "Código Penal", category: "Crimes contra a honra", minimum: .5, maximum: 2, penalty: "Detenção, de 6 meses a 2 anos, e multa", keywords: ["acusou falsamente de crime", "imputou crime falso", "calunia"] },
-  { id: "cp-139", name: "Difamação", article: "Art. 139", law: "Código Penal", category: "Crimes contra a honra", minimum: .25, maximum: 1, penalty: "Detenção, de 3 meses a 1 ano, e multa", keywords: ["difamou", "fato ofensivo a reputacao", "difamacao"] },
-  { id: "cp-140", name: "Injúria", article: "Art. 140", law: "Código Penal", category: "Crimes contra a honra", minimum: .08, maximum: .5, penalty: "Detenção, de 1 a 6 meses, ou multa", keywords: ["xingou", "ofendeu a dignidade", "injuria"] },
-  { id: "cp-146", name: "Constrangimento ilegal", article: "Art. 146", law: "Código Penal", category: "Liberdade individual", minimum: .25, maximum: 1, penalty: "Detenção, de 3 meses a 1 ano, ou multa", keywords: ["constrangeu", "obrigou mediante violencia", "impediu mediante ameaca"] },
-  { id: "cp-147", name: "Ameaça", article: "Art. 147", law: "Código Penal", category: "Liberdade individual", minimum: .08, maximum: .5, penalty: "Detenção, de 1 a 6 meses, ou multa", keywords: ["ameacou", "ameaca", "prometeu matar", "mal injusto e grave"] },
-  { id: "cp-148", name: "Sequestro e cárcere privado", article: "Art. 148, caput", law: "Código Penal", category: "Liberdade individual", minimum: 1, maximum: 3, penalty: "Reclusão, de 1 a 3 anos", keywords: ["sequestrou", "carcere privado", "manteve presa", "privou da liberdade"] },
-  { id: "cp-154a", name: "Invasão de dispositivo informático", article: "Art. 154-A", law: "Código Penal", category: "Crimes digitais", minimum: 1, maximum: 4, penalty: "Reclusão, de 1 a 4 anos, e multa", keywords: ["invadiu celular", "invadiu computador", "acesso nao autorizado", "hackeou"] },
-  { id: "cp-155", name: "Furto", article: "Art. 155, caput", law: "Código Penal", category: "Crimes patrimoniais", minimum: 1, maximum: 4, penalty: "Reclusão, de 1 a 4 anos, e multa", keywords: ["subtraiu", "furtou", "pegou escondido", "sem violencia"] },
-  { id: "cp-155-4", name: "Furto qualificado", article: "Art. 155, § 4º", law: "Código Penal", category: "Crimes patrimoniais", minimum: 2, maximum: 8, penalty: "Reclusão, de 2 a 8 anos, e multa", keywords: ["rompeu obstaculo", "escalada", "chave falsa", "concurso de pessoas"] },
-  { id: "cp-157", name: "Roubo", article: "Art. 157, caput", law: "Código Penal", category: "Crimes patrimoniais", minimum: 4, maximum: 10, penalty: "Reclusão, de 4 a 10 anos, e multa", keywords: ["roubou", "subtraiu com violencia", "assalto", "grave ameaca"] },
-  { id: "cp-158", name: "Extorsão", article: "Art. 158, caput", law: "Código Penal", category: "Crimes patrimoniais", minimum: 4, maximum: 10, penalty: "Reclusão, de 4 a 10 anos, e multa", keywords: ["extorquiu", "exigiu dinheiro", "vantagem mediante ameaca", "pix sob ameaca"] },
-  { id: "cp-168", name: "Apropriação indébita", article: "Art. 168, caput", law: "Código Penal", category: "Crimes patrimoniais", minimum: 1, maximum: 4, penalty: "Reclusão, de 1 a 4 anos, e multa", keywords: ["apropriou de coisa recebida", "nao devolveu bem", "apropriacao indebita"] },
-  { id: "cp-171", name: "Estelionato", article: "Art. 171, caput", law: "Código Penal", category: "Crimes patrimoniais", minimum: 1, maximum: 5, penalty: "Reclusão, de 1 a 5 anos, e multa", keywords: ["enganou", "fraude", "golpe", "vantagem ilicita", "falso pix"] },
-  { id: "cp-180", name: "Receptação", article: "Art. 180, caput", law: "Código Penal", category: "Crimes patrimoniais", minimum: 1, maximum: 4, penalty: "Reclusão, de 1 a 4 anos, e multa", keywords: ["comprou produto roubado", "coisa produto de crime", "receptacao"] },
-  { id: "cp-213", name: "Estupro", article: "Art. 213, caput", law: "Código Penal", category: "Dignidade sexual", minimum: 6, maximum: 10, penalty: "Reclusão, de 6 a 10 anos", keywords: ["constrangeu a relacao sexual", "violencia sexual", "ato libidinoso mediante violencia", "estupro"] },
-  { id: "cp-217a", name: "Estupro de vulnerável", article: "Art. 217-A, caput", law: "Código Penal", category: "Dignidade sexual", minimum: 8, maximum: 15, penalty: "Reclusão, de 8 a 15 anos", keywords: ["menor de 14", "crianca", "vulneravel", "estupro de vulneravel"] },
-  { id: "cp-288", name: "Associação criminosa", article: "Art. 288", law: "Código Penal", category: "Paz pública", minimum: 1, maximum: 3, penalty: "Reclusão, de 1 a 3 anos", keywords: ["tres ou mais pessoas", "associacao criminosa", "grupo para cometer crimes"] },
-  { id: "cp-312", name: "Peculato", article: "Art. 312", law: "Código Penal", category: "Administração pública", minimum: 2, maximum: 12, penalty: "Reclusão, de 2 a 12 anos, e multa", keywords: ["servidor apropriou", "dinheiro publico", "peculato", "desviou bem publico"] },
-  { id: "cp-316", name: "Concussão", article: "Art. 316", law: "Código Penal", category: "Administração pública", minimum: 2, maximum: 12, penalty: "Reclusão, de 2 a 12 anos, e multa", keywords: ["servidor exigiu vantagem", "exigiu propina", "concussao"] },
-  { id: "cp-317", name: "Corrupção passiva", article: "Art. 317", law: "Código Penal", category: "Administração pública", minimum: 2, maximum: 12, penalty: "Reclusão, de 2 a 12 anos, e multa", keywords: ["servidor solicitou vantagem", "recebeu propina", "corrupcao passiva"] },
-  { id: "cp-333", name: "Corrupção ativa", article: "Art. 333", law: "Código Penal", category: "Administração pública", minimum: 2, maximum: 12, penalty: "Reclusão, de 2 a 12 anos, e multa", keywords: ["ofereceu propina", "prometeu vantagem a servidor", "corrupcao ativa"] },
-  { id: "drogas-33", name: "Tráfico de drogas", article: "Art. 33, caput", law: "Lei 11.343/2006", category: "Legislação especial", minimum: 5, maximum: 15, penalty: "Reclusão, de 5 a 15 anos, e multa", keywords: ["vendeu drogas", "trafico", "cocaina", "maconha", "entorpecente"] },
-  { id: "drogas-35", name: "Associação para o tráfico", article: "Art. 35", law: "Lei 11.343/2006", category: "Legislação especial", minimum: 3, maximum: 10, penalty: "Reclusão, de 3 a 10 anos, e multa", keywords: ["associacao para o trafico", "duas pessoas para traficar"] },
-  { id: "armas-12", name: "Posse irregular de arma de fogo", article: "Art. 12", law: "Lei 10.826/2003", category: "Legislação especial", minimum: 1, maximum: 3, penalty: "Detenção, de 1 a 3 anos, e multa", keywords: ["arma em casa sem registro", "posse irregular", "arma na residencia"] },
-  { id: "armas-14", name: "Porte ilegal de arma de fogo", article: "Art. 14", law: "Lei 10.826/2003", category: "Legislação especial", minimum: 2, maximum: 4, penalty: "Reclusão, de 2 a 4 anos, e multa", keywords: ["portava arma", "porte ilegal", "revolver", "pistola"] },
-  { id: "lavagem-1", name: "Lavagem de dinheiro", article: "Art. 1º", law: "Lei 9.613/1998", category: "Legislação especial", minimum: 3, maximum: 10, penalty: "Reclusão, de 3 a 10 anos, e multa", keywords: ["ocultou dinheiro", "dissimular valores", "lavagem de dinheiro", "laranja"] },
-  { id: "org-2", name: "Organização criminosa", article: "Art. 2º", law: "Lei 12.850/2013", category: "Legislação especial", minimum: 3, maximum: 8, penalty: "Reclusão, de 3 a 8 anos, e multa", keywords: ["organizacao criminosa", "facção", "grupo estruturado"] },
-  { id: "tortura-1", name: "Tortura", article: "Art. 1º", law: "Lei 9.455/1997", category: "Legislação especial", minimum: 2, maximum: 8, penalty: "Reclusão, de 2 a 8 anos", keywords: ["torturou", "sofrimento fisico", "sofrimento mental", "obter confissao"] },
-];
+const crimeCatalog = publicCatalog.registros as CrimeEntry[];
 
 function normalizeText(value: string) {
   return value.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
@@ -207,7 +173,7 @@ export default function Home() {
     const query = normalizeText(catalogSearch.trim());
     return crimeCatalog.filter((entry) => {
       const matchesCategory = catalogCategory === "Todos" || entry.category === catalogCategory;
-      const haystack = normalizeText(`${entry.name} ${entry.article} ${entry.law} ${entry.category}`);
+      const haystack = normalizeText(`${entry.name} ${entry.article} ${entry.law} ${entry.category} ${entry.keywords.join(" ")}`);
       return matchesCategory && (!query || haystack.includes(query));
     });
   }, [catalogCategory, catalogSearch]);
@@ -235,6 +201,7 @@ export default function Home() {
   }
 
   function useCrime(entry: CrimeEntry) {
+    if (!entry.canCalculate) return;
     setCrime(entry.name);
     setMinimum(entry.minimum);
     setMaximum(entry.maximum);
@@ -414,12 +381,23 @@ export default function Home() {
             {filteredCrimes.map((entry) => (
               <article className="crime-card" key={entry.id}>
                 <div className="crime-card-top">
-                  <span>{entry.category}</span>
+                  <div className="crime-card-badges">
+                    <span>{entry.category}</span>
+                    <span className={entry.validationState === "confirmada" ? "catalog-status is-valid" : "catalog-status is-pending"}>
+                      {entry.validationState === "confirmada" ? "Conferido" : "Pendente"}
+                    </span>
+                  </div>
                   <b>{entry.article}</b>
                 </div>
                 <h3>{entry.name}</h3>
                 <p>{entry.penalty}</p>
-                <div className="crime-source"><span>{entry.law}</span><button type="button" onClick={() => useCrime(entry)}>Usar no cálculo →</button></div>
+                <div className="crime-source">
+                  <span>{entry.law}</span>
+                  <div>
+                    <a href={entry.sourceUrl} target="_blank" rel="noreferrer">Fonte oficial ↗</a>
+                    <button type="button" onClick={() => useCrime(entry)} disabled={!entry.canCalculate}>Usar no cálculo →</button>
+                  </div>
+                </div>
               </article>
             ))}
             {filteredCrimes.length === 0 && (
@@ -428,8 +406,8 @@ export default function Home() {
           </div>
 
           <div className="catalog-disclaimer">
-            <strong>Base inicial validável</strong>
-            <p>Esta versão reúne os tipos mais recorrentes do Código Penal e de leis especiais. A arquitetura já está pronta para expansão até o inventário integral, com versionamento legislativo e revisão humana antes da publicação.</p>
+            <strong>Catálogo público com validação de inventário</strong>
+            <p>Esta interface exibe registros exportados da fonte canônica com o estado de conferência visível; pendências não podem alimentar a calculadora. O catálogo nacional permanece em expansão e não deve ser tratado como lista integral enquanto houver módulos pendentes.</p>
           </div>
         </div>
       </section>
@@ -479,7 +457,7 @@ export default function Home() {
                       <article key={entry.id}>
                         <span>{index + 1}</span>
                         <div><strong>{entry.name}</strong><small>{entry.article} · {entry.penalty}</small></div>
-                        <button type="button" onClick={() => useCrime(entry)}>Selecionar</button>
+                        <button type="button" onClick={() => useCrime(entry)} disabled={!entry.canCalculate}>{entry.canCalculate ? "Selecionar" : "Pendente"}</button>
                       </article>
                     )) : <p className="no-candidate">Não foi possível sugerir um tipo com segurança. Acrescente conduta, meio, resultado e contexto.</p>}
                   </div>
